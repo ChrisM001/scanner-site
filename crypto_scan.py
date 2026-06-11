@@ -179,8 +179,8 @@ def write_html(df, path):
             f'<td class="sym"><a href="{tv}" target="_blank">{_h.escape(r.base)}/{QUOTE}</a></td>'
             f'<td class="num" data-val="{r.last}">${fmt_price(r.last)}</td>'
             f'<td class="num {cls}" data-val="{r.pct}">{r.pct:+.1f}%</td>'
-            f'<td class="num" data-val="{rvv}">{rv}</td>'
-            f'<td class="num" data-val="{r.qvol}">{fmt_vol(r.qvol)}</td></tr>')
+            f'<td class="num" data-label="RVOL" data-val="{rvv}">{rv}</td>'
+            f'<td class="num" data-label="24h Vol" data-val="{r.qvol}">{fmt_vol(r.qvol)}</td></tr>')
     doc = (
         '<!doctype html><html lang="de"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width, initial-scale=1">'
