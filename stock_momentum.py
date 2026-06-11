@@ -267,8 +267,17 @@ tr:hover td{background:#161a22} a{color:#6ea8fe;text-decoration:none} a:hover{te
 .old{background:#3a2a12;color:#e0b15e;border:1px solid #7a571f}
 .tag{background:#1c2740;color:#88a7e6;border:1px solid #2c3f66}
 .mut{color:#7a8493} .foot{color:#7a8493;font-size:12px;margin-top:14px;max-width:900px;line-height:1.5}
-@media(max-width:640px){body{margin:12px}h1{font-size:18px}table{font-size:12px}
- th,td{padding:6px 7px}#q{max-width:100%;width:100%}td.news,th.news{max-width:none}}
+@media(max-width:640px){
+ body{margin:11px}h1{font-size:18px}.meta{font-size:11.5px}#q{max-width:100%;width:100%}
+ thead{display:none} table,tbody{display:block;width:100%} table{font-size:13px}
+ tr{display:block;border-bottom:1px solid #232733;padding:9px 2px 10px}
+ td{display:inline-block;border:none;padding:0;text-align:left;white-space:nowrap}
+ td:first-child{display:none}
+ td.sym{display:block;font-size:15px;font-weight:650;margin:0 0 4px}
+ td.num{margin-right:13px}
+ td[data-label]::before{content:attr(data-label)" ";color:#6b7280;font-size:10px;text-transform:uppercase;letter-spacing:.04em}
+ td.news{display:block;margin-top:6px;color:#7a8493;font-size:12px;white-space:normal;max-width:none}
+}
 """
 
 _HTML_JS = """
@@ -297,6 +306,8 @@ def scan_html(df, news_map, total, path=SCANHTML, premarket=False):
         rvol = r["relative_volume_10d_calc"]; fl = r["float_shares_outstanding"]; vol = r["volume"]
         fl_disp = f"{fl/1e6:.1f}M" if pd.notna(fl) else "?"
         fl_val = fl / 1e6 if pd.notna(fl) else -1
+        rvol_disp = f"{rvol:,.0f}x" if pd.notna(rvol) else "—"
+        rvol_val = rvol if pd.notna(rvol) else -1
         ns = (news_map or {}).get(sym)
         news_html = '<span class="mut">keine News (kein frischer Grund / Squeeze)</span>'; age_val = 99999
         if ns == "ERR":
@@ -318,9 +329,9 @@ def scan_html(df, news_map, total, path=SCANHTML, premarket=False):
             f'<td class="sym"><a href="{tv}" target="_blank">{_h.escape(sym)}</a></td>'
             f'<td class="num" data-val="{close}">${close:.2f}</td>'
             f'<td class="num {"up" if chg>=0 else "down"}" data-val="{chg}">{chg:+.1f}%</td>'
-            f'<td class="num" data-val="{rvol}">{rvol:,.0f}x</td>'
-            f'<td class="num" data-val="{fl_val}">{fl_disp}</td>'
-            f'<td class="num" data-val="{vol}">{vol/1e6:.1f}M</td>'
+            f'<td class="num" data-label="RVOL" data-val="{rvol_val}">{rvol_disp}</td>'
+            f'<td class="num" data-label="Float" data-val="{fl_val}">{fl_disp}</td>'
+            f'<td class="num" data-label="Vol" data-val="{vol}">{vol/1e6:.1f}M</td>'
             f'<td class="news" data-val="{age_val}">{news_html}</td></tr>')
     if premarket:
         head1 = 'Warrior-Scanner &middot; Gap-Scanner (Vorb&ouml;rse)'
