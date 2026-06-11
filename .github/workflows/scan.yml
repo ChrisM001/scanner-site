@@ -34,7 +34,7 @@ jobs:
       - name: Scanner ausfuehren + Seite bauen
         env:
           TVREMIX_API_KEY: ${{ secrets.TVREMIX_API_KEY }}
-          CRYPTO_EXCHANGE: bybit
+          CRYPTO_EXCHANGE: gate,mexc,bybit
         run: python build_site.py
 
       - name: Ergebnisse committen

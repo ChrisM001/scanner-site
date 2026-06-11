@@ -69,12 +69,22 @@ def badge(ok, has):
 
 
 now = datetime.datetime.now(datetime.timezone.utc)
-CEX = os.getenv("CRYPTO_EXCHANGE", "bybit")
+# Boersen-Kette: erste, die durchlaeuft. GitHub-Runner-IPs werden von Binance/Bitget/
+# Bybit/OKX geblockt (403/451); gate/mexc sind cloud-tauglich. Reihenfolge per
+# CRYPTO_EXCHANGE (Komma-Liste).
+CRYPTO_CHAIN = [e.strip() for e in os.getenv("CRYPTO_EXCHANGE", "gate,mexc,bybit").split(",") if e.strip()]
 
 # Aktien: vorboerslich (Gap-Mode) am sinnvollsten -> Cron auf Premarket-ET legen.
-stock_ok  = run("Aktien-Scan", ["stock_momentum.py", "scan"])
-crypto_ok = run("Krypto-Scan", ["crypto_scan.py"],
-                extra_env={"EXCHANGE": CEX, "DIR": "up"})
+stock_ok = run("Aktien-Scan", ["stock_momentum.py", "scan"])
+
+crypto_ok = False
+CEX = CRYPTO_CHAIN[0] if CRYPTO_CHAIN else "gate"
+for cex in CRYPTO_CHAIN:
+    if run(f"Krypto-Scan [{cex}]", ["crypto_scan.py"], extra_env={"EXCHANGE": cex, "DIR": "up"}):
+        crypto_ok = True; CEX = cex
+        print(f"  [crypto] Boerse {cex} OK")
+        break
+    print(f"  [crypto] {cex} fehlgeschlagen -> naechste Boerse")
 
 has_stock  = copy_if("stock_scan.html",  "stock.html")
 has_crypto = copy_if("crypto_scan.html", "crypto.html")

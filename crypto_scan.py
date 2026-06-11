@@ -48,17 +48,24 @@ CACHE = os.path.join(_DIR, "crypto_rvol_cache.json")    # 30T-Schnitt je Tag gec
 
 STABLES = {"USDT", "USDC", "DAI", "TUSD", "FDUSD", "USDD", "USDE", "PYUSD", "BUSD",
            "USTC", "EURT", "EUR", "USDP", "GUSD", "FRAX", "LUSD", "USD1", "USDF"}
-TVPREFIX = {"binance": "BINANCE", "bitget": "BITGET", "bybit": "BYBIT"}
+TVPREFIX = {"binance": "BINANCE", "bitget": "BITGET", "bybit": "BYBIT",
+            "gate": "GATEIO", "mexc": "MEXC"}
+
+
+# Cloud-Tauglichkeit: GitHub-Runner stehen im US-/Azure-IP-Raum. Binance/Bitget/Bybit/OKX
+# blocken die (403/451). gate & mexc sind von Cloud-IPs erreichbar -> Default-Kette in
+# build_site.py = gate,mexc,bybit. Alle hier nutzen lineare USDT-Perps ("BASE/USDT:USDT").
+_EX_CLASSES = {"binance": ccxt.binanceusdm, "bitget": ccxt.bitget, "bybit": ccxt.bybit,
+               "gate": ccxt.gate, "mexc": ccxt.mexc}
+_SWAP_DEFAULT = {"bitget", "bybit", "gate", "mexc"}   # brauchen options.defaultType=swap
 
 
 def get_exchange():
-    # bybit = cloud-tauglich (Binance/Bitget blocken US-/Azure-IPs der GitHub-Runner mit 451).
-    klass = {"binance": ccxt.binanceusdm, "bitget": ccxt.bitget,
-             "bybit": ccxt.bybit}.get(EXCHANGE)
+    klass = _EX_CLASSES.get(EXCHANGE)
     if klass is None:
-        raise SystemExit(f"EXCHANGE '{EXCHANGE}' nicht unterstuetzt (binance|bitget|bybit).")
+        raise SystemExit(f"EXCHANGE '{EXCHANGE}' nicht unterstuetzt ({'|'.join(_EX_CLASSES)}).")
     ex = klass({"enableRateLimit": True})
-    if EXCHANGE in ("bitget", "bybit"):     # USDT-Perps; bybit braucht defaultType=swap
+    if EXCHANGE in _SWAP_DEFAULT:
         ex.options["defaultType"] = "swap"
     ex.load_markets()
     return ex
