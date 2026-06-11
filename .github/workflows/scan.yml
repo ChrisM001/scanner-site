@@ -1,0 +1,46 @@
+name: scanners
+
+# Laeuft serverlos auf GitHub (auch wenn dein PC aus ist). Zeiten in UTC.
+# Aktien-Scan ist vorboerslich am sinnvollsten (Gap-Mode): 11:00 & 13:00 UTC
+# liegen ganzjaehrig VOR 09:30 ET (Sommer 07:00/09:00 EDT, Winter 06:00/08:00 EST).
+# Krypto laeuft 24/7 -> zusaetzlich abends.
+on:
+  schedule:
+    - cron: "0 11 * * 1-5"   # Premarket Aktien + Krypto (Mo-Fr)
+    - cron: "0 13 * * 1-5"   # Premarket Aktien + Krypto (Mo-Fr)
+    - cron: "0 21 * * *"     # Krypto-Refresh (taeglich)
+  workflow_dispatch: {}      # manuell aus der GitHub-App ("Run workflow")
+
+permissions:
+  contents: write            # erlaubt den Commit der Ergebnisse zurueck ins Repo
+
+concurrency:
+  group: scanners
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scanner ausfuehren + Seite bauen
+        env:
+          TVREMIX_API_KEY: ${{ secrets.TVREMIX_API_KEY }}
+          CRYPTO_EXCHANGE: bybit
+        run: python build_site.py
+
+      - name: Ergebnisse committen
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs stock_scan_log.csv crypto_scan_log.csv 2>/dev/null || true
+          git diff --quiet --cached || git commit -m "scan $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

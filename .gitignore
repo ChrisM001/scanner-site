@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+stock_data/
+crypto_rvol_cache.json
+# Roh-HTML der Scanner (Zwischenstand) -- nur die docs/-Kopien werden deployt:
+stock_scan.html
+crypto_scan.html
+*_pre_restart_*.csv
