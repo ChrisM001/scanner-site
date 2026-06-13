@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-13",
+  "target_vol": 0.4,
+  "source": "gate",
+  "portfolio_exposure": 0.0,
+  "n_assets": 5,
+  "assets": [
+    {
+      "price": 64272.7,
+      "vol": 0.41422856579404943,
+      "gate": 0.0,
+      "size": 0.9656504476779042,
+      "exposure": 0.0,
+      "emas_above": 0,
+      "sym": "BTC"
+    },
+    {
+      "price": 1681.49,
+      "vol": 0.6013298722090917,
+      "gate": 0.0,
+      "size": 0.6651922987469909,
+      "exposure": 0.0,
+      "emas_above": 0,
+      "sym": "ETH"
+    },
+    {
+      "price": 1.1547,
+      "vol": 0.4953662956776189,
+      "gate": 0.0,
+      "size": 0.8074832775064643,
+      "exposure": 0.0,
+      "emas_above": 0,
+      "sym": "XRP"
+    },
+    {
+      "price": 68.51,
+      "vol": 0.6169016069269314,
+      "gate": 0.0,
+      "size": 0.6484016178732013,
+      "exposure": 0.0,
+      "emas_above": 0,
+      "sym": "SOL"
+    },
+    {
+      "price": 8.016,
+      "vol": 0.5984417089640168,
+      "gate": 0.0,
+      "size": 0.6684026096584309,
+      "exposure": 0.0,
+      "emas_above": 0,
+      "sym": "LINK"
+    }
+  ]
+}
