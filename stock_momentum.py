@@ -267,6 +267,11 @@ tr:hover td{background:#161a22} a{color:#6ea8fe;text-decoration:none} a:hover{te
 .old{background:#3a2a12;color:#e0b15e;border:1px solid #7a571f}
 .tag{background:#1c2740;color:#88a7e6;border:1px solid #2c3f66}
 .mut{color:#7a8493} .foot{color:#7a8493;font-size:12px;margin-top:14px;max-width:900px;line-height:1.5}
+.sortbar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:0 0 12px}
+.sortbar .lbl{color:#7a8493;font-size:12px;margin-right:1px}
+.sortbar button{background:#171a21;border:1px solid #2a2f3a;color:#cbd3e1;border-radius:8px;
+ padding:6px 11px;font-size:13px;cursor:pointer}
+.sortbar button:active{background:#243044}
 @media(max-width:640px){
  body{margin:11px}h1{font-size:18px}.meta{font-size:11.5px}#q{max-width:100%;width:100%}
  thead{display:none} table,tbody{display:block;width:100%} table{font-size:13px}
@@ -285,8 +290,9 @@ function filt(){var q=document.getElementById('q').value.toLowerCase();
  document.querySelectorAll('#t tbody tr').forEach(function(r){
   r.style.display=r.innerText.toLowerCase().indexOf(q)>=0?'':'none';});}
 var ss={};
-function srt(c){var tb=document.querySelector('#t tbody');
- var rows=[].slice.call(tb.querySelectorAll('tr'));var asc=!ss[c];ss={};ss[c]=asc;
+function srt(c,dd){var tb=document.querySelector('#t tbody');
+ var rows=[].slice.call(tb.querySelectorAll('tr'));
+ var asc=(c in ss)?!ss[c]:(dd?false:true);ss={};ss[c]=asc;
  rows.sort(function(a,b){var x=a.children[c].getAttribute('data-val'),y=b.children[c].getAttribute('data-val');
   var nx=parseFloat(x),ny=parseFloat(y);
   if(!isNaN(nx)&&!isNaN(ny))return asc?nx-ny:ny-nx;
@@ -349,6 +355,10 @@ def scan_html(df, news_map, total, path=SCANHTML, premarket=False):
         f'<div class="meta">{now:%Y-%m-%d %H:%M} ET &nbsp;|&nbsp; {crit} '
         f'&nbsp;|&nbsp; {total} Treffer, {len(df)} gezeigt</div>'
         '<input id="q" placeholder="filtern (Symbol oder Schlagzeile) ..." oninput="filt()">'
+        '<div class="sortbar"><span class="lbl">Sortieren:</span>'
+        '<button onclick="srt(4,1)">RVOL</button><button onclick="srt(3,1)">Chg%</button>'
+        '<button onclick="srt(5,1)">Float</button><button onclick="srt(6,1)">Vol</button>'
+        '<button onclick="srt(7)">News&nbsp;frisch</button><button onclick="srt(1)">Symbol</button></div>'
         '<table id="t"><thead><tr>'
         '<th onclick="srt(0)">#</th><th class="sym" onclick="srt(1)">Symbol</th>'
         '<th onclick="srt(2)">Price</th><th onclick="srt(3)">Chg %</th>'
