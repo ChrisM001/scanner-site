@@ -51,6 +51,18 @@ STABLES = {"USDT", "USDC", "DAI", "TUSD", "FDUSD", "USDD", "USDE", "PYUSD", "BUS
 TVPREFIX = {"binance": "BINANCE", "bitget": "BITGET", "bybit": "BYBIT",
             "gate": "GATEIO", "mexc": "MEXC"}
 
+# News: erklaeren, was den Volumen-/RVOL-Anstieg ausgeloest hat. Quelle ist
+# UNABHAENGIG von der Scan-Boerse -- TVRemix-News fuer GATEIO-Symbole timeouten
+# (504), BINANCE hat die beste Krypto-Coverage. Daher NEWS_PREFIX=BINANCE.
+SHOW_NEWS   = os.getenv("SHOW_NEWS", "1") == "1"
+NEWS_PREFIX = os.getenv("NEWS_PREFIX", "BINANCE")
+NEWS_N      = int(os.getenv("NEWS_N", str(DISPLAY_N)))   # nur Top-N bekommen News
+try:                                   # _mcp_call/_ascii vom Aktien-Scan wiederverwenden
+    from stock_momentum import _mcp_call as _sm_mcp, _ascii as _sm_ascii
+    _HAS_NEWS = True
+except Exception:
+    _HAS_NEWS = False
+
 
 # Cloud-Tauglichkeit: GitHub-Runner stehen im US-/Azure-IP-Raum. Binance/Bitget/Bybit/OKX
 # blocken die (403/451). gate & mexc sind von Cloud-IPs erreichbar -> Default-Kette in
@@ -136,17 +148,106 @@ def add_rvol(ex, df):
     return df
 
 
-def log_scan(df):
+_CAT_RULES = [
+    ("delist", "Delisting"), ("listing", "Listing"), ("listed", "Listing"),
+    ("etf", "ETF"), ("spot etf", "ETF"),
+    ("hack", "Hack"), ("exploit", "Hack"), ("breach", "Hack"), ("drain", "Hack"),
+    ("partner", "Partner"), ("integrat", "Partner"), ("collab", "Partner"),
+    ("unlock", "Unlock"), ("vesting", "Unlock"), ("airdrop", "Airdrop"),
+    ("mainnet", "Upgrade"), ("upgrade", "Upgrade"), ("hard fork", "Upgrade"), ("halving", "Halving"),
+    ("lawsuit", "Regulierung"), ("regulat", "Regulierung"), ("court", "Regulierung"),
+    ("sec ", "Regulierung"), ("approv", "Approval"), ("burn", "Burn"),
+    ("whale", "Whale"), ("all-time high", "ATH"), ("record high", "ATH"),
+]
+
+
+def _crypto_catalyst(title):
+    t = " " + title.lower() + " "
+    for k, v in _CAT_RULES:
+        if k in t:
+            return v
+    return ""
+
+
+def _get_heads(sym, limit, retries):
+    data = _sm_mcp("get_news", {"symbol": sym, "limit": limit}, retries=retries)  # kann werfen
+    d = data or {}
+    heads = d.get("headlines")
+    if heads is None and isinstance(d.get("data"), dict):
+        heads = d["data"].get("headlines")
+    return heads or []
+
+
+def crypto_news(base, limit=4):
+    """Neueste Schlagzeile zu BASE -> (tag, alter, alter_tage, 'Provider: Title') | None | 'ERR'.
+    Versucht NEWS_PREFIX (z.B. BINANCE), dann CRYPTO:BASEUSD als Fallback (fuer Coins,
+    die nicht auf der News-Boerse gelistet sind)."""
+    heads, errored = [], False
+    for sym, rt in ((f"{NEWS_PREFIX}:{base}{QUOTE}", 2), (f"CRYPTO:{base}USD", 1)):
+        try:
+            heads = _get_heads(sym, limit, rt)
+        except Exception:
+            errored = True; continue
+        if heads:
+            break
+    if not heads:
+        return "ERR" if errored else None
+    h = heads[0]
+    title = _sm_ascii(h.get("title", ""))
+    if not title:
+        return None
+    prov = _sm_ascii(h.get("provider", ""))
+    try:
+        pub = pd.to_datetime(h.get("published"), utc=True)
+        age_d = (pd.Timestamp.now(tz="UTC") - pub).days
+        age = f"{age_d}d" if age_d >= 1 else "heute"
+    except Exception:
+        age_d, age = None, "?"
+    return _crypto_catalyst(title), age, age_d, (f"{prov}: {title}" if prov else title)
+
+
+def add_news(df, top=None):
+    """News fuer die Top-N (nach RVOL) Coins, mit Circuit-Breaker bei Rate-Limit.
+    Gibt {base -> news_tuple | 'ERR' | None} zurueck."""
+    if not (_HAS_NEWS and SHOW_NEWS):
+        return {}
+    out, streak, off = {}, 0, False
+    for base in list(df["base"])[: (top or len(df))]:
+        if off:
+            out[base] = "ERR"; continue
+        ns = crypto_news(base)
+        if ns == "ERR":
+            streak += 1; out[base] = "ERR"
+            if streak >= 4:
+                off = True            # genug -- Rest nicht mehr abfragen
+        else:
+            streak = 0; out[base] = ns
+            time.sleep(0.30)
+    return out
+
+
+def log_scan(df, news_map=None):
     """Haengt die aktuellen 'in play'-Coins an crypto_scan_log.csv (dedup je date+coin+exchange).
-    Prospektiver, survivorship-freier Krypto-Forward-Record -- analog zum Aktien-Scan."""
+    Prospektiver, survivorship-freier Krypto-Forward-Record -- analog zum Aktien-Scan.
+    news_map (base -> news_tuple) loggt zusaetzlich Tag/Alter/Schlagzeile je Coin."""
     if df is None or len(df) == 0:
         return 0
     now = pd.Timestamp.now(tz="UTC")
+    nm = news_map or {}
+    n_tag, n_age, n_head = [], [], []
+    for b in df["base"]:
+        ns = nm.get(b)
+        if isinstance(ns, tuple):
+            n_tag.append(ns[0] or ""); n_age.append(ns[2] if ns[2] is not None else "")
+            n_head.append(ns[3])
+        else:
+            n_tag.append(""); n_age.append(""); n_head.append("")
     out = pd.DataFrame({
         "date": now.strftime("%Y-%m-%d"), "ts": now.strftime("%Y-%m-%d %H:%M"),
         "exchange": EXCHANGE, "coin": [b + "/" + QUOTE for b in df["base"]],
         "last": df["last"].round(6).values, "pct24h": df["pct"].round(2).values,
         "rvol": df["rvol"].round(2).values, "vol_musd": (df["qvol"] / 1e6).round(1).values,
+        "news_tag": n_tag, "news_age_d": n_age, "news_headline": n_head,
     })
     if os.path.exists(CRYPTOLOG):
         out = pd.concat([pd.read_csv(CRYPTOLOG), out], ignore_index=True)
@@ -167,7 +268,7 @@ def fmt_vol(v):
     return f"${v/1e9:.2f}B" if v >= 1e9 else f"${v/1e6:.0f}M"
 
 
-def write_html(df, path):
+def write_html(df, path, news_map=None):
     try:
         from stock_momentum import _HTML_CSS, _HTML_JS
     except Exception:
@@ -181,13 +282,29 @@ def write_html(df, path):
         cls = "up" if r.pct >= 0 else "down"
         rv = f"{r.rvol:.1f}x" if pd.notna(r.rvol) else "?"
         rvv = r.rvol if pd.notna(r.rvol) else -1
+        ns = (news_map or {}).get(r.base)
+        news_html = '<span class="mut">keine News (eher technisch/Flow)</span>'; age_val = 99999
+        if ns == "ERR":
+            news_html = '<span class="mut">News n/v (Symbol/Quelle)</span>'; age_val = 99998
+        elif isinstance(ns, tuple):
+            tag, age, age_d, txt = ns
+            age_val = age_d if age_d is not None else 99999
+            b = ""
+            if age_d is not None and age_d <= 2:
+                b += '<span class="badge fresh">FRISCH</span>'
+            elif (age_d or 0) > 7:
+                b += '<span class="badge old">alt</span>'
+            if tag:
+                b += f'<span class="badge tag">{_h.escape(tag)}</span>'
+            news_html = f'{b}<span class="mut">{_h.escape(age)}</span> {_h.escape(txt)}'
         body.append(
             f'<tr><td class="num" data-val="{i}">{i}</td>'
             f'<td class="sym"><a href="{tv}" target="_blank">{_h.escape(r.base)}/{QUOTE}</a></td>'
             f'<td class="num" data-val="{r.last}">${fmt_price(r.last)}</td>'
             f'<td class="num {cls}" data-val="{r.pct}">{r.pct:+.1f}%</td>'
             f'<td class="num" data-label="RVOL" data-val="{rvv}">{rv}</td>'
-            f'<td class="num" data-label="24h Vol" data-val="{r.qvol}">{fmt_vol(r.qvol)}</td></tr>')
+            f'<td class="num" data-label="24h Vol" data-val="{r.qvol}">{fmt_vol(r.qvol)}</td>'
+            f'<td class="news" data-val="{age_val}">{news_html}</td></tr>')
     doc = (
         '<!doctype html><html lang="de"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width, initial-scale=1">'
@@ -196,15 +313,18 @@ def write_html(df, path):
         f'<div class="meta">{now:%Y-%m-%d %H:%M} UTC &nbsp;|&nbsp; {EXCHANGE} USDT-Perps &nbsp;|&nbsp; '
         f'Vol&ge;{fmt_vol(VOL_FLOOR)}, |24h|&ge;{CHG_MIN:.0f}%, RVOL&ge;{RVOL_MIN:.0f}x, '
         f'{"nur +" if DIR=="up" else "beide Richtungen"} &nbsp;|&nbsp; {len(df)} Treffer</div>'
-        '<input id="q" placeholder="filtern (Symbol) ..." oninput="filt()">'
+        '<input id="q" placeholder="filtern (Symbol oder Schlagzeile) ..." oninput="filt()">'
         '<table id="t"><thead><tr>'
         '<th onclick="srt(0)">#</th><th class="sym" onclick="srt(1)">Coin</th>'
         '<th onclick="srt(2)">Price</th><th onclick="srt(3)">24h %</th>'
         '<th onclick="srt(4)">RVOL</th><th onclick="srt(5)">24h Vol</th>'
+        '<th class="news" onclick="srt(6)">Katalysator / News</th>'
         f'</tr></thead><tbody>{"".join(body)}</tbody></table>'
         '<p class="foot">RVOL = 24h-Volumen / 30-Tage-Schnitt = ungewoehnliche Aktivitaet '
-        '(der "in play"-Kern). Klick Spaltenkopf = sortieren; Coin = TradingView-Chart. '
-        'Krypto ist 24/7 -> 24h rollierend statt Tages-Gap. PAPER/Research.</p>'
+        '(der "in play"-Kern). FRISCH (&le;2 Tage) = wahrscheinlicher News-Ausloeser; '
+        '&bdquo;keine News&ldquo; bei grossem Move = eher technisch/Flow. News-Quelle: '
+        f'{_h.escape(NEWS_PREFIX)} (Coverage), unabh. von der Scan-Boerse. '
+        'Klick Spaltenkopf = sortieren; Coin = TradingView-Chart. PAPER/Research.</p>'
         f'<script>{_HTML_JS}</script></body></html>')
     open(path, "w", encoding="utf-8").write(doc)
     return path
@@ -237,8 +357,27 @@ if __name__ == "__main__":
         print(f"  {i:>3d}  {_ca(r.base) + '/' + QUOTE:14s}{fmt_price(r.last):>12s}"
               f"{r.pct:>+8.1f}%{rv:>8s}{fmt_vol(r.qvol):>10s}")
     print("  " + "-" * (W - 2))
-    p = write_html(df, HTML)
-    n_days = log_scan(df)
+
+    news_map = {}
+    if _HAS_NEWS and SHOW_NEWS:
+        print(f"  News-Katalysatoren (Top {min(NEWS_N, len(df))}, Quelle {NEWS_PREFIX}) ...")
+        news_map = add_news(df, top=NEWS_N)
+        shown = 0
+        for r in df.head(NEWS_N).itertuples():
+            ns = news_map.get(r.base)
+            if isinstance(ns, tuple) and shown < 8:
+                tag, age, age_d, txt = ns
+                fresh = "*" if (age_d is not None and age_d <= 2) else " "
+                print(f"   {fresh}{_ca(r.base):8s} [{(tag or '-'):11s} {age:>5s}] {_ca(txt)[:72]}")
+                shown += 1
+        if shown == 0:
+            print("   (keine frischen Schlagzeilen -- Moves eher technisch/Flow)")
+    elif not _HAS_NEWS:
+        print("  [news] uebersprungen (stock_momentum/TVREMIX_API_KEY nicht verfuegbar)")
+    print("  " + "-" * (W - 2))
+
+    p = write_html(df, HTML, news_map)
+    n_days = log_scan(df, news_map)
     print(f"  [html] {p}  (im Browser oeffnen -- sortier-/filterbar)")
     print(f"  [log]  crypto_scan_log.csv: {len(df)} Coins geloggt | {n_days} Tage im Track.")
     print("  Lesart: hohes RVOL = ungewoehnlich aktiv ('in play'). Ranking nach RVOL, nicht")
