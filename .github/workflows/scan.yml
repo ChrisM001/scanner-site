@@ -35,6 +35,12 @@ jobs:
         env:
           TVREMIX_API_KEY: ${{ secrets.TVREMIX_API_KEY }}
           CRYPTO_EXCHANGE: gate,mexc,bybit
+          # gate-gerechte Schwellen: gate hat ein kleineres Perp-Universum mit kleineren
+          # Coin-Volumina als Binance. 10M/5%/2x liefert nur ~2 Treffer -> gelockert auf
+          # 3M Vol-Floor / 3% Move / RVOL 2x (~10+ Treffer, $3M Floor haelt Micro-Caps raus).
+          VOL_FLOOR: "3000000"
+          CHG_MIN: "3"
+          RVOL_MIN: "2"
         run: python build_site.py
 
       - name: Ergebnisse committen
