@@ -129,14 +129,76 @@ def badge(ok, has):
     return '<span class="err">nicht verfuegbar</span>'
 
 
+def _latest_rows(csv):
+    """Zeilen des juengsten Laufs (max ts) aus einem Scan-Log."""
+    p = os.path.join(DIR, csv)
+    if not os.path.exists(p):
+        return None
+    try:
+        import pandas as pd
+        d = pd.read_csv(p)
+    except Exception:
+        return None
+    if "ts" not in d.columns or not len(d):
+        return None
+    return d[d["ts"] == d["ts"].max()].copy()
+
+
+def send_alerts(when):
+    """Diff gegen letzten Lauf -> Telegram-Push fuer neue Coins/Aktien."""
+    try:
+        from alerts import tg_send, new_entries, enabled
+    except Exception as e:
+        print(f"[alert] Modul nicht ladbar: {e}"); return
+    if not enabled():
+        print("[alert] Telegram nicht konfiguriert (keine Secrets) -> keine Alarme"); return
+    import html as _h
+    lines = []
+    specs = [("crypto", "crypto_scan_log.csv", "coin", "pct24h", "rvol", "🪙"),
+             ("stock",  "stock_scan_log.csv",  "symbol", "change", "rvol", "📈")]
+    for kind, csv, symcol, pctcol, rvcol, emoji in specs:
+        d = _latest_rows(csv)
+        if d is None or symcol not in d.columns:
+            continue
+        syms = [str(x) for x in d[symcol]]
+        nw = set(new_entries(kind, syms))
+        if not nw:
+            continue
+        sub = d[d[symcol].astype(str).isin(nw)].sort_values(rvcol, ascending=False)
+        for _, r in sub.iterrows():
+            cat = str(r.get("news_headline") or "").strip()
+            cat = " — " + _h.escape(cat[:90]) if cat and cat.lower() != "nan" else ""
+            try:
+                pct = float(r[pctcol]); rv = float(r[rvcol])
+                meta = f"  {pct:+.0f}%  RVOL {rv:.0f}x"
+            except Exception:
+                meta = ""
+            lines.append(f"{emoji} <b>{_h.escape(str(r[symcol]))}</b>{meta}{cat}")
+    if lines:
+        msg = (f"\U0001F4DF <b>Scanner</b> — {len(lines)} neu in play  "
+               f"({when:%Y-%m-%d %H:%M} UTC)\n" + "\n".join(lines[:25]))
+        ok = tg_send(msg)
+        print(f"[alert] {len(lines)} neue Eintraege -> Telegram {'OK' if ok else 'FEHLER'}")
+    else:
+        print("[alert] keine neuen Eintraege")
+
+
 now = datetime.datetime.now(datetime.timezone.utc)
 # Boersen-Kette: erste, die durchlaeuft. GitHub-Runner-IPs werden von Binance/Bitget/
 # Bybit/OKX geblockt (403/451); gate/mexc sind cloud-tauglich. Reihenfolge per
 # CRYPTO_EXCHANGE (Komma-Liste).
 CRYPTO_CHAIN = [e.strip() for e in os.getenv("CRYPTO_EXCHANGE", "gate,mexc,bybit").split(",") if e.strip()]
 
-# Aktien: vorboerslich (Gap-Mode) am sinnvollsten -> Cron auf Premarket-ET legen.
-stock_ok = run("Aktien-Scan", ["stock_momentum.py", "scan"])
+# Aktien: nur im US-Marktfenster scannen (Premarket+Handel ~08:00-21:00 UTC, Mo-Fr).
+# Bei haeufigem Cron (alle 20 Min) vermeidet das nutzlose Nacht-/Wochenend-Laeufe +
+# TVRemix-Last. SCAN_STOCKS=1/0 ueberschreibt die Zeitlogik.
+_se = os.getenv("SCAN_STOCKS")
+do_stocks = (_se == "1") if _se is not None else (now.weekday() < 5 and 8 <= now.hour < 21)
+if do_stocks:
+    stock_ok = run("Aktien-Scan", ["stock_momentum.py", "scan"])
+else:
+    stock_ok = False
+    print("[stocks] ausserhalb US-Marktfenster -> uebersprungen (Krypto laeuft weiter)")
 
 crypto_ok = False
 CEX = CRYPTO_CHAIN[0] if CRYPTO_CHAIN else "gate"
@@ -155,6 +217,9 @@ run("Krypto-Regime", ["crypto_regime_signal.py", "0.40", "--json", os.path.join(
 regime_ok, regime_teaser = render_regime(os.path.join(DOCS, "regime.json"),
                                          os.path.join(DOCS, "regime.html"))
 has_regime = os.path.exists(os.path.join(DOCS, "regime.html"))
+
+# Push-Alarme: neue Eintraege seit letztem Lauf -> Telegram (no-op ohne Secrets).
+send_alerts(now)
 
 stock_teaser  = teaser("stock_scan_log.csv",  "change", "symbol")
 crypto_teaser = teaser("crypto_scan_log.csv", "pct24h", "coin")
