@@ -98,12 +98,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-12,2026-06-12 22:43,gate,LAB/USDT,9.80831,13.65,34.59,27.7,,,
 2026-06-12,2026-06-12 22:43,gate,H/USDT,0.25703,17.18,24.05,49.5,,,
 2026-06-12,2026-06-12 22:43,gate,SKYAI/USDT,0.31673,22.37,12.0,18.4,,,
-2026-06-13,2026-06-13 21:03,gate,JCT/USDT,0.00662,50.66,25935.82,13.6,,,
-2026-06-13,2026-06-13 21:03,gate,COAI/USDT,0.5997,62.08,569.63,24.0,,232,Coinpedia: ChainOpera AI (COAI) Price Surges 85%  But Is the Rally Built to Last?
-2026-06-13,2026-06-13 21:03,gate,VELVET/USDT,0.45559,4.08,563.58,26.1,,98,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-13,2026-06-13 21:03,gate,RIF/USDT,0.1172,47.61,320.38,3.5,,8,Coindar: Rootstock to Join Meetup in Prague on June 12th
-2026-06-13,2026-06-13 21:03,gate,BEAT/USDT,7.5299,7.3,37.06,110.2,,5,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-13,2026-06-13 21:03,gate,XPL/USDT,0.0887,7.71,15.6,4.6,,6,"Binance News: Plasma-Linked Address Deposits 150 Million XPL to a CEX, On-Chain Data Show"
-2026-06-13,2026-06-13 21:03,gate,H/USDT,0.28276,6.43,12.47,27.8,,1,Coinpedia: Humanity Price Surges Nearly 60%: Why Is the H Token Rising Today and Can It Rally Back to $1?
-2026-06-13,2026-06-13 21:03,gate,SKYAI/USDT,0.36624,17.92,10.71,16.2,,,
-2026-06-13,2026-06-13 21:03,gate,ENA/USDT,0.0848,8.29,7.99,7.5,,1,The Block: Ethena Labs to allocate $250 million to Securitizes Tokenized AAA CLO Fund as it deploys on Solana
+2026-06-13,2026-06-13 21:20,gate,JCT/USDT,0.006593,50.05,25918.04,13.6,,,
+2026-06-13,2026-06-13 21:20,gate,COAI/USDT,0.6178,66.97,591.87,24.9,,232,Coinpedia: ChainOpera AI (COAI) Price Surges 85%  But Is the Rally Built to Last?
+2026-06-13,2026-06-13 21:03,gate,VELVET/USDT,0.45559,4.08,563.58,26.1,,98.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-13,2026-06-13 21:20,gate,RIF/USDT,0.12261,54.42,322.86,3.5,,8,Coindar: Rootstock to Join Meetup in Prague on June 12th
+2026-06-13,2026-06-13 21:20,gate,BEAT/USDT,7.3731,5.07,33.98,101.1,,5,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-13,2026-06-13 21:20,gate,XPL/USDT,0.0881,6.98,14.77,4.3,,6,"Binance News: Plasma-Linked Address Deposits 150 Million XPL to a CEX, On-Chain Data Show"
+2026-06-13,2026-06-13 21:20,gate,H/USDT,0.28046,5.56,12.27,27.3,,1,Coinpedia: Humanity Price Surges Nearly 60%: Why Is the H Token Rising Today and Can It Rally Back to $1?
+2026-06-13,2026-06-13 21:20,gate,SKYAI/USDT,0.36479,17.45,10.52,15.9,,,
+2026-06-13,2026-06-13 21:20,gate,ENA/USDT,0.0844,7.78,7.82,7.3,,1,The Block: Ethena Labs to allocate $250 million to Securitizes Tokenized AAA CLO Fund as it deploys on Solana
