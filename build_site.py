@@ -91,8 +91,10 @@ def render_regime(json_path, html_out):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Krypto-Regime</title><style>
 :root{{color-scheme:dark}}
-body{{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;background:#0f1115;color:#e6e9ef}}
+*{{box-sizing:border-box}}
+body{{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;background:#0f1115;color:#e6e9ef;overflow-x:hidden}}
 .wrap{{max-width:560px;margin:0 auto;padding:20px 16px 40px}}
+.sub,.bigl,.foot,.cr{{overflow-wrap:anywhere}}
 h1{{font-size:20px;margin:2px 0}} .sub{{color:#9aa4b2;font-size:12px;margin:2px 0 16px}}
 .big{{background:#171a21;border:1px solid #232733;border-radius:14px;padding:18px;text-align:center;margin-bottom:16px}}
 .bign{{font-size:34px;font-weight:720;color:#5ee08a}} .bign.zero{{color:#e0b15e}}
