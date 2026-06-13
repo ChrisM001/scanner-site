@@ -98,6 +98,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-12,2026-06-12 22:43,gate,LAB/USDT,9.80831,13.65,34.59,27.7,,,
 2026-06-12,2026-06-12 22:43,gate,H/USDT,0.25703,17.18,24.05,49.5,,,
 2026-06-12,2026-06-12 22:43,gate,SKYAI/USDT,0.31673,22.37,12.0,18.4,,,
-2026-06-13,2026-06-13 16:11,gate,JCT/USDT,0.006551,49.09,22815.0,11.9,,,
-2026-06-13,2026-06-13 16:11,gate,BEAT/USDT,7.4245,5.8,44.54,132.4,,5,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-13,2026-06-13 16:11,gate,SKYAI/USDT,0.35444,14.12,10.53,15.9,,,
+2026-06-13,2026-06-13 16:18,gate,JCT/USDT,0.006657,51.5,22890.04,12.0,,,
+2026-06-13,2026-06-13 16:18,gate,COAI/USDT,0.6275,69.59,190.85,8.0,,232,Coinpedia: ChainOpera AI (COAI) Price Surges 85%  But Is the Rally Built to Last?
+2026-06-13,2026-06-13 16:18,gate,BEAT/USDT,7.335,4.52,44.63,132.7,,5,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-13,2026-06-13 16:18,gate,XPL/USDT,0.08898,8.05,19.66,5.8,,6,"Binance News: Plasma-Linked Address Deposits 150 Million XPL to a CEX, On-Chain Data Show"
+2026-06-13,2026-06-13 16:18,gate,SKYAI/USDT,0.35594,14.6,10.55,15.9,,,
+2026-06-13,2026-06-13 16:18,gate,ENA/USDT,0.085,8.54,7.61,7.1,,1,The Block: Ethena Labs to allocate $250 million to Securitizes Tokenized AAA CLO Fund as it deploys on Solana
