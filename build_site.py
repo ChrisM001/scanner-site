@@ -10,7 +10,7 @@ ENV:
   TVREMIX_API_KEY   -- GitHub-Secret, fuer den Aktien-Scan (Pflicht fuer Aktien)
   CRYPTO_EXCHANGE   -- Boerse fuer den Krypto-Scan (default bybit; cloud-tauglich)
 """
-import os, sys, subprocess, shutil, datetime, html
+import os, sys, subprocess, shutil, datetime, html, json
 
 DIR  = os.path.dirname(os.path.abspath(__file__))
 DOCS = os.path.join(DIR, "docs")
@@ -62,6 +62,65 @@ def teaser(csv, by, sym_col):
         return ""
 
 
+def render_regime(json_path, html_out):
+    """Render the multi-asset regime allocation page from the signal JSON.
+    Returns (ok, teaser)."""
+    if not os.path.exists(json_path):
+        return False, ""
+    try:
+        d = json.load(open(json_path))
+    except Exception:
+        return False, ""
+    n = d["n_assets"]
+    coins = ""
+    for a in d["assets"]:
+        per = a["exposure"] / n * 100
+        cls = "on" if a["gate"] > 0 else "off"
+        px = a["price"]
+        pxs = f"${px:,.2f}" if px >= 1 else f"${px:,.4f}"
+        coins += (
+            f'<div class="coin"><div class="cl">'
+            f'<span class="sym">{html.escape(a["sym"])}</span>'
+            f'<span class="hold {cls}">{per:.1f}%</span></div>'
+            f'<div class="cr"><span>{pxs}</span><span>EMAs {a["emas_above"]}/4</span>'
+            f'<span>Gate {a["gate"]*100:.0f}%</span><span>Vol {a["vol"]*100:.0f}%</span></div></div>'
+        )
+    port = d["portfolio_exposure"] * 100
+    teaser = (f"Portfolio {port:.0f}% long" if port > 1 else "Portfolio 0% – alles Cash")
+    page = f"""<!doctype html><html lang="de"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Krypto-Regime</title><style>
+:root{{color-scheme:dark}}
+body{{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;background:#0f1115;color:#e6e9ef}}
+.wrap{{max-width:560px;margin:0 auto;padding:20px 16px 40px}}
+h1{{font-size:20px;margin:2px 0}} .sub{{color:#9aa4b2;font-size:12px;margin:2px 0 16px}}
+.big{{background:#171a21;border:1px solid #232733;border-radius:14px;padding:18px;text-align:center;margin-bottom:16px}}
+.bign{{font-size:34px;font-weight:720;color:#5ee08a}} .bign.zero{{color:#e0b15e}}
+.bigl{{color:#9aa4b2;font-size:13px;margin-top:4px}}
+.coin{{background:#171a21;border:1px solid #232733;border-radius:12px;padding:12px 14px;margin-bottom:10px}}
+.cl{{display:flex;justify-content:space-between;align-items:center}}
+.sym{{font-size:17px;font-weight:650}} .hold{{font-size:17px;font-weight:700}}
+.hold.on{{color:#5ee08a}} .hold.off{{color:#6c7686}}
+.cr{{display:flex;gap:12px;flex-wrap:wrap;color:#9aa4b2;font-size:12px;margin-top:6px}}
+.foot{{color:#7a8493;font-size:12px;margin-top:18px;line-height:1.55}}
+a.back{{color:#6ea8fe;text-decoration:none;font-size:13px}}
+</style></head><body><div class="wrap">
+<a class="back" href="index.html">&#8592; Scanner</a>
+<h1>&#129518; Krypto-Regime-Portfolio</h1>
+<div class="sub">{d["date"]} &middot; Quelle {html.escape(d["source"])} &middot; Ziel-Vola {d["target_vol"]*100:.0f}% &middot; gleichgewichtet 1/{n}</div>
+<div class="big"><div class="bign {'zero' if port<=1 else ''}">{port:.0f}%</div>
+<div class="bigl">des Kapitals long (Rest Cash) &middot; pro Coin = Anteil/{n}</div></div>
+{coins}
+<p class="foot">EMA-Regime-Gate (Anteil der EMAs 50/100/150/200 &uuml;ber dem Preis) &times; inverse-Vola-Sizing.
+Long nur in Aufw&auml;rtstrends, Gr&ouml;&szlig;e nach Vola gedeckelt. Ehrliche Erwartung (Walk-Forward):
+Sharpe&nbsp;~0.65, max&nbsp;Drawdown&nbsp;~25&ndash;30%. Rebalance 1&times;t&auml;glich nach Tagesschluss.
+Risk-controlled Beta, kein Alpha &middot; PAPER/Research, keine Anlageberatung.</p>
+</div></body></html>"""
+    with open(html_out, "w", encoding="utf-8") as f:
+        f.write(page)
+    return True, teaser
+
+
 def badge(ok, has):
     if ok:  return '<span class="ok">aktualisiert</span>'
     if has: return '<span class="stale">letzter Stand</span>'
@@ -88,6 +147,12 @@ for cex in CRYPTO_CHAIN:
 
 has_stock  = copy_if("stock_scan.html",  "stock.html")
 has_crypto = copy_if("crypto_scan.html", "crypto.html")
+
+# Krypto-Regime-Portfolio (BTC/ETH/XRP/SOL/LINK) -- eigenes Boersen-Fallback intern.
+run("Krypto-Regime", ["crypto_regime_signal.py", "0.40", "--json", os.path.join(DOCS, "regime.json")])
+regime_ok, regime_teaser = render_regime(os.path.join(DOCS, "regime.json"),
+                                         os.path.join(DOCS, "regime.html"))
+has_regime = os.path.exists(os.path.join(DOCS, "regime.html"))
 
 stock_teaser  = teaser("stock_scan_log.csv",  "change", "symbol")
 crypto_teaser = teaser("crypto_scan_log.csv", "pct24h", "coin")
@@ -121,6 +186,12 @@ a.card:active{{background:#1c2029}}
   <div class="rowt"><div><span class="em">&#129689;</span><span class="t">Krypto &middot; in play (RVOL)</span></div>
   <span class="badge2">{badge(crypto_ok, has_crypto)}</span></div>
   <div class="teaser">{html.escape(crypto_teaser) or 'keine Treffer / kein Lauf'}</div>
+</a>
+
+<a class="card" href="regime.html">
+  <div class="rowt"><div><span class="em">&#129518;</span><span class="t">Krypto-Regime &middot; Portfolio-Allokation</span></div>
+  <span class="badge2">{badge(regime_ok, has_regime)}</span></div>
+  <div class="teaser">{html.escape(regime_teaser) or 'kein Lauf'}</div>
 </a>
 
 <p class="foot">Aktien: Ross-Gap-Scanner (vorboerslich Gap&ge;+10%, Float&lt;20M, $1&ndash;20).
