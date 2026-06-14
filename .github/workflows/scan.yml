@@ -54,4 +54,12 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs stock_scan_log.csv crypto_scan_log.csv alert_state_crypto.json alert_state_stock.json 2>/dev/null || true
           git diff --quiet --cached || git commit -m "scan $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push
+          # Race-sicher pushen: bei parallelem Lauf (non-fast-forward) erst rebasen,
+          # dann erneut versuchen. Verhindert Fail-Mails durch kollidierende Pushes.
+          for i in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            echo "push abgelehnt -> rebase + retry ($i)"
+            git pull --rebase --autostash origin main || true
+            sleep 3
+          done
+          echo "push nach 5 Versuchen weiter fehlgeschlagen"; exit 1
