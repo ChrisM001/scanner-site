@@ -6,3 +6,4 @@ crypto_rvol_cache.json
 stock_scan.html
 crypto_scan.html
 *_pre_restart_*.csv
+.do_commit

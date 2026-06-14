@@ -156,12 +156,15 @@ def send_alerts(when):
     lines = []
     specs = [("crypto", "crypto_scan_log.csv", "coin", "pct24h", "rvol", "🪙"),
              ("stock",  "stock_scan_log.csv",  "symbol", "change", "rvol", "📈")]
+    any_changed = False
     for kind, csv, symcol, pctcol, rvcol, emoji in specs:
         d = _latest_rows(csv)
         if d is None or symcol not in d.columns:
             continue
         syms = [str(x) for x in d[symcol]]
-        nw = set(new_entries(kind, syms))
+        nw_list, changed = new_entries(kind, syms)
+        any_changed = any_changed or changed
+        nw = set(nw_list)
         if not nw:
             continue
         sub = d[d[symcol].astype(str).isin(nw)].sort_values(rvcol, ascending=False)
@@ -181,6 +184,33 @@ def send_alerts(when):
         print(f"[alert] {len(lines)} neue Eintraege -> Telegram {'OK' if ok else 'FEHLER'}")
     else:
         print("[alert] keine neuen Eintraege")
+    return any_changed
+
+
+def mark_commit(any_changed):
+    """Commit-Sentinel schreiben: nur committen, wenn sich das Set geaendert hat
+    ODER der letzte Commit aelter als HEARTBEAT_MIN ist (Seite nicht einfrieren).
+    Reduziert den Commit-Churn bei 5-Min-Takt drastisch."""
+    reason = None
+    if any_changed:
+        reason = "set changed"
+    else:
+        hb = int(os.getenv("HEARTBEAT_MIN", "60"))
+        try:
+            import time as _t
+            ts = subprocess.run(["git", "-C", DIR, "log", "-1", "--format=%ct"],
+                                capture_output=True, text=True, timeout=10).stdout.strip()
+            age_min = (_t.time() - int(ts)) / 60 if ts else 1e9
+        except Exception:
+            age_min = 1e9
+        if age_min >= hb:
+            reason = f"heartbeat ({age_min:.0f}min >= {hb})"
+        else:
+            print(f"[commit] uebersprungen -- keine Aenderung (letzter Commit {age_min:.0f}min her)")
+    if reason:
+        with open(os.path.join(DIR, ".do_commit"), "w") as f:
+            f.write(reason)
+        print(f"[commit] committen -- {reason}")
 
 
 now = datetime.datetime.now(datetime.timezone.utc)
@@ -219,7 +249,8 @@ regime_ok, regime_teaser = render_regime(os.path.join(DOCS, "regime.json"),
 has_regime = os.path.exists(os.path.join(DOCS, "regime.html"))
 
 # Push-Alarme: neue Eintraege seit letztem Lauf -> Telegram (no-op ohne Secrets).
-send_alerts(now)
+# Rueckgabe: ob sich ein Listen-Set geaendert hat (steuert den Commit).
+_changed = send_alerts(now)
 
 stock_teaser  = teaser("stock_scan_log.csv",  "change", "symbol")
 crypto_teaser = teaser("crypto_scan_log.csv", "pct24h", "coin")
@@ -272,4 +303,7 @@ with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
 print(f"docs/: index.html | stock.html={has_stock} | crypto.html={has_crypto}")
 if not (has_stock or has_crypto):
     print("WARN: kein Scanner-Ergebnis -- Seite zeigt nur Platzhalter.")
+
+# Commit-Sentinel setzen (Workflow committet nur, wenn .do_commit existiert).
+mark_commit(_changed)
 sys.exit(0)

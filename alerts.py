@@ -43,21 +43,39 @@ def tg_send(text):
 
 
 def new_entries(kind, symbols):
-    """Gibt die Symbole zurueck, die seit > COOLDOWN_H nicht gesehen wurden (=neu).
-    Aktualisiert + persistiert den State. Erster Lauf seedet still (gibt [] zurueck)."""
+    """Set-basierte Neuerkennung -> gibt (neue_symbole, changed) zurueck.
+
+    'neu' = im aktuellen Set, war NICHT im zuletzt gespeicherten Set, und kein
+    Flicker-Wiedereintritt < COOLDOWN_H. Das ist commit-frequenz-unabhaengig:
+    der State wird NUR geschrieben, wenn sich das Set aendert (changed=True) ->
+    der Workflow committet auch nur dann. State: {"set":[...], "left":{sym:epoch}}.
+    Alt-/fehlendes Format -> stiller Seed (kein Alarm)."""
     path = os.path.join(DIR, f"alert_state_{kind}.json")
-    first = not os.path.exists(path)
     now = time.time(); cd = COOLDOWN_H * 3600
     try:
         state = json.load(open(path))
     except Exception:
         state = {}
-    new = [] if first else [s for s in symbols if now - float(state.get(s, 0)) > cd]
-    for s in symbols:
-        state[s] = now
-    state = {s: t for s, t in state.items() if now - float(t) < 7 * 86400}   # 7T-Prune
-    try:
-        json.dump(state, open(path, "w"))
-    except Exception as e:
-        print(f"[alert] state save failed: {e}")
-    return new
+    cur = list(dict.fromkeys(str(s) for s in symbols))   # de-dup, Reihenfolge halten
+    curset = set(cur)
+
+    def _save(obj):
+        try:
+            json.dump(obj, open(path, "w"))
+        except Exception as e:
+            print(f"[alert] state save failed: {e}")
+
+    if "set" not in state:                 # Erstlauf / Legacy-Format -> still seeden
+        _save({"set": sorted(curset), "left": {}})
+        return [], True
+
+    prev = set(state.get("set", []))
+    left = {s: float(t) for s, t in (state.get("left") or {}).items()}
+    new = [s for s in cur if s not in prev and (now - left.get(s, 0) > cd)]
+    changed = curset != prev
+    if changed:
+        for s in (prev - curset):          # gerade rausgefallene Coins merken (Flicker-Sperre)
+            left[s] = now
+        left = {s: t for s, t in left.items() if s not in curset and now - t <= cd}
+        _save({"set": sorted(curset), "left": left})
+    return new, changed
