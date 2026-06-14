@@ -147,7 +147,7 @@ def _latest_rows(csv):
 def send_alerts(when):
     """Diff gegen letzten Lauf -> Telegram-Push fuer neue Coins/Aktien."""
     try:
-        from alerts import tg_send, new_entries, enabled
+        from alerts import tg_send, diff, enabled
     except Exception as e:
         print(f"[alert] Modul nicht ladbar: {e}"); return
     if not enabled():
@@ -161,8 +161,8 @@ def send_alerts(when):
         d = _latest_rows(csv)
         if d is None or symcol not in d.columns:
             continue
-        syms = [str(x) for x in d[symcol]]
-        nw_list, changed = new_entries(kind, syms)
+        items = list(zip(d[symcol].astype(str), d[pctcol]))
+        nw_list, changed = diff(kind, items)
         any_changed = any_changed or changed
         nw = set(nw_list)
         if not nw:

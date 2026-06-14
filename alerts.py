@@ -10,9 +10,13 @@ Erster Lauf (kein State) seedet still -> kein Initial-Flut-Alarm.
 Secrets (GitHub) / Env:
   TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID  -- ohne diese: no-op (kein Alarm)
   ALERT_COOLDOWN_H (default 6)          -- Wiedereintritts-Fenster in Stunden
+  ALERT_PCT_THRESH (default 3)          -- pp-Bewegung eines Werts, die einen
+                                           Seiten-Refresh (Commit) erzwingt
 """
 import os, json, time, html
 import requests
+
+PCT_THRESH = float(os.getenv("ALERT_PCT_THRESH", "3"))
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 COOLDOWN_H = float(os.getenv("ALERT_COOLDOWN_H", "6"))
@@ -42,40 +46,62 @@ def tg_send(text):
         return False
 
 
-def new_entries(kind, symbols):
-    """Set-basierte Neuerkennung -> gibt (neue_symbole, changed) zurueck.
+def _f(x):
+    try:
+        return float(x)
+    except Exception:
+        return None
 
-    'neu' = im aktuellen Set, war NICHT im zuletzt gespeicherten Set, und kein
-    Flicker-Wiedereintritt < COOLDOWN_H. Das ist commit-frequenz-unabhaengig:
-    der State wird NUR geschrieben, wenn sich das Set aendert (changed=True) ->
-    der Workflow committet auch nur dann. State: {"set":[...], "left":{sym:epoch}}.
-    Alt-/fehlendes Format -> stiller Seed (kein Alarm)."""
+
+def diff(kind, items):
+    """Set- UND wert-basierte Auswertung -> (neue_symbole, commit).
+
+    items: Iterable von (symbol, pct). 'neu' = im aktuellen Set, war NICHT im
+    zuletzt gespeicherten Set, kein Flicker-Wiedereintritt < COOLDOWN_H (-> Alarm).
+    commit=True, wenn sich das SET aendert ODER ein angezeigter Wert um
+    >= PCT_THRESH pp gewandert ist (damit die Seite live-nah bleibt, ohne in
+    ruhigen Phasen zu committen). State: {"set":[...],"left":{sym:epoch},"vals":{sym:pct}}.
+    Alt-/fehlendes Format -> stiller Seed bzw. einmalige Migration (kein Alarm)."""
     path = os.path.join(DIR, f"alert_state_{kind}.json")
     now = time.time(); cd = COOLDOWN_H * 3600
+
+    cur, seen = [], set()
+    for s, p in items:                     # de-dup je Symbol, Reihenfolge halten
+        s = str(s)
+        if s not in seen:
+            seen.add(s); cur.append((s, _f(p)))
+    curset = {s for s, _ in cur}
+    curvals = {s: p for s, p in cur}
+
+    def _save():
+        try:
+            json.dump({"set": sorted(curset), "left": left, "vals": curvals}, open(path, "w"))
+        except Exception as e:
+            print(f"[alert] state save failed: {e}")
+
     try:
         state = json.load(open(path))
     except Exception:
         state = {}
-    cur = list(dict.fromkeys(str(s) for s in symbols))   # de-dup, Reihenfolge halten
-    curset = set(cur)
 
-    def _save(obj):
-        try:
-            json.dump(obj, open(path, "w"))
-        except Exception as e:
-            print(f"[alert] state save failed: {e}")
-
-    if "set" not in state:                 # Erstlauf / Legacy-Format -> still seeden
-        _save({"set": sorted(curset), "left": {}})
-        return [], True
+    left = {s: float(t) for s, t in (state.get("left") or {}).items()}
+    if "set" not in state:                 # Erstlauf -> still seeden
+        _save();  return [], True
+    migrate = "vals" not in state          # Format ohne vals -> einmalig committen, um vals zu fuellen
 
     prev = set(state.get("set", []))
-    left = {s: float(t) for s, t in (state.get("left") or {}).items()}
-    new = [s for s in cur if s not in prev and (now - left.get(s, 0) > cd)]
-    changed = curset != prev
-    if changed:
+    pv = state.get("vals") or {}
+    new = [s for s, _ in cur if s not in prev and (now - left.get(s, 0) > cd)]
+    set_changed = curset != prev
+    vals_drift = any(
+        pv.get(s) is not None and curvals.get(s) is not None
+        and abs(curvals[s] - pv[s]) >= PCT_THRESH
+        for s in curset
+    )
+    commit = set_changed or vals_drift or migrate
+    if commit:
         for s in (prev - curset):          # gerade rausgefallene Coins merken (Flicker-Sperre)
             left[s] = now
         left = {s: t for s, t in left.items() if s not in curset and now - t <= cd}
-        _save({"set": sorted(curset), "left": left})
-    return new, changed
+        _save()
+    return new, commit
