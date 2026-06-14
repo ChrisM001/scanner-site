@@ -107,17 +107,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-13,2026-06-13 22:52,gate,H/USDT,0.28924,8.87,12.24,27.2,,1.0,Coinpedia: Humanity Price Surges Nearly 60%: Why Is the H Token Rising Today and Can It Rally Back to $1?
 2026-06-13,2026-06-13 22:52,gate,SKYAI/USDT,0.35897,15.58,10.59,16.0,,,
 2026-06-13,2026-06-13 22:52,gate,ENA/USDT,0.08453,7.94,8.0,7.5,,1.0,The Block: Ethena Labs to allocate $250 million to Securitizes Tokenized AAA CLO Fund as it deploys on Solana
-2026-06-14,2026-06-14 08:52,gate,JCT/USDT,0.007246,4.73,17182.32,16.5,,,
-2026-06-14,2026-06-14 09:02,gate,VELVET/USDT,0.51884,29.34,465.6,24.8,,98,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-14,2026-06-14 09:07,gate,JCT/USDT,0.007194,3.97,16705.79,16.0,,,
+2026-06-14,2026-06-14 09:07,gate,VELVET/USDT,0.51654,28.76,467.18,24.9,,98,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-14,2026-06-14 05:10,gate,SIREN/USDT,0.13223,10.46,465.48,27.7,Whale,0.0,Binance News: Lookonchain: SIREN Whale Realizes Over 7.5 Million USDT and Continues Selling
-2026-06-14,2026-06-14 09:02,gate,ESPORTS/USDT,0.06781,9.57,439.99,41.6,,192,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-14,2026-06-14 09:02,gate,COAI/USDT,0.4623,10.18,346.38,45.3,,232,Coinpedia: ChainOpera AI (COAI) Price Surges 85%  But Is the Rally Built to Last?
+2026-06-14,2026-06-14 09:07,gate,ESPORTS/USDT,0.06786,9.65,440.28,41.6,,192,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-14,2026-06-14 09:07,gate,COAI/USDT,0.4526,7.86,346.58,45.3,,232,Coinpedia: ChainOpera AI (COAI) Price Surges 85%  But Is the Rally Built to Last?
 2026-06-14,2026-06-14 00:01,mexc,RIF/USDT,0.12258,21.01,100.08,12.7,,8.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
-2026-06-14,2026-06-14 09:02,gate,MEGA/USDT,0.06508,3.66,61.5,3.0,Airdrop,10,Binance News: Delphi Digital: Traditional Airdrops Conclude as Token Distribution Shifts
+2026-06-14,2026-06-14 09:07,gate,MEGA/USDT,0.06648,5.89,62.03,3.1,Airdrop,10,Binance News: Delphi Digital: Traditional Airdrops Conclude as Token Distribution Shifts
 2026-06-14,2026-06-14 00:15,gate,BEAT/USDT,8.0251,3.93,26.82,88.0,,5.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-14,2026-06-14 09:02,gate,H/USDT,0.56639,69.78,26.26,61.4,,1,Coinpedia: Humanity Price Surges Nearly 60%: Why Is the H Token Rising Today and Can It Rally Back to $1?
-2026-06-14,2026-06-14 09:02,gate,BTW/USDT,0.09145,5.77,22.43,3.3,,,
-2026-06-14,2026-06-14 09:02,gate,LAB/USDT,10.13441,7.0,15.81,11.9,,,
+2026-06-14,2026-06-14 09:07,gate,H/USDT,0.55514,66.4,26.47,61.9,,1,Coinpedia: Humanity Price Surges Nearly 60%: Why Is the H Token Rising Today and Can It Rally Back to $1?
+2026-06-14,2026-06-14 09:07,gate,BTW/USDT,0.093513,8.15,22.49,3.3,,,
+2026-06-14,2026-06-14 09:07,gate,LAB/USDT,10.14606,7.13,15.83,11.9,,,
 2026-06-14,2026-06-14 08:56,gate,XPL/USDT,0.08969,3.02,10.55,3.2,,,
-2026-06-14,2026-06-14 09:02,gate,SKYAI/USDT,0.36913,3.57,5.72,8.4,,,
+2026-06-14,2026-06-14 09:07,gate,SKYAI/USDT,0.36955,3.69,5.73,8.4,,,
 2026-06-14,2026-06-14 00:01,mexc,BEAT/USDT,7.7622,4.36,2.55,150.1,,5.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
