@@ -7,3 +7,4 @@ stock_scan.html
 crypto_scan.html
 *_pre_restart_*.csv
 .do_commit
+docs/            # Seite wird per Pages-Artefakt deployt, nicht mehr ins Git committet

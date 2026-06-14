@@ -1,26 +1,32 @@
 name: scanners
 
-# Laeuft serverlos auf GitHub (auch wenn dein PC aus ist). Zeiten in UTC.
-# Haeufiger Takt fuer Push-Alarme bei NEUEN Eintraegen (Telegram). GitHub-Cron ist
-# best-effort (kann 5-20 Min verspaeten) -> "nah dran", nicht echtzeit. Public-Repo =
-# unbegrenzte Action-Minuten. Aktien-Scan ist intern auf das US-Marktfenster
-# (08-21 UTC Mo-Fr) gegated; Krypto laeuft bei jedem Lauf 24/7.
+# Serverlos auf GitHub (auch wenn dein PC aus ist), getriggert via cron-job.org
+# (workflow_dispatch alle 5 Min) + GitHub-Cron als Notnagel.
+#
+# Architektur: Die SEITE wird per GitHub-Pages-ARTEFAKT deployt (nie ins Git committet
+# -> keine Historie-Bloat) und ist bei jedem Lauf frisch. Ins Repo committen wir NUR
+# die persistenten Daten (Forward-Track-CSVs + Alert-State), und auch die nur bei
+# echter Listen-Aenderung. Aktien-Scan ist intern auf das US-Marktfenster gegated.
 on:
   schedule:
-    - cron: "*/5 * * * *"       # alle 5 Min (GitHub-Minimum; best-effort -> real eher 5-20 Min)
-  workflow_dispatch: {}         # manuell aus der GitHub-App ("Run workflow")
+    - cron: "*/5 * * * *"       # alle 5 Min (GitHub-Minimum; best-effort -> cron-job.org ist primaer)
+  workflow_dispatch: {}
 
 permissions:
-  contents: write            # erlaubt den Commit der Ergebnisse zurueck ins Repo
+  contents: write              # Daten-Commit (CSV + Alert-State)
+  pages: write                 # Pages-Artefakt deployen
+  id-token: write              # OIDC fuer deploy-pages
 
 concurrency:
   group: scanners
-  cancel-in-progress: false    # Laeufe nicht mittendrin abwuergen (sonst committet nichts);
-                               # Laeufe sind jetzt schnell (~1-2 Min), race-safe push faengt Kollisionen
+  cancel-in-progress: false    # Laeufe nicht mittendrin abwuergen; sie sind schnell (~1 Min)
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v5
 
@@ -37,26 +43,38 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           CRYPTO_EXCHANGE: gate,mexc,bybit
-          # gate-gerechte Schwellen: gate hat ein kleineres Perp-Universum mit kleineren
-          # Coin-Volumina als Binance. 10M/5%/2x liefert nur ~2 Treffer -> gelockert auf
-          # 3M Vol-Floor / 3% Move / RVOL 2x (~10+ Treffer, $3M Floor haelt Micro-Caps raus).
+          # gate-gerechte Schwellen (kleineres Perp-Universum als Binance).
           VOL_FLOOR: "3000000"
           CHG_MIN: "3"
           RVOL_MIN: "2"
+          # Seite ist via Artefakt immer frisch -> Wert-Drift-Commit nicht noetig.
+          # Daten nur bei Set-Aenderung committen (PCT-Schwelle praktisch aus) + 6h-Heartbeat.
+          ALERT_PCT_THRESH: "999999"
+          HEARTBEAT_MIN: "360"
         run: python build_site.py
 
-      - name: Ergebnisse committen
+      # --- Seite IMMER frisch via Pages-Artefakt (kein Git -> keine Historie-Bloat) ---
+      - name: Pages-Artefakt hochladen
+        uses: actions/upload-pages-artifact@v3
+        continue-on-error: true       # Deploy-Hiccup darf den Lauf nicht failen (keine Mail)
+        with:
+          path: docs
+
+      - name: Pages deployen
+        id: deploy
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      # --- Daten (CSV + Alert-State) NUR bei echter Aenderung committen, NICHT die Seite ---
+      - name: Daten committen
         run: |
-          # build_site.py setzt .do_commit nur, wenn sich eine Liste geaendert hat
-          # oder der Heartbeat faellig ist -> spart Commit-Churn beim 5-Min-Takt.
           if [ ! -f .do_commit ]; then echo "keine Aenderung -> kein Commit"; exit 0; fi
           rm -f .do_commit
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs stock_scan_log.csv crypto_scan_log.csv alert_state_crypto.json alert_state_stock.json 2>/dev/null || true
-          git diff --quiet --cached || git commit -m "scan $(date -u +'%Y-%m-%d %H:%M UTC')"
-          # Race-sicher pushen: bei parallelem Lauf (non-fast-forward) erst rebasen,
-          # dann erneut versuchen. Verhindert Fail-Mails durch kollidierende Pushes.
+          git add stock_scan_log.csv crypto_scan_log.csv alert_state_crypto.json alert_state_stock.json 2>/dev/null || true
+          git diff --quiet --cached || git commit -m "data $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # Race-sicher pushen: bei parallelem Lauf erst rebasen, dann erneut.
           for i in 1 2 3 4 5; do
             if git push; then exit 0; fi
             echo "push abgelehnt -> rebase + retry ($i)"
