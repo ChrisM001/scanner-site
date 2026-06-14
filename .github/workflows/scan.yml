@@ -15,7 +15,7 @@ permissions:
 
 concurrency:
   group: scanners
-  cancel-in-progress: false
+  cancel-in-progress: true     # neuester Lauf gewinnt -> kein Stau alter Laeufe, abgebrochene mailen nicht
 
 jobs:
   build:
