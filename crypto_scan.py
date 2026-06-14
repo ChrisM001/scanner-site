@@ -56,7 +56,9 @@ TVPREFIX = {"binance": "BINANCE", "bitget": "BITGET", "bybit": "BYBIT",
 # (504), BINANCE hat die beste Krypto-Coverage. Daher NEWS_PREFIX=BINANCE.
 SHOW_NEWS   = os.getenv("SHOW_NEWS", "1") == "1"
 NEWS_PREFIX = os.getenv("NEWS_PREFIX", "BINANCE")
-NEWS_N      = int(os.getenv("NEWS_N", str(DISPLAY_N)))   # nur Top-N bekommen News
+NEWS_N      = int(os.getenv("NEWS_N", "8"))              # nur Top-N bekommen News
+NEWS_TIMEOUT = float(os.getenv("NEWS_TIMEOUT", "7"))    # HTTP-Timeout/Call -- klein, sonst haengt
+NEWS_BUDGET = float(os.getenv("NEWS_BUDGET", "60"))     # Gesamt-Zeitbudget News (s), dann Stopp
 try:                                   # _mcp_call/_ascii vom Aktien-Scan wiederverwenden
     from stock_momentum import _mcp_call as _sm_mcp, _ascii as _sm_ascii
     _HAS_NEWS = True
@@ -170,7 +172,8 @@ def _crypto_catalyst(title):
 
 
 def _get_heads(sym, limit, retries):
-    data = _sm_mcp("get_news", {"symbol": sym, "limit": limit}, retries=retries)  # kann werfen
+    data = _sm_mcp("get_news", {"symbol": sym, "limit": limit}, retries=retries,
+                   backoff=0.5, timeout=NEWS_TIMEOUT)  # kann werfen; kurzes Timeout
     d = data or {}
     heads = d.get("headlines")
     if heads is None and isinstance(d.get("data"), dict):
@@ -183,7 +186,7 @@ def crypto_news(base, limit=4):
     Versucht NEWS_PREFIX (z.B. BINANCE), dann CRYPTO:BASEUSD als Fallback (fuer Coins,
     die nicht auf der News-Boerse gelistet sind)."""
     heads, errored = [], False
-    for sym, rt in ((f"{NEWS_PREFIX}:{base}{QUOTE}", 2), (f"CRYPTO:{base}USD", 1)):
+    for sym, rt in ((f"{NEWS_PREFIX}:{base}{QUOTE}", 1), (f"CRYPTO:{base}USD", 1)):
         try:
             heads = _get_heads(sym, limit, rt)
         except Exception:
@@ -212,8 +215,9 @@ def add_news(df, top=None):
     if not (_HAS_NEWS and SHOW_NEWS):
         return {}
     out, streak, off = {}, 0, False
+    t0 = time.time()
     for base in list(df["base"])[: (top or len(df))]:
-        if off:
+        if off or (time.time() - t0) > NEWS_BUDGET:      # Circuit-Breaker ODER Zeitbudget aus
             out[base] = "ERR"; continue
         ns = crypto_news(base)
         if ns == "ERR":

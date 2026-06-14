@@ -15,7 +15,8 @@ permissions:
 
 concurrency:
   group: scanners
-  cancel-in-progress: true     # neuester Lauf gewinnt -> kein Stau alter Laeufe, abgebrochene mailen nicht
+  cancel-in-progress: false    # Laeufe nicht mittendrin abwuergen (sonst committet nichts);
+                               # Laeufe sind jetzt schnell (~1-2 Min), race-safe push faengt Kollisionen
 
 jobs:
   build:

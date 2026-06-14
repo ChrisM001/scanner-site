@@ -125,8 +125,10 @@ def _premarket_now():
     return n.weekday() < 5 and n.time() < datetime.time(9, 30)
 
 
-def _mcp_call(tool, arguments, retries=3, backoff=1.5):
-    """POST an TVRemix mit Retry/Backoff bei 429 (Rate-Limit) und Netzfehlern."""
+def _mcp_call(tool, arguments, retries=3, backoff=1.5, timeout=60):
+    """POST an TVRemix mit Retry/Backoff bei 429 (Rate-Limit) und Netzfehlern.
+    timeout: HTTP-Timeout pro Versuch (Sekunden) -- klein halten, wenn schnelle
+    Best-effort-Calls gewuenscht sind (z.B. Krypto-News bei vielen Coins)."""
     if not TVREMIX_API_KEY:
         raise RuntimeError("TVREMIX_API_KEY nicht gesetzt -- als Umgebungsvariable (lokal, setx) "
                            "bzw. GitHub-Secret (Cloud) hinterlegen.")
@@ -140,7 +142,7 @@ def _mcp_call(tool, arguments, retries=3, backoff=1.5):
                          "Accept": "application/json, text/event-stream"},
                 json={"jsonrpc": "2.0", "method": "tools/call",
                       "params": {"name": tool, "arguments": arguments}, "id": 1},
-                timeout=60)
+                timeout=timeout)
             if resp.status_code == 429:
                 last = "429 Too Many Requests"
                 time.sleep(backoff * (i + 1)); continue
