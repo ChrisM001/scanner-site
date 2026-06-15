@@ -128,19 +128,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-14,2026-06-14 23:55,gate,SKYAI/USDT,0.382,7.18,6.35,9.3,,,
 2026-06-14,2026-06-14 23:55,gate,XRP/USDT,1.1855,3.09,4.08,48.8,,,
 2026-06-14,2026-06-14 00:01,mexc,BEAT/USDT,7.7622,4.36,2.55,150.1,,5.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-15,2026-06-15 06:11,gate,ASTEROID/USDT,0.000114,91.44,28313.37,3.9,,,
-2026-06-15,2026-06-15 06:11,gate,JCT/USDT,0.006456,6.38,2819.74,3.3,,,
-2026-06-15,2026-06-15 06:11,gate,SIREN/USDT,0.05376,3.19,700.89,46.4,Whale,2,Binance News: Lookonchain: SIREN Whale Realizes Over 7.5 Million USDT and Continues Selling
+2026-06-15,2026-06-15 06:25,gate,ASTEROID/USDT,0.000108,81.21,28928.43,4.0,,,
+2026-06-15,2026-06-15 06:25,gate,JCT/USDT,0.006602,8.78,2831.32,3.3,,,
+2026-06-15,2026-06-15 06:25,gate,SIREN/USDT,0.05583,7.16,711.17,47.1,Whale,2,Binance News: Lookonchain: SIREN Whale Realizes Over 7.5 Million USDT and Continues Selling
 2026-06-15,2026-06-15 03:06,gate,VELVET/USDT,0.37234,3.14,247.3,14.3,,99.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-15,2026-06-15 06:11,gate,CHIP/USDT,0.04212,13.59,229.84,3.8,Listing,51,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
-2026-06-15,2026-06-15 06:11,gate,ESPORTS/USDT,0.06715,12.67,109.45,10.9,,193,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-15,2026-06-15 06:25,gate,CHIP/USDT,0.04224,13.92,237.52,3.9,Listing,51,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
+2026-06-15,2026-06-15 06:25,gate,ESPORTS/USDT,0.06621,11.09,109.92,10.9,,193,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-15,2026-06-15 00:35,gate,COAI/USDT,0.3574,3.35,107.63,20.2,,233.0,Coinpedia: ChainOpera AI (COAI) Price Surges 85%  But Is the Rally Built to Last?
-2026-06-15,2026-06-15 06:11,gate,JELLYJELLY/USDT,0.08262,5.92,74.66,4.3,,163,CoinMarketCal: Jelly-My-Jelly (JELLYJELLY) - Video Chats for UGC - 02 January 2026
+2026-06-15,2026-06-15 06:25,gate,JELLYJELLY/USDT,0.08589,10.12,77.26,4.4,,163,CoinMarketCal: Jelly-My-Jelly (JELLYJELLY) - Video Chats for UGC - 02 January 2026
 2026-06-15,2026-06-15 01:31,gate,OPG/USDT,0.3363,10.44,59.12,9.4,Listing,23.0,CoinMarketCal: Genius & OpenGradient - Binance Listing - 22 May 2026
 2026-06-15,2026-06-15 04:56,gate,H/USDT,0.40968,3.96,53.29,151.6,Hack,0.0,Cointelegraph: Humanity Protocols $36M hack tied to suspected North Korean hackers: Quantstamp
-2026-06-15,2026-06-15 06:11,gate,EVAA/USDT,0.8256,15.84,45.25,34.5,,,
-2026-06-15,2026-06-15 06:11,gate,CLO/USDT,0.24864,30.16,28.55,5.6,,,
+2026-06-15,2026-06-15 06:25,gate,EVAA/USDT,0.8441,18.44,50.94,38.8,,,
+2026-06-15,2026-06-15 06:25,gate,CLO/USDT,0.24826,29.96,28.74,5.6,,,
 2026-06-15,2026-06-15 01:10,gate,LAB/USDT,11.55653,3.09,18.26,13.0,,,
 2026-06-15,2026-06-15 05:51,gate,BEAT/USDT,5.733,4.49,16.31,56.6,,6.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-15,2026-06-15 06:25,gate,TRADOOR/USDT,0.534,5.95,8.7,3.4,,,
 2026-06-15,2026-06-15 06:06,gate,SKYAI/USDT,0.39248,3.41,7.59,11.0,,,
 2026-06-15,2026-06-15 06:06,gate,ENA/USDT,0.08678,3.36,6.78,6.3,,,
