@@ -154,19 +154,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-15,2026-06-15 23:51,gate,JTO/USDT,0.7188,28.79,3.93,7.1,,,
 2026-06-15,2026-06-15 23:51,gate,BSB/USDT,0.37636,38.56,2.9,7.0,,,
 2026-06-15,2026-06-15 22:10,gate,FARTCOIN/USDT,0.13291,4.54,2.74,21.8,,,
-2026-06-16,2026-06-16 07:56,gate,ASTEROID/USDT,0.000126,30.16,43598.35,6.4,,,
-2026-06-16,2026-06-16 07:56,gate,SPACE/USDT,0.008489,27.67,421.58,4.1,,209,CoinMarketCal: Spacecoin (SPACE) - CTC-1 Launch - 19 Nov 2025
-2026-06-16,2026-06-16 07:56,gate,SIREN/USDT,0.0552,4.88,201.36,14.4,,0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
-2026-06-16,2026-06-16 07:56,gate,VELVET/USDT,0.43947,18.55,57.31,3.4,,100,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-16,2026-06-16 08:01,gate,ASTEROID/USDT,0.000127,32.02,41116.07,6.0,,,
+2026-06-16,2026-06-16 08:01,gate,SPACE/USDT,0.008474,27.45,431.11,4.2,,209,CoinMarketCal: Spacecoin (SPACE) - CTC-1 Launch - 19 Nov 2025
+2026-06-16,2026-06-16 08:01,gate,SIREN/USDT,0.05516,4.81,189.98,13.6,,0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
+2026-06-16,2026-06-16 08:01,gate,VELVET/USDT,0.43609,17.64,56.71,3.3,,,
 2026-06-16,2026-06-16 00:45,gate,H/USDT,0.26729,3.33,32.55,100.6,Hack,1.0,Cointelegraph: Humanity Protocols $36M loss tied to suspected North Korean hackers: Quantstamp
-2026-06-16,2026-06-16 07:56,gate,LAB/USDT,10.14095,6.21,20.15,14.0,,,
+2026-06-16,2026-06-16 08:01,gate,LAB/USDT,10.12871,6.08,19.26,13.4,,,
 2026-06-16,2026-06-16 00:40,gate,EVAA/USDT,1.3098,3.14,18.89,84.2,,,
 2026-06-16,2026-06-16 03:31,gate,BEAT/USDT,4.1124,3.22,10.05,36.0,,7.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-16,2026-06-16 07:56,gate,SKYAI/USDT,0.38497,8.03,9.94,14.4,,,
+2026-06-16,2026-06-16 08:01,gate,SKYAI/USDT,0.38562,8.21,9.36,13.6,,,
 2026-06-16,2026-06-16 07:41,gate,ENA/USDT,0.08836,3.44,8.65,8.2,,3.0,The Block: Ethena Labs to allocate $250 million to Securitizes Tokenized AAA CLO Fund as it deploys on Solana
 2026-06-16,2026-06-16 00:45,gate,XLM/USDT,0.2206,3.29,6.65,11.1,,0.0,Coinpedia: XRP and Stellar Break Out of ConsolidationCan XLM and XRP Hit New Monthly Highs?
 2026-06-16,2026-06-16 00:01,mexc,VELVET/USDT,0.3784,17.26,5.97,10.1,,100.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-16,2026-06-16 07:56,gate,BSB/USDT,0.4783,32.12,5.92,14.3,,,
+2026-06-16,2026-06-16 08:01,gate,BSB/USDT,0.47923,32.38,5.93,14.3,,,
 2026-06-16,2026-06-16 07:26,gate,JTO/USDT,0.7584,4.1,4.75,9.6,,38.0,Invezz: Jito (JTO) surges to $0.68 intraday highs: can bulls push toward $1?
-2026-06-16,2026-06-16 07:56,gate,FARTCOIN/USDT,0.13581,5.71,2.77,23.4,,67,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-06-16,2026-06-16 07:56,gate,UNI/USDT,2.985,4.96,2.06,7.6,,,
+2026-06-16,2026-06-16 08:01,gate,FARTCOIN/USDT,0.13594,5.81,2.74,23.1,,,
+2026-06-16,2026-06-16 08:01,gate,UNI/USDT,2.986,4.99,2.06,7.6,,,
