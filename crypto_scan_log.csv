@@ -154,8 +154,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-15,2026-06-15 23:51,gate,JTO/USDT,0.7188,28.79,3.93,7.1,,,
 2026-06-15,2026-06-15 23:51,gate,BSB/USDT,0.37636,38.56,2.9,7.0,,,
 2026-06-15,2026-06-15 22:10,gate,FARTCOIN/USDT,0.13291,4.54,2.74,21.8,,,
-2026-06-16,2026-06-16 00:25,gate,ASTEROID/USDT,0.000103,6.63,50327.95,7.3,,,
-2026-06-16,2026-06-16 00:25,gate,H/USDT,0.27219,5.23,32.47,100.3,Hack,1,Cointelegraph: Humanity Protocols $36M loss tied to suspected North Korean hackers: Quantstamp
-2026-06-16,2026-06-16 00:05,gate,EVAA/USDT,1.3096,3.13,18.62,83.0,,,
-2026-06-16,2026-06-16 00:20,gate,BEAT/USDT,4.1037,3.0,10.63,38.1,,7.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-16,2026-06-16 00:31,gate,ASTEROID/USDT,0.000104,7.46,50405.46,7.4,,,
+2026-06-16,2026-06-16 00:31,gate,H/USDT,0.2679,3.57,32.49,100.4,Hack,1,Cointelegraph: Humanity Protocols $36M loss tied to suspected North Korean hackers: Quantstamp
+2026-06-16,2026-06-16 00:31,gate,EVAA/USDT,1.317,3.71,18.8,83.8,,,
+2026-06-16,2026-06-16 00:31,gate,BEAT/USDT,4.1038,3.0,10.64,38.1,,7,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-16,2026-06-16 00:01,mexc,VELVET/USDT,0.3784,17.26,5.97,10.1,,100.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
