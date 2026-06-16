@@ -154,15 +154,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-15,2026-06-15 23:51,gate,JTO/USDT,0.7188,28.79,3.93,7.1,,,
 2026-06-15,2026-06-15 23:51,gate,BSB/USDT,0.37636,38.56,2.9,7.0,,,
 2026-06-15,2026-06-15 22:10,gate,FARTCOIN/USDT,0.13291,4.54,2.74,21.8,,,
-2026-06-16,2026-06-16 04:05,gate,ASTEROID/USDT,0.000123,27.15,45544.74,6.7,,,
+2026-06-16,2026-06-16 04:10,gate,ASTEROID/USDT,0.000124,28.91,45755.68,6.7,,,
 2026-06-16,2026-06-16 03:46,gate,SIREN/USDT,0.05426,3.1,282.9,20.3,,0.0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
 2026-06-16,2026-06-16 00:45,gate,H/USDT,0.26729,3.33,32.55,100.6,Hack,1.0,Cointelegraph: Humanity Protocols $36M loss tied to suspected North Korean hackers: Quantstamp
 2026-06-16,2026-06-16 00:40,gate,EVAA/USDT,1.3098,3.14,18.89,84.2,,,
 2026-06-16,2026-06-16 04:05,gate,LAB/USDT,9.88063,3.48,14.43,10.0,,,
-2026-06-16,2026-06-16 04:05,gate,SKYAI/USDT,0.37147,4.24,10.85,15.7,,,
+2026-06-16,2026-06-16 04:10,gate,SKYAI/USDT,0.37239,4.5,10.86,15.7,,,
 2026-06-16,2026-06-16 03:31,gate,BEAT/USDT,4.1124,3.22,10.05,36.0,,7.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-16,2026-06-16 00:45,gate,XLM/USDT,0.2206,3.29,6.65,11.1,,0.0,Coinpedia: XRP and Stellar Break Out of ConsolidationCan XLM and XRP Hit New Monthly Highs?
 2026-06-16,2026-06-16 00:01,mexc,VELVET/USDT,0.3784,17.26,5.97,10.1,,100.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-16,2026-06-16 04:05,gate,JTO/USDT,0.7512,3.12,4.22,8.6,,38,Invezz: Jito (JTO) surges to $0.68 intraday highs: can bulls push toward $1?
-2026-06-16,2026-06-16 04:05,gate,BSB/USDT,0.40234,11.14,3.27,7.9,,,
-2026-06-16,2026-06-16 04:05,gate,FARTCOIN/USDT,0.13327,3.74,2.68,22.6,,67,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-06-16,2026-06-16 04:05,gate,JTO/USDT,0.7512,3.12,4.22,8.6,,38.0,Invezz: Jito (JTO) surges to $0.68 intraday highs: can bulls push toward $1?
+2026-06-16,2026-06-16 04:10,gate,BSB/USDT,0.40818,12.75,3.29,8.0,,,
+2026-06-16,2026-06-16 04:10,gate,FARTCOIN/USDT,0.1329,3.45,2.68,22.6,,67,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
