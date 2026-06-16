@@ -154,13 +154,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-15,2026-06-15 23:51,gate,JTO/USDT,0.7188,28.79,3.93,7.1,,,
 2026-06-15,2026-06-15 23:51,gate,BSB/USDT,0.37636,38.56,2.9,7.0,,,
 2026-06-15,2026-06-15 22:10,gate,FARTCOIN/USDT,0.13291,4.54,2.74,21.8,,,
-2026-06-16,2026-06-16 02:16,gate,ASTEROID/USDT,0.000134,38.45,56130.45,8.2,,,
-2026-06-16,2026-06-16 02:16,gate,SIREN/USDT,0.05428,3.14,292.81,21.0,,0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
+2026-06-16,2026-06-16 02:21,gate,ASTEROID/USDT,0.00013,34.72,56482.66,8.2,,,
+2026-06-16,2026-06-16 02:16,gate,SIREN/USDT,0.05428,3.14,292.81,21.0,,0.0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
 2026-06-16,2026-06-16 00:45,gate,H/USDT,0.26729,3.33,32.55,100.6,Hack,1.0,Cointelegraph: Humanity Protocols $36M loss tied to suspected North Korean hackers: Quantstamp
 2026-06-16,2026-06-16 00:40,gate,EVAA/USDT,1.3098,3.14,18.89,84.2,,,
-2026-06-16,2026-06-16 02:16,gate,SKYAI/USDT,0.37571,5.43,12.1,17.5,,,
+2026-06-16,2026-06-16 02:21,gate,SKYAI/USDT,0.37427,5.03,12.11,17.5,,,
 2026-06-16,2026-06-16 02:16,gate,LAB/USDT,9.84661,3.13,11.56,8.0,,,
-2026-06-16,2026-06-16 02:16,gate,BEAT/USDT,4.1492,4.14,9.98,35.7,,7,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-16,2026-06-16 02:21,gate,BEAT/USDT,4.1541,4.27,9.99,35.8,,7,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-16,2026-06-16 00:45,gate,XLM/USDT,0.2206,3.29,6.65,11.1,,0.0,Coinpedia: XRP and Stellar Break Out of ConsolidationCan XLM and XRP Hit New Monthly Highs?
 2026-06-16,2026-06-16 00:01,mexc,VELVET/USDT,0.3784,17.26,5.97,10.1,,100.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-16,2026-06-16 02:16,gate,BSB/USDT,0.3892,7.51,3.03,7.3,,,
+2026-06-16,2026-06-16 02:21,gate,BSB/USDT,0.3887,7.37,3.04,7.3,,,
