@@ -154,18 +154,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-15,2026-06-15 23:51,gate,JTO/USDT,0.7188,28.79,3.93,7.1,,,
 2026-06-15,2026-06-15 23:51,gate,BSB/USDT,0.37636,38.56,2.9,7.0,,,
 2026-06-15,2026-06-15 22:10,gate,FARTCOIN/USDT,0.13291,4.54,2.74,21.8,,,
-2026-06-16,2026-06-16 07:26,gate,ASTEROID/USDT,0.000129,33.99,43260.54,6.3,,,
-2026-06-16,2026-06-16 07:26,gate,SPACE/USDT,0.008764,31.81,408.17,4.0,,209,CoinMarketCal: Spacecoin (SPACE) - CTC-1 Launch - 19 Nov 2025
-2026-06-16,2026-06-16 07:26,gate,SIREN/USDT,0.05702,8.34,197.6,14.2,,0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
-2026-06-16,2026-06-16 07:26,gate,VELVET/USDT,0.41672,12.42,55.29,3.2,,100,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-16,2026-06-16 07:35,gate,ASTEROID/USDT,0.000127,31.4,43347.2,6.3,,,
+2026-06-16,2026-06-16 07:35,gate,SPACE/USDT,0.00856,28.74,414.45,4.1,,209,CoinMarketCal: Spacecoin (SPACE) - CTC-1 Launch - 19 Nov 2025
+2026-06-16,2026-06-16 07:35,gate,SIREN/USDT,0.05788,9.98,198.76,14.3,,0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
+2026-06-16,2026-06-16 07:35,gate,VELVET/USDT,0.4319,16.51,55.9,3.3,,100,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-16,2026-06-16 00:45,gate,H/USDT,0.26729,3.33,32.55,100.6,Hack,1.0,Cointelegraph: Humanity Protocols $36M loss tied to suspected North Korean hackers: Quantstamp
-2026-06-16,2026-06-16 07:26,gate,LAB/USDT,10.15905,6.4,18.95,13.2,,,
+2026-06-16,2026-06-16 07:35,gate,LAB/USDT,10.13945,6.19,19.48,13.5,,,
 2026-06-16,2026-06-16 00:40,gate,EVAA/USDT,1.3098,3.14,18.89,84.2,,,
 2026-06-16,2026-06-16 03:31,gate,BEAT/USDT,4.1124,3.22,10.05,36.0,,7.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-16,2026-06-16 07:26,gate,SKYAI/USDT,0.38907,9.18,9.81,14.2,,,
+2026-06-16,2026-06-16 07:35,gate,SKYAI/USDT,0.38678,8.54,9.86,14.3,,,
 2026-06-16,2026-06-16 00:45,gate,XLM/USDT,0.2206,3.29,6.65,11.1,,0.0,Coinpedia: XRP and Stellar Break Out of ConsolidationCan XLM and XRP Hit New Monthly Highs?
 2026-06-16,2026-06-16 00:01,mexc,VELVET/USDT,0.3784,17.26,5.97,10.1,,100.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-16,2026-06-16 07:26,gate,BSB/USDT,0.49639,37.12,5.37,13.0,,,
-2026-06-16,2026-06-16 07:26,gate,JTO/USDT,0.7584,4.1,4.75,9.6,,38,Invezz: Jito (JTO) surges to $0.68 intraday highs: can bulls push toward $1?
-2026-06-16,2026-06-16 07:26,gate,FARTCOIN/USDT,0.1353,5.32,2.75,23.2,,,
-2026-06-16,2026-06-16 07:26,gate,UNI/USDT,2.951,3.76,2.0,7.4,,,
+2026-06-16,2026-06-16 07:35,gate,BSB/USDT,0.47519,31.26,5.51,13.3,,,
+2026-06-16,2026-06-16 07:26,gate,JTO/USDT,0.7584,4.1,4.75,9.6,,38.0,Invezz: Jito (JTO) surges to $0.68 intraday highs: can bulls push toward $1?
+2026-06-16,2026-06-16 07:35,gate,FARTCOIN/USDT,0.13617,5.99,2.76,23.3,,67,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-06-16,2026-06-16 07:35,gate,UNI/USDT,2.978,4.71,2.02,7.4,,,
