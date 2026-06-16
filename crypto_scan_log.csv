@@ -154,20 +154,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-15,2026-06-15 23:51,gate,JTO/USDT,0.7188,28.79,3.93,7.1,,,
 2026-06-15,2026-06-15 23:51,gate,BSB/USDT,0.37636,38.56,2.9,7.0,,,
 2026-06-15,2026-06-15 22:10,gate,FARTCOIN/USDT,0.13291,4.54,2.74,21.8,,,
-2026-06-16,2026-06-16 08:36,gate,ASTEROID/USDT,0.000127,31.61,41380.22,6.0,,,
-2026-06-16,2026-06-16 08:36,gate,SPACE/USDT,0.008133,22.32,454.43,4.5,,209,CoinMarketCal: Spacecoin (SPACE) - CTC-1 Launch - 19 Nov 2025
+2026-06-16,2026-06-16 08:46,gate,ASTEROID/USDT,0.000126,30.98,41423.13,6.0,,,
+2026-06-16,2026-06-16 08:46,gate,SPACE/USDT,0.008269,24.36,460.06,4.5,,,
 2026-06-16,2026-06-16 08:06,gate,SIREN/USDT,0.0553,5.07,190.58,13.7,,0.0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
-2026-06-16,2026-06-16 08:36,gate,VELVET/USDT,0.42457,14.54,59.08,3.5,,100,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-16,2026-06-16 08:46,gate,VELVET/USDT,0.42469,14.57,59.29,3.5,,,
 2026-06-16,2026-06-16 00:45,gate,H/USDT,0.26729,3.33,32.55,100.6,Hack,1.0,Cointelegraph: Humanity Protocols $36M loss tied to suspected North Korean hackers: Quantstamp
-2026-06-16,2026-06-16 08:36,gate,LAB/USDT,10.27856,7.65,20.8,14.5,,,
+2026-06-16,2026-06-16 08:46,gate,LAB/USDT,10.37366,8.65,21.19,14.7,,,
 2026-06-16,2026-06-16 00:40,gate,EVAA/USDT,1.3098,3.14,18.89,84.2,,,
 2026-06-16,2026-06-16 03:31,gate,BEAT/USDT,4.1124,3.22,10.05,36.0,,7.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-16,2026-06-16 08:36,gate,SKYAI/USDT,0.37327,4.75,9.57,13.9,,,
+2026-06-16,2026-06-16 08:46,gate,SKYAI/USDT,0.37516,5.28,9.6,13.9,,,
 2026-06-16,2026-06-16 08:06,gate,WLFI/USDT,0.06208,3.73,9.5,3.1,,5.0,"ACCESS Newswire: AI Financial Provides Update on Removal of Going Concern, WLFI Holdings, and Financial Flexibility"
 2026-06-16,2026-06-16 07:41,gate,ENA/USDT,0.08836,3.44,8.65,8.2,,3.0,The Block: Ethena Labs to allocate $250 million to Securitizes Tokenized AAA CLO Fund as it deploys on Solana
-2026-06-16,2026-06-16 08:36,gate,XLM/USDT,0.22005,3.03,8.5,14.2,,0,Coinpedia: XRP and Stellar Break Out of ConsolidationCan XLM and XRP Hit New Monthly Highs?
-2026-06-16,2026-06-16 08:36,gate,BSB/USDT,0.48028,32.67,6.25,15.1,,,
+2026-06-16,2026-06-16 08:46,gate,XLM/USDT,0.22068,3.33,8.58,14.4,,,
+2026-06-16,2026-06-16 08:46,gate,BSB/USDT,0.49124,35.7,6.33,15.3,,,
 2026-06-16,2026-06-16 00:01,mexc,VELVET/USDT,0.3784,17.26,5.97,10.1,,100.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-16,2026-06-16 07:26,gate,JTO/USDT,0.7584,4.1,4.75,9.6,,38.0,Invezz: Jito (JTO) surges to $0.68 intraday highs: can bulls push toward $1?
-2026-06-16,2026-06-16 08:36,gate,FARTCOIN/USDT,0.13714,6.75,2.77,23.4,,67,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-06-16,2026-06-16 08:36,gate,UNI/USDT,2.982,4.85,2.13,7.8,,,
+2026-06-16,2026-06-16 08:46,gate,FARTCOIN/USDT,0.13753,7.05,2.77,23.4,,,
+2026-06-16,2026-06-16 08:46,gate,UNI/USDT,2.964,4.22,2.15,7.9,,,
