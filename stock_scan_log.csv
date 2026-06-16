@@ -14,11 +14,11 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-06-15,2026-06-15 08:01,NASDAQ:MASK,2.68,18.06,3.4,0.82,12.24,37.0,DEAL,"Reuters: 3 E Network Launches Proactive Financing Strategy To Accelerate Semiconductor Blueprint, Officially Establishing Chip Business Unit",premarket
 2026-06-15,2026-06-15 08:01,NASDAQ:DSY,6.89,77.32,2.5,1.25,16.39,3.0,,"dpa-AFX: Morning Market Movers: GLXG, PPCB, DSY, VSME See Big Swings",premarket
 2026-06-16,2026-06-16 08:10,NASDAQ:JRSH,5.22,52.31,478.3,6.33,18.5,0.0,,Quartr: JRSH: Expanding apparel manufacturer in Jordan posts strong FY2026 growth and robust outlook,premarket
-2026-06-16,2026-06-16 08:31,AMEX:RGNT,7.01,13.33,14.8,2.48,0.14,0.0,,Stocktwits: Why Did RGNT Stock Surge More Than 850% Today?,premarket
-2026-06-16,2026-06-16 08:31,NASDAQ:CAST,3.47,212.26,7.0,16.52,0.22,14.0,DEAL,Reuters: Freecast Launches Multi-City Advertising Campaign Through Agreement With New To The Street,premarket
+2026-06-16,2026-06-16 08:35,AMEX:RGNT,7.06,13.33,14.8,2.48,0.16,0.0,,Stocktwits: Why Did RGNT Stock Surge More Than 850% Today?,premarket
+2026-06-16,2026-06-16 08:35,NASDAQ:CAST,3.31,212.26,7.0,16.52,0.24,14.0,DEAL,Reuters: Freecast Launches Multi-City Advertising Campaign Through Agreement With New To The Street,premarket
 2026-06-16,2026-06-16 08:10,NASDAQ:AHMA,1.87,37.04,6.5,2.14,13.66,46.0,EARNINGS,"Quartr: AHMA: 2025 revenue rose 9.1% to $20.2M, net income up 28.6%, led by MICE management growth",premarket
 2026-06-16,2026-06-16 08:10,NASDAQ:CUPR,10.94,175.82,5.7,0.92,10.96,0.0,FDA/CLIN,GlobeNewswire: Cuprina Receives U.S. FDA 510(k) Clearance for MEDIFLY Maggots  the First U.S. Clearance for a Lucilia cuprina Maggot Debridement Product,premarket
-2026-06-16,2026-06-16 08:31,NASDAQ:HUBC,1.89,22.03,5.6,3.33,0.16,12.0,,Reuters: HUB Announces Reverse Share Split,premarket
+2026-06-16,2026-06-16 08:35,NASDAQ:HUBC,1.96,22.03,5.6,3.33,0.18,12.0,,Reuters: HUB Announces Reverse Share Split,premarket
 2026-06-16,2026-06-16 08:10,NASDAQ:GLXG,1.68,15.07,4.1,1.71,10.73,4.0,,"dpa-AFX: Morning Market Movers: GLXG, PPCB, DSY, VSME See Big Swings",premarket
 2026-06-16,2026-06-16 08:10,NASDAQ:MTEN,2.71,10.12,2.7,0.84,2.86,5.0,OFFERING,GlobeNewswire: Mingteng International Corporation Inc. Announces Closing of $2.26 Million Registered Direct Offering,premarket
 2026-06-16,2026-06-16 08:10,NASDAQ:VSME,2.75,63.31,1.9,2.57,20.95,5.0,,"dpa-AFX: Morning Market Movers: VSME, CIIT, MSW, HWH See Big Swings",premarket
@@ -26,4 +26,4 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-06-16,2026-06-16 08:10,NASDAQ:CRMT,2.39,12.44,1.6,7.61,0.21,3.0,,TradingView: America's Car-Mart Extends Lender Forbearance to June 19 as Credit Amendment Nears,premarket
 2026-06-16,2026-06-16 08:10,NASDAQ:BYAH,1.95,33.33,0.8,1.02,7.11,459.0,,Quartr: BYAH: High-margin skincare business with broad China presence and ongoing R&D-driven growth,premarket
 2026-06-16,2026-06-16 08:10,NASDAQ:DXST,2.88,26.75,0.8,1.22,1.94,6.0,DEAL,Reuters: Decent Holding Partners With Taihao Robotics To Launch Real-World Robotics Training Network In China,premarket
-2026-06-16,2026-06-16 08:31,NASDAQ:TDIC,13.4,12.15,0.1,15.39,1.04,34.0,,"GlobeNewswire: Dreamland Limiteds Subsidiary Trendic International Limited and LinkFung Innovation Limited Enter Into MoU to Explore Development, Implementation, and Deployment of a Comprehensive AI-Powered Intelligent Image Library Platform",premarket
+2026-06-16,2026-06-16 08:35,NASDAQ:TDIC,10.856,12.15,0.1,15.39,1.31,34.0,,"GlobeNewswire: Dreamland Limiteds Subsidiary Trendic International Limited and LinkFung Innovation Limited Enter Into MoU to Explore Development, Implementation, and Deployment of a Comprehensive AI-Powered Intelligent Image Library Platform",premarket
