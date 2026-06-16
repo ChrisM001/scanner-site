@@ -154,16 +154,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-15,2026-06-15 23:51,gate,JTO/USDT,0.7188,28.79,3.93,7.1,,,
 2026-06-15,2026-06-15 23:51,gate,BSB/USDT,0.37636,38.56,2.9,7.0,,,
 2026-06-15,2026-06-15 22:10,gate,FARTCOIN/USDT,0.13291,4.54,2.74,21.8,,,
-2026-06-16,2026-06-16 05:25,gate,ASTEROID/USDT,0.000126,30.88,45749.86,6.7,,,
-2026-06-16,2026-06-16 05:25,gate,SPACE/USDT,0.007876,18.45,341.1,3.3,,209,CoinMarketCal: Spacecoin (SPACE) - CTC-1 Launch - 19 Nov 2025
+2026-06-16,2026-06-16 05:31,gate,ASTEROID/USDT,0.000126,30.88,45862.21,6.7,,,
+2026-06-16,2026-06-16 05:31,gate,SPACE/USDT,0.007931,19.28,342.13,3.4,,209,CoinMarketCal: Spacecoin (SPACE) - CTC-1 Launch - 19 Nov 2025
 2026-06-16,2026-06-16 04:35,gate,SIREN/USDT,0.05456,3.67,246.5,17.7,,0.0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
 2026-06-16,2026-06-16 00:45,gate,H/USDT,0.26729,3.33,32.55,100.6,Hack,1.0,Cointelegraph: Humanity Protocols $36M loss tied to suspected North Korean hackers: Quantstamp
 2026-06-16,2026-06-16 00:40,gate,EVAA/USDT,1.3098,3.14,18.89,84.2,,,
-2026-06-16,2026-06-16 05:25,gate,LAB/USDT,9.90381,3.73,17.06,11.9,,,
-2026-06-16,2026-06-16 05:25,gate,SKYAI/USDT,0.3867,8.52,10.97,15.9,,,
+2026-06-16,2026-06-16 05:31,gate,LAB/USDT,9.91921,3.89,17.17,11.9,,,
+2026-06-16,2026-06-16 05:31,gate,SKYAI/USDT,0.38928,9.24,10.99,15.9,,,
 2026-06-16,2026-06-16 03:31,gate,BEAT/USDT,4.1124,3.22,10.05,36.0,,7.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-16,2026-06-16 00:45,gate,XLM/USDT,0.2206,3.29,6.65,11.1,,0.0,Coinpedia: XRP and Stellar Break Out of ConsolidationCan XLM and XRP Hit New Monthly Highs?
 2026-06-16,2026-06-16 00:01,mexc,VELVET/USDT,0.3784,17.26,5.97,10.1,,100.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-16,2026-06-16 05:25,gate,JTO/USDT,0.7522,3.25,4.45,9.0,,38,Invezz: Jito (JTO) surges to $0.68 intraday highs: can bulls push toward $1?
-2026-06-16,2026-06-16 05:25,gate,BSB/USDT,0.44495,22.91,3.8,9.2,,,
-2026-06-16,2026-06-16 05:25,gate,FARTCOIN/USDT,0.13368,4.06,2.71,22.9,,67,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-06-16,2026-06-16 05:25,gate,JTO/USDT,0.7522,3.25,4.45,9.0,,38.0,Invezz: Jito (JTO) surges to $0.68 intraday highs: can bulls push toward $1?
+2026-06-16,2026-06-16 05:31,gate,BSB/USDT,0.4535,25.27,3.86,9.3,,,
+2026-06-16,2026-06-16 05:31,gate,FARTCOIN/USDT,0.13394,4.26,2.72,23.0,,67,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
