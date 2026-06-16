@@ -154,21 +154,22 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-15,2026-06-15 23:51,gate,JTO/USDT,0.7188,28.79,3.93,7.1,,,
 2026-06-15,2026-06-15 23:51,gate,BSB/USDT,0.37636,38.56,2.9,7.0,,,
 2026-06-15,2026-06-15 22:10,gate,FARTCOIN/USDT,0.13291,4.54,2.74,21.8,,,
-2026-06-16,2026-06-16 09:31,gate,ASTEROID/USDT,0.00013,35.23,38775.36,5.7,,,
-2026-06-16,2026-06-16 09:31,gate,SPACE/USDT,0.008023,20.66,471.24,4.6,,209,CoinMarketCal: Spacecoin (SPACE) - CTC-1 Launch - 19 Nov 2025
+2026-06-16,2026-06-16 09:41,gate,ASTEROID/USDT,0.000131,35.85,38904.49,5.7,,,
+2026-06-16,2026-06-16 09:41,gate,SPACE/USDT,0.008204,23.39,475.35,4.7,,209,CoinMarketCal: Spacecoin (SPACE) - CTC-1 Launch - 19 Nov 2025
+2026-06-16,2026-06-16 09:41,gate,CHIP/USDT,0.03789,3.24,207.71,3.7,Listing,52,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
 2026-06-16,2026-06-16 08:06,gate,SIREN/USDT,0.0553,5.07,190.58,13.7,,0.0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
-2026-06-16,2026-06-16 09:31,gate,VELVET/USDT,0.44507,20.07,63.37,3.7,,100,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-16,2026-06-16 09:41,gate,VELVET/USDT,0.4555,22.88,64.19,3.8,,100,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-16,2026-06-16 00:45,gate,H/USDT,0.26729,3.33,32.55,100.6,Hack,1.0,Cointelegraph: Humanity Protocols $36M loss tied to suspected North Korean hackers: Quantstamp
-2026-06-16,2026-06-16 09:31,gate,LAB/USDT,10.49909,9.96,22.18,15.4,,,
+2026-06-16,2026-06-16 09:41,gate,LAB/USDT,10.53513,10.34,22.42,15.6,,,
 2026-06-16,2026-06-16 00:40,gate,EVAA/USDT,1.3098,3.14,18.89,84.2,,,
 2026-06-16,2026-06-16 03:31,gate,BEAT/USDT,4.1124,3.22,10.05,36.0,,7.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-16,2026-06-16 09:31,gate,SKYAI/USDT,0.41198,15.61,9.66,14.0,,,
+2026-06-16,2026-06-16 09:41,gate,SKYAI/USDT,0.39688,11.37,9.76,14.2,,,
 2026-06-16,2026-06-16 08:06,gate,WLFI/USDT,0.06208,3.73,9.5,3.1,,5.0,"ACCESS Newswire: AI Financial Provides Update on Removal of Going Concern, WLFI Holdings, and Financial Flexibility"
-2026-06-16,2026-06-16 09:31,gate,XLM/USDT,0.22133,3.63,9.13,15.3,,0,Coinpedia: XRP and Stellar Break Out of ConsolidationCan XLM and XRP Hit New Monthly Highs?
+2026-06-16,2026-06-16 09:41,gate,XLM/USDT,0.2204,3.2,9.18,15.4,,0,Coinpedia: XRP and Stellar Break Out of ConsolidationCan XLM and XRP Hit New Monthly Highs?
 2026-06-16,2026-06-16 09:06,gate,ENA/USDT,0.08833,3.41,8.72,8.2,,3.0,The Block: Ethena Labs to allocate $250 million to Securitizes Tokenized AAA CLO Fund as it deploys on Solana
-2026-06-16,2026-06-16 09:31,gate,BSB/USDT,0.50645,39.9,6.72,16.3,,,
+2026-06-16,2026-06-16 09:41,gate,BSB/USDT,0.48166,33.05,6.85,16.6,,,
 2026-06-16,2026-06-16 00:01,mexc,VELVET/USDT,0.3784,17.26,5.97,10.1,,100.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-16,2026-06-16 09:31,gate,ZRO/USDT,1.151,3.32,5.25,3.6,Unlock,1,"Binance News: Large Token Unlocks Scheduled Next Week for ZRO, SPK, and ARB"
-2026-06-16,2026-06-16 09:31,gate,JTO/USDT,0.7544,3.56,5.24,10.6,,,
-2026-06-16,2026-06-16 09:31,gate,FARTCOIN/USDT,0.13692,6.58,2.77,23.3,,,
-2026-06-16,2026-06-16 09:31,gate,UNI/USDT,2.956,3.94,2.21,8.1,,,
+2026-06-16,2026-06-16 09:41,gate,JTO/USDT,0.7672,5.31,5.31,10.8,,,
+2026-06-16,2026-06-16 09:31,gate,ZRO/USDT,1.151,3.32,5.25,3.6,Unlock,1.0,"Binance News: Large Token Unlocks Scheduled Next Week for ZRO, SPK, and ARB"
+2026-06-16,2026-06-16 09:41,gate,FARTCOIN/USDT,0.13824,7.6,2.78,23.5,,,
+2026-06-16,2026-06-16 09:41,gate,UNI/USDT,2.95,3.73,2.22,8.2,,,
