@@ -177,3 +177,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-16,2026-06-16 10:56,gate,ZRO/USDT,1.168,4.85,5.11,3.5,,,
 2026-06-16,2026-06-16 23:06,gate,UNI/USDT,3.301,16.07,4.19,15.4,,,
 2026-06-16,2026-06-16 19:51,gate,FARTCOIN/USDT,0.13602,5.88,2.08,17.5,,,
+2026-06-17,2026-06-17 00:01,mexc,LUNC/USDT,7.5e-05,7.48,7217.33,3.4,,9,"Invezz: Humanity, LUNC, Audiera, Toncoin prices jump: is this a dead-cat bounce?"
+2026-06-17,2026-06-17 00:01,mexc,BR/USDT,0.19211,5.54,144.49,8.5,,,
+2026-06-17,2026-06-17 00:01,mexc,BLESS/USDT,0.007684,23.53,23.67,3.6,Listing,267,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
+2026-06-17,2026-06-17 00:01,mexc,VELVET/USDT,0.455,17.78,16.6,30.1,,101,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-17,2026-06-17 00:01,mexc,H/USDT,0.28948,15.51,2.2,55.2,,0,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
