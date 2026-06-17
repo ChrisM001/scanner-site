@@ -69,6 +69,8 @@ def placeholder(path, title, note):
     page = (
         '<!doctype html><html lang="de"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width, initial-scale=1">'
+        '<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">'
+        '<meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">'
         f'<title>{html.escape(title)}</title><style>:root{{color-scheme:dark}}'
         'body{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;'
         'background:#0f1115;color:#e6e9ef}.wrap{max-width:560px;margin:0 auto;padding:22px 16px}'
@@ -357,6 +359,8 @@ crypto_teaser = teaser("crypto_scan_log.csv", "pct24h", "coin")
 
 index = f"""<!doctype html><html lang="de"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
 <title>Scanner</title><style>
 :root{{color-scheme:dark}}
 body{{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;background:#0f1115;color:#e6e9ef}}
@@ -374,19 +378,19 @@ a.card:active{{background:#1c2029}}
 <h1>&#128225; Scanner</h1>
 <div class="sub">{now:%Y-%m-%d %H:%M} UTC &middot; automatisch aktualisiert (GitHub Actions)</div>
 
-<a class="card" href="stock.html">
+<a class="card" href="stock.html?v={now:%Y%m%d%H%M}">
   <div class="rowt"><div><span class="em">&#128200;</span><span class="t">Aktien &middot; Warrior Gap-Scanner</span></div>
   <span class="badge2">{badge(stock_ok, has_stock)}</span></div>
   <div class="teaser">{html.escape(stock_teaser) or 'keine Treffer / kein Lauf'}</div>
 </a>
 
-<a class="card" href="crypto.html">
+<a class="card" href="crypto.html?v={now:%Y%m%d%H%M}">
   <div class="rowt"><div><span class="em">&#129689;</span><span class="t">Krypto &middot; in play (RVOL)</span></div>
   <span class="badge2">{badge(crypto_ok, has_crypto)}</span></div>
   <div class="teaser">{html.escape(crypto_teaser) or 'keine Treffer / kein Lauf'}</div>
 </a>
 
-<a class="card" href="regime.html">
+<a class="card" href="regime.html?v={now:%Y%m%d%H%M}">
   <div class="rowt"><div><span class="em">&#129518;</span><span class="t">Krypto-Regime &middot; Portfolio-Allokation</span></div>
   <span class="badge2">{badge(regime_ok, has_regime)}</span></div>
   <div class="teaser">{html.escape(regime_teaser) or 'kein Lauf'}</div>
