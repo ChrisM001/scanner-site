@@ -62,6 +62,25 @@ def inject_refresh(html_str):
     return html_str + REFRESH_JS
 
 
+def placeholder(path, title, note):
+    """Minimale Seite, damit ein Karten-Link nie ins 404 laeuft (z.B. Aktien
+    ausserhalb der Handelszeit). Mit Refresh-Script -> Runterziehen laedt neu,
+    sobald wieder Daten da sind."""
+    page = (
+        '<!doctype html><html lang="de"><head><meta charset="utf-8">'
+        '<meta name="viewport" content="width=device-width, initial-scale=1">'
+        f'<title>{html.escape(title)}</title><style>:root{{color-scheme:dark}}'
+        'body{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;'
+        'background:#0f1115;color:#e6e9ef}.wrap{max-width:560px;margin:0 auto;padding:22px 16px}'
+        'a{color:#6ea8fe;text-decoration:none;font-size:13px}h1{font-size:19px}'
+        '.note{color:#9aa4b2;font-size:14px;line-height:1.5;margin-top:14px}</style></head><body>'
+        f'<div class="wrap"><a href="index.html">&#8592; Scanner</a><h1>{html.escape(title)}</h1>'
+        f'<p class="note">{html.escape(note)}</p>'
+        '<p class="note">Zum Aktualisieren die Seite nach unten ziehen.</p></div></body></html>')
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(inject_refresh(page))
+
+
 def run(label, args, extra_env=None):
     env = dict(os.environ)
     if extra_env:
@@ -313,6 +332,21 @@ run("Krypto-Regime", ["crypto_regime_signal.py", "0.40", "--json", os.path.join(
 regime_ok, regime_teaser = render_regime(os.path.join(DOCS, "regime.json"),
                                          os.path.join(DOCS, "regime.html"))
 has_regime = os.path.exists(os.path.join(DOCS, "regime.html"))
+
+# Platzhalter fuer fehlende Seiten -> Karten-Links laufen nie ins 404 (seit Artefakt-
+# Deploy wird docs/ frisch gebaut; ausserhalb der Handelszeit fehlt sonst stock.html).
+for _dst, _ok, _title, _note in [
+    ("stock.html",  has_stock,  "Aktien · Warrior Gap-Scanner",
+     "Aktien-Scan laeuft nur im US-Marktfenster (Mo-Fr ~08:00-21:00 UTC). Aktuell pausiert."),
+    ("crypto.html", has_crypto, "Krypto · in play",
+     "Krypto-Scan gerade nicht verfuegbar (Boerse blockt evtl. die Cloud-IP). Spaeter erneut ziehen."),
+    ("regime.html", has_regime, "Krypto-Regime",
+     "Regime-Signal gerade nicht verfuegbar."),
+]:
+    _p = os.path.join(DOCS, _dst)
+    if not _ok and not os.path.exists(_p):
+        placeholder(_p, _title, _note)
+        print(f"[page] Platzhalter geschrieben: {_dst}")
 
 # Push-Alarme: neue Eintraege seit letztem Lauf -> Telegram (no-op ohne Secrets).
 # Rueckgabe: ob sich ein Listen-Set geaendert hat (steuert den Commit).
