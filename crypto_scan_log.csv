@@ -181,10 +181,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-17,2026-06-17 00:01,mexc,BR/USDT,0.19211,5.54,144.49,8.5,,,
 2026-06-17,2026-06-17 00:01,mexc,BLESS/USDT,0.007684,23.53,23.67,3.6,Listing,267.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-17,2026-06-17 00:01,mexc,VELVET/USDT,0.455,17.78,16.6,30.1,,101.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-17,2026-06-17 00:55,gate,H/USDT,0.29824,3.02,15.16,50.1,,0,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
-2026-06-17,2026-06-17 00:55,gate,SKYAI/USDT,0.46317,3.6,10.03,14.9,,,
+2026-06-17,2026-06-17 00:55,gate,H/USDT,0.29824,3.02,15.16,50.1,,0.0,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
 2026-06-17,2026-06-17 00:10,gate,BSB/USDT,0.5575,3.86,9.83,23.7,,,
+2026-06-17,2026-06-17 01:01,gate,SKYAI/USDT,0.46931,4.98,9.76,14.5,,,
 2026-06-17,2026-06-17 00:25,gate,BEAT/USDT,2.5558,4.33,9.25,33.9,,8.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-17,2026-06-17 00:20,gate,EVAA/USDT,0.739,3.05,6.59,36.4,,,
-2026-06-17,2026-06-17 00:35,gate,UNI/USDT,3.388,3.04,3.91,16.2,,0.0,NewsBTC: Reports Say Standard Chartered Sees UNI At $100 As RWA Thesis Builds
+2026-06-17,2026-06-17 01:01,gate,UNI/USDT,3.427,4.23,3.81,15.7,,0,NewsBTC: Reports Say Standard Chartered Sees UNI At $100 As RWA Thesis Builds
 2026-06-17,2026-06-17 00:01,mexc,H/USDT,0.28948,15.51,2.2,55.2,,0.0,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
