@@ -17,6 +17,50 @@ DOCS = os.path.join(DIR, "docs")
 PY   = sys.executable
 os.makedirs(DOCS, exist_ok=True)
 
+# Auf dem Homescreen laeuft die Seite als Standalone-PWA -> die native "runterziehen
+# zum Neuladen"-Geste fehlt UND die Seite friert beim Reoeffnen ein. Dieses Snippet
+# wird in JEDE Seite injiziert (inject_refresh) und bringt: (1) Pull-to-Refresh per
+# Touch, (2) Auto-Reload beim Wieder-Anzeigen/aus dem bfcache-Hintergrund.
+REFRESH_JS = r"""<script>
+(function(){
+  var loadedAt = Date.now();
+  window.addEventListener('pageshow', function(e){ if(e.persisted) location.reload(); });
+  document.addEventListener('visibilitychange', function(){
+    if(document.visibilityState === 'visible' && Date.now() - loadedAt > 45000) location.reload();
+  });
+  var startY = 0, pulling = false, THRESH = 70;
+  var ind = document.createElement('div');
+  ind.style.cssText = 'position:fixed;top:0;left:0;right:0;text-align:center;padding:10px;'
+    + 'font:13px -apple-system,Segoe UI,sans-serif;color:#6ea8fe;background:#0f1115;'
+    + 'transform:translateY(-100%);transition:transform .15s;z-index:9999';
+  ind.textContent = '↻ Loslassen zum Aktualisieren';
+  function addInd(){ if(document.body){ document.body.appendChild(ind); }
+    else { document.addEventListener('DOMContentLoaded', addInd); } }
+  addInd();
+  window.addEventListener('touchstart', function(e){
+    if(window.scrollY <= 0){ startY = e.touches[0].clientY; pulling = true; }
+  }, {passive:true});
+  window.addEventListener('touchmove', function(e){
+    if(!pulling) return;
+    var dy = e.touches[0].clientY - startY;
+    if(dy > 0) ind.style.transform = 'translateY(' + Math.min(dy - ind.offsetHeight, THRESH) + 'px)';
+  }, {passive:true});
+  window.addEventListener('touchend', function(e){
+    if(!pulling) return; pulling = false;
+    if(e.changedTouches[0].clientY - startY > THRESH){
+      ind.textContent = '↻ Aktualisiere…'; location.reload();
+    } else ind.style.transform = 'translateY(-100%)';
+  }, {passive:true});
+})();
+</script>"""
+
+
+def inject_refresh(html_str):
+    """REFRESH_JS vor </body> einfuegen (einmal). Faellt zurueck auf Anhaengen."""
+    if "</body>" in html_str:
+        return html_str.replace("</body>", REFRESH_JS + "</body>", 1)
+    return html_str + REFRESH_JS
+
 
 def run(label, args, extra_env=None):
     env = dict(os.environ)
@@ -39,7 +83,10 @@ def run(label, args, extra_env=None):
 def copy_if(src, dst):
     s = os.path.join(DIR, src)
     if os.path.exists(s):
-        shutil.copyfile(s, os.path.join(DOCS, dst))
+        with open(s, "r", encoding="utf-8") as f:
+            content = f.read()
+        with open(os.path.join(DOCS, dst), "w", encoding="utf-8") as f:
+            f.write(inject_refresh(content))
         return True
     return False
 
@@ -119,7 +166,7 @@ Sharpe&nbsp;~0.65, max&nbsp;Drawdown&nbsp;~25&ndash;30%. Rebalance 1&times;t&aum
 Risk-controlled Beta, kein Alpha &middot; PAPER/Research, keine Anlageberatung.</p>
 </div></body></html>"""
     with open(html_out, "w", encoding="utf-8") as f:
-        f.write(page)
+        f.write(inject_refresh(page))
     return True, teaser
 
 
@@ -317,7 +364,7 @@ Serverlos via GitHub Actions &mdash; aktuell auch wenn dein PC aus ist.</p>
 </div></body></html>"""
 
 with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
-    f.write(index)
+    f.write(inject_refresh(index))
 
 print(f"docs/: index.html | stock.html={has_stock} | crypto.html={has_crypto}")
 if not (has_stock or has_crypto):
