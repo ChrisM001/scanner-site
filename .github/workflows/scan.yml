@@ -9,7 +9,7 @@ name: scanners
 # echter Listen-Aenderung. Aktien-Scan ist intern auf das US-Marktfenster gegated.
 on:
   schedule:
-    - cron: "*/5 * * * *"       # alle 5 Min (GitHub-Minimum; best-effort -> cron-job.org ist primaer)
+    - cron: "*/15 * * * *"      # Backstop alle 15 Min (best-effort) -> cron-job.org ist primaer (5 Min)
   workflow_dispatch: {}
 
 permissions:
@@ -19,7 +19,8 @@ permissions:
 
 concurrency:
   group: scanners
-  cancel-in-progress: false    # Laeufe nicht mittendrin abwuergen; sie sind schnell (~1 Min)
+  cancel-in-progress: true     # haengende Deploys (Pages-Env-Wait) sofort abloesen statt Stau/Cancel-
+                               # Kaskade. Safe: Seite kommt via Artefakt, Daten-Commit ist unkritisch.
 
 jobs:
   build:
@@ -67,18 +68,24 @@ jobs:
 
       # --- Daten (CSV + Alert-State) NUR bei echter Aenderung committen, NICHT die Seite ---
       - name: Daten committen
+        continue-on-error: true       # unkritisch: Deploy lief schon via Artefakt -> nie Fail-Mail
         run: |
           if [ ! -f .do_commit ]; then echo "keine Aenderung -> kein Commit"; exit 0; fi
           rm -f .do_commit
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          MSG="data $(date -u +'%Y-%m-%d %H:%M UTC')"
           git add stock_scan_log.csv crypto_scan_log.csv alert_state_crypto.json alert_state_stock.json 2>/dev/null || true
-          git diff --quiet --cached || git commit -m "data $(date -u +'%Y-%m-%d %H:%M UTC')"
-          # Race-sicher pushen: bei parallelem Lauf erst rebasen, dann erneut.
+          git diff --quiet --cached && { echo "nichts zu committen"; exit 0; }
+          git commit -m "$MSG"
+          # Konfliktfest pushen: bei Ablehnung unsere Daten LINEAR auf frisches origin/main neu
+          # aufsetzen (reset --soft haelt unsere Aenderungen gestaged) -> kein Rebase-Konflikt moeglich.
           for i in 1 2 3 4 5; do
-            if git push; then exit 0; fi
-            echo "push abgelehnt -> rebase + retry ($i)"
-            git pull --rebase --autostash origin main || true
-            sleep 3
+            if git push; then echo "push ok"; exit 0; fi
+            echo "push abgelehnt -> auf origin/main neu aufsetzen ($i)"
+            git fetch origin main || true
+            git reset --soft origin/main || true
+            git diff --quiet --cached || git commit -m "$MSG"
+            sleep 2
           done
-          echo "push nach 5 Versuchen weiter fehlgeschlagen"; exit 1
+          echo "push nach 5 Versuchen weiter fehlgeschlagen (unkritisch -> kein Fail)"; exit 0

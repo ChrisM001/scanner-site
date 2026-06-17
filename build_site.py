@@ -144,6 +144,22 @@ def _latest_rows(csv):
     return d[d["ts"] == d["ts"].max()].copy()
 
 
+def _tv_url(kind, r):
+    """Direkter TradingView-Chart-Link je Symbol -> in die Telegram-Nachricht.
+    Loest "Alarm da, aber Symbol nicht in der HTML": der User tippt den Alarm an
+    und landet sofort im Chart, unabhaengig vom (transienten) Seitenzustand."""
+    try:
+        if kind == "crypto":
+            from crypto_scan import TVPREFIX           # gleiche Quelle wie der Seiten-Link
+            pref = TVPREFIX.get(str(r.get("exchange", "")).lower(), "BINANCE")
+            sym = str(r["coin"]).replace("/", "").upper()      # ESPORTS/USDT -> ESPORTSUSDT
+            return f"https://www.tradingview.com/chart/?symbol={pref}:{sym}.P"
+        sym = str(r["symbol"]).upper()
+        return f"https://www.tradingview.com/chart/?symbol={sym}"
+    except Exception:
+        return ""
+
+
 def send_alerts(when):
     """Diff gegen letzten Lauf -> Telegram-Push fuer neue Coins/Aktien."""
     try:
@@ -176,7 +192,10 @@ def send_alerts(when):
                 meta = f"  {pct:+.0f}%  RVOL {rv:.0f}x"
             except Exception:
                 meta = ""
-            lines.append(f"{emoji} <b>{_h.escape(str(r[symcol]))}</b>{meta}{cat}")
+            url = _tv_url(kind, r)
+            label = _h.escape(str(r[symcol]))
+            sym_html = f'<a href="{url}">{label}</a>' if url else label
+            lines.append(f"{emoji} <b>{sym_html}</b>{meta}{cat}")
     if lines:
         msg = (f"\U0001F4DF <b>Scanner</b> — {len(lines)} neu in play  "
                f"({when:%Y-%m-%d %H:%M} UTC)\n" + "\n".join(lines[:25]))
