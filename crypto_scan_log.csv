@@ -179,19 +179,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-16,2026-06-16 19:51,gate,FARTCOIN/USDT,0.13602,5.88,2.08,17.5,,,
 2026-06-17,2026-06-17 00:01,mexc,LUNC/USDT,7.5e-05,7.48,7217.33,3.4,,9.0,"Invezz: Humanity, LUNC, Audiera, Toncoin prices jump: is this a dead-cat bounce?"
 2026-06-17,2026-06-17 04:01,gate,龙虾/USDT,0.019242,4.84,454.62,4.2,,,
-2026-06-17,2026-06-17 04:01,gate,SPACE/USDT,0.008068,3.32,332.45,3.6,,210,CoinMarketCal: Spacecoin (SPACE) - CTC-1 Launch - 19 Nov 2025
+2026-06-17,2026-06-17 04:05,gate,SPACE/USDT,0.008095,3.66,334.76,3.6,,210,CoinMarketCal: Spacecoin (SPACE) - CTC-1 Launch - 19 Nov 2025
 2026-06-17,2026-06-17 00:01,mexc,BR/USDT,0.19211,5.54,144.49,8.5,,,
 2026-06-17,2026-06-17 01:35,gate,BR/USDT,0.19693,3.03,80.33,4.4,,,
-2026-06-17,2026-06-17 04:01,gate,LAB/USDT,13.85626,4.13,55.23,38.3,,,
-2026-06-17,2026-06-17 04:01,gate,BTW/USDT,0.063612,7.5,34.28,4.0,,,
-2026-06-17,2026-06-17 04:01,gate,ESPORTS/USDT,0.07787,12.76,30.38,3.1,,195,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-17,2026-06-17 04:05,gate,LAB/USDT,13.9831,5.08,55.48,38.5,,,
+2026-06-17,2026-06-17 04:05,gate,BTW/USDT,0.065163,10.12,34.59,4.1,,,
+2026-06-17,2026-06-17 04:05,gate,ESPORTS/USDT,0.07884,14.16,30.57,3.1,,195,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-17,2026-06-17 00:01,mexc,BLESS/USDT,0.007684,23.53,23.67,3.6,Listing,267.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-17,2026-06-17 00:01,mexc,VELVET/USDT,0.455,17.78,16.6,30.1,,101.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-17,2026-06-17 03:46,gate,H/USDT,0.30047,3.79,16.12,53.2,,0.0,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
-2026-06-17,2026-06-17 04:01,gate,BEAT/USDT,2.7945,14.07,10.72,39.3,,8,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-17,2026-06-17 04:01,gate,SKYAI/USDT,0.46647,4.34,10.4,15.4,,,
+2026-06-17,2026-06-17 04:05,gate,BEAT/USDT,2.8347,15.71,10.74,39.4,,8,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-17,2026-06-17 04:05,gate,SKYAI/USDT,0.4692,4.95,10.41,15.4,,,
 2026-06-17,2026-06-17 00:10,gate,BSB/USDT,0.5575,3.86,9.83,23.7,,,
 2026-06-17,2026-06-17 00:20,gate,EVAA/USDT,0.739,3.05,6.59,36.4,,,
-2026-06-17,2026-06-17 04:01,gate,XLM/USDT,0.22806,5.32,4.89,8.3,,0,NewsBTC: DTCC And Stellar Plan Tokenization Link For DTC-Custodied Assets
-2026-06-17,2026-06-17 04:01,gate,UNI/USDT,3.529,7.33,4.53,18.7,,,
+2026-06-17,2026-06-17 04:05,gate,XLM/USDT,0.22854,5.54,4.92,8.4,,0,NewsBTC: DTCC And Stellar Plan Tokenization Link For DTC-Custodied Assets
+2026-06-17,2026-06-17 04:05,gate,UNI/USDT,3.542,7.73,4.54,18.8,,0,"Binance News: Garrett Jin Closes HYPE Position and Opens Long UNI, Lookonchain Data Show"
 2026-06-17,2026-06-17 00:01,mexc,H/USDT,0.28948,15.51,2.2,55.2,,0.0,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
