@@ -204,10 +204,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-17,2026-06-17 23:46,gate,XLM/USDT,0.22604,4.38,5.06,8.6,,,
 2026-06-17,2026-06-17 07:16,gate,EVAA/USDT,0.7525,4.94,2.77,15.3,,,
 2026-06-17,2026-06-17 00:01,mexc,H/USDT,0.28948,15.51,2.2,55.2,,0.0,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
-2026-06-18,2026-06-18 02:01,gate,ESPORTS/USDT,0.24759,33.05,245.09,27.4,,196,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-18,2026-06-18 02:01,gate,SIREN/USDT,0.05011,3.62,108.21,8.3,,2,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
-2026-06-18,2026-06-18 02:01,gate,CLO/USDT,0.18954,7.11,14.97,3.4,,,
+2026-06-18,2026-06-18 02:01,gate,ESPORTS/USDT,0.24759,33.05,245.09,27.4,,196.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-18,2026-06-18 02:31,gate,SIREN/USDT,0.05286,9.31,111.05,8.5,,2,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
+2026-06-18,2026-06-18 02:31,gate,CLO/USDT,0.19163,8.29,15.36,3.5,,,
 2026-06-18,2026-06-18 00:50,gate,BEAT/USDT,1.9435,4.37,13.22,50.4,,9.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-18,2026-06-18 02:01,gate,H/USDT,0.23352,3.59,9.44,32.2,,1,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
-2026-06-18,2026-06-18 02:01,gate,SKYAI/USDT,0.35866,6.35,8.32,12.5,,,
-2026-06-18,2026-06-18 02:01,gate,XLM/USDT,0.24133,7.02,5.18,9.0,,0,Coinpedia: Stellar (XLM) Price Has Broken OutWill the Rally Extend or Face a Reality Check?
+2026-06-18,2026-06-18 02:31,gate,ENA/USDT,0.09787,3.05,10.63,10.1,,5,The Block: Ethena Labs to allocate $250 million to Securitizes Tokenized AAA CLO Fund as it deploys on Solana
+2026-06-18,2026-06-18 02:31,gate,H/USDT,0.23594,4.66,9.61,32.8,,1,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
+2026-06-18,2026-06-18 02:31,gate,SKYAI/USDT,0.35799,6.15,8.42,12.6,,,
+2026-06-18,2026-06-18 02:31,gate,XLM/USDT,0.23904,6.0,5.45,9.4,,0,Coinpedia: Stellar (XLM) Price Has Broken OutWill the Rally Extend or Face a Reality Check?
