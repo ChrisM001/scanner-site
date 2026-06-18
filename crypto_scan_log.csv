@@ -204,13 +204,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-17,2026-06-17 23:46,gate,XLM/USDT,0.22604,4.38,5.06,8.6,,,
 2026-06-17,2026-06-17 07:16,gate,EVAA/USDT,0.7525,4.94,2.77,15.3,,,
 2026-06-17,2026-06-17 00:01,mexc,H/USDT,0.28948,15.51,2.2,55.2,,0.0,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
-2026-06-18,2026-06-18 03:51,gate,ESPORTS/USDT,0.20522,10.28,321.66,36.0,,196,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-18,2026-06-18 03:51,gate,SIREN/USDT,0.05099,5.44,115.33,8.8,,2,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
-2026-06-18,2026-06-18 03:51,gate,LAB/USDT,13.96193,6.6,45.63,31.5,,,
-2026-06-18,2026-06-18 03:51,gate,CLO/USDT,0.1882,6.35,16.97,3.9,,,
+2026-06-18,2026-06-18 03:55,gate,ESPORTS/USDT,0.20426,9.76,324.8,36.4,,196,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-18,2026-06-18 03:55,gate,SIREN/USDT,0.05066,4.76,115.6,8.8,,2,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
+2026-06-18,2026-06-18 03:55,gate,LAB/USDT,13.92241,6.3,45.7,31.5,,,
+2026-06-18,2026-06-18 03:55,gate,CLO/USDT,0.18984,7.28,17.23,3.9,,,
 2026-06-18,2026-06-18 00:50,gate,BEAT/USDT,1.9435,4.37,13.22,50.4,,9.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-18,2026-06-18 02:31,gate,ENA/USDT,0.09787,3.05,10.63,10.1,,5.0,The Block: Ethena Labs to allocate $250 million to Securitizes Tokenized AAA CLO Fund as it deploys on Solana
-2026-06-18,2026-06-18 03:51,gate,H/USDT,0.24211,7.4,8.91,30.4,,1,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
-2026-06-18,2026-06-18 03:51,gate,SKYAI/USDT,0.3683,9.2,8.37,12.5,,,
-2026-06-18,2026-06-18 03:51,gate,XLM/USDT,0.23267,3.18,5.51,9.5,,0,Coinpedia: Stellar (XLM) Price Has Broken OutWill the Rally Extend or Face a Reality Check?
-2026-06-18,2026-06-18 03:51,gate,BIO/USDT,0.0359,3.37,2.75,3.3,,36,CoinMarketCal: Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026
+2026-06-18,2026-06-18 03:55,gate,H/USDT,0.239,6.02,8.93,30.4,,1,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
+2026-06-18,2026-06-18 03:55,gate,SKYAI/USDT,0.36764,9.01,8.38,12.6,,,
+2026-06-18,2026-06-18 03:55,gate,XLM/USDT,0.23298,3.31,5.52,9.5,,0,Coinpedia: Stellar (XLM) Price Has Broken OutWill the Rally Extend or Face a Reality Check?
+2026-06-18,2026-06-18 03:51,gate,BIO/USDT,0.0359,3.37,2.75,3.3,,36.0,CoinMarketCal: Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026
