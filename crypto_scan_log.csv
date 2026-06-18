@@ -204,7 +204,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-17,2026-06-17 23:46,gate,XLM/USDT,0.22604,4.38,5.06,8.6,,,
 2026-06-17,2026-06-17 07:16,gate,EVAA/USDT,0.7525,4.94,2.77,15.3,,,
 2026-06-17,2026-06-17 00:01,mexc,H/USDT,0.28948,15.51,2.2,55.2,,0.0,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
-2026-06-18,2026-06-18 00:35,gate,ESPORTS/USDT,0.21192,13.88,195.63,21.9,,196,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-18,2026-06-18 00:35,gate,BEAT/USDT,1.9408,4.23,13.06,49.8,,9,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-18,2026-06-18 00:35,gate,H/USDT,0.23284,3.29,9.9,33.7,,1,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
-2026-06-18,2026-06-18 00:35,gate,SKYAI/USDT,0.34888,3.45,8.96,13.4,,,
+2026-06-18,2026-06-18 00:40,gate,ESPORTS/USDT,0.21006,12.88,197.88,22.2,,196,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-18,2026-06-18 00:40,gate,SIREN/USDT,0.05032,4.05,104.42,8.0,,2,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
+2026-06-18,2026-06-18 00:40,gate,BEAT/USDT,1.9419,4.29,13.1,50.0,,9,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-18,2026-06-18 00:40,gate,H/USDT,0.238,5.58,9.92,33.8,,1,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
+2026-06-18,2026-06-18 00:40,gate,SKYAI/USDT,0.35021,3.84,8.98,13.5,,,
