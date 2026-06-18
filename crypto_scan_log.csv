@@ -205,12 +205,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-17,2026-06-17 07:16,gate,EVAA/USDT,0.7525,4.94,2.77,15.3,,,
 2026-06-17,2026-06-17 00:01,mexc,H/USDT,0.28948,15.51,2.2,55.2,,0.0,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
 2026-06-18,2026-06-18 05:05,gate,ESPORTS/USDT,0.1933,3.87,350.16,39.2,,196.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-18,2026-06-18 05:10,gate,SIREN/USDT,0.0507,4.84,113.48,8.7,,2,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
-2026-06-18,2026-06-18 05:10,gate,LAB/USDT,14.26181,8.89,43.79,30.2,,,
-2026-06-18,2026-06-18 05:10,gate,CLO/USDT,0.20216,14.24,18.34,4.2,,,
+2026-06-18,2026-06-18 05:10,gate,SIREN/USDT,0.0507,4.84,113.48,8.7,,2.0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
+2026-06-18,2026-06-18 05:20,gate,LAB/USDT,14.2358,8.7,44.03,30.4,,,
+2026-06-18,2026-06-18 05:20,gate,CLO/USDT,0.20328,14.87,18.46,4.2,,,
 2026-06-18,2026-06-18 05:01,gate,BEAT/USDT,1.9189,3.05,10.95,41.8,,9.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-18,2026-06-18 02:31,gate,ENA/USDT,0.09787,3.05,10.63,10.1,,5.0,The Block: Ethena Labs to allocate $250 million to Securitizes Tokenized AAA CLO Fund as it deploys on Solana
-2026-06-18,2026-06-18 05:10,gate,H/USDT,0.2454,8.86,7.9,26.9,,1,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
-2026-06-18,2026-06-18 05:10,gate,SKYAI/USDT,0.37093,9.98,7.46,11.2,,,
+2026-06-18,2026-06-18 05:20,gate,H/USDT,0.2497,10.77,7.93,27.0,,1,NewsBTC: Humanity Protocol Plans New H Token After $36 Million Key Compromise
+2026-06-18,2026-06-18 05:20,gate,SKYAI/USDT,0.36728,8.9,7.49,11.2,,,
 2026-06-18,2026-06-18 04:56,gate,XLM/USDT,0.23234,3.03,5.49,9.5,,0.0,Coinpedia: Stellar (XLM) Price Has Broken OutWill the Rally Extend or Face a Reality Check?
 2026-06-18,2026-06-18 03:51,gate,BIO/USDT,0.0359,3.37,2.75,3.3,,36.0,CoinMarketCal: Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026
