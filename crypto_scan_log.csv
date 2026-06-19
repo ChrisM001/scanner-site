@@ -223,18 +223,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-18,2026-06-18 23:25,gate,BIO/USDT,0.03619,4.2,2.97,3.6,,,
 2026-06-19,2026-06-19 00:01,mexc,FLOKI/USDT,2.7e-05,6.67,226260.69,6.6,,14.0,Coindar: FLOKI to Make Announcement on June 5th
 2026-06-19,2026-06-19 00:01,mexc,ASTEROID/USDT,0.000184,108.75,40102.59,4.7,,,
-2026-06-19,2026-06-19 00:31,gate,ESPORTS/USDT,0.05107,17.97,511.7,61.2,,197,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-19,2026-06-19 00:31,gate,VELVET/USDT,0.49899,3.21,118.35,7.5,,103,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-19,2026-06-19 00:31,gate,CLO/USDT,0.20653,3.28,22.73,5.6,,,
+2026-06-19,2026-06-19 00:35,gate,ESPORTS/USDT,0.0491,13.42,512.59,61.3,,197,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-19,2026-06-19 00:31,gate,VELVET/USDT,0.49899,3.21,118.35,7.5,,103.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-19,2026-06-19 00:35,gate,CLO/USDT,0.21027,5.15,22.77,5.6,,,
 2026-06-19,2026-06-19 00:01,mexc,VELVET/USDT,0.4832,7.73,19.06,37.9,,103.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-19,2026-06-19 00:01,mexc,SYN/USDT,0.13634,13.92,15.94,18.1,,0.0,Invezz: Why is Synapse (SYN) price skyrocketing?
 2026-06-19,2026-06-19 00:01,mexc,MYX/USDT,0.1355,5.12,9.72,3.3,,6.0,CoinMarketCal: MYX Finance (MYX) - MYX V2 - 12 June 2026
 2026-06-19,2026-06-19 00:01,mexc,POL/USDT,0.07772,3.55,8.33,4.6,Partner,10.0,CoinMarketCal: Polygon (MATIC/POL) - AiFinPay Integration - Date (08 June 2026)
 2026-06-19,2026-06-19 00:01,mexc,ENA/USDT,0.09515,5.47,7.13,28.8,,0.0,Invezz: ENA price jumps 26% as Ethenas $250 million STAC plan fuels breakout buzz
 2026-06-19,2026-06-19 00:01,mexc,SEI/USDT,0.05538,5.52,6.94,7.1,,38.0,Coinpedia: SEI Price Outlook: Can SEI Token Rally Another 50% After This Major Breakout?
-2026-06-19,2026-06-19 00:31,gate,BSB/USDT,0.42253,6.38,4.95,10.7,,,
+2026-06-19,2026-06-19 00:35,gate,BSB/USDT,0.4217,6.17,4.96,10.8,,,
 2026-06-19,2026-06-19 00:01,mexc,VIRTUAL/USDT,0.599,4.77,4.8,3.2,,,
 2026-06-19,2026-06-19 00:01,mexc,PENGU/USDT,0.006746,3.8,4.51,9.3,,,
 2026-06-19,2026-06-19 00:01,mexc,FET/USDT,0.197,3.73,3.99,9.7,,,
 2026-06-19,2026-06-19 00:01,mexc,LAB/USDT,17.762,11.39,3.92,32.6,,,
-2026-06-19,2026-06-19 00:31,gate,BIO/USDT,0.03766,3.58,2.83,3.6,,37,CoinMarketCal: Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026
+2026-06-19,2026-06-19 00:31,gate,BIO/USDT,0.03766,3.58,2.83,3.6,,37.0,CoinMarketCal: Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026
