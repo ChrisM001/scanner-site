@@ -223,10 +223,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-18,2026-06-18 23:25,gate,BIO/USDT,0.03619,4.2,2.97,3.6,,,
 2026-06-19,2026-06-19 00:01,mexc,FLOKI/USDT,2.7e-05,6.67,226260.69,6.6,,14.0,Coindar: FLOKI to Make Announcement on June 5th
 2026-06-19,2026-06-19 00:01,mexc,ASTEROID/USDT,0.000184,108.75,40102.59,4.7,,,
-2026-06-19,2026-06-19 02:35,gate,ESPORTS/USDT,0.04588,5.98,449.44,53.8,,197,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-19,2026-06-19 02:40,gate,ESPORTS/USDT,0.04618,6.68,449.62,53.8,,197,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-19,2026-06-19 01:20,gate,VELVET/USDT,0.50669,4.8,123.64,7.8,,103.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-19,2026-06-19 02:30,gate,LAB/USDT,18.30323,3.04,76.55,52.6,,,
-2026-06-19,2026-06-19 02:35,gate,BTW/USDT,0.05436,5.29,33.54,3.6,,,
+2026-06-19,2026-06-19 02:40,gate,LAB/USDT,18.31145,3.09,77.04,52.9,,,
+2026-06-19,2026-06-19 02:40,gate,BTW/USDT,0.0534,3.43,33.71,3.6,,,
 2026-06-19,2026-06-19 01:30,gate,CLO/USDT,0.21252,6.27,22.74,5.6,,,
 2026-06-19,2026-06-19 00:01,mexc,VELVET/USDT,0.4832,7.73,19.06,37.9,,103.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-19,2026-06-19 00:01,mexc,SYN/USDT,0.13634,13.92,15.94,18.1,,0.0,Invezz: Why is Synapse (SYN) price skyrocketing?
@@ -234,8 +234,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-19,2026-06-19 00:01,mexc,POL/USDT,0.07772,3.55,8.33,4.6,Partner,10.0,CoinMarketCal: Polygon (MATIC/POL) - AiFinPay Integration - Date (08 June 2026)
 2026-06-19,2026-06-19 00:01,mexc,ENA/USDT,0.09515,5.47,7.13,28.8,,0.0,Invezz: ENA price jumps 26% as Ethenas $250 million STAC plan fuels breakout buzz
 2026-06-19,2026-06-19 00:01,mexc,SEI/USDT,0.05538,5.52,6.94,7.1,,38.0,Coinpedia: SEI Price Outlook: Can SEI Token Rally Another 50% After This Major Breakout?
-2026-06-19,2026-06-19 02:35,gate,BSB/USDT,0.40939,3.07,4.9,10.6,,,
-2026-06-19,2026-06-19 02:35,gate,FOLKS/USDT,2.331,3.88,4.82,4.5,Partner,169,"CoinMarketCal: FOLKS, GALGO - AEON Payments Partnership - 31 December 2025"
+2026-06-19,2026-06-19 02:40,gate,BSB/USDT,0.41034,3.31,4.91,10.7,,,
+2026-06-19,2026-06-19 02:35,gate,FOLKS/USDT,2.331,3.88,4.82,4.5,Partner,169.0,"CoinMarketCal: FOLKS, GALGO - AEON Payments Partnership - 31 December 2025"
 2026-06-19,2026-06-19 00:01,mexc,VIRTUAL/USDT,0.599,4.77,4.8,3.2,,,
 2026-06-19,2026-06-19 00:01,mexc,PENGU/USDT,0.006746,3.8,4.51,9.3,,,
 2026-06-19,2026-06-19 00:01,mexc,FET/USDT,0.197,3.73,3.99,9.7,,,
