@@ -226,7 +226,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-19,2026-06-19 04:45,gate,ESPORTS/USDT,0.04516,4.32,397.23,47.5,,197.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-19,2026-06-19 04:25,gate,VELVET/USDT,0.49886,3.18,136.21,8.6,,103.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-19,2026-06-19 03:10,gate,LAB/USDT,18.3684,3.41,76.15,52.3,,,
-2026-06-19,2026-06-19 07:55,gate,BTW/USDT,0.060258,16.71,44.01,4.7,,,
+2026-06-19,2026-06-19 08:01,gate,BTW/USDT,0.061119,18.38,42.99,4.6,,,
 2026-06-19,2026-06-19 04:31,gate,BASED/USDT,0.10507,10.16,29.18,3.3,,,
 2026-06-19,2026-06-19 07:45,gate,CLO/USDT,0.20637,3.2,20.98,5.2,,,
 2026-06-19,2026-06-19 00:01,mexc,VELVET/USDT,0.4832,7.73,19.06,37.9,,103.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
@@ -241,5 +241,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-19,2026-06-19 06:40,gate,BSB/USDT,0.42123,6.06,4.04,8.8,,,
 2026-06-19,2026-06-19 00:01,mexc,FET/USDT,0.197,3.73,3.99,9.7,,,
 2026-06-19,2026-06-19 00:01,mexc,LAB/USDT,17.762,11.39,3.92,32.6,,,
-2026-06-19,2026-06-19 07:55,gate,FOLKS/USDT,2.391,6.55,3.84,3.6,Partner,169,"CoinMarketCal: FOLKS, GALGO - AEON Payments Partnership - 31 December 2025"
+2026-06-19,2026-06-19 08:01,gate,FOLKS/USDT,2.387,6.37,3.68,3.5,Partner,169,"CoinMarketCal: FOLKS, GALGO - AEON Payments Partnership - 31 December 2025"
 2026-06-19,2026-06-19 04:01,gate,BIO/USDT,0.0375,3.14,2.51,3.2,,37.0,CoinMarketCal: Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026
