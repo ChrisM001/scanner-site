@@ -224,11 +224,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-19,2026-06-19 00:01,mexc,FLOKI/USDT,2.7e-05,6.67,226260.69,6.6,,14.0,Coindar: FLOKI to Make Announcement on June 5th
 2026-06-19,2026-06-19 00:01,mexc,ASTEROID/USDT,0.000184,108.75,40102.59,4.7,,,
 2026-06-19,2026-06-19 04:45,gate,ESPORTS/USDT,0.04516,4.32,397.23,47.5,,197.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-19,2026-06-19 04:25,gate,VELVET/USDT,0.49886,3.18,136.21,8.6,,103.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-19,2026-06-19 08:16,gate,VELVET/USDT,0.49953,3.32,146.33,9.3,,103,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-19,2026-06-19 03:10,gate,LAB/USDT,18.3684,3.41,76.15,52.3,,,
-2026-06-19,2026-06-19 08:06,gate,BTW/USDT,0.061878,19.85,43.62,4.7,,,
+2026-06-19,2026-06-19 08:16,gate,BTW/USDT,0.064764,25.44,46.06,4.9,,,
 2026-06-19,2026-06-19 04:31,gate,BASED/USDT,0.10507,10.16,29.18,3.3,,,
-2026-06-19,2026-06-19 08:06,gate,CLO/USDT,0.20947,4.75,20.21,5.0,,,
+2026-06-19,2026-06-19 08:16,gate,CLO/USDT,0.21298,6.5,20.37,5.0,,,
 2026-06-19,2026-06-19 00:01,mexc,VELVET/USDT,0.4832,7.73,19.06,37.9,,103.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-19,2026-06-19 00:01,mexc,SYN/USDT,0.13634,13.92,15.94,18.1,,0.0,Invezz: Why is Synapse (SYN) price skyrocketing?
 2026-06-19,2026-06-19 00:01,mexc,MYX/USDT,0.1355,5.12,9.72,3.3,,6.0,CoinMarketCal: MYX Finance (MYX) - MYX V2 - 12 June 2026
@@ -241,5 +241,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-19,2026-06-19 06:40,gate,BSB/USDT,0.42123,6.06,4.04,8.8,,,
 2026-06-19,2026-06-19 00:01,mexc,FET/USDT,0.197,3.73,3.99,9.7,,,
 2026-06-19,2026-06-19 00:01,mexc,LAB/USDT,17.762,11.39,3.92,32.6,,,
-2026-06-19,2026-06-19 08:06,gate,FOLKS/USDT,2.362,5.26,3.69,3.5,Partner,169,"CoinMarketCal: FOLKS, GALGO - AEON Payments Partnership - 31 December 2025"
+2026-06-19,2026-06-19 08:16,gate,FOLKS/USDT,2.376,5.88,3.69,3.5,Partner,169,"CoinMarketCal: FOLKS, GALGO - AEON Payments Partnership - 31 December 2025"
 2026-06-19,2026-06-19 04:01,gate,BIO/USDT,0.0375,3.14,2.51,3.2,,37.0,CoinMarketCal: Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026
