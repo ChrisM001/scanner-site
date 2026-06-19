@@ -226,10 +226,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-19,2026-06-19 04:45,gate,ESPORTS/USDT,0.04516,4.32,397.23,47.5,,197.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-19,2026-06-19 09:11,gate,VELVET/USDT,0.49808,3.02,149.23,9.4,,103.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-19,2026-06-19 03:10,gate,LAB/USDT,18.3684,3.41,76.15,52.3,,,
-2026-06-19,2026-06-19 10:00,gate,BTW/USDT,0.065552,26.96,53.87,5.8,,,
+2026-06-19,2026-06-19 10:06,gate,BTW/USDT,0.066827,29.43,53.72,5.8,,,
 2026-06-19,2026-06-19 04:31,gate,BASED/USDT,0.10507,10.16,29.18,3.3,,,
-2026-06-19,2026-06-19 10:00,gate,CLO/USDT,0.2108,5.41,20.03,4.9,,,
 2026-06-19,2026-06-19 00:01,mexc,VELVET/USDT,0.4832,7.73,19.06,37.9,,103.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-19,2026-06-19 10:06,gate,CLO/USDT,0.21058,5.3,18.81,4.6,,,
 2026-06-19,2026-06-19 00:01,mexc,SYN/USDT,0.13634,13.92,15.94,18.1,,0.0,Invezz: Why is Synapse (SYN) price skyrocketing?
 2026-06-19,2026-06-19 09:46,gate,BEAT/USDT,1.7308,4.49,10.17,39.8,,11.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-19,2026-06-19 00:01,mexc,MYX/USDT,0.1355,5.12,9.72,3.3,,6.0,CoinMarketCal: MYX Finance (MYX) - MYX V2 - 12 June 2026
@@ -241,6 +241,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-19,2026-06-19 00:01,mexc,FET/USDT,0.197,3.73,3.99,9.7,,,
 2026-06-19,2026-06-19 10:00,gate,BSB/USDT,0.40968,3.15,3.93,8.5,,,
 2026-06-19,2026-06-19 00:01,mexc,LAB/USDT,17.762,11.39,3.92,32.6,,,
-2026-06-19,2026-06-19 10:00,gate,FOLKS/USDT,2.345,4.5,3.76,3.5,Partner,169,"CoinMarketCal: FOLKS, GALGO - AEON Payments Partnership - 31 December 2025"
+2026-06-19,2026-06-19 10:06,gate,FOLKS/USDT,2.342,4.37,3.52,3.3,Partner,169,"CoinMarketCal: FOLKS, GALGO - AEON Payments Partnership - 31 December 2025"
 2026-06-19,2026-06-19 04:01,gate,BIO/USDT,0.0375,3.14,2.51,3.2,,37.0,CoinMarketCal: Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026
-2026-06-19,2026-06-19 10:00,gate,HEI/USDT,0.14114,52.45,2.14,4.0,,,
+2026-06-19,2026-06-19 10:06,gate,HEI/USDT,0.14297,54.43,2.13,4.0,,,
