@@ -316,7 +316,7 @@ function fmtDist(d){ return d<1000 ? Math.round(d)+' m' : (d/1000).toFixed(1)+' 
 function esc(s){ var d=document.createElement('div'); d.textContent=s==null?'':s; return d.innerHTML; }
 function getPos(){ return new Promise(function(res,rej){
   navigator.geolocation.getCurrentPosition(res,rej,{enableHighAccuracy:true,timeout:15000,maximumAge:60000}); }); }
-var CELL=800, LAST_ME=null;
+var CELL=500, LAST_ME=null, CACHEVER='v3';
 // Breite Typ-Liste: die neue Places-API expandiert 'restaurant' NICHT auf kuechen-
 // spezifische Typen (indian_restaurant, ...), darum explizit alle aufzaehlen.
 var RTYPES=['restaurant','afghani_restaurant','african_restaurant','american_restaurant',
@@ -328,7 +328,7 @@ var RTYPES=['restaurant','afghani_restaurant','african_restaurant','american_res
 'pizza_restaurant','ramen_restaurant','seafood_restaurant','spanish_restaurant','steak_house',
 'sushi_restaurant','thai_restaurant','turkish_restaurant','vegan_restaurant',
 'vegetarian_restaurant','vietnamese_restaurant'];
-function ck(me){ return 'rest_'+me.lat.toFixed(3)+'_'+me.lng.toFixed(3)+'_'+RADIUS+'_'+MINR+'_'+MINREV; }
+function ck(me){ return 'rest_'+CACHEVER+'_'+me.lat.toFixed(3)+'_'+me.lng.toFixed(3)+'_'+RADIUS+'_'+MINR+'_'+MINREV; }
 // Gitter aus ueberlappenden Teil-Suchen (Zellen-Radius CELL, Schrittweite CELL) ueber
 // den 2-km-Kreis -> keine Zelle stoesst ans 20er-Limit, kein Lokal faellt durch.
 function gridCenters(me, R, cell){
@@ -349,6 +349,7 @@ async function searchAll(me){
     try{
       var resp=await Place.searchNearby({fields:fields,
         locationRestriction:{center:centers[i], radius:CELL}, includedTypes:RTYPES,
+        excludedPrimaryTypes:['cafe','coffee_shop','bakery'],
         maxResultCount:20, rankPreference:RP.DISTANCE, language:'de', region:'DE'});
       (resp.places||[]).forEach(function(pl){
         if(pl&&pl.id&&pl.location) byId[pl.id]={id:pl.id, name:(pl.displayName||''), rating:pl.rating,
@@ -359,7 +360,7 @@ async function searchAll(me){
   }
   return Object.keys(byId).map(function(k){ return byId[k]; });
 }
-function renderFrom(me, raw){
+function renderFrom(me, raw, fromCache){
   var out=[];
   for(var i=0;i<raw.length;i++){
     var p=raw[i];
@@ -368,10 +369,11 @@ function renderFrom(me, raw){
     out.push({name:p.name, rating:p.rating, n:p.n, addr:p.addr, dist:d, id:p.id});
   }
   out.sort(function(a,b){ return a.dist-b.dist; });
+  var src=fromCache?' (aus Cache · ↻ fuer frisch)':'';
   var bar='<div style="margin-top:12px"><a href="#" id="refresh" style="color:#6ea8fe;text-decoration:none;font-size:13px">↻ Neu laden (frisch)</a></div>';
-  if(!out.length){ setStatus(raw.length+' Lokale gefunden, aber 0 mit ≥'+MINR+'★ & ≥'+MINREV+' Bewertungen — Schwellen ggf. lockern.');
+  if(!out.length){ setStatus(raw.length+' Lokale gefunden, aber 0 mit ≥'+MINR+'★ & ≥'+MINREV+' Bewertungen — Schwellen ggf. lockern.'+src);
     document.getElementById('list').innerHTML=bar; wireRefresh(); return; }
-  setStatus(out.length+' Restaurants ≥'+MINR+'★ & ≥'+MINREV+' Bewertungen — nach Entfernung:');
+  setStatus(out.length+' Restaurants ≥'+MINR+'★ & ≥'+MINREV+' Bewertungen — nach Entfernung:'+src);
   var h='';
   for(var j=0;j<out.length;j++){
     var o=out[j];
@@ -390,12 +392,12 @@ async function go(me, fresh){
   LAST_ME=me;
   if(!fresh){
     try{ var raw=localStorage.getItem(ck(me)); if(raw){ var c=JSON.parse(raw);
-      if(Date.now()-c.t<1800000){ renderFrom(me, c.items); return; } } }catch(_){}
+      if(Date.now()-c.t<1800000){ renderFrom(me, c.items, true); return; } } }catch(_){}
   }
   setStatus('Suche Restaurants im Umkreis von '+RADIUS+' m…');
   var items=await searchAll(me);
   try{ localStorage.setItem(ck(me), JSON.stringify({t:Date.now(), items:items})); }catch(_){}
-  renderFrom(me, items);
+  renderFrom(me, items, false);
 }
 async function run(){
   try{
