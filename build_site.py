@@ -317,6 +317,17 @@ function esc(s){ var d=document.createElement('div'); d.textContent=s==null?'':s
 function getPos(){ return new Promise(function(res,rej){
   navigator.geolocation.getCurrentPosition(res,rej,{enableHighAccuracy:true,timeout:15000,maximumAge:60000}); }); }
 var CELL=800, LAST_ME=null;
+// Breite Typ-Liste: die neue Places-API expandiert 'restaurant' NICHT auf kuechen-
+// spezifische Typen (indian_restaurant, ...), darum explizit alle aufzaehlen.
+var RTYPES=['restaurant','afghani_restaurant','african_restaurant','american_restaurant',
+'asian_restaurant','barbecue_restaurant','brazilian_restaurant','breakfast_restaurant',
+'brunch_restaurant','buffet_restaurant','chinese_restaurant','diner','fine_dining_restaurant',
+'french_restaurant','greek_restaurant','hamburger_restaurant','indian_restaurant',
+'indonesian_restaurant','italian_restaurant','japanese_restaurant','korean_restaurant',
+'lebanese_restaurant','mediterranean_restaurant','mexican_restaurant','middle_eastern_restaurant',
+'pizza_restaurant','ramen_restaurant','seafood_restaurant','spanish_restaurant','steak_house',
+'sushi_restaurant','thai_restaurant','turkish_restaurant','vegan_restaurant',
+'vegetarian_restaurant','vietnamese_restaurant'];
 function ck(me){ return 'rest_'+me.lat.toFixed(3)+'_'+me.lng.toFixed(3)+'_'+RADIUS+'_'+MINR+'_'+MINREV; }
 // Gitter aus ueberlappenden Teil-Suchen (Zellen-Radius CELL, Schrittweite CELL) ueber
 // den 2-km-Kreis -> keine Zelle stoesst ans 20er-Limit, kein Lokal faellt durch.
@@ -337,7 +348,7 @@ async function searchAll(me){
   for(var i=0;i<centers.length;i++){
     try{
       var resp=await Place.searchNearby({fields:fields,
-        locationRestriction:{center:centers[i], radius:CELL}, includedTypes:['restaurant'],
+        locationRestriction:{center:centers[i], radius:CELL}, includedTypes:RTYPES,
         maxResultCount:20, rankPreference:RP.DISTANCE, language:'de', region:'DE'});
       (resp.places||[]).forEach(function(pl){
         if(pl&&pl.id&&pl.location) byId[pl.id]={id:pl.id, name:(pl.displayName||''), rating:pl.rating,
