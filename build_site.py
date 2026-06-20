@@ -329,15 +329,23 @@ async function run(){
     setStatus('Suche Restaurants im Umkreis von '+RADIUS+' m…');
     var lib=await google.maps.importLibrary('places');
     var Place=lib.Place, RP=lib.SearchNearbyRankPreference;
-    var resp=await Place.searchNearby({
+    // includedTypes (nicht includedPrimaryTypes) -> auch kuechen-spezifische Typen
+    // (italian_restaurant, sushi_restaurant, ...). Zwei Rankings mergen, weil die neue
+    // Nearby-Search hart auf 20 Treffer je Abfrage gedeckelt ist:
+    //   DISTANCE  -> die naechstgelegenen,  POPULARITY -> die bekanntesten.
+    var base={
       fields:['displayName','rating','userRatingCount','location','formattedAddress','id'],
       locationRestriction:{center:me, radius:RADIUS},
-      includedPrimaryTypes:['restaurant'],
+      includedTypes:['restaurant'],
       maxResultCount:20,
-      rankPreference:RP.POPULARITY,
       language:'de', region:'DE'
-    });
-    render(me, resp.places||[]);
+    };
+    var rDist=await Place.searchNearby(Object.assign({}, base, {rankPreference:RP.DISTANCE}));
+    var rPop =await Place.searchNearby(Object.assign({}, base, {rankPreference:RP.POPULARITY}));
+    var byId={};
+    (rDist.places||[]).concat(rPop.places||[]).forEach(function(pl){ if(pl&&pl.id) byId[pl.id]=pl; });
+    var merged=Object.keys(byId).map(function(k){ return byId[k]; });
+    render(me, merged);
   }catch(e){
     setStatus('Fehler: '+((e&&(e.message||e.code))||e)+' — ggf. "Places API (New)" im Google-Projekt aktivieren.');
   }
