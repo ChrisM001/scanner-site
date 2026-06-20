@@ -316,55 +316,51 @@ function fmtDist(d){ return d<1000 ? Math.round(d)+' m' : (d/1000).toFixed(1)+' 
 function esc(s){ var d=document.createElement('div'); d.textContent=s==null?'':s; return d.innerHTML; }
 function getPos(){ return new Promise(function(res,rej){
   navigator.geolocation.getCurrentPosition(res,rej,{enableHighAccuracy:true,timeout:15000,maximumAge:60000}); }); }
-async function run(){
-  try{
-    if(!navigator.geolocation){ setStatus('Dieses Geraet liefert keinen Standort.'); return; }
-    setStatus('Standort wird ermittelt… (bitte Zugriff erlauben)');
-    var p;
-    try{ p=await getPos(); }
-    catch(ge){ setStatus(ge && ge.code===1
-      ? 'Standortzugriff verweigert. Fuer Safari in den iPhone-Einstellungen erlauben und Seite neu laden.'
-      : 'Standort nicht ermittelbar ('+((ge&&ge.message)||'?')+').'); return; }
-    var me={lat:p.coords.latitude, lng:p.coords.longitude};
-    setStatus('Suche Restaurants im Umkreis von '+RADIUS+' m…');
-    var lib=await google.maps.importLibrary('places');
-    var Place=lib.Place, RP=lib.SearchNearbyRankPreference;
-    // includedTypes (nicht includedPrimaryTypes) -> auch kuechen-spezifische Typen
-    // (italian_restaurant, sushi_restaurant, ...). Zwei Rankings mergen, weil die neue
-    // Nearby-Search hart auf 20 Treffer je Abfrage gedeckelt ist:
-    //   DISTANCE  -> die naechstgelegenen,  POPULARITY -> die bekanntesten.
-    var base={
-      fields:['displayName','rating','userRatingCount','location','formattedAddress','id'],
-      locationRestriction:{center:me, radius:RADIUS},
-      includedTypes:['restaurant'],
-      maxResultCount:20,
-      language:'de', region:'DE'
-    };
-    var rDist=await Place.searchNearby(Object.assign({}, base, {rankPreference:RP.DISTANCE}));
-    var rPop =await Place.searchNearby(Object.assign({}, base, {rankPreference:RP.POPULARITY}));
-    var byId={};
-    (rDist.places||[]).concat(rPop.places||[]).forEach(function(pl){ if(pl&&pl.id) byId[pl.id]=pl; });
-    var merged=Object.keys(byId).map(function(k){ return byId[k]; });
-    render(me, merged);
-  }catch(e){
-    setStatus('Fehler: '+((e&&(e.message||e.code))||e)+' — ggf. "Places API (New)" im Google-Projekt aktivieren.');
+var CELL=800, LAST_ME=null;
+function ck(me){ return 'rest_'+me.lat.toFixed(3)+'_'+me.lng.toFixed(3)+'_'+RADIUS+'_'+MINR+'_'+MINREV; }
+// Gitter aus ueberlappenden Teil-Suchen (Zellen-Radius CELL, Schrittweite CELL) ueber
+// den 2-km-Kreis -> keine Zelle stoesst ans 20er-Limit, kein Lokal faellt durch.
+function gridCenters(me, R, cell){
+  var out=[], dLat=cell/111320.0, dLng=cell/(111320.0*Math.max(0.15,Math.cos(me.lat*Math.PI/180))), n=Math.ceil(R/cell);
+  for(var i=-n;i<=n;i++) for(var j=-n;j<=n;j++){
+    var c={lat:me.lat+i*dLat, lng:me.lng+j*dLng};
+    if(hav(me,c)<=R+cell*0.5) out.push(c);
   }
+  return out.length?out:[me];
 }
-function render(me, places){
+async function searchAll(me){
+  var lib=await google.maps.importLibrary('places');
+  var Place=lib.Place, RP=lib.SearchNearbyRankPreference;
+  var centers=gridCenters(me, RADIUS, CELL);
+  var fields=['displayName','rating','userRatingCount','location','formattedAddress','id'];
+  var byId={}, done=0;
+  for(var i=0;i<centers.length;i++){
+    try{
+      var resp=await Place.searchNearby({fields:fields,
+        locationRestriction:{center:centers[i], radius:CELL}, includedTypes:['restaurant'],
+        maxResultCount:20, rankPreference:RP.DISTANCE, language:'de', region:'DE'});
+      (resp.places||[]).forEach(function(pl){
+        if(pl&&pl.id&&pl.location) byId[pl.id]={id:pl.id, name:(pl.displayName||''), rating:pl.rating,
+          n:pl.userRatingCount, addr:(pl.formattedAddress||''), lat:pl.location.lat(), lng:pl.location.lng()};
+      });
+    }catch(_e){}
+    done++; if(done%4===0) setStatus('Suche… '+done+'/'+centers.length+' Bereiche · '+Object.keys(byId).length+' Lokale');
+  }
+  return Object.keys(byId).map(function(k){ return byId[k]; });
+}
+function renderFrom(me, raw){
   var out=[];
-  for(var i=0;i<places.length;i++){
-    var pl=places[i];
-    if(pl.rating==null || pl.userRatingCount==null) continue;
-    if(pl.rating<MINR || pl.userRatingCount<MINREV) continue;
-    var loc=pl.location; if(!loc) continue;
-    var d=hav(me, {lat:loc.lat(), lng:loc.lng()});
-    if(d>RADIUS) continue;
-    out.push({name:(pl.displayName||''), rating:pl.rating, n:pl.userRatingCount,
-              addr:(pl.formattedAddress||''), dist:d, id:pl.id});
+  for(var i=0;i<raw.length;i++){
+    var p=raw[i];
+    if(p.rating==null||p.n==null||p.rating<MINR||p.n<MINREV) continue;
+    var d=hav(me,{lat:p.lat,lng:p.lng}); if(d>RADIUS) continue;
+    out.push({name:p.name, rating:p.rating, n:p.n, addr:p.addr, dist:d, id:p.id});
   }
   out.sort(function(a,b){ return a.dist-b.dist; });
-  if(!out.length){ setStatus(places.length+' Lokale gefunden, aber 0 mit ≥'+MINR+'★ & ≥'+MINREV+' Bewertungen. Schwellen ggf. lockern.'); return; }
-  setStatus(out.length+' von '+places.length+' Lokalen erfuellen ≥'+MINR+'★ & ≥'+MINREV+' — nach Entfernung:');
+  var bar='<div style="margin-top:12px"><a href="#" id="refresh" style="color:#6ea8fe;text-decoration:none;font-size:13px">↻ Neu laden (frisch)</a></div>';
+  if(!out.length){ setStatus(raw.length+' Lokale gefunden, aber 0 mit ≥'+MINR+'★ & ≥'+MINREV+' Bewertungen — Schwellen ggf. lockern.');
+    document.getElementById('list').innerHTML=bar; wireRefresh(); return; }
+  setStatus(out.length+' Restaurants ≥'+MINR+'★ & ≥'+MINREV+' Bewertungen — nach Entfernung:');
   var h='';
   for(var j=0;j<out.length;j++){
     var o=out[j];
@@ -374,7 +370,35 @@ function render(me, places){
       +'<div class="rr">★ '+o.rating.toFixed(1)+' · '+o.n+' Bewertungen</div>'
       +(o.addr?'<div class="ad">'+esc(o.addr)+'</div>':'')+'</a>';
   }
-  document.getElementById('list').innerHTML=h;
+  document.getElementById('list').innerHTML=h+bar; wireRefresh();
+}
+function wireRefresh(){ var a=document.getElementById('refresh');
+  if(a) a.addEventListener('click', function(ev){ ev.preventDefault();
+    if(LAST_ME){ try{localStorage.removeItem(ck(LAST_ME));}catch(_){} go(LAST_ME, true); } }); }
+async function go(me, fresh){
+  LAST_ME=me;
+  if(!fresh){
+    try{ var raw=localStorage.getItem(ck(me)); if(raw){ var c=JSON.parse(raw);
+      if(Date.now()-c.t<1800000){ renderFrom(me, c.items); return; } } }catch(_){}
+  }
+  setStatus('Suche Restaurants im Umkreis von '+RADIUS+' m…');
+  var items=await searchAll(me);
+  try{ localStorage.setItem(ck(me), JSON.stringify({t:Date.now(), items:items})); }catch(_){}
+  renderFrom(me, items);
+}
+async function run(){
+  try{
+    if(!navigator.geolocation){ setStatus('Dieses Geraet liefert keinen Standort.'); return; }
+    setStatus('Standort wird ermittelt… (bitte Zugriff erlauben)');
+    var p;
+    try{ p=await getPos(); }
+    catch(ge){ setStatus(ge && ge.code===1
+      ? 'Standortzugriff verweigert. Fuer Safari in den iPhone-Einstellungen erlauben und Seite neu laden.'
+      : 'Standort nicht ermittelbar ('+((ge&&ge.message)||'?')+').'); return; }
+    await go({lat:p.coords.latitude, lng:p.coords.longitude}, false);
+  }catch(e){
+    setStatus('Fehler: '+((e&&(e.message||e.code))||e)+' — ggf. "Places API (New)" im Google-Projekt aktivieren.');
+  }
 }
 window.addEventListener('DOMContentLoaded', run);
 </script>
