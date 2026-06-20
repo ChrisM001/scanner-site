@@ -249,7 +249,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-19,2026-06-19 13:31,gate,FOLKS/USDT,2.326,3.65,3.3,3.1,,,
 2026-06-19,2026-06-19 04:01,gate,BIO/USDT,0.0375,3.14,2.51,3.2,,37.0,CoinMarketCal: Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026
 2026-06-20,2026-06-20 00:55,gate,ASTEROID/USDT,0.000149,4.48,41701.7,7.5,,,
-2026-06-20,2026-06-20 00:55,gate,UB/USDT,0.0824,4.13,467.57,3.4,,,
+2026-06-20,2026-06-20 01:05,gate,UB/USDT,0.08362,5.67,463.13,3.4,,,
 2026-06-20,2026-06-20 00:01,mexc,BTW/USDT,0.09921,31.31,149.82,9.5,,,
 2026-06-20,2026-06-20 00:50,gate,ESPORTS/USDT,0.03051,3.81,107.19,13.2,,198.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-20,2026-06-20 00:45,gate,BTW/USDT,0.109297,11.21,104.22,11.4,,,
@@ -259,6 +259,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-20,2026-06-20 00:01,mexc,BLESS/USDT,0.00777,19.44,19.67,4.8,Listing,270.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-20,2026-06-20 00:01,mexc,BICO/USDT,0.03519,29.37,19.34,12.1,,67.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
 2026-06-20,2026-06-20 00:40,gate,BEAT/USDT,1.8974,3.05,11.74,47.7,,11.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-20,2026-06-20 00:55,gate,BSB/USDT,0.42002,4.81,7.52,14.6,,,
+2026-06-20,2026-06-20 01:05,gate,BSB/USDT,0.42768,6.72,7.37,14.3,,,
 2026-06-20,2026-06-20 00:01,mexc,SYN/USDT,0.13785,4.49,6.41,9.6,,1.0,Invezz: Why is Synapse (SYN) price skyrocketing?
-2026-06-20,2026-06-20 00:55,gate,BICO/USDT,0.04024,14.45,2.48,5.9,,67,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
+2026-06-20,2026-06-20 01:05,gate,BICO/USDT,0.03919,11.46,2.55,6.1,,67,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
