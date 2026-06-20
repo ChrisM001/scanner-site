@@ -258,7 +258,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-20,2026-06-20 00:31,gate,BASED/USDT,0.10265,4.77,42.52,5.4,,,
 2026-06-20,2026-06-20 00:01,mexc,BLESS/USDT,0.00777,19.44,19.67,4.8,Listing,270.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-20,2026-06-20 00:01,mexc,BICO/USDT,0.03519,29.37,19.34,12.1,,67.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
-2026-06-20,2026-06-20 01:10,gate,BEAT/USDT,1.8991,3.14,11.7,47.5,,11,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-20,2026-06-20 01:10,gate,BSB/USDT,0.42731,6.63,7.38,14.3,,,
+2026-06-20,2026-06-20 01:10,gate,BEAT/USDT,1.8991,3.14,11.7,47.5,,11.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-20,2026-06-20 01:30,gate,BSB/USDT,0.43555,8.69,7.41,14.4,,,
 2026-06-20,2026-06-20 00:01,mexc,SYN/USDT,0.13785,4.49,6.41,9.6,,1.0,Invezz: Why is Synapse (SYN) price skyrocketing?
-2026-06-20,2026-06-20 01:10,gate,BICO/USDT,0.03961,12.66,2.58,6.1,,67,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
+2026-06-20,2026-06-20 01:30,gate,BICO/USDT,0.03934,11.89,2.62,6.2,,67,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
