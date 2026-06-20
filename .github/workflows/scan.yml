@@ -43,6 +43,7 @@ jobs:
           TVREMIX_API_KEY: ${{ secrets.TVREMIX_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           CRYPTO_EXCHANGE: gate,mexc,bybit
           # gate-gerechte Schwellen (kleineres Perp-Universum als Binance).
           VOL_FLOOR: "3000000"

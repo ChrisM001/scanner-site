@@ -264,6 +264,122 @@ Nur Schlagzeilen-Vorschau &mdash; keine Anlageberatung.</p>
     return True, (teaser[:70] + "…") if len(teaser) > 70 else teaser
 
 
+def render_restaurants(html_out, now):
+    """Client-seitige Restaurant-Kachel: Live-GPS + Google Places (Maps JS-API).
+    Key wird aus GOOGLE_MAPS_API_KEY injiziert (referrer-beschraenkt). Returns ok."""
+    key = os.getenv("GOOGLE_MAPS_API_KEY", "").strip()
+    radius = os.getenv("REST_RADIUS_M", "2000")
+    minr = os.getenv("REST_MIN_RATING", "4.5")
+    minrev = os.getenv("REST_MIN_REVIEWS", "50")
+    head = (
+        '<!doctype html><html lang="de"><head><meta charset="utf-8">'
+        '<meta name="viewport" content="width=device-width, initial-scale=1">'
+        '<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">'
+        '<title>Restaurants</title><style>:root{color-scheme:dark}*{box-sizing:border-box}'
+        'body{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;background:#0f1115;color:#e6e9ef;overflow-x:hidden}'
+        '.wrap{max-width:560px;margin:0 auto;padding:20px 16px 40px}'
+        'a.back{color:#6ea8fe;text-decoration:none;font-size:13px}'
+        'h1{font-size:20px;margin:2px 0}.sub{color:#9aa4b2;font-size:12px;margin:2px 0 16px}'
+        'a.r{display:block;text-decoration:none;color:inherit;background:#171a21;border:1px solid #232733;'
+        'border-radius:12px;padding:12px 14px;margin-bottom:10px}a.r:active{background:#1c2029}'
+        '.rt{display:flex;justify-content:space-between;align-items:baseline;gap:10px}'
+        '.nm{font-size:16px;font-weight:650;overflow-wrap:anywhere}.di{color:#9aa4b2;font-size:12px;white-space:nowrap}'
+        '.rr{color:#e0b15e;font-size:13px;margin-top:4px}.ad{color:#7a8493;font-size:12px;margin-top:3px;overflow-wrap:anywhere}'
+        '.msg{color:#9aa4b2;font-size:14px;line-height:1.5;margin-top:14px}'
+        '.foot{color:#7a8493;font-size:12px;margin-top:18px;line-height:1.55}</style></head><body><div class="wrap">'
+        '<a class="back" href="index.html">&#8592; Scanner</a>'
+        '<h1>&#127860; Restaurants in der N&auml;he</h1>'
+        '<div class="sub">Live-Standort &middot; Radius __RADIUS__&nbsp;m &middot; ab __MINR__&#9733; &amp; __MINREV__&nbsp;Bewertungen</div>'
+        '<div id="status" class="msg">Standort wird ermittelt&hellip; (bitte Zugriff erlauben)</div>'
+        '<div id="list"></div>'
+    )
+    if not key:
+        body = ('<div class="msg">Der Google-Maps-API-Key ist noch nicht hinterlegt. '
+                'Sobald das GitHub-Secret <b>GOOGLE_MAPS_API_KEY</b> gesetzt ist, '
+                'zeigt diese Kachel Restaurants in deiner N&auml;he.</div>')
+        page = head.replace('<div id="status" class="msg">Standort wird ermittelt&hellip; (bitte Zugriff erlauben)</div>'
+                            '<div id="list"></div>', body) + (
+            '<p class="foot">Daten: Google Places. PAPER/Research.</p></div></body></html>')
+        page = page.replace("__RADIUS__", radius).replace("__MINR__", minr).replace("__MINREV__", minrev)
+        with open(html_out, "w", encoding="utf-8") as f:
+            f.write(inject_refresh(page))
+        return False
+    app = r"""
+<script>
+var RADIUS=__RADIUS__, MINR=__MINR__, MINREV=__MINREV__;
+function setStatus(t){ var s=document.getElementById('status'); if(s) s.textContent=t; }
+function hav(a,b){ var R=6371000,toR=function(x){return x*Math.PI/180;};
+  var dLat=toR(b.lat-a.lat), dLng=toR(b.lng-a.lng);
+  var s=Math.sin(dLat/2)*Math.sin(dLat/2)+Math.cos(toR(a.lat))*Math.cos(toR(b.lat))*Math.sin(dLng/2)*Math.sin(dLng/2);
+  return 2*R*Math.atan2(Math.sqrt(s),Math.sqrt(1-s)); }
+function fmtDist(d){ return d<1000 ? Math.round(d)+' m' : (d/1000).toFixed(1)+' km'; }
+function initRest(){
+  if(!navigator.geolocation){ setStatus('Dieses Geraet liefert keinen Standort.'); return; }
+  navigator.geolocation.getCurrentPosition(onPos, onErr,
+    {enableHighAccuracy:true, timeout:15000, maximumAge:60000});
+}
+function onErr(e){
+  setStatus(e && e.code===1 ? 'Standortzugriff verweigert. In den Safari-Einstellungen erlauben und Seite neu laden.'
+                            : 'Standort nicht ermittelbar ('+(e&&e.message||'?')+').');
+}
+function onPos(p){
+  var me={lat:p.coords.latitude, lng:p.coords.longitude};
+  setStatus('Suche Restaurants im Umkreis von '+RADIUS+' m…');
+  var center=new google.maps.LatLng(me.lat, me.lng);
+  var svc=new google.maps.places.PlacesService(document.createElement('div'));
+  var all=[];
+  svc.nearbySearch({location:center, radius:RADIUS, type:'restaurant'},
+    function(res, status, pg){
+      if(status===google.maps.places.PlacesServiceStatus.OK && res){
+        all=all.concat(res);
+        if(pg && pg.hasNextPage && all.length<60){ setTimeout(function(){pg.nextPage();}, 1200); return; }
+        render(me, all);
+      } else if(status===google.maps.places.PlacesServiceStatus.ZERO_RESULTS){ render(me, []); }
+      else { setStatus('Google-Places-Fehler: '+status); }
+    });
+}
+function render(me, items){
+  var out=[];
+  for(var i=0;i<items.length;i++){
+    var r=items[i];
+    if(r.rating==null || r.user_ratings_total==null) continue;
+    if(r.rating<MINR || r.user_ratings_total<MINREV) continue;
+    var loc=r.geometry&&r.geometry.location;
+    if(!loc) continue;
+    var d=hav(me, {lat:loc.lat(), lng:loc.lng()});
+    if(d>RADIUS) continue;
+    out.push({name:r.name, rating:r.rating, n:r.user_ratings_total,
+              addr:r.vicinity||'', dist:d, id:r.place_id});
+  }
+  out.sort(function(a,b){ return a.dist-b.dist; });
+  if(!out.length){ setStatus('Keine Restaurants mit ≥'+MINR+'★ und ≥'+MINREV+' Bewertungen im Umkreis.'); return; }
+  setStatus(out.length+' Treffer — sortiert nach Entfernung:');
+  var h='';
+  for(var j=0;j<out.length;j++){
+    var o=out[j];
+    var url='https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(o.name)+'&query_place_id='+o.id;
+    h+='<a class="r" href="'+url+'" target="_blank" rel="noopener">'
+      +'<div class="rt"><span class="nm">'+esc(o.name)+'</span><span class="di">'+fmtDist(o.dist)+'</span></div>'
+      +'<div class="rr">★ '+o.rating.toFixed(1)+' · '+o.n+' Bewertungen</div>'
+      +(o.addr?'<div class="ad">'+esc(o.addr)+'</div>':'')+'</a>';
+  }
+  document.getElementById('list').innerHTML=h;
+}
+function esc(s){ var d=document.createElement('div'); d.textContent=s==null?'':s; return d.innerHTML; }
+function gmErr(){ setStatus('Google Maps konnte nicht geladen werden (API-Key/Referrer pruefen).'); }
+</script>
+<script async src="https://maps.googleapis.com/maps/api/js?key=__KEY__&libraries=places&callback=initRest&loading=async"
+ onerror="gmErr()"></script>
+<p class="foot">Daten: Google Places (Live-Abfrage am Geraet). Standort wird nur lokal verwendet.
+PAPER/Research, keine Empfehlung.</p></div></body></html>"""
+    page = head + app
+    page = (page.replace("__KEY__", key).replace("__RADIUS__", radius)
+                .replace("__MINR__", minr).replace("__MINREV__", minrev))
+    with open(html_out, "w", encoding="utf-8") as f:
+        f.write(inject_refresh(page))
+    return True
+
+
 def badge(ok, has):
     if ok:  return '<span class="ok">aktualisiert</span>'
     if has: return '<span class="stale">letzter Stand</span>'
@@ -422,6 +538,9 @@ has_regime = os.path.exists(os.path.join(DOCS, "regime.html"))
 news_ok, news_teaser = render_news(os.path.join(DOCS, "news.html"), now)
 has_news = os.path.exists(os.path.join(DOCS, "news.html"))
 
+# Restaurants (client-seitig, Live-GPS + Google Places). Key aus Secret injiziert.
+rest_ok = render_restaurants(os.path.join(DOCS, "restaurants.html"), now)
+
 # Platzhalter fuer fehlende Seiten -> Karten-Links laufen nie ins 404 (seit Artefakt-
 # Deploy wird docs/ frisch gebaut; ausserhalb der Handelszeit fehlt sonst stock.html).
 for _dst, _ok, _title, _note in [
@@ -489,6 +608,12 @@ a.card:active{{background:#1c2029}}
   <div class="rowt"><div><span class="em">&#128240;</span><span class="t">Markt- &amp; Krypto-News</span></div>
   <span class="badge2">{badge(news_ok, has_news)}</span></div>
   <div class="teaser">{html.escape(news_teaser) or 'keine News geladen'}</div>
+</a>
+
+<a class="card" href="restaurants.html?v={now:%Y%m%d%H%M}">
+  <div class="rowt"><div><span class="em">&#127860;</span><span class="t">Restaurants &middot; Top in 2&nbsp;km</span></div>
+  <span class="badge2">{'<span class="ok">live</span>' if rest_ok else '<span class="err">Key fehlt</span>'}</span></div>
+  <div class="teaser">Live-Standort &middot; ab 4,5&#9733; bei &ge;50 Bewertungen (Google)</div>
 </a>
 
 <p class="foot">Aktien: Ross-Gap-Scanner (vorboerslich Gap&ge;+10%, Float&lt;20M, $1&ndash;20).
