@@ -191,6 +191,70 @@ Risk-controlled Beta, kein Alpha &middot; PAPER/Research, keine Anlageberatung.<
     return True, teaser
 
 
+def _reltime(dt, now):
+    if dt is None:
+        return ""
+    secs = (now - dt).total_seconds()
+    if secs < 0:
+        secs = 0
+    if secs < 3600:
+        return f"vor {int(secs // 60)} Min"
+    if secs < 86400:
+        return f"vor {int(secs // 3600)} Std"
+    return f"vor {int(secs // 86400)} T"
+
+
+def render_news(html_out, now):
+    """Schlagzeilen-Seite (Krypto + Maerkte) aus RSS-Feeds. Returns (ok, teaser)."""
+    try:
+        from news_fetch import fetch_news
+        items = fetch_news()
+    except Exception as e:
+        print(f"[news] nicht ladbar: {e}")
+        return False, ""
+    if not items:
+        return False, ""
+    rows = ""
+    for it in items:
+        rt = _reltime(it.get("dt"), now)
+        meta = f'<span class="src">{html.escape(it["source"])}</span>'
+        if rt:
+            meta += f' &middot; {rt}'
+        rows += (
+            f'<a class="ni" href="{html.escape(it["link"])}" target="_blank" rel="noopener">'
+            f'<div class="nt">{html.escape(it["title"])}</div>'
+            f'<div class="nm">{meta}</div></a>'
+        )
+    page = f"""<!doctype html><html lang="de"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
+<title>News</title><style>
+:root{{color-scheme:dark}}*{{box-sizing:border-box}}
+body{{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;background:#0f1115;color:#e6e9ef;overflow-x:hidden}}
+.wrap{{max-width:560px;margin:0 auto;padding:20px 16px 40px}}
+a.back{{color:#6ea8fe;text-decoration:none;font-size:13px}}
+h1{{font-size:20px;margin:2px 0}} .sub{{color:#9aa4b2;font-size:12px;margin:2px 0 16px}}
+a.ni{{display:block;text-decoration:none;color:inherit;background:#171a21;border:1px solid #232733;
+ border-radius:12px;padding:12px 14px;margin-bottom:10px}}
+a.ni:active{{background:#1c2029}}
+.nt{{font-size:15px;line-height:1.35;overflow-wrap:anywhere}}
+.nm{{color:#9aa4b2;font-size:12px;margin-top:6px}} .src{{color:#6ea8fe;font-weight:600}}
+.foot{{color:#7a8493;font-size:12px;margin-top:18px;line-height:1.55}}
+</style></head><body><div class="wrap">
+<a class="back" href="index.html">&#8592; Scanner</a>
+<h1>&#128240; Markt- &amp; Krypto-News</h1>
+<div class="sub">{now:%Y-%m-%d %H:%M} UTC &middot; {len(items)} Schlagzeilen &middot; tippen &ouml;ffnet die Quelle</div>
+{rows}
+<p class="foot">Aggregiert aus CoinDesk, Cointelegraph, CNBC, MarketWatch, Yahoo Finance.
+Nur Schlagzeilen-Vorschau &mdash; keine Anlageberatung.</p>
+</div></body></html>"""
+    with open(html_out, "w", encoding="utf-8") as f:
+        f.write(inject_refresh(page))
+    teaser = items[0]["title"]
+    return True, (teaser[:70] + "…") if len(teaser) > 70 else teaser
+
+
 def badge(ok, has):
     if ok:  return '<span class="ok">aktualisiert</span>'
     if has: return '<span class="stale">letzter Stand</span>'
@@ -335,6 +399,10 @@ regime_ok, regime_teaser = render_regime(os.path.join(DOCS, "regime.json"),
                                          os.path.join(DOCS, "regime.html"))
 has_regime = os.path.exists(os.path.join(DOCS, "regime.html"))
 
+# News-Ticker (RSS, keyfrei). Rein informativ -> kein Commit/Alert-Trigger.
+news_ok, news_teaser = render_news(os.path.join(DOCS, "news.html"), now)
+has_news = os.path.exists(os.path.join(DOCS, "news.html"))
+
 # Platzhalter fuer fehlende Seiten -> Karten-Links laufen nie ins 404 (seit Artefakt-
 # Deploy wird docs/ frisch gebaut; ausserhalb der Handelszeit fehlt sonst stock.html).
 for _dst, _ok, _title, _note in [
@@ -344,6 +412,8 @@ for _dst, _ok, _title, _note in [
      "Krypto-Scan gerade nicht verfuegbar (Boerse blockt evtl. die Cloud-IP). Spaeter erneut ziehen."),
     ("regime.html", has_regime, "Krypto-Regime",
      "Regime-Signal gerade nicht verfuegbar."),
+    ("news.html",   has_news,   "Markt- & Krypto-News",
+     "News-Feeds gerade nicht erreichbar. Spaeter erneut ziehen."),
 ]:
     _p = os.path.join(DOCS, _dst)
     if not _ok and not os.path.exists(_p):
@@ -394,6 +464,12 @@ a.card:active{{background:#1c2029}}
   <div class="rowt"><div><span class="em">&#129518;</span><span class="t">Krypto-Regime &middot; Portfolio-Allokation</span></div>
   <span class="badge2">{badge(regime_ok, has_regime)}</span></div>
   <div class="teaser">{html.escape(regime_teaser) or 'kein Lauf'}</div>
+</a>
+
+<a class="card" href="news.html?v={now:%Y%m%d%H%M}">
+  <div class="rowt"><div><span class="em">&#128240;</span><span class="t">Markt- &amp; Krypto-News</span></div>
+  <span class="badge2">{badge(news_ok, has_news)}</span></div>
+  <div class="teaser">{html.escape(news_teaser) or 'keine News geladen'}</div>
 </a>
 
 <p class="foot">Aktien: Ross-Gap-Scanner (vorboerslich Gap&ge;+10%, Float&lt;20M, $1&ndash;20).
