@@ -291,6 +291,7 @@ def render_restaurants(html_out, now):
         '<h1>&#127860; Restaurants in der N&auml;he</h1>'
         '<div class="sub">Live-Standort &middot; Radius __RADIUS__&nbsp;m &middot; ab __MINR__&#9733; &amp; __MINREV__&nbsp;Bewertungen</div>'
         '<div id="status" class="msg">Standort wird ermittelt&hellip; (bitte Zugriff erlauben)</div>'
+        '<div style="margin:8px 0 2px"><a href="#" id="refresh" style="color:#6ea8fe;text-decoration:none;font-size:13px">&#8635; Neu laden (frisch)</a></div>'
         '<div id="list"></div>'
     )
     if not key:
@@ -298,6 +299,7 @@ def render_restaurants(html_out, now):
                 'Sobald das GitHub-Secret <b>GOOGLE_MAPS_API_KEY</b> gesetzt ist, '
                 'zeigt diese Kachel Restaurants in deiner N&auml;he.</div>')
         page = head.replace('<div id="status" class="msg">Standort wird ermittelt&hellip; (bitte Zugriff erlauben)</div>'
+                            '<div style="margin:8px 0 2px"><a href="#" id="refresh" style="color:#6ea8fe;text-decoration:none;font-size:13px">&#8635; Neu laden (frisch)</a></div>'
                             '<div id="list"></div>', body) + (
             '<p class="foot">Daten: Google Places. PAPER/Research.</p></div></body></html>')
         page = page.replace("__RADIUS__", radius).replace("__MINR__", minr).replace("__MINREV__", minrev)
@@ -369,10 +371,9 @@ function renderFrom(me, raw, fromCache){
     out.push({name:p.name, rating:p.rating, n:p.n, addr:p.addr, dist:d, id:p.id});
   }
   out.sort(function(a,b){ return a.dist-b.dist; });
-  var src=fromCache?' (aus Cache · ↻ fuer frisch)':'';
-  var bar='<div style="margin-top:12px"><a href="#" id="refresh" style="color:#6ea8fe;text-decoration:none;font-size:13px">↻ Neu laden (frisch)</a></div>';
+  var src=fromCache?' (aus Cache)':'';
   if(!out.length){ setStatus(raw.length+' Lokale gefunden, aber 0 mit ≥'+MINR+'★ & ≥'+MINREV+' Bewertungen — Schwellen ggf. lockern.'+src);
-    document.getElementById('list').innerHTML=bar; wireRefresh(); return; }
+    document.getElementById('list').innerHTML=''; return; }
   setStatus(out.length+' Restaurants ≥'+MINR+'★ & ≥'+MINREV+' Bewertungen — nach Entfernung:'+src);
   var h='';
   for(var j=0;j<out.length;j++){
@@ -383,11 +384,11 @@ function renderFrom(me, raw, fromCache){
       +'<div class="rr">★ '+o.rating.toFixed(1)+' · '+o.n+' Bewertungen</div>'
       +(o.addr?'<div class="ad">'+esc(o.addr)+'</div>':'')+'</a>';
   }
-  document.getElementById('list').innerHTML=h+bar; wireRefresh();
+  document.getElementById('list').innerHTML=h;
 }
 function wireRefresh(){ var a=document.getElementById('refresh');
   if(a) a.addEventListener('click', function(ev){ ev.preventDefault();
-    if(LAST_ME){ try{localStorage.removeItem(ck(LAST_ME));}catch(_){} go(LAST_ME, true); } }); }
+    if(LAST_ME){ try{localStorage.removeItem(ck(LAST_ME));}catch(_){} go(LAST_ME, true); } else { run(); } }); }
 async function go(me, fresh){
   LAST_ME=me;
   if(!fresh){
@@ -413,7 +414,7 @@ async function run(){
     setStatus('Fehler: '+((e&&(e.message||e.code))||e)+' — ggf. "Places API (New)" im Google-Projekt aktivieren.');
   }
 }
-window.addEventListener('DOMContentLoaded', run);
+window.addEventListener('DOMContentLoaded', function(){ wireRefresh(); run(); });
 </script>
 <script>
 (g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})({key:"__KEY__", v:"weekly"});
