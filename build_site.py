@@ -313,47 +313,50 @@ function hav(a,b){ var R=6371000,toR=function(x){return x*Math.PI/180;};
   var s=Math.sin(dLat/2)*Math.sin(dLat/2)+Math.cos(toR(a.lat))*Math.cos(toR(b.lat))*Math.sin(dLng/2)*Math.sin(dLng/2);
   return 2*R*Math.atan2(Math.sqrt(s),Math.sqrt(1-s)); }
 function fmtDist(d){ return d<1000 ? Math.round(d)+' m' : (d/1000).toFixed(1)+' km'; }
-function initRest(){
-  if(!navigator.geolocation){ setStatus('Dieses Geraet liefert keinen Standort.'); return; }
-  navigator.geolocation.getCurrentPosition(onPos, onErr,
-    {enableHighAccuracy:true, timeout:15000, maximumAge:60000});
-}
-function onErr(e){
-  setStatus(e && e.code===1 ? 'Standortzugriff verweigert. In den Safari-Einstellungen erlauben und Seite neu laden.'
-                            : 'Standort nicht ermittelbar ('+(e&&e.message||'?')+').');
-}
-function onPos(p){
-  var me={lat:p.coords.latitude, lng:p.coords.longitude};
-  setStatus('Suche Restaurants im Umkreis von '+RADIUS+' m…');
-  var center=new google.maps.LatLng(me.lat, me.lng);
-  var svc=new google.maps.places.PlacesService(document.createElement('div'));
-  var all=[];
-  svc.nearbySearch({location:center, radius:RADIUS, type:'restaurant'},
-    function(res, status, pg){
-      if(status===google.maps.places.PlacesServiceStatus.OK && res){
-        all=all.concat(res);
-        if(pg && pg.hasNextPage && all.length<60){ setTimeout(function(){pg.nextPage();}, 1200); return; }
-        render(me, all);
-      } else if(status===google.maps.places.PlacesServiceStatus.ZERO_RESULTS){ render(me, []); }
-      else { setStatus('Google-Places-Fehler: '+status); }
+function esc(s){ var d=document.createElement('div'); d.textContent=s==null?'':s; return d.innerHTML; }
+function getPos(){ return new Promise(function(res,rej){
+  navigator.geolocation.getCurrentPosition(res,rej,{enableHighAccuracy:true,timeout:15000,maximumAge:60000}); }); }
+async function run(){
+  try{
+    if(!navigator.geolocation){ setStatus('Dieses Geraet liefert keinen Standort.'); return; }
+    setStatus('Standort wird ermittelt… (bitte Zugriff erlauben)');
+    var p;
+    try{ p=await getPos(); }
+    catch(ge){ setStatus(ge && ge.code===1
+      ? 'Standortzugriff verweigert. Fuer Safari in den iPhone-Einstellungen erlauben und Seite neu laden.'
+      : 'Standort nicht ermittelbar ('+((ge&&ge.message)||'?')+').'); return; }
+    var me={lat:p.coords.latitude, lng:p.coords.longitude};
+    setStatus('Suche Restaurants im Umkreis von '+RADIUS+' m…');
+    var lib=await google.maps.importLibrary('places');
+    var Place=lib.Place, RP=lib.SearchNearbyRankPreference;
+    var resp=await Place.searchNearby({
+      fields:['displayName','rating','userRatingCount','location','formattedAddress','id'],
+      locationRestriction:{center:me, radius:RADIUS},
+      includedPrimaryTypes:['restaurant'],
+      maxResultCount:20,
+      rankPreference:RP.POPULARITY,
+      language:'de', region:'DE'
     });
+    render(me, resp.places||[]);
+  }catch(e){
+    setStatus('Fehler: '+((e&&(e.message||e.code))||e)+' — ggf. "Places API (New)" im Google-Projekt aktivieren.');
+  }
 }
-function render(me, items){
+function render(me, places){
   var out=[];
-  for(var i=0;i<items.length;i++){
-    var r=items[i];
-    if(r.rating==null || r.user_ratings_total==null) continue;
-    if(r.rating<MINR || r.user_ratings_total<MINREV) continue;
-    var loc=r.geometry&&r.geometry.location;
-    if(!loc) continue;
+  for(var i=0;i<places.length;i++){
+    var pl=places[i];
+    if(pl.rating==null || pl.userRatingCount==null) continue;
+    if(pl.rating<MINR || pl.userRatingCount<MINREV) continue;
+    var loc=pl.location; if(!loc) continue;
     var d=hav(me, {lat:loc.lat(), lng:loc.lng()});
     if(d>RADIUS) continue;
-    out.push({name:r.name, rating:r.rating, n:r.user_ratings_total,
-              addr:r.vicinity||'', dist:d, id:r.place_id});
+    out.push({name:(pl.displayName||''), rating:pl.rating, n:pl.userRatingCount,
+              addr:(pl.formattedAddress||''), dist:d, id:pl.id});
   }
   out.sort(function(a,b){ return a.dist-b.dist; });
-  if(!out.length){ setStatus('Keine Restaurants mit ≥'+MINR+'★ und ≥'+MINREV+' Bewertungen im Umkreis.'); return; }
-  setStatus(out.length+' Treffer — sortiert nach Entfernung:');
+  if(!out.length){ setStatus(places.length+' Lokale gefunden, aber 0 mit ≥'+MINR+'★ & ≥'+MINREV+' Bewertungen. Schwellen ggf. lockern.'); return; }
+  setStatus(out.length+' von '+places.length+' Lokalen erfuellen ≥'+MINR+'★ & ≥'+MINREV+' — nach Entfernung:');
   var h='';
   for(var j=0;j<out.length;j++){
     var o=out[j];
@@ -365,12 +368,12 @@ function render(me, items){
   }
   document.getElementById('list').innerHTML=h;
 }
-function esc(s){ var d=document.createElement('div'); d.textContent=s==null?'':s; return d.innerHTML; }
-function gmErr(){ setStatus('Google Maps konnte nicht geladen werden (API-Key/Referrer pruefen).'); }
+window.addEventListener('DOMContentLoaded', run);
 </script>
-<script async src="https://maps.googleapis.com/maps/api/js?key=__KEY__&libraries=places&callback=initRest&loading=async"
- onerror="gmErr()"></script>
-<p class="foot">Daten: Google Places (Live-Abfrage am Geraet). Standort wird nur lokal verwendet.
+<script>
+(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})({key:"__KEY__", v:"weekly"});
+</script>
+<p class="foot">Daten: Google Places (New), Live-Abfrage am Geraet. Standort wird nur lokal verwendet.
 PAPER/Research, keine Empfehlung.</p></div></body></html>"""
     page = head + app
     page = (page.replace("__KEY__", key).replace("__RADIUS__", radius)
