@@ -311,10 +311,10 @@ def send_alerts(when):
         print("[alert] Telegram nicht konfiguriert (keine Secrets) -> keine Alarme"); return
     import html as _h
     lines = []
-    specs = [("crypto", "crypto_scan_log.csv", "coin", "pct24h", "rvol", "🪙"),
-             ("stock",  "stock_scan_log.csv",  "symbol", "change", "rvol", "📈")]
+    specs = [("crypto", "crypto_scan_log.csv", "coin", "pct24h", "rvol", "vol_musd", "🪙"),
+             ("stock",  "stock_scan_log.csv",  "symbol", "change", "rvol", "vol_m", "📈")]
     any_changed = False
-    for kind, csv, symcol, pctcol, rvcol, emoji in specs:
+    for kind, csv, symcol, pctcol, rvcol, volcol, emoji in specs:
         d = _latest_rows(csv)
         if d is None or symcol not in d.columns:
             continue
@@ -333,6 +333,16 @@ def send_alerts(when):
                 meta = f"  {pct:+.0f}%  RVOL {rv:.0f}x"
             except Exception:
                 meta = ""
+            # 24h-Volumen anhaengen: Krypto in $ (vol_musd = Mio. USD), Aktien in Stueck (vol_m = Mio.)
+            try:
+                v = float(r.get(volcol))
+                if v == v:                                   # NaN-Filter (NaN != NaN)
+                    if kind == "crypto":
+                        meta += f"  Vol ${v/1000:.1f}B" if v >= 1000 else f"  Vol ${v:.0f}M"
+                    else:
+                        meta += f"  Vol {v:.1f}M"
+            except Exception:
+                pass
             url = _tv_url(kind, r)
             label = _h.escape(str(r[symcol]))
             sym_html = f'<a href="{url}">{label}</a>' if url else label
