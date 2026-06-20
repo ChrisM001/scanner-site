@@ -248,21 +248,21 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-19,2026-06-19 20:01,gate,H/USDT,0.23256,3.53,3.31,11.5,,,
 2026-06-19,2026-06-19 13:31,gate,FOLKS/USDT,2.326,3.65,3.3,3.1,,,
 2026-06-19,2026-06-19 04:01,gate,BIO/USDT,0.0375,3.14,2.51,3.2,,37.0,CoinMarketCal: Bio Protocol (BIO) - AI Scientist Demo - 12 May 2026
-2026-06-20,2026-06-20 04:05,gate,ASTEROID/USDT,0.000148,3.5,31911.74,5.8,,,
-2026-06-20,2026-06-20 04:05,gate,UB/USDT,0.08222,3.9,485.63,3.5,,,
-2026-06-20,2026-06-20 04:05,gate,BTW/USDT,0.103409,5.22,159.13,17.4,,,
+2026-06-20,2026-06-20 04:10,gate,ASTEROID/USDT,0.00015,5.26,32003.76,5.8,,,
+2026-06-20,2026-06-20 04:10,gate,UB/USDT,0.08192,3.53,486.3,3.6,,,
+2026-06-20,2026-06-20 04:10,gate,BTW/USDT,0.10384,5.66,161.43,17.7,,,
 2026-06-20,2026-06-20 00:01,mexc,BTW/USDT,0.09921,31.31,149.82,9.5,,,
-2026-06-20,2026-06-20 04:05,gate,ESPORTS/USDT,0.03081,4.83,91.9,11.3,,198,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-20,2026-06-20 04:10,gate,ESPORTS/USDT,0.03102,5.55,91.98,11.3,,198,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-20,2026-06-20 00:45,gate,LAB/USDT,13.16913,3.02,67.76,47.0,,,
 2026-06-20,2026-06-20 00:01,mexc,BASED/USDT,0.0978,3.93,67.36,8.6,,,
 2026-06-20,2026-06-20 00:31,gate,BASED/USDT,0.10265,4.77,42.52,5.4,,,
 2026-06-20,2026-06-20 00:01,mexc,BLESS/USDT,0.00777,19.44,19.67,4.8,Listing,270.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-20,2026-06-20 00:01,mexc,BICO/USDT,0.03519,29.37,19.34,12.1,,67.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
-2026-06-20,2026-06-20 04:05,gate,BEL/USDT,0.1235,7.0,15.15,3.3,Partner,2,Coindar: Bella Protocol Partners With Metopia
-2026-06-20,2026-06-20 04:05,gate,CLO/USDT,0.23558,8.12,12.15,3.1,,,
-2026-06-20,2026-06-20 04:05,gate,BEAT/USDT,1.9849,7.8,11.66,47.3,,11,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-20,2026-06-20 04:10,gate,BEL/USDT,0.12327,6.8,15.29,3.3,Partner,2,Coindar: Bella Protocol Partners With Metopia
+2026-06-20,2026-06-20 04:10,gate,CLO/USDT,0.23666,8.61,12.24,3.2,,,
+2026-06-20,2026-06-20 04:10,gate,BEAT/USDT,2.0072,9.02,11.68,47.4,,11,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-20,2026-06-20 04:05,gate,BSB/USDT,0.41307,3.08,7.31,14.2,,,
 2026-06-20,2026-06-20 00:01,mexc,SYN/USDT,0.13785,4.49,6.41,9.6,,1.0,Invezz: Why is Synapse (SYN) price skyrocketing?
-2026-06-20,2026-06-20 04:05,gate,EIGEN/USDT,0.2689,8.51,3.74,3.0,,,
+2026-06-20,2026-06-20 04:10,gate,EIGEN/USDT,0.2725,9.97,3.75,3.1,Unlock,196,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
 2026-06-20,2026-06-20 02:50,gate,HEI/USDT,0.10995,3.12,3.59,7.4,,,
 2026-06-20,2026-06-20 02:01,gate,BICO/USDT,0.03658,4.04,2.89,6.9,,67.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
