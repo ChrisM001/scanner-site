@@ -24,31 +24,40 @@ os.makedirs(DOCS, exist_ok=True)
 REFRESH_JS = r"""<script>
 (function(){
   var loadedAt = Date.now();
-  window.addEventListener('pageshow', function(e){ if(e.persisted) location.reload(); });
+  // Cache-bustender Reload: frischer ?v= erzwingt eine frische Antwort (kein
+  // Zweifel am max-age=600 von GitHub Pages). location.replace -> keine History-Flut.
+  function hardReload(){ location.replace(location.pathname + '?v=' + Date.now()); }
+  window.addEventListener('pageshow', function(e){ if(e.persisted) hardReload(); });
   document.addEventListener('visibilitychange', function(){
-    if(document.visibilityState === 'visible' && Date.now() - loadedAt > 45000) location.reload();
+    if(document.visibilityState === 'visible' && Date.now() - loadedAt > 45000) hardReload();
   });
-  var startY = 0, pulling = false, THRESH = 70;
+  var startY = 0, pulling = false, armed = false, THRESH = 70;
+  var PULL = '↓ Zum Aktualisieren ziehen', REL = '↻ Loslassen zum Aktualisieren';
   var ind = document.createElement('div');
   ind.style.cssText = 'position:fixed;top:0;left:0;right:0;text-align:center;padding:10px;'
     + 'font:13px -apple-system,Segoe UI,sans-serif;color:#6ea8fe;background:#0f1115;'
     + 'transform:translateY(-100%);transition:transform .15s;z-index:9999';
-  ind.textContent = '↻ Loslassen zum Aktualisieren';
+  ind.textContent = PULL;
   function addInd(){ if(document.body){ document.body.appendChild(ind); }
     else { document.addEventListener('DOMContentLoaded', addInd); } }
   addInd();
   window.addEventListener('touchstart', function(e){
-    if(window.scrollY <= 0){ startY = e.touches[0].clientY; pulling = true; }
+    if(window.scrollY <= 0){ startY = e.touches[0].clientY; pulling = true; armed = false; ind.textContent = PULL; }
   }, {passive:true});
   window.addEventListener('touchmove', function(e){
     if(!pulling) return;
     var dy = e.touches[0].clientY - startY;
-    if(dy > 0) ind.style.transform = 'translateY(' + Math.min(dy - ind.offsetHeight, THRESH) + 'px)';
+    if(dy > 0){
+      ind.style.transform = 'translateY(' + Math.min(dy - ind.offsetHeight, THRESH) + 'px)';
+      // Text spiegelt den Zustand: erst ab Schwelle loest Loslassen wirklich aus.
+      armed = dy > THRESH;
+      ind.textContent = armed ? REL : PULL;
+    }
   }, {passive:true});
   window.addEventListener('touchend', function(e){
     if(!pulling) return; pulling = false;
     if(e.changedTouches[0].clientY - startY > THRESH){
-      ind.textContent = '↻ Aktualisiere…'; location.reload();
+      ind.textContent = '↻ Aktualisiere…'; hardReload();
     } else ind.style.transform = 'translateY(-100%)';
   }, {passive:true});
 })();
