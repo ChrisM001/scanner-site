@@ -28,7 +28,7 @@ DEFAULT_FEEDS = [
     ("CoinDesk",      "https://www.coindesk.com/arc/outboundfeeds/rss/"),
     ("Cointelegraph", "https://cointelegraph.com/rss"),
     ("CNBC Finance",  "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"),
-    ("MarketWatch",   "http://feeds.marketwatch.com/marketwatch/marketpulse/"),
+    ("MarketWatch",   "http://feeds.marketwatch.com/marketwatch/bulletins"),
     ("Yahoo Finance", "https://finance.yahoo.com/news/rssindex"),
 ]
 
