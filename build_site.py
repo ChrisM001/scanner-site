@@ -288,7 +288,7 @@ def render_restaurants(html_out, now):
         '.msg{color:#9aa4b2;font-size:14px;line-height:1.5;margin-top:14px}'
         '.foot{color:#7a8493;font-size:12px;margin-top:18px;line-height:1.55}</style></head><body><div class="wrap">'
         '<a class="back" href="index.html">&#8592; Scanner</a>'
-        '<h1>&#127860; Restaurants in der N&auml;he</h1>'
+        '<h1>&#127860; Restaurants &amp; Bars in der N&auml;he</h1>'
         '<div class="sub">Live-Standort &middot; Radius __RADIUS__&nbsp;m &middot; ab __MINR__&#9733; &amp; __MINREV__&nbsp;Bewertungen</div>'
         '<div id="status" class="msg">Standort wird ermittelt&hellip; (bitte Zugriff erlauben)</div>'
         '<div style="margin:8px 0 2px"><a href="#" id="refresh" style="color:#6ea8fe;text-decoration:none;font-size:13px">&#8635; Neu laden (frisch)</a></div>'
@@ -318,7 +318,7 @@ function fmtDist(d){ return d<1000 ? Math.round(d)+' m' : (d/1000).toFixed(1)+' 
 function esc(s){ var d=document.createElement('div'); d.textContent=s==null?'':s; return d.innerHTML; }
 function getPos(){ return new Promise(function(res,rej){
   navigator.geolocation.getCurrentPosition(res,rej,{enableHighAccuracy:true,timeout:15000,maximumAge:60000}); }); }
-var CELL=500, LAST_ME=null, CACHEVER='v3';
+var CELL=500, LAST_ME=null, CACHEVER='v4';
 // Breite Typ-Liste: die neue Places-API expandiert 'restaurant' NICHT auf kuechen-
 // spezifische Typen (indian_restaurant, ...), darum explizit alle aufzaehlen.
 var RTYPES=['restaurant','afghani_restaurant','african_restaurant','american_restaurant',
@@ -329,7 +329,9 @@ var RTYPES=['restaurant','afghani_restaurant','african_restaurant','american_res
 'lebanese_restaurant','mediterranean_restaurant','mexican_restaurant','middle_eastern_restaurant',
 'pizza_restaurant','ramen_restaurant','seafood_restaurant','spanish_restaurant','steak_house',
 'sushi_restaurant','thai_restaurant','turkish_restaurant','vegan_restaurant',
-'vegetarian_restaurant','vietnamese_restaurant'];
+'vegetarian_restaurant','vietnamese_restaurant',
+'bar','wine_bar'];  // Google hat keinen 'cocktail_bar'-Typ -> 'bar' deckt Cocktailbars ab
+function isBar(pt){ return !!pt && (pt.indexOf('bar')>=0); }
 function ck(me){ return 'rest_'+CACHEVER+'_'+me.lat.toFixed(3)+'_'+me.lng.toFixed(3)+'_'+RADIUS+'_'+MINR+'_'+MINREV; }
 // Gitter aus ueberlappenden Teil-Suchen (Zellen-Radius CELL, Schrittweite CELL) ueber
 // den 2-km-Kreis -> keine Zelle stoesst ans 20er-Limit, kein Lokal faellt durch.
@@ -345,7 +347,7 @@ async function searchAll(me){
   var lib=await google.maps.importLibrary('places');
   var Place=lib.Place, RP=lib.SearchNearbyRankPreference;
   var centers=gridCenters(me, RADIUS, CELL);
-  var fields=['displayName','rating','userRatingCount','location','formattedAddress','id'];
+  var fields=['displayName','rating','userRatingCount','location','formattedAddress','id','primaryType'];
   var byId={}, done=0;
   for(var i=0;i<centers.length;i++){
     try{
@@ -355,7 +357,7 @@ async function searchAll(me){
         maxResultCount:20, rankPreference:RP.DISTANCE, language:'de', region:'DE'});
       (resp.places||[]).forEach(function(pl){
         if(pl&&pl.id&&pl.location) byId[pl.id]={id:pl.id, name:(pl.displayName||''), rating:pl.rating,
-          n:pl.userRatingCount, addr:(pl.formattedAddress||''), lat:pl.location.lat(), lng:pl.location.lng()};
+          n:pl.userRatingCount, addr:(pl.formattedAddress||''), lat:pl.location.lat(), lng:pl.location.lng(), pt:(pl.primaryType||'')};
       });
     }catch(_e){}
     done++; if(done%4===0) setStatus('Suche… '+done+'/'+centers.length+' Bereiche · '+Object.keys(byId).length+' Lokale');
@@ -368,7 +370,7 @@ function renderFrom(me, raw, fromCache){
     var p=raw[i];
     if(p.rating==null||p.n==null||p.rating<MINR||p.n<MINREV) continue;
     var d=hav(me,{lat:p.lat,lng:p.lng}); if(d>RADIUS) continue;
-    out.push({name:p.name, rating:p.rating, n:p.n, addr:p.addr, dist:d, id:p.id});
+    out.push({name:p.name, rating:p.rating, n:p.n, addr:p.addr, dist:d, id:p.id, pt:p.pt});
   }
   out.sort(function(a,b){ return a.dist-b.dist; });
   var src=fromCache?' (aus Cache)':'';
@@ -380,7 +382,7 @@ function renderFrom(me, raw, fromCache){
     var o=out[j];
     var url='https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(o.name)+'&query_place_id='+o.id;
     h+='<a class="r" href="'+url+'" target="_blank" rel="noopener">'
-      +'<div class="rt"><span class="nm">'+esc(o.name)+'</span><span class="di">'+fmtDist(o.dist)+'</span></div>'
+      +'<div class="rt"><span class="nm">'+(isBar(o.pt)?'🍸 ':'')+esc(o.name)+'</span><span class="di">'+fmtDist(o.dist)+'</span></div>'
       +'<div class="rr">★ '+o.rating.toFixed(1)+' · '+o.n+' Bewertungen</div>'
       +(o.addr?'<div class="ad">'+esc(o.addr)+'</div>':'')+'</a>';
   }
@@ -660,7 +662,7 @@ a.card:active{{background:#1c2029}}
 </a>
 
 <a class="card" href="restaurants.html?v={now:%Y%m%d%H%M}">
-  <div class="rowt"><div><span class="em">&#127860;</span><span class="t">Restaurants &middot; Top in 2&nbsp;km</span></div>
+  <div class="rowt"><div><span class="em">&#127860;</span><span class="t">Restaurants &amp; Bars &middot; Top in 2&nbsp;km</span></div>
   <span class="badge2">{'<span class="ok">live</span>' if rest_ok else '<span class="err">Key fehlt</span>'}</span></div>
   <div class="teaser">Live-Standort &middot; ab 4,5&#9733; bei &ge;50 Bewertungen (Google)</div>
 </a>
