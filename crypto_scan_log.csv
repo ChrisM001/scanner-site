@@ -275,8 +275,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-20,2026-06-20 10:01,gate,SKYAI/USDT,0.37282,5.04,3.13,4.5,,,
 2026-06-20,2026-06-20 09:55,gate,HEI/USDT,0.1132,6.17,2.18,4.5,,,
 2026-06-21,2026-06-21 00:55,gate,BTW/USDT,0.138364,3.89,542.04,81.0,,,
-2026-06-21,2026-06-21 01:01,gate,ESPORTS/USDT,0.03292,3.04,43.32,5.4,,199.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-21,2026-06-21 01:20,gate,ESPORTS/USDT,0.03308,3.54,43.6,5.4,,199,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-21,2026-06-21 00:40,gate,BEL/USDT,0.1583,4.77,25.0,22.3,Partner,3.0,Coindar: Bella Protocol Partners With Metopia
 2026-06-21,2026-06-21 01:01,gate,CLO/USDT,0.27468,3.32,22.63,6.3,,,
-2026-06-21,2026-06-21 01:15,gate,EPIC/USDT,0.4496,4.58,3.6,13.5,Listing,304.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
-2026-06-21,2026-06-21 01:15,gate,ALICE/USDT,0.1885,15.22,2.01,3.1,Airdrop,50.0,Coindar: My Neighbor Alice to Hold Airdrop
+2026-06-21,2026-06-21 01:20,gate,SLX/USDT,0.2146,5.89,6.12,3.3,,,
+2026-06-21,2026-06-21 01:20,gate,EPIC/USDT,0.4499,4.65,3.61,13.5,Listing,304,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
+2026-06-21,2026-06-21 01:20,gate,ALICE/USDT,0.1937,18.4,2.06,3.2,Airdrop,50,Coindar: My Neighbor Alice to Hold Airdrop
