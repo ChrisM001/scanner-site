@@ -274,12 +274,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-20,2026-06-20 23:01,gate,EPIC/USDT,0.4294,7.43,3.72,12.4,,,
 2026-06-20,2026-06-20 10:01,gate,SKYAI/USDT,0.37282,5.04,3.13,4.5,,,
 2026-06-20,2026-06-20 09:55,gate,HEI/USDT,0.1132,6.17,2.18,4.5,,,
-2026-06-21,2026-06-21 02:15,gate,BTW/USDT,0.140361,5.39,563.97,84.3,,,
-2026-06-21,2026-06-21 02:15,gate,ESPORTS/USDT,0.03429,7.32,42.36,5.3,,199,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-21,2026-06-21 02:15,gate,BEL/USDT,0.15904,5.25,25.09,22.3,Partner,3,Coindar: Bella Protocol Partners With Metopia
+2026-06-21,2026-06-21 02:20,gate,BTW/USDT,0.141107,5.95,566.84,84.7,,,
+2026-06-21,2026-06-21 02:20,gate,ESPORTS/USDT,0.034,6.42,42.65,5.3,,199,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-21,2026-06-21 02:20,gate,BEL/USDT,0.16182,7.09,25.11,22.4,Partner,3,Coindar: Bella Protocol Partners With Metopia
 2026-06-21,2026-06-21 01:01,gate,CLO/USDT,0.27468,3.32,22.63,6.3,,,
-2026-06-21,2026-06-21 02:15,gate,SLX/USDT,0.21861,7.87,6.76,3.7,,,
+2026-06-21,2026-06-21 02:20,gate,SLX/USDT,0.21308,5.14,6.85,3.7,,,
 2026-06-21,2026-06-21 02:01,gate,BEAT/USDT,1.7866,3.22,3.97,16.2,,12.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-21,2026-06-21 02:15,gate,EPIC/USDT,0.4628,7.65,3.7,13.9,Listing,304,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
-2026-06-21,2026-06-21 02:15,gate,EIGEN/USDT,0.2633,4.57,3.42,3.3,Unlock,197,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
-2026-06-21,2026-06-21 02:15,gate,ALICE/USDT,0.185,13.08,2.51,3.9,Airdrop,50,Coindar: My Neighbor Alice to Hold Airdrop
+2026-06-21,2026-06-21 02:20,gate,EPIC/USDT,0.462,7.47,3.73,14.0,Listing,304,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
+2026-06-21,2026-06-21 02:15,gate,EIGEN/USDT,0.2633,4.57,3.42,3.3,Unlock,197.0,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
+2026-06-21,2026-06-21 02:20,gate,ALICE/USDT,0.1885,15.22,2.54,3.9,Airdrop,50,Coindar: My Neighbor Alice to Hold Airdrop
