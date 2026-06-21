@@ -278,6 +278,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-21,2026-06-21 01:20,gate,ESPORTS/USDT,0.03308,3.54,43.6,5.4,,199.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-21,2026-06-21 00:40,gate,BEL/USDT,0.1583,4.77,25.0,22.3,Partner,3.0,Coindar: Bella Protocol Partners With Metopia
 2026-06-21,2026-06-21 01:01,gate,CLO/USDT,0.27468,3.32,22.63,6.3,,,
-2026-06-21,2026-06-21 01:25,gate,SLX/USDT,0.22394,10.49,6.16,3.3,,,
-2026-06-21,2026-06-21 01:25,gate,EPIC/USDT,0.4475,4.09,3.62,13.6,Listing,304,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
-2026-06-21,2026-06-21 01:25,gate,ALICE/USDT,0.1921,17.42,2.11,3.2,Airdrop,50,Coindar: My Neighbor Alice to Hold Airdrop
+2026-06-21,2026-06-21 01:40,gate,SLX/USDT,0.22966,13.32,6.49,3.5,,,
+2026-06-21,2026-06-21 01:40,gate,EIGEN/USDT,0.2612,3.73,4.19,4.1,Unlock,197,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
+2026-06-21,2026-06-21 01:40,gate,EPIC/USDT,0.4507,4.84,3.68,13.8,Listing,304,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
+2026-06-21,2026-06-21 01:40,gate,ALICE/USDT,0.1955,19.5,2.31,3.5,Airdrop,50,Coindar: My Neighbor Alice to Hold Airdrop
