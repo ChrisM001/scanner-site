@@ -274,13 +274,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-20,2026-06-20 23:01,gate,EPIC/USDT,0.4294,7.43,3.72,12.4,,,
 2026-06-20,2026-06-20 10:01,gate,SKYAI/USDT,0.37282,5.04,3.13,4.5,,,
 2026-06-20,2026-06-20 09:55,gate,HEI/USDT,0.1132,6.17,2.18,4.5,,,
-2026-06-21,2026-06-21 02:55,gate,BTW/USDT,0.137491,3.24,592.98,88.6,,,
+2026-06-21,2026-06-21 03:15,gate,BTW/USDT,0.137358,3.14,605.71,90.6,,,
 2026-06-21,2026-06-21 03:05,gate,SIREN/USDT,0.04006,3.11,57.18,4.5,,5.0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
-2026-06-21,2026-06-21 03:10,gate,ESPORTS/USDT,0.03293,3.07,42.09,5.2,,199,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-21,2026-06-21 03:15,gate,ESPORTS/USDT,0.03302,3.35,42.13,5.2,,199,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-21,2026-06-21 02:55,gate,BEL/USDT,0.15629,3.43,25.22,22.5,Partner,3.0,Coindar: Bella Protocol Partners With Metopia
 2026-06-21,2026-06-21 01:01,gate,CLO/USDT,0.27468,3.32,22.63,6.3,,,
-2026-06-21,2026-06-21 03:10,gate,SLX/USDT,0.21725,7.19,6.81,3.7,,,
-2026-06-21,2026-06-21 03:10,gate,BEAT/USDT,1.7859,3.18,3.86,15.7,,12,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-21,2026-06-21 03:10,gate,EPIC/USDT,0.4669,8.61,3.75,14.1,Listing,304,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
-2026-06-21,2026-06-21 03:10,gate,EIGEN/USDT,0.268,6.43,3.32,3.2,Unlock,197,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
-2026-06-21,2026-06-21 03:10,gate,ALICE/USDT,0.1874,14.55,2.73,4.2,Airdrop,50,Coindar: My Neighbor Alice to Hold Airdrop
+2026-06-21,2026-06-21 03:15,gate,SLX/USDT,0.2142,5.69,6.84,3.7,,,
+2026-06-21,2026-06-21 03:15,gate,BEAT/USDT,1.7979,3.88,3.87,15.8,,12,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-21,2026-06-21 03:15,gate,EPIC/USDT,0.465,8.16,3.76,14.1,Listing,304,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
+2026-06-21,2026-06-21 03:15,gate,EIGEN/USDT,0.2635,4.65,3.33,3.2,Unlock,197,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
+2026-06-21,2026-06-21 03:15,gate,ALICE/USDT,0.1866,14.06,2.75,4.2,Airdrop,50,Coindar: My Neighbor Alice to Hold Airdrop
