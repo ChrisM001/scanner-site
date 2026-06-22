@@ -290,17 +290,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-21,2026-06-21 04:40,gate,EIGEN/USDT,0.264,4.85,3.1,3.0,Unlock,197.0,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
 2026-06-21,2026-06-21 17:31,gate,EPIC/USDT,0.4431,3.07,2.66,10.0,Listing,304.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-06-21,2026-06-21 23:55,gate,BEAT/USDT,1.7828,3.0,2.53,10.3,,,
-2026-06-22,2026-06-22 05:01,gate,UB/USDT,0.12944,16.18,995.63,6.8,,,
-2026-06-22,2026-06-22 05:01,gate,BTW/USDT,0.090842,13.04,368.02,65.7,,,
-2026-06-22,2026-06-22 05:01,gate,RESOLV/USDT,0.0232,11.59,154.72,16.0,Delisting,58,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
+2026-06-22,2026-06-22 05:35,gate,UB/USDT,0.13293,19.32,1100.68,7.6,,,
+2026-06-22,2026-06-22 05:35,gate,BTW/USDT,0.084189,4.76,373.77,66.8,,,
+2026-06-22,2026-06-22 05:01,gate,RESOLV/USDT,0.0232,11.59,154.72,16.0,Delisting,58.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-22,2026-06-22 00:01,mexc,UB/USDT,0.11268,9.93,153.23,6.8,,,
 2026-06-22,2026-06-22 01:05,gate,LAB/USDT,17.218,7.83,77.45,55.1,,,
 2026-06-22,2026-06-22 00:01,mexc,STO/USDT,0.0526,9.88,65.8,4.9,,364.0,"CoinMarketCal: AgentiPy (APY), AlphaKEK.AI (AIKEK), and 33 others - IBW2025 - 26-27 Jun 2025"
 2026-06-22,2026-06-22 03:45,gate,TNSR/USDT,0.04732,4.25,36.57,19.3,,276.0,Zawya: PRESSR: Tensor debuts the worlds first L4 personal robocar in Dubai
 2026-06-22,2026-06-22 00:01,mexc,NAORIS/USDT,0.04131,30.76,31.34,3.2,,74.0,CoinMarketCal: Naoris Protocol - Expansion Plans - 08 April 2026
-2026-06-22,2026-06-22 05:01,gate,CLO/USDT,0.234,30.01,19.15,5.8,,,
-2026-06-22,2026-06-22 05:01,gate,ENA/USDT,0.09292,6.85,6.99,6.8,,2,Coinpedia: Ethenas Network Activity Surges to Multi-Month Highs  But Why Is ENA Price Falling?
+2026-06-22,2026-06-22 05:35,gate,CLO/USDT,0.22817,26.78,20.12,6.1,,,
+2026-06-22,2026-06-22 05:35,gate,ENA/USDT,0.09384,7.91,7.23,7.0,,2,Coinpedia: Ethenas Network Activity Surges to Multi-Month Highs  But Why Is ENA Price Falling?
 2026-06-22,2026-06-22 01:31,gate,ADA/USDT,0.1617,3.26,5.92,21.5,,0.0,Beincrypto: Cardanos Hoskinson Bets Big on AI as Midnight City Development Pushes Forward
 2026-06-22,2026-06-22 00:01,mexc,LAB/USDT,15.874,13.71,5.02,40.9,,,
+2026-06-22,2026-06-22 05:35,gate,EIGEN/USDT,0.3034,12.58,3.09,3.2,Unlock,198,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
 2026-06-22,2026-06-22 04:20,gate,BEL/USDT,0.1859,10.5,3.0,3.0,Partner,4.0,Coindar: Bella Protocol Partners With Metopia
-2026-06-22,2026-06-22 05:01,gate,EIGEN/USDT,0.2964,9.98,2.94,3.0,Unlock,198,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
