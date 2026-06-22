@@ -290,8 +290,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-21,2026-06-21 04:40,gate,EIGEN/USDT,0.264,4.85,3.1,3.0,Unlock,197.0,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
 2026-06-21,2026-06-21 17:31,gate,EPIC/USDT,0.4431,3.07,2.66,10.0,Listing,304.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-06-21,2026-06-21 23:55,gate,BEAT/USDT,1.7828,3.0,2.53,10.3,,,
+2026-06-22,2026-06-22 11:51,gate,PEPE/USDT,3e-06,3.12,4762112.57,14.6,,,
 2026-06-22,2026-06-22 11:11,gate,UB/USDT,0.1182,6.09,2099.73,14.4,,,
-2026-06-22,2026-06-22 11:31,gate,BTW/USDT,0.114757,42.8,348.19,62.2,,,
+2026-06-22,2026-06-22 11:51,gate,BTW/USDT,0.109134,35.81,351.33,62.8,,,
 2026-06-22,2026-06-22 10:41,gate,RESOLV/USDT,0.02166,4.18,190.42,19.7,Delisting,58.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-22,2026-06-22 00:01,mexc,UB/USDT,0.11268,9.93,153.23,6.8,,,
 2026-06-22,2026-06-22 10:36,gate,HMSTR/USDT,0.00019,3.36,123.29,3.2,,9.0,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
@@ -299,11 +300,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-22,2026-06-22 00:01,mexc,STO/USDT,0.0526,9.88,65.8,4.9,,364.0,"CoinMarketCal: AgentiPy (APY), AlphaKEK.AI (AIKEK), and 33 others - IBW2025 - 26-27 Jun 2025"
 2026-06-22,2026-06-22 05:40,gate,TNSR/USDT,0.04779,5.29,39.39,20.8,,276.0,Zawya: PRESSR: Tensor debuts the worlds first L4 personal robocar in Dubai
 2026-06-22,2026-06-22 00:01,mexc,NAORIS/USDT,0.04131,30.76,31.34,3.2,,74.0,CoinMarketCal: Naoris Protocol - Expansion Plans - 08 April 2026
-2026-06-22,2026-06-22 11:31,gate,CLO/USDT,0.23596,31.1,18.74,5.6,,,
-2026-06-22,2026-06-22 11:31,gate,ENA/USDT,0.09568,10.03,8.53,8.3,,,
-2026-06-22,2026-06-22 11:31,gate,ADA/USDT,0.1614,3.07,6.18,22.4,,,
+2026-06-22,2026-06-22 11:51,gate,CLO/USDT,0.23422,30.14,19.05,5.7,,,
+2026-06-22,2026-06-22 11:51,gate,ENA/USDT,0.09596,10.35,8.69,8.5,,,
+2026-06-22,2026-06-22 11:51,gate,ADA/USDT,0.1618,3.32,6.32,23.0,,,
 2026-06-22,2026-06-22 00:01,mexc,LAB/USDT,15.874,13.71,5.02,40.9,,,
-2026-06-22,2026-06-22 11:31,gate,ID/USDT,0.03818,23.84,3.32,4.3,,,
-2026-06-22,2026-06-22 11:31,gate,EIGEN/USDT,0.3043,12.91,3.14,3.3,,,
+2026-06-22,2026-06-22 11:51,gate,ID/USDT,0.03695,19.85,3.4,4.4,,,
+2026-06-22,2026-06-22 11:51,gate,EIGEN/USDT,0.3044,12.95,3.18,3.3,,,
 2026-06-22,2026-06-22 10:11,gate,BEL/USDT,0.17515,4.11,3.05,3.1,Partner,4.0,Coindar: Bella Protocol Partners With Metopia
 2026-06-22,2026-06-22 06:16,gate,BEAT/USDT,1.8304,3.0,2.24,8.7,,13.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
