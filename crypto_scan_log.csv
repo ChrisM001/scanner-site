@@ -291,14 +291,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-21,2026-06-21 17:31,gate,EPIC/USDT,0.4431,3.07,2.66,10.0,Listing,304.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-06-21,2026-06-21 23:55,gate,BEAT/USDT,1.7828,3.0,2.53,10.3,,,
 2026-06-22,2026-06-22 01:40,gate,UB/USDT,0.11512,3.33,850.43,5.8,,,
-2026-06-22,2026-06-22 01:40,gate,BTW/USDT,0.087496,8.88,452.9,80.9,,,
+2026-06-22,2026-06-22 02:10,gate,BTW/USDT,0.094653,17.79,420.51,75.1,,,
 2026-06-22,2026-06-22 00:01,mexc,UB/USDT,0.11268,9.93,153.23,6.8,,,
 2026-06-22,2026-06-22 01:35,gate,RESOLV/USDT,0.02142,3.03,150.87,15.6,Delisting,58.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-22,2026-06-22 01:05,gate,LAB/USDT,17.218,7.83,77.45,55.1,,,
 2026-06-22,2026-06-22 00:01,mexc,STO/USDT,0.0526,9.88,65.8,4.9,,364.0,"CoinMarketCal: AgentiPy (APY), AlphaKEK.AI (AIKEK), and 33 others - IBW2025 - 26-27 Jun 2025"
 2026-06-22,2026-06-22 01:31,gate,TNSR/USDT,0.04685,3.22,34.09,18.0,,276.0,Zawya: PRESSR: Tensor debuts the worlds first L4 personal robocar in Dubai
 2026-06-22,2026-06-22 00:01,mexc,NAORIS/USDT,0.04131,30.76,31.34,3.2,,74.0,CoinMarketCal: Naoris Protocol - Expansion Plans - 08 April 2026
-2026-06-22,2026-06-22 01:40,gate,CLO/USDT,0.20803,15.59,24.55,7.4,,,
-2026-06-22,2026-06-22 01:40,gate,ENA/USDT,0.09239,6.24,6.1,5.9,,2,Coinpedia: Ethenas Network Activity Surges to Multi-Month Highs  But Why Is ENA Price Falling?
+2026-06-22,2026-06-22 02:10,gate,CLO/USDT,0.2173,20.74,19.52,5.9,,,
+2026-06-22,2026-06-22 02:10,gate,ENA/USDT,0.09259,6.47,6.15,6.0,,2,Coinpedia: Ethenas Network Activity Surges to Multi-Month Highs  But Why Is ENA Price Falling?
 2026-06-22,2026-06-22 01:31,gate,ADA/USDT,0.1617,3.26,5.92,21.5,,0.0,Beincrypto: Cardanos Hoskinson Bets Big on AI as Midnight City Development Pushes Forward
 2026-06-22,2026-06-22 00:01,mexc,LAB/USDT,15.874,13.71,5.02,40.9,,,
