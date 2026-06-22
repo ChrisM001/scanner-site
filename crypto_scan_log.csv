@@ -290,20 +290,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-21,2026-06-21 04:40,gate,EIGEN/USDT,0.264,4.85,3.1,3.0,Unlock,197.0,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
 2026-06-21,2026-06-21 17:31,gate,EPIC/USDT,0.4431,3.07,2.66,10.0,Listing,304.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-06-21,2026-06-21 23:55,gate,BEAT/USDT,1.7828,3.0,2.53,10.3,,,
-2026-06-22,2026-06-22 09:31,gate,UB/USDT,0.1305,17.13,1882.15,12.9,,,
-2026-06-22,2026-06-22 09:31,gate,BTW/USDT,0.0988,22.95,362.1,64.7,,,
+2026-06-22,2026-06-22 09:36,gate,UB/USDT,0.13122,17.78,1888.86,13.0,,,
+2026-06-22,2026-06-22 09:36,gate,BTW/USDT,0.098458,22.52,362.87,64.8,,,
 2026-06-22,2026-06-22 09:21,gate,RESOLV/USDT,0.02144,3.13,181.0,18.7,Delisting,58.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-22,2026-06-22 00:01,mexc,UB/USDT,0.11268,9.93,153.23,6.8,,,
-2026-06-22,2026-06-22 09:31,gate,HMSTR/USDT,0.000195,5.64,122.68,3.2,,9,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
+2026-06-22,2026-06-22 09:36,gate,HMSTR/USDT,0.000194,5.37,122.88,3.2,,9,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
 2026-06-22,2026-06-22 01:05,gate,LAB/USDT,17.218,7.83,77.45,55.1,,,
 2026-06-22,2026-06-22 00:01,mexc,STO/USDT,0.0526,9.88,65.8,4.9,,364.0,"CoinMarketCal: AgentiPy (APY), AlphaKEK.AI (AIKEK), and 33 others - IBW2025 - 26-27 Jun 2025"
 2026-06-22,2026-06-22 05:40,gate,TNSR/USDT,0.04779,5.29,39.39,20.8,,276.0,Zawya: PRESSR: Tensor debuts the worlds first L4 personal robocar in Dubai
 2026-06-22,2026-06-22 00:01,mexc,NAORIS/USDT,0.04131,30.76,31.34,3.2,,74.0,CoinMarketCal: Naoris Protocol - Expansion Plans - 08 April 2026
-2026-06-22,2026-06-22 09:31,gate,CLO/USDT,0.2317,28.74,18.76,5.7,,,
-2026-06-22,2026-06-22 09:31,gate,ENA/USDT,0.09566,10.0,8.18,8.0,,2,Coinpedia: Ethenas Network Activity Surges to Multi-Month Highs  But Why Is ENA Price Falling?
+2026-06-22,2026-06-22 09:36,gate,CLO/USDT,0.2344,30.24,18.86,5.7,,,
+2026-06-22,2026-06-22 09:36,gate,ENA/USDT,0.09571,10.06,8.22,8.0,,2,Coinpedia: Ethenas Network Activity Surges to Multi-Month Highs  But Why Is ENA Price Falling?
 2026-06-22,2026-06-22 08:46,gate,ADA/USDT,0.1614,3.07,6.17,22.4,,0.0,Binance News: Cardanos Hoskinson Bets Big on AI as Midnight City Development Pushes Forward
 2026-06-22,2026-06-22 00:01,mexc,LAB/USDT,15.874,13.71,5.02,40.9,,,
-2026-06-22,2026-06-22 09:31,gate,EIGEN/USDT,0.2965,10.02,3.36,3.5,Unlock,198,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
+2026-06-22,2026-06-22 09:36,gate,EIGEN/USDT,0.2995,11.13,3.36,3.5,Unlock,198,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
 2026-06-22,2026-06-22 07:40,gate,BEL/USDT,0.17357,3.17,3.01,3.0,Partner,4.0,Coindar: Bella Protocol Partners With Metopia
-2026-06-22,2026-06-22 09:31,gate,ID/USDT,0.0378,22.61,2.82,3.6,,38,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
+2026-06-22,2026-06-22 09:36,gate,ID/USDT,0.03799,23.22,2.84,3.7,,38,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
 2026-06-22,2026-06-22 06:16,gate,BEAT/USDT,1.8304,3.0,2.24,8.7,,13.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
