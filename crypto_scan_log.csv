@@ -290,18 +290,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-21,2026-06-21 04:40,gate,EIGEN/USDT,0.264,4.85,3.1,3.0,Unlock,197.0,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
 2026-06-21,2026-06-21 17:31,gate,EPIC/USDT,0.4431,3.07,2.66,10.0,Listing,304.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-06-21,2026-06-21 23:55,gate,BEAT/USDT,1.7828,3.0,2.53,10.3,,,
-2026-06-22,2026-06-22 06:50,gate,UB/USDT,0.13572,21.82,1284.31,8.8,,,
-2026-06-22,2026-06-22 06:50,gate,BTW/USDT,0.097756,21.65,366.13,65.4,,,
+2026-06-22,2026-06-22 07:16,gate,UB/USDT,0.13837,24.2,1318.08,9.1,,,
+2026-06-22,2026-06-22 07:16,gate,BTW/USDT,0.10145,26.24,354.94,63.4,,,
 2026-06-22,2026-06-22 05:01,gate,RESOLV/USDT,0.0232,11.59,154.72,16.0,Delisting,58.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-22,2026-06-22 00:01,mexc,UB/USDT,0.11268,9.93,153.23,6.8,,,
 2026-06-22,2026-06-22 01:05,gate,LAB/USDT,17.218,7.83,77.45,55.1,,,
 2026-06-22,2026-06-22 00:01,mexc,STO/USDT,0.0526,9.88,65.8,4.9,,364.0,"CoinMarketCal: AgentiPy (APY), AlphaKEK.AI (AIKEK), and 33 others - IBW2025 - 26-27 Jun 2025"
 2026-06-22,2026-06-22 05:40,gate,TNSR/USDT,0.04779,5.29,39.39,20.8,,276.0,Zawya: PRESSR: Tensor debuts the worlds first L4 personal robocar in Dubai
 2026-06-22,2026-06-22 00:01,mexc,NAORIS/USDT,0.04131,30.76,31.34,3.2,,74.0,CoinMarketCal: Naoris Protocol - Expansion Plans - 08 April 2026
-2026-06-22,2026-06-22 06:50,gate,CLO/USDT,0.23532,30.75,19.6,5.9,,,
-2026-06-22,2026-06-22 06:50,gate,ENA/USDT,0.09383,7.9,7.67,7.5,,2,Coinpedia: Ethenas Network Activity Surges to Multi-Month Highs  But Why Is ENA Price Falling?
-2026-06-22,2026-06-22 01:31,gate,ADA/USDT,0.1617,3.26,5.92,21.5,,0.0,Beincrypto: Cardanos Hoskinson Bets Big on AI as Midnight City Development Pushes Forward
+2026-06-22,2026-06-22 07:16,gate,CLO/USDT,0.23468,30.39,18.77,5.7,,,
+2026-06-22,2026-06-22 07:16,gate,ENA/USDT,0.09431,8.45,7.73,7.5,,2,Coinpedia: Ethenas Network Activity Surges to Multi-Month Highs  But Why Is ENA Price Falling?
+2026-06-22,2026-06-22 07:16,gate,ADA/USDT,0.1613,3.0,6.35,23.0,,0,Binance News: Cardanos Hoskinson Bets Big on AI as Midnight City Development Pushes Forward
 2026-06-22,2026-06-22 00:01,mexc,LAB/USDT,15.874,13.71,5.02,40.9,,,
-2026-06-22,2026-06-22 06:50,gate,EIGEN/USDT,0.3055,13.36,3.39,3.5,Unlock,198,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
+2026-06-22,2026-06-22 07:16,gate,EIGEN/USDT,0.3065,13.73,3.29,3.4,Unlock,198,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
 2026-06-22,2026-06-22 06:40,gate,BEL/USDT,0.17478,3.89,3.0,3.0,Partner,4.0,Coindar: Bella Protocol Partners With Metopia
 2026-06-22,2026-06-22 06:16,gate,BEAT/USDT,1.8304,3.0,2.24,8.7,,13.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
