@@ -290,20 +290,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-21,2026-06-21 04:40,gate,EIGEN/USDT,0.264,4.85,3.1,3.0,Unlock,197.0,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
 2026-06-21,2026-06-21 17:31,gate,EPIC/USDT,0.4431,3.07,2.66,10.0,Listing,304.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-06-21,2026-06-21 23:55,gate,BEAT/USDT,1.7828,3.0,2.53,10.3,,,
-2026-06-22,2026-06-22 10:06,gate,UB/USDT,0.12854,15.38,1927.29,13.2,,,
-2026-06-22,2026-06-22 10:06,gate,BTW/USDT,0.106363,32.36,348.33,62.2,,,
-2026-06-22,2026-06-22 09:51,gate,RESOLV/USDT,0.02148,3.32,186.1,19.2,Delisting,58.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
+2026-06-22,2026-06-22 10:11,gate,UB/USDT,0.12936,16.11,1934.66,13.3,,,
+2026-06-22,2026-06-22 10:11,gate,BTW/USDT,0.107506,33.78,349.18,62.4,,,
+2026-06-22,2026-06-22 10:11,gate,RESOLV/USDT,0.02152,3.51,187.09,19.3,Delisting,58,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-22,2026-06-22 00:01,mexc,UB/USDT,0.11268,9.93,153.23,6.8,,,
-2026-06-22,2026-06-22 10:06,gate,HMSTR/USDT,0.000193,4.94,122.17,3.2,,9,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
+2026-06-22,2026-06-22 10:11,gate,HMSTR/USDT,0.000194,5.37,122.32,3.2,,9,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
 2026-06-22,2026-06-22 01:05,gate,LAB/USDT,17.218,7.83,77.45,55.1,,,
 2026-06-22,2026-06-22 00:01,mexc,STO/USDT,0.0526,9.88,65.8,4.9,,364.0,"CoinMarketCal: AgentiPy (APY), AlphaKEK.AI (AIKEK), and 33 others - IBW2025 - 26-27 Jun 2025"
 2026-06-22,2026-06-22 05:40,gate,TNSR/USDT,0.04779,5.29,39.39,20.8,,276.0,Zawya: PRESSR: Tensor debuts the worlds first L4 personal robocar in Dubai
 2026-06-22,2026-06-22 00:01,mexc,NAORIS/USDT,0.04131,30.76,31.34,3.2,,74.0,CoinMarketCal: Naoris Protocol - Expansion Plans - 08 April 2026
-2026-06-22,2026-06-22 10:06,gate,CLO/USDT,0.23364,29.81,17.78,5.4,,,
-2026-06-22,2026-06-22 10:06,gate,ENA/USDT,0.0948,9.02,8.24,8.0,,2,Coinpedia: Ethenas Network Activity Surges to Multi-Month Highs  But Why Is ENA Price Falling?
+2026-06-22,2026-06-22 10:11,gate,CLO/USDT,0.2334,29.68,17.92,5.4,,,
+2026-06-22,2026-06-22 10:11,gate,ENA/USDT,0.09483,9.05,8.28,8.1,,2,Coinpedia: Ethenas Network Activity Surges to Multi-Month Highs  But Why Is ENA Price Falling?
 2026-06-22,2026-06-22 08:46,gate,ADA/USDT,0.1614,3.07,6.17,22.4,,0.0,Binance News: Cardanos Hoskinson Bets Big on AI as Midnight City Development Pushes Forward
 2026-06-22,2026-06-22 00:01,mexc,LAB/USDT,15.874,13.71,5.02,40.9,,,
-2026-06-22,2026-06-22 10:06,gate,EIGEN/USDT,0.299,10.95,3.1,3.2,Unlock,198,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
-2026-06-22,2026-06-22 10:06,gate,BEL/USDT,0.1748,3.91,3.04,3.0,Partner,4,Coindar: Bella Protocol Partners With Metopia
-2026-06-22,2026-06-22 10:06,gate,ID/USDT,0.03864,25.33,2.92,3.8,,38,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
+2026-06-22,2026-06-22 10:11,gate,EIGEN/USDT,0.2983,10.69,3.11,3.2,Unlock,198,CoinMarketCal: EigenCloud (EIGEN) - 36.82MM Token Unlock - 01 Jan 2026
+2026-06-22,2026-06-22 10:11,gate,BEL/USDT,0.17515,4.11,3.05,3.1,Partner,4,Coindar: Bella Protocol Partners With Metopia
+2026-06-22,2026-06-22 10:11,gate,ID/USDT,0.03874,25.66,2.93,3.8,,,
 2026-06-22,2026-06-22 06:16,gate,BEAT/USDT,1.8304,3.0,2.24,8.7,,13.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
