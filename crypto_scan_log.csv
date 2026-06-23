@@ -318,19 +318,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-23,2026-06-23 00:01,mexc,UB/USDT,0.11022,4.18,321.98,15.6,,,
 2026-06-23,2026-06-23 00:01,mexc,BTW/USDT,0.0945,3.18,268.02,31.0,,,
 2026-06-23,2026-06-23 05:50,gate,HMSTR/USDT,0.000175,4.43,118.79,3.2,,10.0,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
-2026-06-23,2026-06-23 08:06,gate,RESOLV/USDT,0.0252,15.81,116.13,17.8,Delisting,59,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
-2026-06-23,2026-06-23 08:06,gate,MMT/USDT,0.1986,4.09,77.2,3.3,,230,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
+2026-06-23,2026-06-23 08:16,gate,RESOLV/USDT,0.02505,15.12,117.21,18.0,Delisting,59,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
+2026-06-23,2026-06-23 08:16,gate,MMT/USDT,0.1975,3.51,77.33,3.3,,230,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
 2026-06-23,2026-06-23 00:01,mexc,BLESS/USDT,0.010747,13.84,34.35,10.3,Listing,273.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-23,2026-06-23 00:01,mexc,NAORIS/USDT,0.03693,3.47,32.59,3.6,,75.0,CoinMarketCal: Naoris Protocol - Expansion Plans - 08 April 2026
-2026-06-23,2026-06-23 08:06,gate,ESPORTS/USDT,0.02926,14.7,29.65,3.7,,201,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-23,2026-06-23 08:06,gate,CLO/USDT,0.2749,14.79,28.75,9.4,,,
-2026-06-23,2026-06-23 08:06,gate,LAYER/USDT,0.07781,6.59,15.21,4.7,,19,Binance News: Solayer Launches Multi-Asset Perpetual Contract Platform on Solana
+2026-06-23,2026-06-23 08:16,gate,ESPORTS/USDT,0.02948,15.56,29.95,3.8,,201,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-23,2026-06-23 08:16,gate,CLO/USDT,0.27377,14.31,28.98,9.5,,,
+2026-06-23,2026-06-23 08:16,gate,LAYER/USDT,0.07989,9.44,15.4,4.8,,19,Binance News: Solayer Launches Multi-Asset Perpetual Contract Platform on Solana
 2026-06-23,2026-06-23 00:01,mexc,SYN/USDT,0.28253,17.99,9.86,30.1,,4.0,Invezz: Why is Synapse (SYN) price skyrocketing?
 2026-06-23,2026-06-23 07:46,gate,BEL/USDT,0.18959,5.22,9.42,12.9,Partner,5.0,Coindar: Bella Protocol Partners With Metopia
 2026-06-23,2026-06-23 00:01,mexc,VELVET/USDT,0.5219,19.1,8.42,18.7,,107.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-23,2026-06-23 00:01,mexc,RE/USDT,0.8748,11.93,6.12,26.7,Listing,3.0,CoinMarketCal: RE - Bybit Listing - 19 June 2026
 2026-06-23,2026-06-23 00:01,mexc,TNSR/USDT,0.04084,4.1,5.25,5.1,,277.0,Zawya: PRESSR: Tensor debuts the worlds first L4 personal robocar in Dubai
 2026-06-23,2026-06-23 00:01,mexc,LAB/USDT,16.9,12.89,4.99,40.9,,,
-2026-06-23,2026-06-23 08:06,gate,FOLKS/USDT,2.96,4.48,4.2,4.6,Partner,173,"CoinMarketCal: FOLKS, GALGO - AEON Payments Partnership - 31 December 2025"
-2026-06-23,2026-06-23 08:06,gate,ID/USDT,0.03826,3.24,3.54,5.2,,38,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
+2026-06-23,2026-06-23 08:16,gate,FOLKS/USDT,3.049,7.62,4.45,4.9,Partner,173,"CoinMarketCal: FOLKS, GALGO - AEON Payments Partnership - 31 December 2025"
+2026-06-23,2026-06-23 08:06,gate,ID/USDT,0.03826,3.24,3.54,5.2,,38.0,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
 2026-06-23,2026-06-23 05:35,gate,H/USDT,0.12905,3.5,2.4,8.5,Unlock,1.0,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
