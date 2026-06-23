@@ -317,14 +317,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-23,2026-06-23 02:05,gate,BLESS/USDT,0.011554,8.12,385.22,6.6,Listing,273.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-23,2026-06-23 00:01,mexc,UB/USDT,0.11022,4.18,321.98,15.6,,,
 2026-06-23,2026-06-23 00:01,mexc,BTW/USDT,0.0945,3.18,268.02,31.0,,,
-2026-06-23,2026-06-23 08:51,gate,RESOLV/USDT,0.02456,12.87,122.77,18.8,Delisting,59,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-23,2026-06-23 05:50,gate,HMSTR/USDT,0.000175,4.43,118.79,3.2,,10.0,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
-2026-06-23,2026-06-23 08:35,gate,MMT/USDT,0.1979,3.72,78.45,3.3,,230.0,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
+2026-06-23,2026-06-23 09:01,gate,RESOLV/USDT,0.02496,14.71,118.61,18.2,Delisting,59,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
+2026-06-23,2026-06-23 09:01,gate,MMT/USDT,0.197,3.25,77.43,3.3,,230,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
 2026-06-23,2026-06-23 00:01,mexc,BLESS/USDT,0.010747,13.84,34.35,10.3,Listing,273.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-23,2026-06-23 00:01,mexc,NAORIS/USDT,0.03693,3.47,32.59,3.6,,75.0,CoinMarketCal: Naoris Protocol - Expansion Plans - 08 April 2026
-2026-06-23,2026-06-23 08:51,gate,ESPORTS/USDT,0.0287,12.5,30.58,3.9,,201,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-23,2026-06-23 08:51,gate,CLO/USDT,0.26857,12.14,29.75,9.7,,,
-2026-06-23,2026-06-23 08:51,gate,LAYER/USDT,0.082,12.33,16.01,5.0,,19,Binance News: Solayer Launches Multi-Asset Perpetual Contract Platform on Solana
+2026-06-23,2026-06-23 09:01,gate,ESPORTS/USDT,0.02901,13.72,29.17,3.7,,201,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-23,2026-06-23 09:01,gate,CLO/USDT,0.27343,14.17,28.99,9.5,,,
+2026-06-23,2026-06-23 09:01,gate,LAYER/USDT,0.08183,12.1,16.08,5.0,,19,Binance News: Solayer Launches Multi-Asset Perpetual Contract Platform on Solana
 2026-06-23,2026-06-23 00:01,mexc,SYN/USDT,0.28253,17.99,9.86,30.1,,4.0,Invezz: Why is Synapse (SYN) price skyrocketing?
 2026-06-23,2026-06-23 08:25,gate,BEL/USDT,0.18755,4.09,9.63,13.1,Partner,5.0,Coindar: Bella Protocol Partners With Metopia
 2026-06-23,2026-06-23 00:01,mexc,VELVET/USDT,0.5219,19.1,8.42,18.7,,107.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
