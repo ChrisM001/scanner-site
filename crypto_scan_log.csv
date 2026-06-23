@@ -317,11 +317,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-23,2026-06-23 02:05,gate,BLESS/USDT,0.011554,8.12,385.22,6.6,Listing,273.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-23,2026-06-23 00:01,mexc,UB/USDT,0.11022,4.18,321.98,15.6,,,
 2026-06-23,2026-06-23 00:01,mexc,BTW/USDT,0.0945,3.18,268.02,31.0,,,
-2026-06-23,2026-06-23 15:21,gate,RESOLV/USDT,0.02434,11.86,130.95,20.1,,,
-2026-06-23,2026-06-23 15:21,gate,BTW/USDT,0.100053,6.25,122.96,23.4,,,
+2026-06-23,2026-06-23 17:26,gate,RESOLV/USDT,0.02331,7.12,130.07,19.9,,,
 2026-06-23,2026-06-23 05:50,gate,HMSTR/USDT,0.000175,4.43,118.79,3.2,,10.0,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
+2026-06-23,2026-06-23 17:26,gate,BTW/USDT,0.099981,6.17,110.89,21.1,,,
 2026-06-23,2026-06-23 12:31,gate,MMT/USDT,0.2052,7.55,83.71,3.6,,231.0,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
-2026-06-23,2026-06-23 15:21,gate,ESPORTS/USDT,0.03732,46.3,37.75,4.8,,,
+2026-06-23,2026-06-23 17:26,gate,ESPORTS/USDT,0.03525,38.18,54.89,6.9,,,
 2026-06-23,2026-06-23 00:01,mexc,BLESS/USDT,0.010747,13.84,34.35,10.3,Listing,273.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-23,2026-06-23 00:01,mexc,NAORIS/USDT,0.03693,3.47,32.59,3.6,,75.0,CoinMarketCal: Naoris Protocol - Expansion Plans - 08 April 2026
 2026-06-23,2026-06-23 11:56,gate,CLO/USDT,0.24689,3.09,29.87,9.8,,,
@@ -335,3 +335,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-23,2026-06-23 00:01,mexc,LAB/USDT,16.9,12.89,4.99,40.9,,,
 2026-06-23,2026-06-23 08:21,gate,ID/USDT,0.03824,3.18,3.55,5.2,,38.0,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
 2026-06-23,2026-06-23 05:35,gate,H/USDT,0.12905,3.5,2.4,8.5,Unlock,1.0,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
+2026-06-23,2026-06-23 17:26,gate,BEAT/USDT,1.9426,15.83,2.01,7.4,,,
