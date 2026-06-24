@@ -338,18 +338,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-23,2026-06-23 05:35,gate,H/USDT,0.12905,3.5,2.4,8.5,Unlock,1.0,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
 2026-06-24,2026-06-24 02:01,gate,BLESS/USDT,0.008658,3.75,321.0,6.3,Listing,274.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-24,2026-06-24 00:01,mexc,UB/USDT,0.07765,7.31,124.1,5.9,,,
-2026-06-24,2026-06-24 05:35,gate,BTW/USDT,0.110474,10.67,122.17,23.4,,,
+2026-06-24,2026-06-24 05:40,gate,BTW/USDT,0.110127,10.32,122.65,23.5,,,
 2026-06-24,2026-06-24 00:55,gate,RESOLV/USDT,0.02507,3.51,93.32,20.4,Delisting,60.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-24,2026-06-24 04:45,gate,ESPORTS/USDT,0.03405,3.5,72.25,9.3,,202.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-24,2026-06-24 05:15,gate,LAB/USDT,15.02925,3.15,36.47,26.7,,,
+2026-06-24,2026-06-24 05:40,gate,LAB/USDT,15.36488,5.45,37.83,27.7,,,
 2026-06-24,2026-06-24 01:05,mexc,CLO/USDT,0.21,3.34,30.46,5.3,,,
-2026-06-24,2026-06-24 05:35,gate,CLO/USDT,0.2693,27.45,29.3,10.5,,,
+2026-06-24,2026-06-24 05:40,gate,CLO/USDT,0.25704,21.65,29.56,10.6,,,
 2026-06-24,2026-06-24 01:05,mexc,BASED/USDT,0.10047,6.18,21.21,3.1,,,
 2026-06-24,2026-06-24 01:05,mexc,FARTCOIN/USDT,0.1301,3.49,8.35,10.3,,75.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-06-24,2026-06-24 05:35,gate,BEAT/USDT,2.427,3.04,8.0,29.2,,15,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-24,2026-06-24 05:40,gate,BEAT/USDT,2.4319,3.24,8.03,29.3,,15,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-24,2026-06-24 01:05,mexc,SYN/USDT,0.288,5.8,4.16,15.1,,5.0,Invezz: Why is Synapse (SYN) price skyrocketing?
 2026-06-24,2026-06-24 01:05,mexc,HEI/USDT,0.1411,59.79,3.38,8.9,,,
-2026-06-24,2026-06-24 05:35,gate,BEL/USDT,0.15128,6.9,3.2,4.9,Partner,6,Coindar: Bella Protocol Partners With Metopia
+2026-06-24,2026-06-24 05:40,gate,BEL/USDT,0.15071,6.5,3.21,4.9,Partner,6,Coindar: Bella Protocol Partners With Metopia
 2026-06-24,2026-06-24 01:05,mexc,DYDX/USDT,0.1514,10.1,2.55,4.0,,53.0,CoinMarketCal: dYdX - Prop #382 Vote - 29 April02 May 2026
 2026-06-24,2026-06-24 05:10,gate,H/USDT,0.10806,3.36,2.21,7.9,Unlock,2.0,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
 2026-06-24,2026-06-24 02:40,gate,ID/USDT,0.03651,9.31,2.02,3.2,,39.0,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
