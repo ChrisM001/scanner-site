@@ -340,7 +340,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-24,2026-06-24 01:30,gate,BTW/USDT,0.104325,4.51,96.93,18.5,,,
 2026-06-24,2026-06-24 00:55,gate,RESOLV/USDT,0.02507,3.51,93.32,20.4,Delisting,60.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-24,2026-06-24 01:05,mexc,CLO/USDT,0.21,3.34,30.46,5.3,,,
-2026-06-24,2026-06-24 01:30,gate,CLO/USDT,0.23354,10.53,30.26,10.8,,,
+2026-06-24,2026-06-24 01:32,gate,CLO/USDT,0.23544,11.42,30.29,10.8,,,
 2026-06-24,2026-06-24 01:05,mexc,BASED/USDT,0.10047,6.18,21.21,3.1,,,
 2026-06-24,2026-06-24 01:05,mexc,FARTCOIN/USDT,0.1301,3.49,8.35,10.3,,75.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-06-24,2026-06-24 01:05,mexc,SYN/USDT,0.288,5.8,4.16,15.1,,5.0,Invezz: Why is Synapse (SYN) price skyrocketing?
