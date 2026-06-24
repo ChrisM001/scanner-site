@@ -339,4 +339,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-24,2026-06-24 00:01,mexc,UB/USDT,0.07765,7.31,124.1,5.9,,,
 2026-06-24,2026-06-24 00:01,mexc,BASED/USDT,0.09933,4.97,21.37,3.1,,,
 2026-06-24,2026-06-24 00:01,mexc,HEI/USDT,0.1308,48.13,2.84,7.5,,,
-2026-06-24,2026-06-24 00:01,mexc,DYDX/USDT,0.1506,9.52,2.42,3.8,,53,CoinMarketCal: dYdX - Prop #382 Vote - 29 April02 May 2026
+2026-06-24,2026-06-24 00:01,mexc,DYDX/USDT,0.1506,9.52,2.42,3.8,,53.0,CoinMarketCal: dYdX - Prop #382 Vote - 29 April02 May 2026
+2026-06-24,2026-06-24 00:15,gate,ID/USDT,0.03454,3.41,2.01,3.1,,39.0,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
