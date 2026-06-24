@@ -82,9 +82,9 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-06-23,2026-06-23 08:06,NASDAQ:QXL,7.0,10.24,8.0,6.31,0.15,4.0,FDA/CLIN,GlobeNewswire: Quantum X Labs Launches Integrated Quantum Computing Program Combining Its Clinical Trials Data Analysis Quantum Algorithm and Its Quantum Error Correction Decoder,premarket
 2026-06-23,2026-06-23 12:31,NASDAQ:CDT,1.26,38.73,4.5,1.63,1.01,5.0,,GlobeNewswire: CDT Notes Strategic Investment into Sarborg and Expansion into Quantum Computing,premarket
 2026-06-23,2026-06-23 12:31,NASDAQ:ICCM,7.205,30.74,1.0,1.24,2.19,5.0,,TradingView: Key facts: IceCure prices $5.5M placement; demand rises after ASBrS,premarket
-2026-06-24,2026-06-24 12:01,NASDAQ:HSCS,2.6,53.67,2382.5,3.11,0.25,0.0,M&A,"The Block: Barry Silberts Zcash miner proposes merger, sends Nasdaq stock soaring despite rough month for ZEC",premarket
-2026-06-24,2026-06-24 12:01,NASDAQ:GITS,1.88,21.52,1094.2,2.2,0.15,1.0,EARNINGS,"TradingView: Global Interactive Technologies, Inc. 1Q 2026: Revenue $96 EPS $(0.14)  10-Q Summary",premarket
-2026-06-24,2026-06-24 12:01,NASDAQ:BOLD,2.62,71.43,851.0,17.22,0.19,0.0,,"Stocktwits: Why Did BOLD, BLZE, QNT Stocks Surge To 52-Week Highs Today",premarket
-2026-06-24,2026-06-24 12:01,NASDAQ:RDGT,1.49,62.04,38.2,0.88,0.34,77.0,,Stocktwits: RDGT Stock More Than Doubles Ahead Of Reverse Split As Turnaround Strategy Takes Center Stage,premarket
+2026-06-24,2026-06-24 12:40,NASDAQ:HSCS,2.65,53.67,2382.5,3.11,0.33,0.0,M&A,"The Block: Barry Silberts Zcash miner proposes merger, sends Nasdaq stock soaring despite rough month for ZEC",premarket
+2026-06-24,2026-06-24 12:40,NASDAQ:GITS,1.928,21.52,1094.2,2.2,0.15,1.0,EARNINGS,"TradingView: Global Interactive Technologies, Inc. 1Q 2026: Revenue $96 EPS $(0.14)  10-Q Summary",premarket
+2026-06-24,2026-06-24 12:40,NASDAQ:BOLD,2.63,71.43,851.0,17.22,0.22,0.0,,"Stocktwits: Why Did BOLD, BLZE, QNT Stocks Surge To 52-Week Highs Today",premarket
+2026-06-24,2026-06-24 12:40,NASDAQ:RDGT,1.48,62.04,38.2,0.88,0.4,77.0,,Stocktwits: RDGT Stock More Than Doubles Ahead Of Reverse Split As Turnaround Strategy Takes Center Stage,premarket
 2026-06-24,2026-06-24 08:01,NASDAQ:ORIS,3.27,32.64,23.4,4.09,6.62,1.0,,"Stocktwits: INFQ, VTAK, ORIS: Why These Stocks Posted Double-Digit Gains After-Hours Today",premarket
 2026-06-24,2026-06-24 08:05,NASDAQ:ICCM,6.54,10.62,0.5,1.24,4.06,6.0,,TradingView: Key facts: IceCure prices $5.5M placement; demand rises after ASBrS,premarket
