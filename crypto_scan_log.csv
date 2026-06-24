@@ -338,15 +338,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-23,2026-06-23 05:35,gate,H/USDT,0.12905,3.5,2.4,8.5,Unlock,1.0,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
 2026-06-24,2026-06-24 02:01,gate,BLESS/USDT,0.008658,3.75,321.0,6.3,Listing,274.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-24,2026-06-24 00:01,mexc,UB/USDT,0.07765,7.31,124.1,5.9,,,
-2026-06-24,2026-06-24 03:25,gate,BTW/USDT,0.103061,3.24,103.39,19.8,,,
+2026-06-24,2026-06-24 04:40,gate,BTW/USDT,0.11937,19.58,117.95,22.6,,,
 2026-06-24,2026-06-24 00:55,gate,RESOLV/USDT,0.02507,3.51,93.32,20.4,Delisting,60.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
+2026-06-24,2026-06-24 04:40,gate,LAB/USDT,15.13652,3.88,37.7,27.6,,,
 2026-06-24,2026-06-24 01:05,mexc,CLO/USDT,0.21,3.34,30.46,5.3,,,
-2026-06-24,2026-06-24 03:25,gate,CLO/USDT,0.25869,22.43,28.25,10.1,,,
+2026-06-24,2026-06-24 04:40,gate,CLO/USDT,0.2709,28.21,28.36,10.1,,,
 2026-06-24,2026-06-24 01:05,mexc,BASED/USDT,0.10047,6.18,21.21,3.1,,,
 2026-06-24,2026-06-24 01:05,mexc,FARTCOIN/USDT,0.1301,3.49,8.35,10.3,,75.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-06-24,2026-06-24 01:05,mexc,SYN/USDT,0.288,5.8,4.16,15.1,,5.0,Invezz: Why is Synapse (SYN) price skyrocketing?
 2026-06-24,2026-06-24 01:05,mexc,HEI/USDT,0.1411,59.79,3.38,8.9,,,
-2026-06-24,2026-06-24 03:25,gate,BEL/USDT,0.14945,5.61,3.31,5.1,Partner,6,Coindar: Bella Protocol Partners With Metopia
+2026-06-24,2026-06-24 04:40,gate,BEL/USDT,0.1506,6.42,3.17,4.8,Partner,6,Coindar: Bella Protocol Partners With Metopia
 2026-06-24,2026-06-24 01:05,mexc,DYDX/USDT,0.1514,10.1,2.55,4.0,,53.0,CoinMarketCal: dYdX - Prop #382 Vote - 29 April02 May 2026
-2026-06-24,2026-06-24 03:25,gate,H/USDT,0.11328,8.35,2.3,8.2,Unlock,2,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
+2026-06-24,2026-06-24 04:40,gate,H/USDT,0.10807,3.37,2.27,8.1,Unlock,2,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
 2026-06-24,2026-06-24 02:40,gate,ID/USDT,0.03651,9.31,2.02,3.2,,39.0,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
