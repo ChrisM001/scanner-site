@@ -336,19 +336,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-23,2026-06-23 00:01,mexc,LAB/USDT,16.9,12.89,4.99,40.9,,,
 2026-06-23,2026-06-23 08:21,gate,ID/USDT,0.03824,3.18,3.55,5.2,,38.0,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
 2026-06-23,2026-06-23 05:35,gate,H/USDT,0.12905,3.5,2.4,8.5,Unlock,1.0,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
-2026-06-24,2026-06-24 22:23,gate,BAS/USDT,0.040235,26.66,1383.9,6.5,,,
+2026-06-24,2026-06-24 22:55,gate,BAS/USDT,0.03966,24.85,1396.2,6.6,,,
 2026-06-24,2026-06-24 11:01,gate,G/USDT,0.003217,10.47,1143.54,3.2,Airdrop,314.0,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
 2026-06-24,2026-06-24 13:11,gate,BLESS/USDT,0.008596,3.01,200.01,4.0,Listing,274.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-06-24,2026-06-24 00:01,mexc,UB/USDT,0.07765,7.31,124.1,5.9,,,
-2026-06-24,2026-06-24 22:23,gate,SAHARA/USDT,0.01324,5.67,118.7,3.6,,,
+2026-06-24,2026-06-24 22:55,gate,SAHARA/USDT,0.01308,4.39,119.08,3.7,,,
 2026-06-24,2026-06-24 15:41,gate,BTW/USDT,0.103997,4.18,111.65,21.4,,,
+2026-06-24,2026-06-24 22:55,gate,LAB/USDT,15.95359,9.49,94.15,69.0,,,
 2026-06-24,2026-06-24 00:55,gate,RESOLV/USDT,0.02507,3.51,93.32,20.4,Delisting,60.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
-2026-06-24,2026-06-24 22:23,gate,LAB/USDT,15.93369,9.35,93.04,68.2,,,
 2026-06-24,2026-06-24 07:21,gate,ESPORTS/USDT,0.03398,3.28,72.08,9.3,,202.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-24,2026-06-24 01:05,mexc,CLO/USDT,0.21,3.34,30.46,5.3,,,
-2026-06-24,2026-06-24 22:20,gate,CLO/USDT,0.21764,3.0,28.42,10.2,,,
-2026-06-24,2026-06-24 22:23,gate,SLX/USDT,0.29662,29.23,26.56,13.2,,,
-2026-06-24,2026-06-24 22:23,gate,O/USDT,0.7572,36.98,21.34,7.1,,,
+2026-06-24,2026-06-24 22:55,gate,CLO/USDT,0.21773,3.04,28.49,10.2,,,
+2026-06-24,2026-06-24 22:55,gate,SLX/USDT,0.3076,34.02,27.7,13.8,,,
+2026-06-24,2026-06-24 22:55,gate,O/USDT,0.8353,51.1,22.17,7.3,,,
 2026-06-24,2026-06-24 01:05,mexc,BASED/USDT,0.10047,6.18,21.21,3.1,,,
 2026-06-24,2026-06-24 08:01,gate,BEAT/USDT,2.4833,5.43,10.23,37.3,,16.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-24,2026-06-24 01:05,mexc,FARTCOIN/USDT,0.1301,3.49,8.35,10.3,,75.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
@@ -358,4 +358,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-24,2026-06-24 05:10,gate,H/USDT,0.10806,3.36,2.21,7.9,Unlock,2.0,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
 2026-06-24,2026-06-24 14:16,gate,BEL/USDT,0.14672,3.68,2.14,3.3,Partner,6.0,Coindar: Bella Protocol Partners With Metopia
 2026-06-24,2026-06-24 22:10,gate,EVAA/USDT,0.8662,6.33,2.14,14.3,,,
-2026-06-24,2026-06-24 22:23,gate,ID/USDT,0.03787,13.38,2.09,3.3,,,
+2026-06-24,2026-06-24 22:55,gate,ID/USDT,0.03817,14.28,2.11,3.3,,,
