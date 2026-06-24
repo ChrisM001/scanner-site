@@ -341,15 +341,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-24,2026-06-24 06:20,gate,BTW/USDT,0.104917,5.1,124.03,23.7,,,
 2026-06-24,2026-06-24 00:55,gate,RESOLV/USDT,0.02507,3.51,93.32,20.4,Delisting,60.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-24,2026-06-24 07:21,gate,ESPORTS/USDT,0.03398,3.28,72.08,9.3,,202.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-24,2026-06-24 07:31,gate,LAB/USDT,16.07328,10.31,45.05,33.0,,,
-2026-06-24,2026-06-24 07:31,gate,CLO/USDT,0.21843,3.37,31.74,11.4,,,
+2026-06-24,2026-06-24 07:35,gate,LAB/USDT,16.01674,9.92,45.39,33.3,,,
+2026-06-24,2026-06-24 07:35,gate,CLO/USDT,0.2205,4.35,31.91,11.4,,,
 2026-06-24,2026-06-24 01:05,mexc,CLO/USDT,0.21,3.34,30.46,5.3,,,
 2026-06-24,2026-06-24 01:05,mexc,BASED/USDT,0.10047,6.18,21.21,3.1,,,
-2026-06-24,2026-06-24 07:31,gate,BEAT/USDT,2.6716,13.42,9.41,34.3,,16,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-24,2026-06-24 07:35,gate,BEAT/USDT,2.6657,13.17,9.46,34.5,,16,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-24,2026-06-24 01:05,mexc,FARTCOIN/USDT,0.1301,3.49,8.35,10.3,,75.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-06-24,2026-06-24 07:35,gate,SLX/USDT,0.28306,23.33,6.05,3.0,,,
 2026-06-24,2026-06-24 01:05,mexc,SYN/USDT,0.288,5.8,4.16,15.1,,5.0,Invezz: Why is Synapse (SYN) price skyrocketing?
 2026-06-24,2026-06-24 01:05,mexc,HEI/USDT,0.1411,59.79,3.38,8.9,,,
-2026-06-24,2026-06-24 07:31,gate,BEL/USDT,0.15312,8.2,3.16,4.8,Partner,6,Coindar: Bella Protocol Partners With Metopia
+2026-06-24,2026-06-24 07:35,gate,BEL/USDT,0.15342,8.42,3.25,5.0,Partner,6,Coindar: Bella Protocol Partners With Metopia
 2026-06-24,2026-06-24 01:05,mexc,DYDX/USDT,0.1514,10.1,2.55,4.0,,53.0,CoinMarketCal: dYdX - Prop #382 Vote - 29 April02 May 2026
 2026-06-24,2026-06-24 05:10,gate,H/USDT,0.10806,3.36,2.21,7.9,Unlock,2.0,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
 2026-06-24,2026-06-24 02:40,gate,ID/USDT,0.03651,9.31,2.02,3.2,,39.0,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
