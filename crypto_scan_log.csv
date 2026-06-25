@@ -361,10 +361,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-24,2026-06-24 23:31,gate,ID/USDT,0.03871,15.9,2.11,3.3,,,
 2026-06-25,2026-06-25 01:01,gate,BAS/USDT,0.04126,3.16,994.86,6.7,,,
 2026-06-25,2026-06-25 00:50,gate,BTW/USDT,0.10492,3.77,122.63,23.7,,,
-2026-06-25,2026-06-25 01:10,gate,SAHARA/USDT,0.01355,3.12,117.34,3.7,Unlock,166.0,CoinMarketCal: Sahara AI (SAHARA) - 1.03B Token Unlock - 26 June 2026
+2026-06-25,2026-06-25 01:20,gate,SAHARA/USDT,0.01354,3.04,117.95,3.7,Unlock,166,CoinMarketCal: Sahara AI (SAHARA) - 1.03B Token Unlock - 26 June 2026
 2026-06-25,2026-06-25 00:01,mexc,UB/USDT,0.07359,14.48,105.45,4.8,,,
+2026-06-25,2026-06-25 01:20,gate,LAB/USDT,16.57099,3.3,93.83,70.6,,,
 2026-06-25,2026-06-25 00:01,mexc,SLX/USDT,0.328,20.81,49.48,9.9,,,
-2026-06-25,2026-06-25 01:10,gate,ESPORTS/USDT,0.03347,10.43,41.88,5.1,,203.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-25,2026-06-25 01:20,gate,ESPORTS/USDT,0.0326,7.56,42.25,5.2,,203,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-25,2026-06-25 00:01,mexc,JUP/USDT,0.2178,3.27,30.66,9.3,,3.0,"Invezz: Top crypto price predictions: Aerodrome, Jupiter, Aster"
 2026-06-25,2026-06-25 00:50,gate,CLO/USDT,0.24129,8.21,26.98,10.5,,,
 2026-06-25,2026-06-25 00:01,mexc,ENA/USDT,0.08485,4.35,16.76,77.8,,2.0,Coinpedia: Ethena Price Surges While Most Altcoins Stall: Whats Driving ENA Higher?
@@ -374,4 +375,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-25,2026-06-25 00:01,mexc,ONDO/USDT,0.3138,5.23,5.25,19.4,,0.0,Invezz: ONDO price outlook: Can $0.30 hold as RWA momentum builds?
 2026-06-25,2026-06-25 00:01,mexc,FET/USDT,0.1734,3.7,3.54,8.5,,13.0,Coindar: Fetch.ai to Release Agent Execution Verification on June 12th
 2026-06-25,2026-06-25 00:01,mexc,O/USDT,0.8192,20.34,2.18,10.4,,,
+2026-06-25,2026-06-25 01:20,gate,EVAA/USDT,0.8625,3.47,2.04,14.6,,,
 2026-06-25,2026-06-25 00:50,gate,ID/USDT,0.04004,5.62,2.0,3.3,,40.0,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
