@@ -365,7 +365,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-25,2026-06-25 00:01,mexc,UB/USDT,0.07359,14.48,105.45,4.8,,,
 2026-06-25,2026-06-25 01:45,gate,LAB/USDT,16.5471,3.15,94.76,71.3,,,
 2026-06-25,2026-06-25 00:01,mexc,SLX/USDT,0.328,20.81,49.48,9.9,,,
-2026-06-25,2026-06-25 02:01,gate,ESPORTS/USDT,0.03195,5.41,40.87,5.0,,203,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-25,2026-06-25 02:10,gate,ESPORTS/USDT,0.03199,5.54,40.96,5.0,,203,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-25,2026-06-25 00:01,mexc,JUP/USDT,0.2178,3.27,30.66,9.3,,3.0,"Invezz: Top crypto price predictions: Aerodrome, Jupiter, Aster"
 2026-06-25,2026-06-25 00:50,gate,CLO/USDT,0.24129,8.21,26.98,10.5,,,
 2026-06-25,2026-06-25 00:01,mexc,ENA/USDT,0.08485,4.35,16.76,77.8,,2.0,Coinpedia: Ethena Price Surges While Most Altcoins Stall: Whats Driving ENA Higher?
@@ -375,5 +375,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-25,2026-06-25 00:01,mexc,ONDO/USDT,0.3138,5.23,5.25,19.4,,0.0,Invezz: ONDO price outlook: Can $0.30 hold as RWA momentum builds?
 2026-06-25,2026-06-25 00:01,mexc,FET/USDT,0.1734,3.7,3.54,8.5,,13.0,Coindar: Fetch.ai to Release Agent Execution Verification on June 12th
 2026-06-25,2026-06-25 00:01,mexc,O/USDT,0.8192,20.34,2.18,10.4,,,
-2026-06-25,2026-06-25 01:55,gate,ID/USDT,0.04165,9.87,2.12,3.5,,40.0,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
-2026-06-25,2026-06-25 02:01,gate,EVAA/USDT,0.8653,3.8,2.04,14.6,,,
+2026-06-25,2026-06-25 02:10,gate,EVAA/USDT,0.8654,3.81,2.04,14.6,,,
+2026-06-25,2026-06-25 02:10,gate,ID/USDT,0.04245,11.98,2.01,3.3,,40,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
