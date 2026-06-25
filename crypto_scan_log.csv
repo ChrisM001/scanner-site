@@ -359,10 +359,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-24,2026-06-24 14:16,gate,BEL/USDT,0.14672,3.68,2.14,3.3,Partner,6.0,Coindar: Bella Protocol Partners With Metopia
 2026-06-24,2026-06-24 22:10,gate,EVAA/USDT,0.8662,6.33,2.14,14.3,,,
 2026-06-24,2026-06-24 23:31,gate,ID/USDT,0.03871,15.9,2.11,3.3,,,
+2026-06-25,2026-06-25 00:30,gate,BAS/USDT,0.041229,3.08,997.22,6.7,,,
+2026-06-25,2026-06-25 00:30,gate,BTW/USDT,0.104321,3.18,122.17,23.6,,,
 2026-06-25,2026-06-25 00:01,mexc,UB/USDT,0.07359,14.48,105.45,4.8,,,
 2026-06-25,2026-06-25 00:01,mexc,SLX/USDT,0.328,20.81,49.48,9.9,,,
 2026-06-25,2026-06-25 00:01,mexc,JUP/USDT,0.2178,3.27,30.66,9.3,,3.0,"Invezz: Top crypto price predictions: Aerodrome, Jupiter, Aster"
-2026-06-25,2026-06-25 00:10,gate,CLO/USDT,0.23539,5.56,25.97,10.1,,,
+2026-06-25,2026-06-25 00:30,gate,CLO/USDT,0.24345,9.18,26.48,10.3,,,
 2026-06-25,2026-06-25 00:01,mexc,ENA/USDT,0.08485,4.35,16.76,77.8,,2.0,Coinpedia: Ethena Price Surges While Most Altcoins Stall: Whats Driving ENA Higher?
 2026-06-25,2026-06-25 00:01,mexc,CLO/USDT,0.2235,5.77,16.62,3.1,,,
 2026-06-25,2026-06-25 00:01,mexc,SEI/USDT,0.05538,5.7,11.5,11.5,,44.0,Coinpedia: SEI Price Outlook: Can SEI Token Rally Another 50% After This Major Breakout?
