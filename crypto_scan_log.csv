@@ -359,24 +359,24 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-24,2026-06-24 14:16,gate,BEL/USDT,0.14672,3.68,2.14,3.3,Partner,6.0,Coindar: Bella Protocol Partners With Metopia
 2026-06-24,2026-06-24 22:10,gate,EVAA/USDT,0.8662,6.33,2.14,14.3,,,
 2026-06-24,2026-06-24 23:31,gate,ID/USDT,0.03871,15.9,2.11,3.3,,,
-2026-06-25,2026-06-25 05:50,gate,BAS/USDT,0.042308,5.78,1072.07,7.2,,,
+2026-06-25,2026-06-25 06:05,gate,BAS/USDT,0.04315,7.89,1069.25,7.2,,,
 2026-06-25,2026-06-25 03:31,gate,BTW/USDT,0.10918,7.99,123.37,23.9,,,
 2026-06-25,2026-06-25 01:20,gate,SAHARA/USDT,0.01354,3.04,117.95,3.7,Unlock,166.0,CoinMarketCal: Sahara AI (SAHARA) - 1.03B Token Unlock - 26 June 2026
 2026-06-25,2026-06-25 00:01,mexc,UB/USDT,0.07359,14.48,105.45,4.8,,,
 2026-06-25,2026-06-25 05:50,gate,LAB/USDT,16.57473,3.32,91.3,68.7,,,
 2026-06-25,2026-06-25 00:01,mexc,SLX/USDT,0.328,20.81,49.48,9.9,,,
-2026-06-25,2026-06-25 05:50,gate,SLX/USDT,0.37547,15.8,41.97,22.6,,,
-2026-06-25,2026-06-25 05:50,gate,ESPORTS/USDT,0.034,12.17,39.34,4.8,,203,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-06-25,2026-06-25 06:05,gate,SLX/USDT,0.3802,17.26,40.38,21.8,,,
+2026-06-25,2026-06-25 06:05,gate,ESPORTS/USDT,0.03523,16.23,39.56,4.8,,203,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-25,2026-06-25 00:01,mexc,JUP/USDT,0.2178,3.27,30.66,9.3,,3.0,"Invezz: Top crypto price predictions: Aerodrome, Jupiter, Aster"
 2026-06-25,2026-06-25 00:50,gate,CLO/USDT,0.24129,8.21,26.98,10.5,,,
-2026-06-25,2026-06-25 05:50,gate,RESOLV/USDT,0.02273,7.42,19.91,4.7,Delisting,61,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
+2026-06-25,2026-06-25 06:05,gate,RESOLV/USDT,0.02286,8.03,19.21,4.5,Delisting,61,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-25,2026-06-25 00:01,mexc,ENA/USDT,0.08485,4.35,16.76,77.8,,2.0,Coinpedia: Ethena Price Surges While Most Altcoins Stall: Whats Driving ENA Higher?
 2026-06-25,2026-06-25 00:01,mexc,CLO/USDT,0.2235,5.77,16.62,3.1,,,
-2026-06-25,2026-06-25 05:50,gate,BEAT/USDT,1.7886,5.08,11.62,43.2,,16,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-25,2026-06-25 00:01,mexc,SEI/USDT,0.05538,5.7,11.5,11.5,,44.0,Coinpedia: SEI Price Outlook: Can SEI Token Rally Another 50% After This Major Breakout?
-2026-06-25,2026-06-25 05:50,gate,H/USDT,0.08147,26.9,5.79,20.8,Unlock,3,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
+2026-06-25,2026-06-25 06:05,gate,BEAT/USDT,1.7937,5.38,10.9,40.5,,16,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-25,2026-06-25 06:05,gate,H/USDT,0.07588,18.19,5.9,21.1,Unlock,3,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
 2026-06-25,2026-06-25 00:01,mexc,ONDO/USDT,0.3138,5.23,5.25,19.4,,0.0,Invezz: ONDO price outlook: Can $0.30 hold as RWA momentum builds?
-2026-06-25,2026-06-25 05:50,gate,SKYAI/USDT,0.27473,5.15,5.07,5.8,,,
+2026-06-25,2026-06-25 06:05,gate,SKYAI/USDT,0.27282,4.42,4.88,5.6,,,
 2026-06-25,2026-06-25 00:01,mexc,FET/USDT,0.1734,3.7,3.54,8.5,,13.0,Coindar: Fetch.ai to Release Agent Execution Verification on June 12th
 2026-06-25,2026-06-25 00:01,mexc,O/USDT,0.8192,20.34,2.18,10.4,,,
 2026-06-25,2026-06-25 03:45,gate,EVAA/USDT,0.8726,4.68,2.05,14.7,,,
