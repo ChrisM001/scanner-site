@@ -390,14 +390,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-26,2026-06-26 02:01,gate,BAS/USDT,0.047451,4.2,1130.92,11.1,,,
 2026-06-26,2026-06-26 04:15,gate,UB/USDT,0.07209,3.4,785.23,4.6,,,
 2026-06-26,2026-06-26 00:05,mexc,BAS/USDT,0.045488,9.53,735.9,6.2,,,
-2026-06-26,2026-06-26 04:15,gate,SLX/USDT,0.40905,6.57,53.72,35.5,,,
+2026-06-26,2026-06-26 04:20,gate,SLX/USDT,0.40962,6.72,53.79,35.5,,,
 2026-06-26,2026-06-26 02:35,gate,BTW/USDT,0.099854,3.21,48.45,9.2,,,
 2026-06-26,2026-06-26 01:05,gate,RESOLV/USDT,0.02324,3.75,27.97,7.1,Delisting,62.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-26,2026-06-26 00:01,mexc,M/USDT,0.995,11.12,15.44,25.0,,,
 2026-06-26,2026-06-26 00:05,mexc,FARTCOIN/USDT,0.12056,5.39,9.09,11.4,,77.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-06-26,2026-06-26 04:15,gate,SKYAI/USDT,0.30755,6.18,7.78,8.8,,,
-2026-06-26,2026-06-26 04:15,gate,BEAT/USDT,2.3508,12.31,6.73,25.4,,17,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-26,2026-06-26 04:20,gate,SKYAI/USDT,0.31068,7.26,7.81,8.9,,,
+2026-06-26,2026-06-26 04:20,gate,BEAT/USDT,2.3593,12.72,6.75,25.5,,17,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-26,2026-06-26 00:15,gate,H/USDT,0.05949,3.12,6.32,23.1,Unlock,4.0,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
-2026-06-26,2026-06-26 04:15,gate,IP/USDT,0.398,4.0,6.06,7.8,,51,GlobeNewswire: IP Strategy Publishes Monthly Validator Update
+2026-06-26,2026-06-26 04:15,gate,IP/USDT,0.398,4.0,6.06,7.8,,51.0,GlobeNewswire: IP Strategy Publishes Monthly Validator Update
 2026-06-26,2026-06-26 00:05,mexc,IP/USDT,0.3877,16.0,2.68,3.2,,51.0,GlobeNewswire: IP Strategy Publishes Monthly Validator Update
 2026-06-26,2026-06-26 04:05,gate,BEL/USDT,0.16189,3.36,2.05,3.6,Partner,8.0,Coindar: Bella Protocol Partners With Metopia
