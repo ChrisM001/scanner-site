@@ -388,8 +388,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-25,2026-06-25 22:31,gate,HEI/USDT,0.16472,44.38,2.13,5.0,,,
 2026-06-25,2026-06-25 02:55,gate,ID/USDT,0.04152,9.52,2.04,3.4,,40.0,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
 2026-06-26,2026-06-26 00:05,mexc,BAS/USDT,0.045488,9.53,735.9,6.2,,,
+2026-06-26,2026-06-26 00:15,gate,BTW/USDT,0.099947,3.31,63.42,12.1,,,
 2026-06-26,2026-06-26 00:01,mexc,M/USDT,0.995,11.12,15.44,25.0,,,
 2026-06-26,2026-06-26 00:05,mexc,FARTCOIN/USDT,0.12056,5.39,9.09,11.4,,77.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-06-26,2026-06-26 00:11,gate,H/USDT,0.0598,3.66,6.31,23.1,Unlock,4.0,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
-2026-06-26,2026-06-26 00:11,gate,IP/USDT,0.4005,4.65,4.63,6.0,,51.0,GlobeNewswire: IP Strategy Publishes Monthly Validator Update
+2026-06-26,2026-06-26 00:15,gate,H/USDT,0.05949,3.12,6.32,23.1,Unlock,4,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
+2026-06-26,2026-06-26 00:15,gate,IP/USDT,0.4135,8.05,4.68,6.0,,51,GlobeNewswire: IP Strategy Publishes Monthly Validator Update
 2026-06-26,2026-06-26 00:05,mexc,IP/USDT,0.3877,16.0,2.68,3.2,,51.0,GlobeNewswire: IP Strategy Publishes Monthly Validator Update
