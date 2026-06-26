@@ -387,10 +387,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-25,2026-06-25 10:46,gate,EVAA/USDT,0.9229,10.71,2.13,15.3,,,
 2026-06-25,2026-06-25 22:31,gate,HEI/USDT,0.16472,44.38,2.13,5.0,,,
 2026-06-25,2026-06-25 02:55,gate,ID/USDT,0.04152,9.52,2.04,3.4,,40.0,Chainwire: Secure Blockchain Deepens Agentic AI Strategy Through Eliza Foundation Development Agreement
-2026-06-26,2026-06-26 07:16,gate,PUMP/USDT,0.001244,3.67,1933.11,4.1,,0,Invezz: PUMP token falls 9% as Pump.fun faces insider dumping allegations
-2026-06-26,2026-06-26 07:16,gate,BAS/USDT,0.050289,10.44,1196.71,11.8,,,
-2026-06-26,2026-06-26 07:16,gate,G/USDT,0.004224,9.66,836.77,3.1,Airdrop,316,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
-2026-06-26,2026-06-26 04:25,gate,UB/USDT,0.07186,3.07,788.78,4.7,,,
+2026-06-26,2026-06-26 07:25,gate,PUMP/USDT,0.001243,3.58,1940.03,4.1,,0,Invezz: PUMP token falls 9% as Pump.fun faces insider dumping allegations
+2026-06-26,2026-06-26 07:25,gate,BAS/USDT,0.050115,10.05,1203.59,11.8,,,
+2026-06-26,2026-06-26 07:25,gate,G/USDT,0.00414,7.48,871.38,3.2,Airdrop,316,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
+2026-06-26,2026-06-26 07:25,gate,UB/USDT,0.07193,3.17,744.13,4.4,,,
 2026-06-26,2026-06-26 00:05,mexc,BAS/USDT,0.045488,9.53,735.9,6.2,,,
 2026-06-26,2026-06-26 05:40,gate,SLX/USDT,0.40016,4.25,52.66,34.8,,,
 2026-06-26,2026-06-26 06:01,gate,LAB/USDT,18.65819,4.39,51.02,39.0,,,
@@ -399,8 +399,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-26,2026-06-26 01:05,gate,RESOLV/USDT,0.02324,3.75,27.97,7.1,Delisting,62.0,CoinMarketCal: Resolv (RESOLV) - Upbit Delisting - 26 May 2026
 2026-06-26,2026-06-26 00:01,mexc,M/USDT,0.995,11.12,15.44,25.0,,,
 2026-06-26,2026-06-26 00:05,mexc,FARTCOIN/USDT,0.12056,5.39,9.09,11.4,,77.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-06-26,2026-06-26 07:16,gate,BEAT/USDT,2.3217,10.92,7.38,27.9,,18,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-26,2026-06-26 07:16,gate,SKYAI/USDT,0.31686,9.39,7.3,8.3,,,
+2026-06-26,2026-06-26 07:25,gate,BEAT/USDT,2.408,15.04,7.5,28.4,,18,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-26,2026-06-26 07:25,gate,SKYAI/USDT,0.31297,8.05,7.35,8.4,,,
 2026-06-26,2026-06-26 04:15,gate,IP/USDT,0.398,4.0,6.06,7.8,,51.0,GlobeNewswire: IP Strategy Publishes Monthly Validator Update
 2026-06-26,2026-06-26 05:50,gate,H/USDT,0.05969,3.47,5.03,18.4,Unlock,4.0,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
 2026-06-26,2026-06-26 00:05,mexc,IP/USDT,0.3877,16.0,2.68,3.2,,51.0,GlobeNewswire: IP Strategy Publishes Monthly Validator Update
