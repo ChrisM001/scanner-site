@@ -413,11 +413,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-26,2026-06-26 23:31,gate,JTO/USDT,0.8175,17.12,2.12,5.4,,,
 2026-06-26,2026-06-26 04:05,gate,BEL/USDT,0.16189,3.36,2.05,3.6,Partner,8.0,Coindar: Bella Protocol Partners With Metopia
 2026-06-27,2026-06-27 00:01,gate,G/USDT,0.00345,3.08,988.21,5.3,Airdrop,317.0,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
+2026-06-27,2026-06-27 00:10,gate,BAS/USDT,0.046952,3.18,504.77,5.6,,,
 2026-06-27,2026-06-27 00:08,mexc,PUMPFUN/USDT,0.001352,6.28,127.62,6.4,,,
 2026-06-27,2026-06-27 00:08,mexc,UB/USDT,0.08009,6.29,106.1,4.5,,,
+2026-06-27,2026-06-27 00:10,gate,VELVET/USDT,0.69803,3.06,79.86,5.6,,111,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-27,2026-06-27 00:08,mexc,SLX/USDT,0.4236,7.34,30.37,10.2,,,
-2026-06-27,2026-06-27 00:08,mexc,VELVET/USDT,0.6956,10.13,11.69,27.9,,111,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-27,2026-06-27 00:08,mexc,WIF/USDT,0.1559,5.33,9.61,4.4,,51,Invezz: Why is Dogwifhat up 15% since Tuesday? Check forecast
-2026-06-27,2026-06-27 00:08,mexc,FARTCOIN/USDT,0.13193,3.02,7.2,9.0,,78,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-06-27,2026-06-27 00:08,mexc,VELVET/USDT,0.6956,10.13,11.69,27.9,,111.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-27,2026-06-27 00:08,mexc,WIF/USDT,0.1559,5.33,9.61,4.4,,51.0,Invezz: Why is Dogwifhat up 15% since Tuesday? Check forecast
+2026-06-27,2026-06-27 00:08,mexc,FARTCOIN/USDT,0.13193,3.02,7.2,9.0,,78.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-06-27,2026-06-27 00:08,mexc,SKYAI/USDT,0.37228,6.37,3.98,4.1,,,
 2026-06-27,2026-06-27 00:08,mexc,LAB/USDT,19.741,5.44,2.93,23.9,,,
