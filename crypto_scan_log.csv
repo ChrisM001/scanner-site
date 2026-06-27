@@ -412,10 +412,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-26,2026-06-26 22:56,gate,H/USDT,0.06103,5.79,2.2,8.0,,,
 2026-06-26,2026-06-26 23:31,gate,JTO/USDT,0.8175,17.12,2.12,5.4,,,
 2026-06-26,2026-06-26 04:05,gate,BEL/USDT,0.16189,3.36,2.05,3.6,Partner,8.0,Coindar: Bella Protocol Partners With Metopia
-2026-06-27,2026-06-27 11:01,gate,UB/USDT,0.08257,4.28,837.39,4.8,,,
+2026-06-27,2026-06-27 11:10,gate,UB/USDT,0.0825,4.19,839.8,4.8,,,
 2026-06-27,2026-06-27 07:20,gate,G/USDT,0.003457,3.29,701.4,3.8,Airdrop,317.0,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
 2026-06-27,2026-06-27 00:10,gate,BAS/USDT,0.046952,3.18,504.77,5.6,,,
-2026-06-27,2026-06-27 11:01,gate,VELVET/USDT,1.23409,82.2,405.64,28.4,,111,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-27,2026-06-27 11:10,gate,VELVET/USDT,1.28368,89.52,417.04,29.2,,111,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-27,2026-06-27 05:01,gate,MAGMA/USDT,0.5212,3.02,135.52,15.9,,,
 2026-06-27,2026-06-27 00:08,mexc,PUMPFUN/USDT,0.001352,6.28,127.62,6.4,,,
 2026-06-27,2026-06-27 00:08,mexc,UB/USDT,0.08009,6.29,106.1,4.5,,,
@@ -423,12 +423,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-27,2026-06-27 01:35,gate,LAB/USDT,20.06791,3.45,46.02,35.2,,,
 2026-06-27,2026-06-27 09:55,gate,ESPORTS/USDT,0.03086,3.87,38.22,4.0,,206.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-27,2026-06-27 00:08,mexc,SLX/USDT,0.4236,7.34,30.37,10.2,,,
-2026-06-27,2026-06-27 11:01,gate,SLX/USDT,0.44861,6.98,29.92,21.8,,,
+2026-06-27,2026-06-27 11:10,gate,SLX/USDT,0.45074,7.49,30.0,21.8,,,
 2026-06-27,2026-06-27 10:45,gate,M/USDT,0.7974,3.68,25.61,3.8,,,
 2026-06-27,2026-06-27 00:08,mexc,VELVET/USDT,0.6956,10.13,11.69,27.9,,111.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-27,2026-06-27 00:08,mexc,WIF/USDT,0.1559,5.33,9.61,4.4,,51.0,Invezz: Why is Dogwifhat up 15% since Tuesday? Check forecast
 2026-06-27,2026-06-27 00:08,mexc,FARTCOIN/USDT,0.13193,3.02,7.2,9.0,,78.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-06-27,2026-06-27 00:08,mexc,SKYAI/USDT,0.37228,6.37,3.98,4.1,,,
 2026-06-27,2026-06-27 00:08,mexc,LAB/USDT,19.741,5.44,2.93,23.9,,,
-2026-06-27,2026-06-27 11:01,gate,WIF/USDT,0.1668,7.68,2.36,3.7,,51,Invezz: Why is Dogwifhat up 15% since Tuesday? Check forecast
-2026-06-27,2026-06-27 11:01,gate,JTO/USDT,0.8268,3.18,2.26,6.1,,0,Invezz: Why is Jito price rising and how high can it climb?
+2026-06-27,2026-06-27 11:10,gate,WIF/USDT,0.1645,6.2,2.42,3.8,,51,Invezz: Why is Dogwifhat up 15% since Tuesday? Check forecast
+2026-06-27,2026-06-27 11:01,gate,JTO/USDT,0.8268,3.18,2.26,6.1,,0.0,Invezz: Why is Jito price rising and how high can it climb?
