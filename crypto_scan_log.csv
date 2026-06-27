@@ -417,10 +417,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-27,2026-06-27 03:45,gate,MAGMA/USDT,0.52404,3.59,135.3,15.9,,,
 2026-06-27,2026-06-27 00:08,mexc,PUMPFUN/USDT,0.001352,6.28,127.62,6.4,,,
 2026-06-27,2026-06-27 00:08,mexc,UB/USDT,0.08009,6.29,106.1,4.5,,,
-2026-06-27,2026-06-27 03:45,gate,VELVET/USDT,0.81457,20.26,95.27,6.7,,111,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-27,2026-06-27 03:55,gate,VELVET/USDT,0.82719,22.13,98.14,6.9,,111,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-27,2026-06-27 01:35,gate,LAB/USDT,20.06791,3.45,46.02,35.2,,,
-2026-06-27,2026-06-27 03:45,gate,AGLD/USDT,0.2265,5.3,45.21,20.6,Listing,590,Coindar: Adventure Gold to Be Listed on Upbit
-2026-06-27,2026-06-27 03:45,gate,SLX/USDT,0.46516,10.92,34.21,24.9,,,
+2026-06-27,2026-06-27 03:55,gate,AGLD/USDT,0.2249,4.56,45.79,20.9,Listing,590,Coindar: Adventure Gold to Be Listed on Upbit
+2026-06-27,2026-06-27 03:55,gate,SLX/USDT,0.46754,11.49,34.29,24.9,,,
 2026-06-27,2026-06-27 00:08,mexc,SLX/USDT,0.4236,7.34,30.37,10.2,,,
 2026-06-27,2026-06-27 00:08,mexc,VELVET/USDT,0.6956,10.13,11.69,27.9,,111.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-27,2026-06-27 00:08,mexc,WIF/USDT,0.1559,5.33,9.61,4.4,,51.0,Invezz: Why is Dogwifhat up 15% since Tuesday? Check forecast
