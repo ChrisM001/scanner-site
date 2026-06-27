@@ -417,14 +417,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-27,2026-06-27 04:05,gate,MAGMA/USDT,0.52528,3.83,134.79,15.8,,,
 2026-06-27,2026-06-27 00:08,mexc,PUMPFUN/USDT,0.001352,6.28,127.62,6.4,,,
 2026-06-27,2026-06-27 00:08,mexc,UB/USDT,0.08009,6.29,106.1,4.5,,,
-2026-06-27,2026-06-27 04:05,gate,VELVET/USDT,0.82527,21.84,98.69,6.9,,111,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
-2026-06-27,2026-06-27 04:05,gate,AGLD/USDT,0.226,5.07,46.39,21.1,Listing,590,Coindar: Adventure Gold to Be Listed on Upbit
+2026-06-27,2026-06-27 04:11,gate,VELVET/USDT,0.82912,22.41,99.53,7.0,,,
+2026-06-27,2026-06-27 04:11,gate,AGLD/USDT,0.2224,3.39,46.89,21.4,,,
 2026-06-27,2026-06-27 01:35,gate,LAB/USDT,20.06791,3.45,46.02,35.2,,,
-2026-06-27,2026-06-27 04:05,gate,SLX/USDT,0.46706,11.38,32.18,23.4,,,
+2026-06-27,2026-06-27 04:11,gate,SLX/USDT,0.46688,11.33,32.27,23.5,,,
 2026-06-27,2026-06-27 00:08,mexc,SLX/USDT,0.4236,7.34,30.37,10.2,,,
 2026-06-27,2026-06-27 00:08,mexc,VELVET/USDT,0.6956,10.13,11.69,27.9,,111.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-27,2026-06-27 00:08,mexc,WIF/USDT,0.1559,5.33,9.61,4.4,,51.0,Invezz: Why is Dogwifhat up 15% since Tuesday? Check forecast
 2026-06-27,2026-06-27 00:08,mexc,FARTCOIN/USDT,0.13193,3.02,7.2,9.0,,78.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-06-27,2026-06-27 00:08,mexc,SKYAI/USDT,0.37228,6.37,3.98,4.1,,,
 2026-06-27,2026-06-27 00:08,mexc,LAB/USDT,19.741,5.44,2.93,23.9,,,
-2026-06-27,2026-06-27 04:05,gate,JTO/USDT,0.8286,3.41,2.06,5.5,,0,Invezz: Why is Jito price rising and how high can it climb?
+2026-06-27,2026-06-27 04:11,gate,JTO/USDT,0.8315,3.77,2.07,5.6,,,
