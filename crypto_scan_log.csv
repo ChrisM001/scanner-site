@@ -418,7 +418,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-27,2026-06-27 00:08,mexc,UB/USDT,0.08009,6.29,106.1,4.5,,,
 2026-06-27,2026-06-27 00:25,gate,VELVET/USDT,0.69956,3.28,80.43,5.6,,111.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-27,2026-06-27 00:08,mexc,SLX/USDT,0.4236,7.34,30.37,10.2,,,
-2026-06-27,2026-06-27 00:25,gate,AGLD/USDT,0.2409,11.99,26.64,12.1,Listing,590.0,Coindar: Adventure Gold to Be Listed on Upbit
+2026-06-27,2026-06-27 00:35,gate,AGLD/USDT,0.2636,22.55,28.59,13.0,Listing,590.0,Coindar: Adventure Gold to Be Listed on Upbit
 2026-06-27,2026-06-27 00:08,mexc,VELVET/USDT,0.6956,10.13,11.69,27.9,,111.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-27,2026-06-27 00:08,mexc,WIF/USDT,0.1559,5.33,9.61,4.4,,51.0,Invezz: Why is Dogwifhat up 15% since Tuesday? Check forecast
 2026-06-27,2026-06-27 00:08,mexc,FARTCOIN/USDT,0.13193,3.02,7.2,9.0,,78.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
