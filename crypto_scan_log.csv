@@ -416,11 +416,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-27,2026-06-27 00:10,gate,BAS/USDT,0.046952,3.18,504.77,5.6,,,
 2026-06-27,2026-06-27 05:01,gate,MAGMA/USDT,0.5212,3.02,135.52,15.9,,,
 2026-06-27,2026-06-27 00:08,mexc,PUMPFUN/USDT,0.001352,6.28,127.62,6.4,,,
-2026-06-27,2026-06-27 05:10,gate,VELVET/USDT,0.88208,30.23,115.92,8.1,,111,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
+2026-06-27,2026-06-27 05:40,gate,VELVET/USDT,0.90816,34.08,126.95,8.9,,111,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-27,2026-06-27 00:08,mexc,UB/USDT,0.08009,6.29,106.1,4.5,,,
 2026-06-27,2026-06-27 05:01,gate,AGLD/USDT,0.2248,4.51,49.21,22.4,Listing,590.0,Coindar: Adventure Gold to Be Listed on Upbit
 2026-06-27,2026-06-27 01:35,gate,LAB/USDT,20.06791,3.45,46.02,35.2,,,
-2026-06-27,2026-06-27 05:10,gate,SLX/USDT,0.44661,6.5,31.69,23.0,,,
+2026-06-27,2026-06-27 05:40,gate,SLX/USDT,0.47131,12.39,32.19,23.4,,,
+2026-06-27,2026-06-27 05:40,gate,ESPORTS/USDT,0.03112,4.75,31.67,3.4,,205,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-06-27,2026-06-27 00:08,mexc,SLX/USDT,0.4236,7.34,30.37,10.2,,,
 2026-06-27,2026-06-27 00:08,mexc,VELVET/USDT,0.6956,10.13,11.69,27.9,,111.0,CoinMarketCal: Velvet (VELVET) - Yield for Base - 07 March 2026
 2026-06-27,2026-06-27 00:08,mexc,WIF/USDT,0.1559,5.33,9.61,4.4,,51.0,Invezz: Why is Dogwifhat up 15% since Tuesday? Check forecast
