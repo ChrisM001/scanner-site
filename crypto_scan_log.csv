@@ -433,22 +433,22 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-27,2026-06-27 22:10,gate,MYX/USDT,0.1066,34.43,3.11,7.8,,,
 2026-06-27,2026-06-27 00:08,mexc,LAB/USDT,19.741,5.44,2.93,23.9,,,
 2026-06-27,2026-06-27 11:01,gate,JTO/USDT,0.8268,3.18,2.26,6.1,,0.0,Invezz: Why is Jito price rising and how high can it climb?
-2026-06-28,2026-06-28 08:25,gate,UB/USDT,0.08406,11.75,865.93,4.6,,,
-2026-06-28,2026-06-28 07:01,gate,VELVET/USDT,1.60711,3.29,683.5,65.9,,0.0,Coinpedia: VELVET Price Explodes 250% After Traders Wrote It Off
+2026-06-28,2026-06-28 08:46,gate,UB/USDT,0.08438,12.18,877.76,4.6,,,
+2026-06-28,2026-06-28 08:46,gate,VELVET/USDT,1.63082,4.81,684.25,66.0,,0,Coinpedia: VELVET Price Explodes 250% After Traders Wrote It Off
 2026-06-28,2026-06-28 07:25,gate,BAS/USDT,0.051384,12.54,339.35,4.0,,,
-2026-06-28,2026-06-28 08:25,gate,LAB/USDT,17.42357,7.0,89.91,70.8,,,
+2026-06-28,2026-06-28 08:46,gate,LAB/USDT,17.45015,7.17,90.23,71.1,,,
 2026-06-28,2026-06-28 00:05,mexc,VELVET/USDT,1.5372,9.05,69.19,245.4,,0.0,Coinpedia: VELVET Price Explodes 250% After Traders Wrote It Off
 2026-06-28,2026-06-28 00:05,mexc,SLX/USDT,0.5301,9.16,46.28,18.8,,,
 2026-06-28,2026-06-28 04:05,gate,PIEVERSE/USDT,0.8686,7.74,44.54,3.9,Listing,68.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
 2026-06-28,2026-06-28 00:05,mexc,MYX/USDT,0.1126,3.11,44.51,19.9,,0.0,Coinpedia: Why Is MYX Finance Price Rising Today? Is a Recovery Toward $0.19 Next?
-2026-06-28,2026-06-28 08:25,gate,SLX/USDT,0.56435,6.17,35.09,29.5,,,
-2026-06-28,2026-06-28 08:25,gate,BTW/USDT,0.068404,5.87,33.02,5.9,,,
-2026-06-28,2026-06-28 08:25,gate,RAVE/USDT,0.2802,9.58,29.15,3.7,,,
+2026-06-28,2026-06-28 08:46,gate,SLX/USDT,0.56646,6.57,35.6,29.9,,,
+2026-06-28,2026-06-28 08:46,gate,BTW/USDT,0.066839,3.45,33.26,5.9,,,
+2026-06-28,2026-06-28 08:46,gate,RAVE/USDT,0.2867,12.12,29.43,3.7,,,
 2026-06-28,2026-06-28 00:30,gate,M/USDT,0.7755,4.39,19.72,3.2,,,
-2026-06-28,2026-06-28 08:25,gate,O/USDT,0.5842,36.3,8.97,3.8,,,
-2026-06-28,2026-06-28 08:25,gate,BEAT/USDT,2.8185,9.3,6.65,25.9,,20,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-28,2026-06-28 08:46,gate,O/USDT,0.5534,29.12,9.83,4.2,,,
+2026-06-28,2026-06-28 08:46,gate,BEAT/USDT,2.8276,9.65,6.72,26.2,,20,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-28,2026-06-28 00:05,mexc,S/USDT,0.02188,6.52,5.88,4.5,,240.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-06-28,2026-06-28 00:05,mexc,LAB/USDT,16.466,10.22,5.11,41.8,,,
-2026-06-28,2026-06-28 08:15,gate,WIF/USDT,0.1711,3.07,2.96,5.0,,0.0,Coinpedia: dogwifhat (WIF) Price Rebounds Into Key Supply Zone  Can Bulls Trigger a 30% Breakout?
+2026-06-28,2026-06-28 08:46,gate,WIF/USDT,0.1728,4.1,3.0,5.0,,,
 2026-06-28,2026-06-28 02:05,gate,MYX/USDT,0.1169,4.66,2.89,8.0,,0.0,Coinpedia: Why Is MYX Finance Price Rising Today? Is a Recovery Toward $0.19 Next?
 2026-06-28,2026-06-28 00:05,mexc,RE/USDT,0.6685,6.94,2.62,7.3,Listing,4.0,CoinMarketCal: RE - Bitrue Listing - 23 June 2026
