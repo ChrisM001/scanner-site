@@ -433,8 +433,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-27,2026-06-27 22:10,gate,MYX/USDT,0.1066,34.43,3.11,7.8,,,
 2026-06-27,2026-06-27 00:08,mexc,LAB/USDT,19.741,5.44,2.93,23.9,,,
 2026-06-27,2026-06-27 11:01,gate,JTO/USDT,0.8268,3.18,2.26,6.1,,0.0,Invezz: Why is Jito price rising and how high can it climb?
-2026-06-28,2026-06-28 00:01,mexc,VELVET/USDT,1.5452,9.61,69.02,244.8,,0,Coinpedia: VELVET Price Explodes 250% After Traders Wrote It Off
-2026-06-28,2026-06-28 00:01,mexc,SLX/USDT,0.5349,10.15,46.23,18.8,,,
-2026-06-28,2026-06-28 00:01,mexc,S/USDT,0.02214,7.78,5.85,4.5,,240,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
-2026-06-28,2026-06-28 00:01,mexc,LAB/USDT,16.434,10.01,5.11,41.7,,,
-2026-06-28,2026-06-28 00:01,mexc,RE/USDT,0.6937,10.97,2.57,7.2,Listing,4,CoinMarketCal: RE - Bitrue Listing - 23 June 2026
+2026-06-28,2026-06-28 00:05,mexc,VELVET/USDT,1.5372,9.05,69.19,245.4,,0,Coinpedia: VELVET Price Explodes 250% After Traders Wrote It Off
+2026-06-28,2026-06-28 00:05,mexc,SLX/USDT,0.5301,9.16,46.28,18.8,,,
+2026-06-28,2026-06-28 00:05,mexc,MYX/USDT,0.1126,3.11,44.51,19.9,,0,Coinpedia: Why Is MYX Finance Price Rising Today? Is a Recovery Toward $0.19 Next?
+2026-06-28,2026-06-28 00:05,mexc,S/USDT,0.02188,6.52,5.88,4.5,,240,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
+2026-06-28,2026-06-28 00:05,mexc,LAB/USDT,16.466,10.22,5.11,41.8,,,
+2026-06-28,2026-06-28 00:05,mexc,RE/USDT,0.6685,6.94,2.62,7.3,Listing,4,CoinMarketCal: RE - Bitrue Listing - 23 June 2026
