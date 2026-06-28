@@ -433,18 +433,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-27,2026-06-27 22:10,gate,MYX/USDT,0.1066,34.43,3.11,7.8,,,
 2026-06-27,2026-06-27 00:08,mexc,LAB/USDT,19.741,5.44,2.93,23.9,,,
 2026-06-27,2026-06-27 11:01,gate,JTO/USDT,0.8268,3.18,2.26,6.1,,0.0,Invezz: Why is Jito price rising and how high can it climb?
-2026-06-28,2026-06-28 05:55,gate,UB/USDT,0.0828,10.08,903.71,4.8,,,
-2026-06-28,2026-06-28 05:55,gate,BAS/USDT,0.048479,6.18,266.0,3.1,,,
-2026-06-28,2026-06-28 05:55,gate,LAB/USDT,16.95083,4.1,97.15,76.5,,,
+2026-06-28,2026-06-28 06:05,gate,UB/USDT,0.08266,9.89,848.84,4.5,,,
+2026-06-28,2026-06-28 06:05,gate,BAS/USDT,0.048487,6.2,261.84,3.1,,,
+2026-06-28,2026-06-28 06:05,gate,LAB/USDT,16.86775,3.59,91.74,72.3,,,
 2026-06-28,2026-06-28 00:05,mexc,VELVET/USDT,1.5372,9.05,69.19,245.4,,0.0,Coinpedia: VELVET Price Explodes 250% After Traders Wrote It Off
 2026-06-28,2026-06-28 00:05,mexc,SLX/USDT,0.5301,9.16,46.28,18.8,,,
 2026-06-28,2026-06-28 04:05,gate,PIEVERSE/USDT,0.8686,7.74,44.54,3.9,Listing,68.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
 2026-06-28,2026-06-28 00:05,mexc,MYX/USDT,0.1126,3.11,44.51,19.9,,0.0,Coinpedia: Why Is MYX Finance Price Rising Today? Is a Recovery Toward $0.19 Next?
 2026-06-28,2026-06-28 00:25,gate,SLX/USDT,0.55058,3.58,39.78,33.4,,,
-2026-06-28,2026-06-28 05:55,gate,BTW/USDT,0.069606,7.73,33.28,5.9,,,
-2026-06-28,2026-06-28 05:55,gate,RAVE/USDT,0.2726,6.61,26.38,3.3,,,
+2026-06-28,2026-06-28 06:05,gate,BTW/USDT,0.070742,9.49,32.26,5.7,,,
+2026-06-28,2026-06-28 06:05,gate,RAVE/USDT,0.273,6.77,26.47,3.3,,,
 2026-06-28,2026-06-28 00:30,gate,M/USDT,0.7755,4.39,19.72,3.2,,,
-2026-06-28,2026-06-28 05:55,gate,BEAT/USDT,2.6654,3.36,8.0,31.2,,19,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-28,2026-06-28 05:55,gate,BEAT/USDT,2.6654,3.36,8.0,31.2,,19.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-28,2026-06-28 00:05,mexc,S/USDT,0.02188,6.52,5.88,4.5,,240.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-06-28,2026-06-28 00:05,mexc,LAB/USDT,16.466,10.22,5.11,41.8,,,
 2026-06-28,2026-06-28 02:05,gate,MYX/USDT,0.1169,4.66,2.89,8.0,,0.0,Coinpedia: Why Is MYX Finance Price Rising Today? Is a Recovery Toward $0.19 Next?
