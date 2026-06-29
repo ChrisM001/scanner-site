@@ -106,8 +106,8 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-06-26,2026-06-26 08:01,NASDAQ:VELO,20.31,13.57,1.3,13.7,0.27,9.0,EARNINGS,Quartr: VELO: Velo3D is rapidly expanding with a recurring revenue model and major new facility for high-margin growth,premarket
 2026-06-26,2026-06-26 11:30,NASDAQ:EHGO,4.21,24.05,0.4,1.26,0.15,1.0,OFFERING,GlobeNewswire: EShallGo Inc. Announces Pricing of $1.479 Million Registered Direct Offering,premarket
 2026-06-29,2026-06-29 08:01,NASDAQ:ZDAI,2.43,13.95,892.8,7.77,13.89,114.0,,"Reuters: Directbooking Technology Co., Ltd. Announces Regained Compliance With Nasdaq Minimum Bid Price Requirement",premarket
-2026-06-29,2026-06-29 11:15,NASDAQ:IVF,2.229,49.19,148.5,1.77,0.16,3.0,,"Stocktwits: SHPH, ILLR, IVF: Why These Stocks Posted Double-Digit Gains After-Hours Today",premarket
+2026-06-29,2026-06-29 11:35,NASDAQ:IVF,2.19,49.19,148.5,1.77,0.19,3.0,,"Stocktwits: SHPH, ILLR, IVF: Why These Stocks Posted Double-Digit Gains After-Hours Today",premarket
 2026-06-29,2026-06-29 08:01,NASDAQ:CNVS,3.0,12.31,45.1,18.12,2.62,2.0,EARNINGS,Quartr: CNVS: Q4 revenue up 67% year-over-year; 2027 guidance reaffirmed with strong acquisition synergies,premarket
 2026-06-29,2026-06-29 08:01,NASDAQ:SHPH,5.88,55.03,27.7,0.6,10.17,2.0,DEAL,TMX Newsfile: United Dogecoin Purchases Dogecoin Miners and Secures Renewable Energy Data Centre Site,premarket
-2026-06-29,2026-06-29 11:15,NASDAQ:ILLR,3.78,68.19,3.6,17.89,1.23,3.0,,"Stocktwits: SHPH, ILLR, IVF: Why These Stocks Posted Double-Digit Gains After-Hours Today",premarket
-2026-06-29,2026-06-29 11:15,NASDAQ:SKYQ,3.06,15.53,0.9,3.85,0.39,6.0,FDA/CLIN,"TradingView: Sky Quarry enters production phase at Nevada refinery; operations expected July, 10,000 bbl on-site",premarket
+2026-06-29,2026-06-29 11:35,NASDAQ:ILLR,3.841,68.19,3.6,17.89,1.59,3.0,,"Stocktwits: SHPH, ILLR, IVF: Why These Stocks Posted Double-Digit Gains After-Hours Today",premarket
+2026-06-29,2026-06-29 11:35,NASDAQ:SKYQ,3.12,15.53,0.9,3.85,0.5,6.0,FDA/CLIN,"TradingView: Sky Quarry enters production phase at Nevada refinery; operations expected July, 10,000 bbl on-site",premarket
