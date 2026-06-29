@@ -456,21 +456,21 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-28,2026-06-28 02:05,gate,MYX/USDT,0.1169,4.66,2.89,8.0,,0.0,Coinpedia: Why Is MYX Finance Price Rising Today? Is a Recovery Toward $0.19 Next?
 2026-06-28,2026-06-28 00:05,mexc,RE/USDT,0.6685,6.94,2.62,7.3,Listing,4.0,CoinMarketCal: RE - Bitrue Listing - 23 June 2026
 2026-06-28,2026-06-28 19:01,gate,WIF/USDT,0.171,3.01,2.14,3.6,,,
-2026-06-29,2026-06-29 03:20,gate,UB/USDT,0.08887,4.41,657.34,3.3,,,
+2026-06-29,2026-06-29 03:31,gate,UB/USDT,0.08919,4.78,670.22,3.4,,,
 2026-06-29,2026-06-29 00:25,mexc,BAS/USDT,0.047429,10.45,449.07,5.1,,,
-2026-06-29,2026-06-29 03:20,gate,BAS/USDT,0.049255,5.57,370.73,5.0,,,
-2026-06-29,2026-06-29 03:20,gate,VELVET/USDT,2.03657,7.93,350.04,39.0,,1,Coinpedia: VELVET Price Explodes 250% After Traders Wrote It Off
-2026-06-29,2026-06-29 03:20,gate,ACT/USDT,0.01176,6.91,295.54,22.0,,452,NewsBTC: ACT Memecoin Crashes 50% As Several Altcoins Suddenly Tank On Binance  Whats Going On?
+2026-06-29,2026-06-29 03:31,gate,BAS/USDT,0.048929,4.87,372.98,5.1,,,
+2026-06-29,2026-06-29 03:20,gate,VELVET/USDT,2.03657,7.93,350.04,39.0,,1.0,Coinpedia: VELVET Price Explodes 250% After Traders Wrote It Off
+2026-06-29,2026-06-29 03:31,gate,ACT/USDT,0.01147,4.27,296.62,22.1,,452,NewsBTC: ACT Memecoin Crashes 50% As Several Altcoins Suddenly Tank On Binance  Whats Going On?
 2026-06-29,2026-06-29 00:25,mexc,POWR/USDT,0.05644,11.56,200.67,6.5,,258.0,Coindar: Powerledger to Hold AMA on X on October 15th
 2026-06-29,2026-06-29 00:25,mexc,MAGIC/USDT,0.0456,4.89,133.76,3.1,,37.0,Coindar: Treasure to Host Community Call on May 26th
-2026-06-29,2026-06-29 03:20,gate,RAVE/USDT,0.4007,22.24,55.39,7.9,,,
+2026-06-29,2026-06-29 03:31,gate,RAVE/USDT,0.3911,19.31,60.21,8.6,,,
 2026-06-29,2026-06-29 00:25,mexc,RAVE/USDT,0.3282,10.24,45.92,12.7,,,
 2026-06-29,2026-06-29 00:01,mexc,VELVET/USDT,1.9097,6.35,42.95,185.5,,1.0,Coinpedia: VELVET Price Explodes 250% After Traders Wrote It Off
 2026-06-29,2026-06-29 00:50,gate,BTW/USDT,0.058905,3.34,32.65,5.6,,,
 2026-06-29,2026-06-29 03:15,gate,MANTA/USDT,0.0896,3.21,24.12,12.7,,53.0,CoinMarketCal: Manta Network - Staking Ends - 20 May 2026
 2026-06-29,2026-06-29 02:31,gate,SKYAI/USDT,0.1417,3.82,21.66,25.1,,,
 2026-06-29,2026-06-29 00:25,mexc,SLX/USDT,0.5702,5.59,21.65,9.6,,,
-2026-06-29,2026-06-29 03:20,gate,SLX/USDT,0.60351,4.25,19.72,17.8,,,
+2026-06-29,2026-06-29 03:31,gate,SLX/USDT,0.61112,5.57,19.82,17.9,,,
 2026-06-29,2026-06-29 03:15,gate,O/USDT,0.5051,3.02,17.67,8.0,,,
 2026-06-29,2026-06-29 02:50,gate,BEAT/USDT,2.7631,3.38,4.1,16.1,,20.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-29,2026-06-29 01:50,gate,AGLD/USDT,0.1786,3.9,2.76,4.4,Listing,592.0,Coindar: Adventure Gold to Be Listed on Upbit
