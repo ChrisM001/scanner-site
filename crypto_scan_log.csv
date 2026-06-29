@@ -457,8 +457,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-28,2026-06-28 00:05,mexc,RE/USDT,0.6685,6.94,2.62,7.3,Listing,4.0,CoinMarketCal: RE - Bitrue Listing - 23 June 2026
 2026-06-28,2026-06-28 19:01,gate,WIF/USDT,0.171,3.01,2.14,3.6,,,
 2026-06-29,2026-06-29 00:25,mexc,BAS/USDT,0.047429,10.45,449.07,5.1,,,
-2026-06-29,2026-06-29 02:20,gate,BAS/USDT,0.04952,6.13,418.97,5.7,,,
-2026-06-29,2026-06-29 02:05,gate,ACT/USDT,0.01154,4.91,289.47,21.6,,452.0,NewsBTC: ACT Memecoin Crashes 50% As Several Altcoins Suddenly Tank On Binance  Whats Going On?
+2026-06-29,2026-06-29 02:25,gate,BAS/USDT,0.049587,6.28,419.44,5.7,,,
+2026-06-29,2026-06-29 02:25,gate,ACT/USDT,0.01155,5.0,292.52,21.8,,452,NewsBTC: ACT Memecoin Crashes 50% As Several Altcoins Suddenly Tank On Binance  Whats Going On?
 2026-06-29,2026-06-29 00:25,mexc,POWR/USDT,0.05644,11.56,200.67,6.5,,258.0,Coindar: Powerledger to Hold AMA on X on October 15th
 2026-06-29,2026-06-29 00:25,mexc,MAGIC/USDT,0.0456,4.89,133.76,3.1,,37.0,Coindar: Treasure to Host Community Call on May 26th
 2026-06-29,2026-06-29 00:25,mexc,RAVE/USDT,0.3282,10.24,45.92,12.7,,,
@@ -466,7 +466,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-29,2026-06-29 00:01,mexc,VELVET/USDT,1.9097,6.35,42.95,185.5,,1.0,Coinpedia: VELVET Price Explodes 250% After Traders Wrote It Off
 2026-06-29,2026-06-29 00:50,gate,BTW/USDT,0.058905,3.34,32.65,5.6,,,
 2026-06-29,2026-06-29 00:25,mexc,SLX/USDT,0.5702,5.59,21.65,9.6,,,
-2026-06-29,2026-06-29 02:20,gate,SKYAI/USDT,0.14533,6.48,21.5,24.9,,,
+2026-06-29,2026-06-29 02:25,gate,SKYAI/USDT,0.14236,4.31,21.56,25.0,,,
 2026-06-29,2026-06-29 02:01,gate,O/USDT,0.5083,3.67,17.51,8.0,,,
-2026-06-29,2026-06-29 02:20,gate,BEAT/USDT,2.7675,3.54,4.05,15.9,,20,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-06-29,2026-06-29 02:25,gate,BEAT/USDT,2.7729,3.75,4.06,16.0,,20,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-06-29,2026-06-29 01:50,gate,AGLD/USDT,0.1786,3.9,2.76,4.4,Listing,592.0,Coindar: Adventure Gold to Be Listed on Upbit
