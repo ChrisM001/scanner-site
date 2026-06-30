@@ -481,7 +481,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-29,2026-06-29 22:45,gate,BEAT/USDT,2.8115,5.19,2.97,11.7,,,
 2026-06-29,2026-06-29 23:45,gate,AGLD/USDT,0.21,22.16,2.16,3.5,,,
 2026-06-29,2026-06-29 15:36,gate,WIF/USDT,0.1786,3.48,2.0,3.5,,,
-2026-06-30,2026-06-30 12:05,gate,AIGENSYN/USDT,0.03603,17.48,3008.43,12.6,,,
+2026-06-30,2026-06-30 12:35,gate,AIGENSYN/USDT,0.03554,15.88,3221.41,13.5,,,
 2026-06-30,2026-06-30 07:47,mexc,KAS/USDT,0.03006,7.28,1389.73,4.6,,69.0,Coinpedia: Top Altcoins April 2026: Analysts Flag Eight Names as Bitcoin Season Keeps Most Tokens Down
 2026-06-30,2026-06-30 01:46,gate,GWEI/USDT,0.175086,4.88,1125.48,8.5,,,
 2026-06-30,2026-06-30 04:10,gate,BAS/USDT,0.059045,3.59,300.28,4.4,,,
@@ -494,7 +494,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-30,2026-06-30 00:05,mexc,UB/USDT,0.12406,14.24,117.43,4.1,,,
 2026-06-30,2026-06-30 00:05,mexc,POWR/USDT,0.05272,3.21,90.74,4.2,,259.0,Coindar: Powerledger to Hold AMA on X on October 15th
 2026-06-30,2026-06-30 02:10,gate,ACT/USDT,0.01321,4.43,80.51,8.7,,453.0,NewsBTC: ACT Memecoin Crashes 50% As Several Altcoins Suddenly Tank On Binance  Whats Going On?
-2026-06-30,2026-06-30 12:05,gate,BTW/USDT,0.066959,33.43,60.52,10.1,,,
+2026-06-30,2026-06-30 12:35,gate,BTW/USDT,0.064604,28.74,64.55,10.8,,,
 2026-06-30,2026-06-30 00:05,mexc,ACT/USDT,0.01302,8.5,51.97,3.8,,453.0,NewsBTC: ACT Memecoin Crashes 50% As Several Altcoins Suddenly Tank On Binance  Whats Going On?
 2026-06-30,2026-06-30 07:47,mexc,BTW/USDT,0.07102,41.84,33.3,4.4,,,
 2026-06-30,2026-06-30 01:05,gate,ESPORTS/USDT,0.0287,3.35,30.68,3.0,,208.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
@@ -507,4 +507,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-30,2026-06-30 07:47,mexc,SYN/USDT,0.53436,22.49,3.75,25.6,,0.0,Stocktwits: Arthur Hayes Bets On The Underdog  Why He's Eyeing Synapse Over HYPE For 'Outsized Upside'
 2026-06-30,2026-06-30 08:31,gate,XLM/USDT,0.18151,3.78,3.18,3.5,,9.0,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
 2026-06-30,2026-06-30 04:15,gate,BEAT/USDT,2.8524,3.21,2.75,10.8,,21.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-30,2026-06-30 12:05,gate,H/USDT,0.07483,3.6,2.01,7.2,Unlock,8,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
+2026-06-30,2026-06-30 12:35,gate,H/USDT,0.07798,7.96,2.07,7.5,Unlock,9,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
