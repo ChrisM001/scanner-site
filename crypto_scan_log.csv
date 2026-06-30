@@ -481,8 +481,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-29,2026-06-29 22:45,gate,BEAT/USDT,2.8115,5.19,2.97,11.7,,,
 2026-06-29,2026-06-29 23:45,gate,AGLD/USDT,0.21,22.16,2.16,3.5,,,
 2026-06-29,2026-06-29 15:36,gate,WIF/USDT,0.1786,3.48,2.0,3.5,,,
-2026-06-30,2026-06-30 06:25,gate,AIGENSYN/USDT,0.03886,26.7,1683.84,7.1,,,
-2026-06-30,2026-06-30 07:47,mexc,KAS/USDT,0.03006,7.28,1389.73,4.6,,69,Coinpedia: Top Altcoins April 2026: Analysts Flag Eight Names as Bitcoin Season Keeps Most Tokens Down
+2026-06-30,2026-06-30 07:50,gate,AIGENSYN/USDT,0.03379,10.17,2203.44,9.3,,,
+2026-06-30,2026-06-30 07:47,mexc,KAS/USDT,0.03006,7.28,1389.73,4.6,,69.0,Coinpedia: Top Altcoins April 2026: Analysts Flag Eight Names as Bitcoin Season Keeps Most Tokens Down
 2026-06-30,2026-06-30 01:46,gate,GWEI/USDT,0.175086,4.88,1125.48,8.5,,,
 2026-06-30,2026-06-30 04:10,gate,BAS/USDT,0.059045,3.59,300.28,4.4,,,
 2026-06-30,2026-06-30 02:50,mexc,BAS/USDT,0.05512,7.77,277.85,3.4,,,
@@ -496,12 +496,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-30,2026-06-30 00:05,mexc,ACT/USDT,0.01302,8.5,51.97,3.8,,453.0,NewsBTC: ACT Memecoin Crashes 50% As Several Altcoins Suddenly Tank On Binance  Whats Going On?
 2026-06-30,2026-06-30 07:47,mexc,BTW/USDT,0.07102,41.84,33.3,4.4,,,
 2026-06-30,2026-06-30 01:05,gate,ESPORTS/USDT,0.0287,3.35,30.68,3.0,,208.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-06-30,2026-06-30 06:25,gate,BTW/USDT,0.063063,25.67,22.88,3.8,,,
+2026-06-30,2026-06-30 07:50,gate,BTW/USDT,0.070414,40.31,29.56,4.9,,,
 2026-06-30,2026-06-30 07:47,mexc,CAP/USDT,0.02475,4.43,11.08,3.3,,,
 2026-06-30,2026-06-30 05:31,gate,O/USDT,0.5541,3.22,8.94,4.1,,,
-2026-06-30,2026-06-30 07:47,mexc,MYX/USDT,0.098,6.75,7.23,3.3,,2,Coinpedia: Why Is MYX Finance Price Rising Today? Is a Recovery Toward $0.19 Next?
-2026-06-30,2026-06-30 07:47,mexc,XLM/USDT,0.18132,4.38,6.09,40.8,,9,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
+2026-06-30,2026-06-30 07:47,mexc,MYX/USDT,0.098,6.75,7.23,3.3,,2.0,Coinpedia: Why Is MYX Finance Price Rising Today? Is a Recovery Toward $0.19 Next?
+2026-06-30,2026-06-30 07:47,mexc,XLM/USDT,0.18132,4.38,6.09,40.8,,9.0,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
 2026-06-30,2026-06-30 00:45,gate,RE/USDT,0.80627,3.56,6.05,7.5,Listing,0.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
-2026-06-30,2026-06-30 07:47,mexc,SYN/USDT,0.53436,22.49,3.75,25.6,,0,Stocktwits: Arthur Hayes Bets On The Underdog  Why He's Eyeing Synapse Over HYPE For 'Outsized Upside'
+2026-06-30,2026-06-30 07:47,mexc,SYN/USDT,0.53436,22.49,3.75,25.6,,0.0,Stocktwits: Arthur Hayes Bets On The Underdog  Why He's Eyeing Synapse Over HYPE For 'Outsized Upside'
+2026-06-30,2026-06-30 07:50,gate,XLM/USDT,0.1814,3.72,3.11,3.4,,9,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
 2026-06-30,2026-06-30 04:15,gate,BEAT/USDT,2.8524,3.21,2.75,10.8,,21.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-06-30,2026-06-30 06:25,gate,XLM/USDT,0.18527,5.93,2.75,3.0,,9.0,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
