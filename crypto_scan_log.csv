@@ -494,7 +494,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-30,2026-06-30 00:05,mexc,UB/USDT,0.12406,14.24,117.43,4.1,,,
 2026-06-30,2026-06-30 00:05,mexc,POWR/USDT,0.05272,3.21,90.74,4.2,,259.0,Coindar: Powerledger to Hold AMA on X on October 15th
 2026-06-30,2026-06-30 02:10,gate,ACT/USDT,0.01321,4.43,80.51,8.7,,453.0,NewsBTC: ACT Memecoin Crashes 50% As Several Altcoins Suddenly Tank On Binance  Whats Going On?
-2026-06-30,2026-06-30 18:21,gate,BTW/USDT,0.054416,8.44,79.16,13.2,,,
+2026-06-30,2026-06-30 18:31,gate,BTW/USDT,0.05434,8.28,79.22,13.2,,,
 2026-06-30,2026-06-30 18:06,gate,VELVET/USDT,1.66362,3.35,78.86,9.7,,,
 2026-06-30,2026-06-30 00:05,mexc,ACT/USDT,0.01302,8.5,51.97,3.8,,453.0,NewsBTC: ACT Memecoin Crashes 50% As Several Altcoins Suddenly Tank On Binance  Whats Going On?
 2026-06-30,2026-06-30 07:47,mexc,BTW/USDT,0.07102,41.84,33.3,4.4,,,
@@ -506,7 +506,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-30,2026-06-30 07:47,mexc,XLM/USDT,0.18132,4.38,6.09,40.8,,9.0,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
 2026-06-30,2026-06-30 00:45,gate,RE/USDT,0.80627,3.56,6.05,7.5,Listing,0.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-06-30,2026-06-30 11:50,gate,BSB/USDT,0.24227,3.3,5.45,3.0,,,
-2026-06-30,2026-06-30 18:21,gate,XLM/USDT,0.18619,6.46,4.5,4.9,,,
+2026-06-30,2026-06-30 18:31,gate,XLM/USDT,0.18548,6.05,4.53,5.0,,,
 2026-06-30,2026-06-30 07:47,mexc,SYN/USDT,0.53436,22.49,3.75,25.6,,0.0,Stocktwits: Arthur Hayes Bets On The Underdog  Why He's Eyeing Synapse Over HYPE For 'Outsized Upside'
-2026-06-30,2026-06-30 18:21,gate,H/USDT,0.08445,16.92,3.05,11.0,,,
+2026-06-30,2026-06-30 18:31,gate,H/USDT,0.08603,19.11,3.07,11.0,,,
 2026-06-30,2026-06-30 04:15,gate,BEAT/USDT,2.8524,3.21,2.75,10.8,,21.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
