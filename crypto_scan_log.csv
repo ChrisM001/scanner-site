@@ -481,9 +481,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-29,2026-06-29 22:45,gate,BEAT/USDT,2.8115,5.19,2.97,11.7,,,
 2026-06-29,2026-06-29 23:45,gate,AGLD/USDT,0.21,22.16,2.16,3.5,,,
 2026-06-29,2026-06-29 15:36,gate,WIF/USDT,0.1786,3.48,2.0,3.5,,,
+2026-06-30,2026-06-30 00:25,gate,GWEI/USDT,0.173764,4.09,1103.0,8.3,,20,"Coinpedia: ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises?"
 2026-06-30,2026-06-30 00:05,mexc,KAS/USDT,0.03037,8.38,1020.15,3.4,,69.0,Coinpedia: Top Altcoins April 2026: Analysts Flag Eight Names as Bitcoin Season Keeps Most Tokens Down
-2026-06-30,2026-06-30 00:20,gate,VELVET/USDT,1.66017,3.14,274.49,33.7,,0,"Binance News: VELVET Jumps 306% in Seven Days After Aerodrome Migration, Pre-IPO Markets Launch"
-2026-06-30,2026-06-30 00:20,gate,BAS/USDT,0.059851,5.01,236.06,3.5,,,
+2026-06-30,2026-06-30 00:20,gate,VELVET/USDT,1.66017,3.14,274.49,33.7,,0.0,"Binance News: VELVET Jumps 306% in Seven Days After Aerodrome Migration, Pre-IPO Markets Launch"
+2026-06-30,2026-06-30 00:25,gate,BAS/USDT,0.059074,3.65,238.48,3.5,,,
 2026-06-30,2026-06-30 00:05,mexc,TAC/USDT,0.060944,3.82,199.72,52.4,,,
 2026-06-30,2026-06-30 00:01,mexc,PUMPFUN/USDT,0.001503,3.22,135.84,7.6,,,
 2026-06-30,2026-06-30 00:05,mexc,UB/USDT,0.12406,14.24,117.43,4.1,,,
