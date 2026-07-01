@@ -516,16 +516,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-01,2026-07-01 00:01,mexc,BAS/USDT,0.044602,5.54,333.5,4.5,,,
 2026-07-01,2026-07-01 00:01,mexc,AIGENSYN/USDT,0.03477,12.12,133.01,14.3,Listing,0.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
 2026-07-01,2026-07-01 00:31,gate,TAC/USDT,0.065229,4.15,105.45,21.9,,,
-2026-07-01,2026-07-01 05:01,gate,BTW/USDT,0.063656,20.97,95.01,15.7,,,
+2026-07-01,2026-07-01 05:15,gate,BTW/USDT,0.065608,24.68,95.67,15.8,,,
 2026-07-01,2026-07-01 00:01,mexc,TAC/USDT,0.06256,6.14,63.97,22.1,,,
 2026-07-01,2026-07-01 05:01,gate,BASED/USDT,0.1042,3.6,32.44,4.5,,,
 2026-07-01,2026-07-01 04:31,gate,RAVE/USDT,0.3326,3.81,21.39,5.8,,,
-2026-07-01,2026-07-01 05:01,gate,M/USDT,0.7742,5.0,17.58,3.2,,,
-2026-07-01,2026-07-01 05:01,gate,TAIKO/USDT,0.086,9.55,17.54,3.2,Hack,8,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
+2026-07-01,2026-07-01 05:15,gate,M/USDT,0.7796,5.74,17.84,3.2,,,
+2026-07-01,2026-07-01 05:15,gate,TAIKO/USDT,0.086,9.55,17.72,3.2,Hack,8,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
 2026-07-01,2026-07-01 00:01,mexc,XLM/USDT,0.19001,4.09,8.81,52.4,,10.0,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
-2026-07-01,2026-07-01 05:01,gate,XLM/USDT,0.19984,5.7,8.43,7.0,,10,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
-2026-07-01,2026-07-01 05:01,gate,ADA/USDT,0.1509,4.65,7.8,28.0,,0,CryptoProwl: Webull Launches Crypto Trading In Canada
-2026-07-01,2026-07-01 05:01,gate,BEAT/USDT,3.6368,25.15,3.78,15.0,,22,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-07-01,2026-07-01 05:01,gate,SKYAI/USDT,0.11148,5.49,3.77,4.2,,,
+2026-07-01,2026-07-01 05:15,gate,XLM/USDT,0.19898,5.25,8.63,7.2,,10,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
+2026-07-01,2026-07-01 05:15,gate,ADA/USDT,0.1508,4.58,7.98,28.6,,0,CryptoProwl: Webull Launches Crypto Trading In Canada
+2026-07-01,2026-07-01 05:15,gate,BEAT/USDT,3.4345,18.19,4.06,16.0,,22,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-01,2026-07-01 05:15,gate,SKYAI/USDT,0.11381,7.69,3.83,4.3,,,
 2026-07-01,2026-07-01 04:55,gate,RE/USDT,0.66491,3.13,3.13,3.7,Listing,1.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-01,2026-07-01 03:55,gate,H/USDT,0.08748,3.44,3.09,10.8,,,
