@@ -512,17 +512,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-30,2026-06-30 22:20,gate,H/USDT,0.0912,26.26,3.11,11.2,,,
 2026-06-30,2026-06-30 22:20,gate,BEAT/USDT,2.9143,5.45,2.23,8.8,,,
 2026-07-01,2026-07-01 01:50,gate,AIGENSYN/USDT,0.03619,3.61,1792.23,17.5,Listing,0.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
-2026-07-01,2026-07-01 02:01,gate,BAS/USDT,0.046578,4.31,432.31,7.4,,,
+2026-07-01,2026-07-01 02:05,gate,BAS/USDT,0.04638,3.87,432.64,7.4,,,
 2026-07-01,2026-07-01 00:01,mexc,BAS/USDT,0.044602,5.54,333.5,4.5,,,
 2026-07-01,2026-07-01 00:01,mexc,AIGENSYN/USDT,0.03477,12.12,133.01,14.3,Listing,0.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
 2026-07-01,2026-07-01 00:31,gate,TAC/USDT,0.065229,4.15,105.45,21.9,,,
-2026-07-01,2026-07-01 02:01,gate,BTW/USDT,0.061294,16.48,86.81,14.3,,,
+2026-07-01,2026-07-01 02:05,gate,BTW/USDT,0.060473,14.92,86.96,14.4,,,
 2026-07-01,2026-07-01 00:01,mexc,TAC/USDT,0.06256,6.14,63.97,22.1,,,
-2026-07-01,2026-07-01 01:55,gate,BASED/USDT,0.10429,3.69,24.39,3.4,,,
+2026-07-01,2026-07-01 02:05,gate,BASED/USDT,0.10372,3.12,24.31,3.4,,,
 2026-07-01,2026-07-01 01:01,gate,TAIKO/USDT,0.0825,5.1,19.36,3.5,Hack,8.0,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
 2026-07-01,2026-07-01 01:55,gate,M/USDT,0.7612,3.24,17.07,3.1,,,
 2026-07-01,2026-07-01 00:01,mexc,XLM/USDT,0.19001,4.09,8.81,52.4,,10.0,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
-2026-07-01,2026-07-01 02:01,gate,XLM/USDT,0.2003,5.95,7.86,6.5,,10,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
-2026-07-01,2026-07-01 02:01,gate,RE/USDT,0.67002,3.92,3.3,3.9,Listing,1,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
-2026-07-01,2026-07-01 02:01,gate,H/USDT,0.08799,4.04,3.07,10.7,Unlock,9,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
+2026-07-01,2026-07-01 02:05,gate,XLM/USDT,0.20021,5.9,8.1,6.7,,10,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
+2026-07-01,2026-07-01 02:05,gate,RE/USDT,0.66712,3.47,3.3,3.9,Listing,1,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
+2026-07-01,2026-07-01 02:05,gate,H/USDT,0.08758,3.56,3.07,10.8,Unlock,9,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
 2026-07-01,2026-07-01 00:45,gate,BEAT/USDT,2.9998,3.23,2.34,9.3,,22.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
