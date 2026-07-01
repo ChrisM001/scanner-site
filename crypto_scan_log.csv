@@ -513,22 +513,22 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-30,2026-06-30 22:20,gate,BEAT/USDT,2.9143,5.45,2.23,8.8,,,
 2026-07-01,2026-07-01 01:50,gate,AIGENSYN/USDT,0.03619,3.61,1792.23,17.5,Listing,0.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
 2026-07-01,2026-07-01 00:01,mexc,BAS/USDT,0.044602,5.54,333.5,4.5,,,
-2026-07-01,2026-07-01 09:11,gate,BAS/USDT,0.050808,13.79,249.89,4.3,,,
+2026-07-01,2026-07-01 09:41,gate,BAS/USDT,0.048525,8.67,259.64,4.4,,,
 2026-07-01,2026-07-01 00:01,mexc,AIGENSYN/USDT,0.03477,12.12,133.01,14.3,Listing,0.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
 2026-07-01,2026-07-01 00:31,gate,TAC/USDT,0.065229,4.15,105.45,21.9,,,
-2026-07-01,2026-07-01 09:11,gate,BTW/USDT,0.0643,22.19,76.22,12.6,,,
-2026-07-01,2026-07-01 09:11,gate,BASED/USDT,0.11153,10.89,67.57,9.4,,,
+2026-07-01,2026-07-01 09:41,gate,BTW/USDT,0.065302,24.1,76.68,12.7,,,
+2026-07-01,2026-07-01 09:41,gate,BASED/USDT,0.11575,15.08,70.94,9.9,,,
 2026-07-01,2026-07-01 00:01,mexc,TAC/USDT,0.06256,6.14,63.97,22.1,,,
-2026-07-01,2026-07-01 09:11,gate,NFP/USDT,0.00681,45.82,26.04,5.8,,,
+2026-07-01,2026-07-01 09:41,gate,NFP/USDT,0.006,28.48,32.08,7.1,,,
 2026-07-01,2026-07-01 04:31,gate,RAVE/USDT,0.3326,3.81,21.39,5.8,,,
-2026-07-01,2026-07-01 09:11,gate,M/USDT,0.77,4.44,18.95,3.4,,,
-2026-07-01,2026-07-01 09:11,gate,TAIKO/USDT,0.089,13.38,17.9,3.2,Hack,8,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
-2026-07-01,2026-07-01 09:11,gate,XLM/USDT,0.2022,6.95,9.57,8.0,,0,Coinpedia: Stellar (XLM) Price Rebounds Amid Bearish PressureCan Bulls Reverse the Downtrend?
-2026-07-01,2026-07-01 09:11,gate,ADA/USDT,0.1507,4.51,9.39,33.7,,0,CryptoProwl: Webull Launches Crypto Trading In Canada
+2026-07-01,2026-07-01 09:41,gate,M/USDT,0.7679,4.15,19.34,3.5,,,
+2026-07-01,2026-07-01 09:41,gate,TAIKO/USDT,0.0947,20.64,18.76,3.4,Hack,8,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
+2026-07-01,2026-07-01 09:41,gate,XLM/USDT,0.19957,5.56,9.7,8.1,,0,Coinpedia: Stellar (XLM) Price Rebounds Amid Bearish PressureCan Bulls Reverse the Downtrend?
+2026-07-01,2026-07-01 09:41,gate,ADA/USDT,0.1508,4.58,9.49,34.0,,0,CryptoProwl: Webull Launches Crypto Trading In Canada
 2026-07-01,2026-07-01 00:01,mexc,XLM/USDT,0.19001,4.09,8.81,52.4,,10.0,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
-2026-07-01,2026-07-01 09:06,gate,O/USDT,0.5264,3.99,6.96,3.1,,,
+2026-07-01,2026-07-01 09:41,gate,O/USDT,0.5223,3.18,7.19,3.2,,,
 2026-07-01,2026-07-01 06:01,gate,BEAT/USDT,3.0182,3.86,4.95,19.6,,22.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-07-01,2026-07-01 09:11,gate,SKYAI/USDT,0.10991,4.0,4.11,4.6,,,
+2026-07-01,2026-07-01 09:41,gate,SKYAI/USDT,0.113,6.93,4.22,4.8,,,
 2026-07-01,2026-07-01 04:55,gate,RE/USDT,0.66491,3.13,3.13,3.7,Listing,1.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-01,2026-07-01 03:55,gate,H/USDT,0.08748,3.44,3.09,10.8,,,
-2026-07-01,2026-07-01 09:11,gate,DYDX/USDT,0.19859,10.38,2.19,15.7,,,
+2026-07-01,2026-07-01 09:41,gate,DYDX/USDT,0.1997,11.0,2.29,16.5,,,
