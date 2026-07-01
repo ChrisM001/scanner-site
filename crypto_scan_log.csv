@@ -516,15 +516,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-01,2026-07-01 00:01,mexc,BAS/USDT,0.044602,5.54,333.5,4.5,,,
 2026-07-01,2026-07-01 00:01,mexc,AIGENSYN/USDT,0.03477,12.12,133.01,14.3,Listing,0.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
 2026-07-01,2026-07-01 00:31,gate,TAC/USDT,0.065229,4.15,105.45,21.9,,,
-2026-07-01,2026-07-01 04:25,gate,BTW/USDT,0.062924,19.58,97.91,16.2,,,
+2026-07-01,2026-07-01 04:31,gate,BTW/USDT,0.063434,20.55,97.97,16.2,,,
 2026-07-01,2026-07-01 00:01,mexc,TAC/USDT,0.06256,6.14,63.97,22.1,,,
 2026-07-01,2026-07-01 03:57,gate,BASED/USDT,0.10456,3.96,30.27,4.2,,,
-2026-07-01,2026-07-01 04:25,gate,TAIKO/USDT,0.0817,4.08,17.74,3.2,Hack,8,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
-2026-07-01,2026-07-01 04:25,gate,M/USDT,0.8145,10.47,17.49,3.2,,,
+2026-07-01,2026-07-01 04:31,gate,RAVE/USDT,0.3326,3.81,21.39,5.8,,,
+2026-07-01,2026-07-01 04:31,gate,TAIKO/USDT,0.0838,6.75,17.81,3.2,Hack,8,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
+2026-07-01,2026-07-01 04:31,gate,M/USDT,0.7988,8.34,17.58,3.2,,,
 2026-07-01,2026-07-01 00:01,mexc,XLM/USDT,0.19001,4.09,8.81,52.4,,10.0,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
-2026-07-01,2026-07-01 04:25,gate,XLM/USDT,0.20247,7.09,8.45,7.0,,10,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
-2026-07-01,2026-07-01 04:25,gate,ADA/USDT,0.1498,3.88,6.9,24.8,,0,CryptoProwl: Webull Launches Crypto Trading In Canada
-2026-07-01,2026-07-01 04:25,gate,SKYAI/USDT,0.11029,4.36,3.73,4.2,,,
-2026-07-01,2026-07-01 04:25,gate,BEAT/USDT,3.243,11.6,3.2,12.6,,22,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-07-01,2026-07-01 04:15,gate,RE/USDT,0.67035,3.97,3.1,3.7,Listing,1.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
+2026-07-01,2026-07-01 04:31,gate,XLM/USDT,0.20161,6.64,8.53,7.1,,10,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
+2026-07-01,2026-07-01 04:31,gate,ADA/USDT,0.151,4.72,7.32,26.3,,0,CryptoProwl: Webull Launches Crypto Trading In Canada
+2026-07-01,2026-07-01 04:31,gate,SKYAI/USDT,0.11454,8.38,3.8,4.3,,,
+2026-07-01,2026-07-01 04:31,gate,BEAT/USDT,3.2899,13.21,3.22,12.7,,22,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-01,2026-07-01 04:31,gate,RE/USDT,0.6658,3.26,3.12,3.7,,,
 2026-07-01,2026-07-01 03:55,gate,H/USDT,0.08748,3.44,3.09,10.8,,,
