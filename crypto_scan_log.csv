@@ -512,18 +512,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-30,2026-06-30 22:20,gate,H/USDT,0.0912,26.26,3.11,11.2,,,
 2026-06-30,2026-06-30 22:20,gate,BEAT/USDT,2.9143,5.45,2.23,8.8,,,
 2026-07-01,2026-07-01 01:50,gate,AIGENSYN/USDT,0.03619,3.61,1792.23,17.5,Listing,0.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
-2026-07-01,2026-07-01 03:51,gate,BAS/USDT,0.047337,6.01,421.86,7.2,,,
+2026-07-01,2026-07-01 03:55,gate,BAS/USDT,0.047924,7.33,423.29,7.2,,,
 2026-07-01,2026-07-01 00:01,mexc,BAS/USDT,0.044602,5.54,333.5,4.5,,,
 2026-07-01,2026-07-01 00:01,mexc,AIGENSYN/USDT,0.03477,12.12,133.01,14.3,Listing,0.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
 2026-07-01,2026-07-01 00:31,gate,TAC/USDT,0.065229,4.15,105.45,21.9,,,
-2026-07-01,2026-07-01 03:51,gate,BTW/USDT,0.061106,16.12,98.15,16.2,,,
+2026-07-01,2026-07-01 03:55,gate,BTW/USDT,0.062295,18.38,99.04,16.4,,,
 2026-07-01,2026-07-01 00:01,mexc,TAC/USDT,0.06256,6.14,63.97,22.1,,,
-2026-07-01,2026-07-01 03:51,gate,BASED/USDT,0.10429,3.69,30.09,4.2,,,
-2026-07-01,2026-07-01 03:51,gate,TAIKO/USDT,0.0819,4.33,20.57,3.7,Hack,8,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
-2026-07-01,2026-07-01 03:51,gate,M/USDT,0.8072,9.48,17.76,3.2,,,
+2026-07-01,2026-07-01 03:55,gate,BASED/USDT,0.10457,3.97,30.16,4.2,,,
+2026-07-01,2026-07-01 03:55,gate,TAIKO/USDT,0.081,3.18,20.63,3.7,Hack,8,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
+2026-07-01,2026-07-01 03:55,gate,M/USDT,0.8049,9.17,17.76,3.2,,,
 2026-07-01,2026-07-01 00:01,mexc,XLM/USDT,0.19001,4.09,8.81,52.4,,10.0,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
-2026-07-01,2026-07-01 03:51,gate,XLM/USDT,0.20328,7.52,8.73,7.3,,10,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
-2026-07-01,2026-07-01 03:51,gate,ADA/USDT,0.1496,3.74,6.37,22.8,,0,CryptoProwl: Webull Launches Crypto Trading In Canada
-2026-07-01,2026-07-01 03:25,gate,RE/USDT,0.66502,3.14,3.24,3.8,Listing,1.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
-2026-07-01,2026-07-01 03:51,gate,H/USDT,0.08868,4.86,3.09,10.8,Unlock,9,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
-2026-07-01,2026-07-01 03:51,gate,BEAT/USDT,3.1324,7.79,2.7,10.7,,,
+2026-07-01,2026-07-01 03:55,gate,XLM/USDT,0.20288,7.31,8.79,7.3,,10,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
+2026-07-01,2026-07-01 03:55,gate,ADA/USDT,0.1502,4.16,6.53,23.4,,0,CryptoProwl: Webull Launches Crypto Trading In Canada
+2026-07-01,2026-07-01 03:55,gate,RE/USDT,0.66985,3.89,3.28,3.9,Listing,1,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
+2026-07-01,2026-07-01 03:55,gate,H/USDT,0.08748,3.44,3.09,10.8,,,
+2026-07-01,2026-07-01 03:55,gate,BEAT/USDT,3.2333,11.26,2.83,11.2,,,
