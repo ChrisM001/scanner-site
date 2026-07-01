@@ -511,14 +511,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-06-30,2026-06-30 07:47,mexc,SYN/USDT,0.53436,22.49,3.75,25.6,,0.0,Stocktwits: Arthur Hayes Bets On The Underdog  Why He's Eyeing Synapse Over HYPE For 'Outsized Upside'
 2026-06-30,2026-06-30 22:20,gate,H/USDT,0.0912,26.26,3.11,11.2,,,
 2026-06-30,2026-06-30 22:20,gate,BEAT/USDT,2.9143,5.45,2.23,8.8,,,
-2026-07-01,2026-07-01 00:55,gate,AIGENSYN/USDT,0.0368,5.35,1786.51,17.5,Listing,0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
+2026-07-01,2026-07-01 01:01,gate,AIGENSYN/USDT,0.0372,6.5,1764.25,17.3,Listing,0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
 2026-07-01,2026-07-01 00:01,mexc,BAS/USDT,0.044602,5.54,333.5,4.5,,,
 2026-07-01,2026-07-01 00:01,mexc,AIGENSYN/USDT,0.03477,12.12,133.01,14.3,Listing,0.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
 2026-07-01,2026-07-01 00:31,gate,TAC/USDT,0.065229,4.15,105.45,21.9,,,
-2026-07-01,2026-07-01 00:55,gate,BTW/USDT,0.060538,15.04,82.36,13.6,,,
+2026-07-01,2026-07-01 01:01,gate,BTW/USDT,0.061612,17.08,82.44,13.6,,,
 2026-07-01,2026-07-01 00:01,mexc,TAC/USDT,0.06256,6.14,63.97,22.1,,,
-2026-07-01,2026-07-01 00:55,gate,TAIKO/USDT,0.0826,5.22,19.14,3.5,Hack,8,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
+2026-07-01,2026-07-01 01:01,gate,TAIKO/USDT,0.0825,5.1,19.36,3.5,Hack,8,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
 2026-07-01,2026-07-01 00:01,mexc,XLM/USDT,0.19001,4.09,8.81,52.4,,10.0,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
-2026-07-01,2026-07-01 00:40,gate,XLM/USDT,0.19475,3.01,6.91,5.7,,10.0,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
+2026-07-01,2026-07-01 01:01,gate,XLM/USDT,0.19487,3.07,7.15,6.0,,10,CoinMarketCal: Centrifuge [OLD] (CFG) - Centrifuge x Stellar - 20 June 2026
+2026-07-01,2026-07-01 01:01,gate,RE/USDT,0.66778,3.57,3.44,4.1,Listing,1,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-01,2026-07-01 00:50,gate,H/USDT,0.0875,3.46,3.43,12.0,Unlock,9.0,"Binance News: Major Token Unlocks Scheduled Next Week for H, XPL, and SAHARA"
 2026-07-01,2026-07-01 00:45,gate,BEAT/USDT,2.9998,3.23,2.34,9.3,,22.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
