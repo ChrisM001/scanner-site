@@ -535,15 +535,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-01,2026-07-01 04:55,gate,RE/USDT,0.66491,3.13,3.13,3.7,Listing,1.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-01,2026-07-01 17:56,gate,DYDX/USDT,0.18693,3.9,3.1,22.3,,,
 2026-07-01,2026-07-01 03:55,gate,H/USDT,0.08748,3.44,3.09,10.8,,,
-2026-07-02,2026-07-02 10:41,gate,PEPE/USDT,2e-06,4.22,8959145.15,26.7,,56,Binance News: Binance Launches May Flexible Loan Challenge with PEPE Rewards
+2026-07-02,2026-07-02 10:46,gate,PEPE/USDT,2e-06,4.05,8996633.75,26.8,,56,Binance News: Binance Launches May Flexible Loan Challenge with PEPE Rewards
 2026-07-02,2026-07-02 10:31,gate,UB/USDT,0.09102,3.66,854.65,4.1,,,
-2026-07-02,2026-07-02 10:41,gate,BIRB/USDT,0.0931,70.05,516.78,9.0,,,
-2026-07-02,2026-07-02 10:31,gate,BAS/USDT,0.039094,4.46,384.9,7.1,,,
-2026-07-02,2026-07-02 10:41,gate,BREV/USDT,0.0984,37.82,317.88,3.4,,120,CoinMarketCal: Brevis & Railgun - Privacy Talk - 04 March 2026
+2026-07-02,2026-07-02 10:46,gate,BIRB/USDT,0.09191,67.87,519.68,9.0,,,
+2026-07-02,2026-07-02 10:46,gate,BAS/USDT,0.039002,4.21,389.87,7.2,,,
+2026-07-02,2026-07-02 10:46,gate,BREV/USDT,0.0986,38.1,325.26,3.5,,120,CoinMarketCal: Brevis & Railgun - Privacy Talk - 04 March 2026
 2026-07-02,2026-07-02 00:01,mexc,NOM/USDT,0.001959,21.3,134.07,5.8,,,
 2026-07-02,2026-07-02 00:01,mexc,BASED/USDT,0.13111,13.07,83.7,19.3,,,
 2026-07-02,2026-07-02 05:15,gate,BASED/USDT,0.13597,3.75,77.25,14.8,,,
-2026-07-02,2026-07-02 10:41,gate,M/USDT,1.4586,13.52,64.29,14.6,,,
+2026-07-02,2026-07-02 10:46,gate,M/USDT,1.4486,12.74,64.74,14.7,,,
 2026-07-02,2026-07-02 00:50,gate,ZBT/USDT,0.15647,3.4,60.96,3.3,Listing,258.0,CoinMarketCal: ZEROBASE (ZBT) - Bitrue Listing - 17 Oct 2025
 2026-07-02,2026-07-02 08:31,gate,LAB/USDT,9.17143,3.53,56.98,34.2,,,
 2026-07-02,2026-07-02 00:01,mexc,AIGENSYN/USDT,0.03545,3.53,49.19,6.2,Listing,1.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
@@ -553,10 +553,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-02,2026-07-02 00:01,mexc,SLX/USDT,0.4824,13.85,13.63,6.6,,,
 2026-07-02,2026-07-02 10:35,gate,SLX/USDT,0.50101,3.53,12.34,11.1,,,
 2026-07-02,2026-07-02 00:01,mexc,TAIKO/USDT,0.4561,261.98,11.94,58.6,Hack,9.0,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
-2026-07-02,2026-07-02 10:41,gate,ADA/USDT,0.1589,3.32,8.25,29.9,,0,NewsBTC: Cardano Activity Recovers After Yoroi Wallet Sync Fix
-2026-07-02,2026-07-02 10:41,gate,ENA/USDT,0.07755,8.83,7.79,7.7,Unlock,2,"NewsBTC: ENA, SUI And EIGEN Lead This Weeks $73 Million Token Unlock Schedule"
+2026-07-02,2026-07-02 10:41,gate,ADA/USDT,0.1589,3.32,8.25,29.9,,0.0,NewsBTC: Cardano Activity Recovers After Yoroi Wallet Sync Fix
+2026-07-02,2026-07-02 10:46,gate,ENA/USDT,0.07704,8.11,7.85,7.8,Unlock,2,"NewsBTC: ENA, SUI And EIGEN Lead This Weeks $73 Million Token Unlock Schedule"
 2026-07-02,2026-07-02 00:01,mexc,VELVET/USDT,1.5215,7.6,5.27,25.4,,1.0,Invezz: Is the VELVET price rally over after its 300% surge?
-2026-07-02,2026-07-02 10:41,gate,LIT/USDT,2.142,3.53,4.08,9.6,,182,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
+2026-07-02,2026-07-02 10:41,gate,LIT/USDT,2.142,3.53,4.08,9.6,,182.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-07-02,2026-07-02 00:01,mexc,M/USDT,1.2834,6.94,2.96,8.5,,,
 2026-07-02,2026-07-02 00:01,mexc,SYN/USDT,0.52404,12.55,2.47,25.1,,,
 2026-07-02,2026-07-02 02:55,gate,H/USDT,0.07293,3.26,2.04,6.2,Hack,0.0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
