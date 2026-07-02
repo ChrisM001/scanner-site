@@ -535,31 +535,31 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-01,2026-07-01 04:55,gate,RE/USDT,0.66491,3.13,3.13,3.7,Listing,1.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-01,2026-07-01 17:56,gate,DYDX/USDT,0.18693,3.9,3.1,22.3,,,
 2026-07-01,2026-07-01 03:55,gate,H/USDT,0.08748,3.44,3.09,10.8,,,
-2026-07-02,2026-07-02 13:21,gate,PEPE/USDT,2e-06,5.21,8531186.54,25.4,,56,Binance News: Binance Launches May Flexible Loan Challenge with PEPE Rewards
+2026-07-02,2026-07-02 13:41,gate,PEPE/USDT,2e-06,6.72,9425368.91,28.1,,,
 2026-07-02,2026-07-02 13:01,gate,UB/USDT,0.09139,4.08,775.29,3.7,,,
-2026-07-02,2026-07-02 13:21,gate,BIRB/USDT,0.08744,59.71,648.31,11.3,,,
-2026-07-02,2026-07-02 13:21,gate,BREV/USDT,0.0927,29.83,453.42,4.8,,120,CoinMarketCal: Brevis & Railgun - Privacy Talk - 04 March 2026
+2026-07-02,2026-07-02 13:41,gate,BIRB/USDT,0.09367,71.09,666.96,11.6,,,
+2026-07-02,2026-07-02 13:41,gate,BREV/USDT,0.0924,29.41,460.13,4.9,,,
 2026-07-02,2026-07-02 10:56,gate,BAS/USDT,0.038973,4.13,391.29,7.2,,,
 2026-07-02,2026-07-02 00:01,mexc,NOM/USDT,0.001959,21.3,134.07,5.8,,,
 2026-07-02,2026-07-02 00:01,mexc,BASED/USDT,0.13111,13.07,83.7,19.3,,,
 2026-07-02,2026-07-02 05:15,gate,BASED/USDT,0.13597,3.75,77.25,14.8,,,
-2026-07-02,2026-07-02 13:21,gate,M/USDT,1.6389,27.55,66.43,15.1,,,
+2026-07-02,2026-07-02 13:41,gate,M/USDT,1.6627,29.4,67.66,15.3,,,
 2026-07-02,2026-07-02 00:50,gate,ZBT/USDT,0.15647,3.4,60.96,3.3,Listing,258.0,CoinMarketCal: ZEROBASE (ZBT) - Bitrue Listing - 17 Oct 2025
 2026-07-02,2026-07-02 00:01,mexc,AIGENSYN/USDT,0.03545,3.53,49.19,6.2,Listing,1.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
 2026-07-02,2026-07-02 11:41,gate,TAC/USDT,0.040774,3.24,40.04,9.4,,,
+2026-07-02,2026-07-02 13:41,gate,TLM/USDT,0.00156,3.45,38.76,6.7,,,
 2026-07-02,2026-07-02 13:01,gate,LAB/USDT,9.13743,3.15,37.74,22.7,,,
-2026-07-02,2026-07-02 13:06,gate,TLM/USDT,0.001555,3.12,37.52,6.5,,67.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
 2026-07-02,2026-07-02 00:01,mexc,TLM/USDT,0.00151,67.22,17.47,6.4,,66.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
 2026-07-02,2026-07-02 00:05,gate,NFP/USDT,0.02463,3.79,17.05,54.4,,,
 2026-07-02,2026-07-02 00:01,mexc,SLX/USDT,0.4824,13.85,13.63,6.6,,,
 2026-07-02,2026-07-02 10:35,gate,SLX/USDT,0.50101,3.53,12.34,11.1,,,
 2026-07-02,2026-07-02 00:01,mexc,TAIKO/USDT,0.4561,261.98,11.94,58.6,Hack,9.0,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
-2026-07-02,2026-07-02 13:21,gate,XRP/USDT,1.0944,3.98,8.14,74.0,,0,"Binance News: XRP Rises 2% Near $1.05, but Holder Buying Sinks 11%"
-2026-07-02,2026-07-02 13:21,gate,ADA/USDT,0.1609,4.62,7.88,28.6,,0,NewsBTC: Cardano Activity Recovers After Yoroi Wallet Sync Fix
-2026-07-02,2026-07-02 13:21,gate,ENA/USDT,0.07832,9.91,7.85,7.8,Unlock,2,"NewsBTC: ENA, SUI And EIGEN Lead This Weeks $73 Million Token Unlock Schedule"
-2026-07-02,2026-07-02 13:21,gate,DOGE/USDT,0.07456,3.27,7.43,66.5,,0,Coinpedia: Bearish Signals Flash for Dogecoin (DOGE) PriceCan Bulls Prevent Another Breakdown?
+2026-07-02,2026-07-02 13:41,gate,XRP/USDT,1.1105,5.51,8.56,77.9,,,
+2026-07-02,2026-07-02 13:41,gate,ADA/USDT,0.1621,5.4,8.26,29.9,,,
+2026-07-02,2026-07-02 13:41,gate,ENA/USDT,0.07895,10.79,8.03,8.0,,,
+2026-07-02,2026-07-02 13:41,gate,DOGE/USDT,0.07537,4.39,7.97,71.4,,,
 2026-07-02,2026-07-02 00:01,mexc,VELVET/USDT,1.5215,7.6,5.27,25.4,,1.0,Invezz: Is the VELVET price rally over after its 300% surge?
-2026-07-02,2026-07-02 13:21,gate,LIT/USDT,2.191,5.9,4.51,10.6,,,
+2026-07-02,2026-07-02 13:41,gate,LIT/USDT,2.165,4.64,4.54,10.7,,,
 2026-07-02,2026-07-02 00:01,mexc,M/USDT,1.2834,6.94,2.96,8.5,,,
 2026-07-02,2026-07-02 00:01,mexc,SYN/USDT,0.52404,12.55,2.47,25.1,,,
 2026-07-02,2026-07-02 02:55,gate,H/USDT,0.07293,3.26,2.04,6.2,Hack,0.0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
