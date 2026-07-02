@@ -535,12 +535,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-01,2026-07-01 04:55,gate,RE/USDT,0.66491,3.13,3.13,3.7,Listing,1.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-01,2026-07-01 17:56,gate,DYDX/USDT,0.18693,3.9,3.1,22.3,,,
 2026-07-01,2026-07-01 03:55,gate,H/USDT,0.08748,3.44,3.09,10.8,,,
-2026-07-02,2026-07-02 02:15,gate,UB/USDT,0.09342,6.39,1084.49,5.2,,,
+2026-07-02,2026-07-02 02:25,gate,UB/USDT,0.09443,7.54,1092.7,5.3,,,
 2026-07-02,2026-07-02 02:05,gate,BAS/USDT,0.039257,4.89,357.72,6.6,,,
 2026-07-02,2026-07-02 00:01,mexc,NOM/USDT,0.001959,21.3,134.07,5.8,,,
 2026-07-02,2026-07-02 00:01,mexc,BASED/USDT,0.13111,13.07,83.7,19.3,,,
-2026-07-02,2026-07-02 01:31,gate,LAB/USDT,9.14447,3.23,61.66,37.1,,,
 2026-07-02,2026-07-02 00:50,gate,ZBT/USDT,0.15647,3.4,60.96,3.3,Listing,258.0,CoinMarketCal: ZEROBASE (ZBT) - Bitrue Listing - 17 Oct 2025
+2026-07-02,2026-07-02 02:25,gate,LAB/USDT,9.16088,3.41,59.76,35.9,,,
 2026-07-02,2026-07-02 00:01,mexc,AIGENSYN/USDT,0.03545,3.53,49.19,6.2,Listing,1.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
 2026-07-02,2026-07-02 00:25,gate,TAC/USDT,0.041205,4.33,46.73,11.0,,,
 2026-07-02,2026-07-02 00:01,mexc,TLM/USDT,0.00151,67.22,17.47,6.4,,66.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
@@ -548,8 +548,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-02,2026-07-02 00:01,mexc,SLX/USDT,0.4824,13.85,13.63,6.6,,,
 2026-07-02,2026-07-02 00:01,mexc,TAIKO/USDT,0.4561,261.98,11.94,58.6,Hack,9.0,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
 2026-07-02,2026-07-02 02:15,gate,SLX/USDT,0.50169,3.67,10.96,9.9,,,
-2026-07-02,2026-07-02 02:15,gate,ENA/USDT,0.07417,4.08,6.61,6.6,Unlock,2,"NewsBTC: ENA, SUI And EIGEN Lead This Weeks $73 Million Token Unlock Schedule"
+2026-07-02,2026-07-02 02:25,gate,ENA/USDT,0.07453,4.59,6.67,6.6,Unlock,2,"NewsBTC: ENA, SUI And EIGEN Lead This Weeks $73 Million Token Unlock Schedule"
 2026-07-02,2026-07-02 00:01,mexc,VELVET/USDT,1.5215,7.6,5.27,25.4,,1.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-02,2026-07-02 00:01,mexc,M/USDT,1.2834,6.94,2.96,8.5,,,
 2026-07-02,2026-07-02 00:01,mexc,SYN/USDT,0.52404,12.55,2.47,25.1,,,
-2026-07-02,2026-07-02 01:51,gate,H/USDT,0.07472,5.79,2.05,6.2,Hack,0.0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
+2026-07-02,2026-07-02 02:25,gate,H/USDT,0.07383,4.53,2.01,6.1,Hack,0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
