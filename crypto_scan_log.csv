@@ -551,4 +551,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-02,2026-07-02 00:01,mexc,VELVET/USDT,1.5215,7.6,5.27,25.4,,1.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-02,2026-07-02 00:01,mexc,M/USDT,1.2834,6.94,2.96,8.5,,,
 2026-07-02,2026-07-02 00:01,mexc,SYN/USDT,0.52404,12.55,2.47,25.1,,,
-2026-07-02,2026-07-02 01:10,gate,H/USDT,0.07617,7.84,2.01,6.1,Hack,0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
+2026-07-02,2026-07-02 01:15,gate,H/USDT,0.07474,5.82,2.02,6.1,Hack,0.0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
