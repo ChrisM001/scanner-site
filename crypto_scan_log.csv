@@ -536,7 +536,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-01,2026-07-01 17:56,gate,DYDX/USDT,0.18693,3.9,3.1,22.3,,,
 2026-07-01,2026-07-01 03:55,gate,H/USDT,0.08748,3.44,3.09,10.8,,,
 2026-07-02,2026-07-02 07:40,gate,UB/USDT,0.09051,3.07,979.47,4.7,,,
-2026-07-02,2026-07-02 08:01,gate,BIRB/USDT,0.08259,50.85,402.07,7.0,,,
+2026-07-02,2026-07-02 08:20,gate,BIRB/USDT,0.08484,54.96,415.66,7.2,,,
 2026-07-02,2026-07-02 04:15,gate,BAS/USDT,0.039197,4.73,360.02,6.6,,,
 2026-07-02,2026-07-02 00:01,mexc,NOM/USDT,0.001959,21.3,134.07,5.8,,,
 2026-07-02,2026-07-02 00:01,mexc,BASED/USDT,0.13111,13.07,83.7,19.3,,,
@@ -551,9 +551,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-02,2026-07-02 00:01,mexc,SLX/USDT,0.4824,13.85,13.63,6.6,,,
 2026-07-02,2026-07-02 07:45,gate,SLX/USDT,0.50161,3.65,12.45,11.2,,,
 2026-07-02,2026-07-02 00:01,mexc,TAIKO/USDT,0.4561,261.98,11.94,58.6,Hack,9.0,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
-2026-07-02,2026-07-02 08:01,gate,ENA/USDT,0.07654,7.41,7.34,7.3,Unlock,2,"NewsBTC: ENA, SUI And EIGEN Lead This Weeks $73 Million Token Unlock Schedule"
+2026-07-02,2026-07-02 08:20,gate,ENA/USDT,0.07638,7.18,7.41,7.4,Unlock,2,"NewsBTC: ENA, SUI And EIGEN Lead This Weeks $73 Million Token Unlock Schedule"
 2026-07-02,2026-07-02 00:01,mexc,VELVET/USDT,1.5215,7.6,5.27,25.4,,1.0,Invezz: Is the VELVET price rally over after its 300% surge?
-2026-07-02,2026-07-02 08:01,gate,LIT/USDT,2.147,3.77,3.95,9.3,,182,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
+2026-07-02,2026-07-02 08:20,gate,LIT/USDT,2.164,4.59,3.96,9.4,,182,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-07-02,2026-07-02 00:01,mexc,M/USDT,1.2834,6.94,2.96,8.5,,,
 2026-07-02,2026-07-02 00:01,mexc,SYN/USDT,0.52404,12.55,2.47,25.1,,,
 2026-07-02,2026-07-02 02:55,gate,H/USDT,0.07293,3.26,2.04,6.2,Hack,0.0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
