@@ -535,7 +535,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-01,2026-07-01 04:55,gate,RE/USDT,0.66491,3.13,3.13,3.7,Listing,1.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-01,2026-07-01 17:56,gate,DYDX/USDT,0.18693,3.9,3.1,22.3,,,
 2026-07-01,2026-07-01 03:55,gate,H/USDT,0.08748,3.44,3.09,10.8,,,
-2026-07-02,2026-07-02 00:35,gate,BAS/USDT,0.039173,4.67,342.67,6.3,,,
+2026-07-02,2026-07-02 00:45,gate,BAS/USDT,0.040256,7.56,344.45,6.3,,,
 2026-07-02,2026-07-02 00:01,mexc,NOM/USDT,0.001959,21.3,134.07,5.8,,,
 2026-07-02,2026-07-02 00:01,mexc,BASED/USDT,0.13111,13.07,83.7,19.3,,,
 2026-07-02,2026-07-02 00:20,gate,LAB/USDT,9.13497,3.12,61.52,37.0,,,
@@ -549,4 +549,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-02,2026-07-02 00:01,mexc,VELVET/USDT,1.5215,7.6,5.27,25.4,,1.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-02,2026-07-02 00:01,mexc,M/USDT,1.2834,6.94,2.96,8.5,,,
 2026-07-02,2026-07-02 00:01,mexc,SYN/USDT,0.52404,12.55,2.47,25.1,,,
-2026-07-02,2026-07-02 00:35,gate,H/USDT,0.07404,4.83,2.11,6.4,Hack,0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
+2026-07-02,2026-07-02 00:45,gate,H/USDT,0.07378,4.46,2.12,6.4,Hack,0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
