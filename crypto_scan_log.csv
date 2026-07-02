@@ -540,12 +540,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-02,2026-07-02 00:01,mexc,BASED/USDT,0.13111,13.07,83.7,19.3,,,
 2026-07-02,2026-07-02 00:20,gate,LAB/USDT,9.13497,3.12,61.52,37.0,,,
 2026-07-02,2026-07-02 00:01,mexc,AIGENSYN/USDT,0.03545,3.53,49.19,6.2,Listing,1.0,CoinMarketCal: Gensyn (AI) - Upbit Listing - 30 June 2026
+2026-07-02,2026-07-02 00:25,gate,TAC/USDT,0.041205,4.33,46.73,11.0,,,
 2026-07-02,2026-07-02 00:01,mexc,TLM/USDT,0.00151,67.22,17.47,6.4,,66.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
 2026-07-02,2026-07-02 00:05,gate,NFP/USDT,0.02463,3.79,17.05,54.4,,,
 2026-07-02,2026-07-02 00:01,mexc,SLX/USDT,0.4824,13.85,13.63,6.6,,,
 2026-07-02,2026-07-02 00:01,mexc,TAIKO/USDT,0.4561,261.98,11.94,58.6,Hack,9.0,Invezz: TAIKO hits all-time low as Taiko bridge exploit drains $1.7M
-2026-07-02,2026-07-02 00:20,gate,SLX/USDT,0.50129,3.58,9.95,9.0,,,
+2026-07-02,2026-07-02 00:25,gate,SLX/USDT,0.51587,6.6,10.05,9.0,,,
 2026-07-02,2026-07-02 00:01,mexc,VELVET/USDT,1.5215,7.6,5.27,25.4,,1.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-02,2026-07-02 00:01,mexc,M/USDT,1.2834,6.94,2.96,8.5,,,
 2026-07-02,2026-07-02 00:01,mexc,SYN/USDT,0.52404,12.55,2.47,25.1,,,
-2026-07-02,2026-07-02 00:20,gate,H/USDT,0.07313,3.54,2.1,6.4,Hack,0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
+2026-07-02,2026-07-02 00:25,gate,H/USDT,0.0738,4.49,2.1,6.4,Hack,0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
