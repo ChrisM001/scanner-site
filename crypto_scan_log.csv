@@ -568,7 +568,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-02,2026-07-02 02:55,gate,H/USDT,0.07293,3.26,2.04,6.2,Hack,0.0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
 2026-07-03,2026-07-03 00:20,gate,BIRB/USDT,0.09412,3.82,227.71,16.9,,,
 2026-07-03,2026-07-03 00:15,gate,BREV/USDT,0.0937,4.58,225.3,6.6,,121.0,CoinMarketCal: Brevis & Railgun - Privacy Talk - 04 March 2026
-2026-07-03,2026-07-03 02:55,gate,GUA/USDT,0.06917,7.06,53.68,5.9,,,
+2026-07-03,2026-07-03 03:01,gate,GUA/USDT,0.0686,6.18,52.74,5.8,,,
 2026-07-03,2026-07-03 00:01,mexc,BASED/USDT,0.10125,9.21,50.56,14.1,,,
 2026-07-03,2026-07-03 00:01,mexc,GUA/USDT,0.065,8.69,44.43,9.2,,,
 2026-07-03,2026-07-03 00:55,gate,BASED/USDT,0.10465,3.26,37.04,7.8,,,
@@ -580,7 +580,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-03,2026-07-03 00:01,mexc,FARTCOIN/USDT,0.16058,6.1,12.26,15.3,,84.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-07-03,2026-07-03 00:01,mexc,TAIKO/USDT,0.1312,7.18,10.4,65.4,Hack,0.0,"Cointelegraph: Taiko reopens bridge after $1.7M exploit, says users made whole"
 2026-07-03,2026-07-03 02:20,gate,TAIKO/USDT,0.1373,3.16,9.33,71.3,Hack,0.0,"Cointelegraph: Taiko reopens bridge after $1.7M exploit, says users made whole"
-2026-07-03,2026-07-03 02:55,gate,ADA/USDT,0.1671,3.53,8.31,29.5,,0,NewsBTC: Cardano Price Stuck in Consolidation as Devs Push Back on Ghost Chain Accusations
+2026-07-03,2026-07-03 03:01,gate,ADA/USDT,0.1677,3.9,8.1,28.7,,0,NewsBTC: Cardano Price Stuck in Consolidation as Devs Push Back on Ghost Chain Accusations
 2026-07-03,2026-07-03 00:01,mexc,RAVE/USDT,0.2838,3.99,6.76,3.3,,,
 2026-07-03,2026-07-03 01:31,gate,SKYAI/USDT,0.08214,3.42,6.65,6.9,,,
 2026-07-03,2026-07-03 00:01,mexc,LAB/USDT,10.94,14.95,3.8,15.0,,,
