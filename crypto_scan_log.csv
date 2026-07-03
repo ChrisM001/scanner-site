@@ -566,21 +566,21 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-02,2026-07-02 00:01,mexc,SYN/USDT,0.52404,12.55,2.47,25.1,,,
 2026-07-02,2026-07-02 23:41,gate,GRAM/USDT,1.6672,6.99,2.44,4.2,,,
 2026-07-02,2026-07-02 02:55,gate,H/USDT,0.07293,3.26,2.04,6.2,Hack,0.0,The Block: Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield
-2026-07-03,2026-07-03 07:55,gate,US/USDT,0.018072,4.37,303.95,4.0,,,
+2026-07-03,2026-07-03 08:01,gate,US/USDT,0.018019,4.07,289.3,3.8,,,
 2026-07-03,2026-07-03 00:20,gate,BIRB/USDT,0.09412,3.82,227.71,16.9,,,
 2026-07-03,2026-07-03 00:15,gate,BREV/USDT,0.0937,4.58,225.3,6.6,,121.0,CoinMarketCal: Brevis & Railgun - Privacy Talk - 04 March 2026
-2026-07-03,2026-07-03 07:55,gate,BAS/USDT,0.032459,6.99,193.38,3.8,,,
+2026-07-03,2026-07-03 08:01,gate,BAS/USDT,0.033089,9.07,182.04,3.6,,,
 2026-07-03,2026-07-03 05:41,gate,VELVET/USDT,0.48465,3.09,134.4,17.8,,2.0,Invezz: Is the VELVET price rally over after its 300% surge?
-2026-07-03,2026-07-03 07:55,gate,M/USDT,1.7133,6.82,57.24,16.0,,,
+2026-07-03,2026-07-03 08:01,gate,M/USDT,1.725,7.55,56.26,15.7,,,
 2026-07-03,2026-07-03 00:01,mexc,BASED/USDT,0.10125,9.21,50.56,14.1,,,
-2026-07-03,2026-07-03 07:55,gate,GUA/USDT,0.07135,10.43,48.6,5.4,,,
+2026-07-03,2026-07-03 08:01,gate,GUA/USDT,0.0719,11.28,44.87,4.9,,,
 2026-07-03,2026-07-03 00:01,mexc,GUA/USDT,0.065,8.69,44.43,9.2,,,
 2026-07-03,2026-07-03 00:55,gate,BASED/USDT,0.10465,3.26,37.04,7.8,,,
 2026-07-03,2026-07-03 00:01,mexc,MAGMA/USDT,0.5334,16.69,31.85,5.0,,,
-2026-07-03,2026-07-03 07:55,gate,TLM/USDT,0.001782,10.75,29.59,16.4,,67,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
+2026-07-03,2026-07-03 08:01,gate,TLM/USDT,0.001792,11.37,29.33,16.3,,67,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
 2026-07-03,2026-07-03 00:01,mexc,RIF/USDT,0.09901,6.07,27.11,5.5,,27.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
 2026-07-03,2026-07-03 07:51,gate,MAGMA/USDT,0.54825,3.07,24.7,3.9,,,
-2026-07-03,2026-07-03 07:55,gate,TAC/USDT,0.036007,3.76,17.62,4.4,,,
+2026-07-03,2026-07-03 08:01,gate,TAC/USDT,0.035837,3.27,16.92,4.3,,,
 2026-07-03,2026-07-03 00:01,mexc,PIPPIN/USDT,0.02082,14.08,14.05,5.8,,114.0,Coinpedia: Pippin Price Rally Today: Is the 14% Surge a Bull Trap?
 2026-07-03,2026-07-03 00:01,mexc,FARTCOIN/USDT,0.16058,6.1,12.26,15.3,,84.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-07-03,2026-07-03 00:01,mexc,TAIKO/USDT,0.1312,7.18,10.4,65.4,Hack,0.0,"Cointelegraph: Taiko reopens bridge after $1.7M exploit, says users made whole"
