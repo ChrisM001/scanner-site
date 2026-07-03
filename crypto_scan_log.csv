@@ -569,16 +569,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-03,2026-07-03 05:05,gate,US/USDT,0.018071,4.37,242.79,3.2,,,
 2026-07-03,2026-07-03 00:20,gate,BIRB/USDT,0.09412,3.82,227.71,16.9,,,
 2026-07-03,2026-07-03 00:15,gate,BREV/USDT,0.0937,4.58,225.3,6.6,,121.0,CoinMarketCal: Brevis & Railgun - Privacy Talk - 04 March 2026
-2026-07-03,2026-07-03 05:41,gate,VELVET/USDT,0.48465,3.09,134.4,17.8,,2,Invezz: Is the VELVET price rally over after its 300% surge?
-2026-07-03,2026-07-03 05:41,gate,M/USDT,1.7057,6.35,53.92,15.1,,,
+2026-07-03,2026-07-03 05:41,gate,VELVET/USDT,0.48465,3.09,134.4,17.8,,2.0,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-03,2026-07-03 05:45,gate,M/USDT,1.6874,5.21,54.11,15.1,,,
+2026-07-03,2026-07-03 05:45,gate,GUA/USDT,0.07224,11.81,50.61,5.6,,,
 2026-07-03,2026-07-03 00:01,mexc,BASED/USDT,0.10125,9.21,50.56,14.1,,,
-2026-07-03,2026-07-03 05:41,gate,GUA/USDT,0.0732,13.3,50.52,5.6,,,
 2026-07-03,2026-07-03 00:01,mexc,GUA/USDT,0.065,8.69,44.43,9.2,,,
 2026-07-03,2026-07-03 00:55,gate,BASED/USDT,0.10465,3.26,37.04,7.8,,,
 2026-07-03,2026-07-03 00:01,mexc,MAGMA/USDT,0.5334,16.69,31.85,5.0,,,
 2026-07-03,2026-07-03 00:01,mexc,RIF/USDT,0.09901,6.07,27.11,5.5,,27.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
-2026-07-03,2026-07-03 05:41,gate,TLM/USDT,0.001822,13.24,25.42,14.1,,67,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
-2026-07-03,2026-07-03 05:41,gate,MAGMA/USDT,0.57703,8.48,22.86,3.6,,,
+2026-07-03,2026-07-03 05:45,gate,TLM/USDT,0.001919,19.27,25.83,14.3,,67,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
+2026-07-03,2026-07-03 05:45,gate,MAGMA/USDT,0.58406,9.8,22.97,3.6,,,
 2026-07-03,2026-07-03 02:45,gate,TAC/USDT,0.035744,3.0,20.84,5.2,,,
 2026-07-03,2026-07-03 00:01,mexc,PIPPIN/USDT,0.02082,14.08,14.05,5.8,,114.0,Coinpedia: Pippin Price Rally Today: Is the 14% Surge a Bull Trap?
 2026-07-03,2026-07-03 00:01,mexc,FARTCOIN/USDT,0.16058,6.1,12.26,15.3,,84.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
