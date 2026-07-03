@@ -131,11 +131,11 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-07-02,2026-07-02 08:01,NASDAQ:ALZN,1.28,10.0,6.9,3.19,1.16,1.0,EARNINGS,TradingView: ALZN Q4'25 Earnings: EPS estimate is (0.67) USD,premarket
 2026-07-02,2026-07-02 13:20,NASDAQ:BTOG,1.19,10.4,4.2,1.58,0.72,2.0,,GuruFocus: This Little-Known Company Sinks After Securing $11 Million in Nvidia Blackwell AI Servers,premarket
 2026-07-02,2026-07-02 13:20,NASDAQ:EHGO,2.45,82.31,2.3,1.4,0.62,1.0,OFFERING,"GlobeNewswire: EShallGo Inc. Announces Pricing of $750,000 Registered Direct Offering",premarket
-2026-07-03,2026-07-03 10:20,NASDAQ:CWD,1.46,126.25,6232.1,8.28,170.33,0.0,,Stocktwits: CWD Stock Jumps Over 110%  Caliber Expands Chainlink-Powered Tokenization Push,premarket
-2026-07-03,2026-07-03 10:20,NASDAQ:CLRO,3.59,11.8,2389.8,0.74,7.62,0.0,,Stocktwits: Why Did CLRO Stock Surge More Than 170% Today?,premarket
-2026-07-03,2026-07-03 10:20,NASDAQ:PPCB,2.02,40.26,376.2,2.04,10.13,21.0,,Stocktwits: PPCB Stock Surges Over 200% Just Days After Implementing Reverse Share Split  Whats Driving Todays Smashing Rally?,premarket
-2026-07-03,2026-07-03 10:20,NASDAQ:CETX,3.395,21.07,324.8,1.11,13.43,0.0,,Stocktwits: Why Is CETX Stock Rising Today?,premarket
-2026-07-03,2026-07-03 10:20,NASDAQ:DSY,4.18,45.49,48.9,1.25,8.38,0.0,,"dpa-AFX: Morning Market Movers: USDE, DSY, LHAI, ELTX See Big Swings",premarket
-2026-07-03,2026-07-03 10:20,NASDAQ:WHLR,1.15,17.22,37.7,0.55,21.31,10.0,,TradingView: Wheeler Real Estate Investment Trust to market 35-property retail portfolio with CBRE,premarket
-2026-07-03,2026-07-03 10:20,NASDAQ:USDE,3.88,86.54,35.0,5.54,15.24,0.0,DEAL,Reuters: Stablecoinx Launches Stablecoinx Harness Infrastructure Software Platform,premarket
-2026-07-03,2026-07-03 10:20,AMEX:SDEV,1.31,26.92,22.8,1.62,9.94,15.0,OFFERING,TradingView: Stablecoin Development Amends 2025 Pre-Funded Warrants; Holders Exercise for 22.6M Shares,premarket
+2026-07-03,2026-07-03 10:40,NASDAQ:CWD,1.46,126.25,6232.1,8.28,170.33,0.0,,Stocktwits: CWD Stock Jumps Over 110%  Caliber Expands Chainlink-Powered Tokenization Push,premarket
+2026-07-03,2026-07-03 10:40,NASDAQ:CLRO,3.59,11.8,2389.8,0.74,7.62,0.0,,Stocktwits: Why Did CLRO Stock Surge More Than 170% Today?,premarket
+2026-07-03,2026-07-03 10:40,NASDAQ:PPCB,2.02,40.26,376.2,2.04,10.13,21.0,,Stocktwits: PPCB Stock Surges Over 200% Just Days After Implementing Reverse Share Split  Whats Driving Todays Smashing Rally?,premarket
+2026-07-03,2026-07-03 10:40,NASDAQ:CETX,3.395,21.07,324.8,1.11,13.43,0.0,,Stocktwits: Why Is CETX Stock Rising Today?,premarket
+2026-07-03,2026-07-03 10:40,NASDAQ:DSY,4.18,45.49,48.9,1.25,8.38,0.0,,"dpa-AFX: Morning Market Movers: USDE, DSY, LHAI, ELTX See Big Swings",premarket
+2026-07-03,2026-07-03 10:40,NASDAQ:WHLR,1.15,17.22,37.7,0.55,21.31,10.0,,TradingView: Wheeler Real Estate Investment Trust to market 35-property retail portfolio with CBRE,premarket
+2026-07-03,2026-07-03 10:40,NASDAQ:USDE,3.88,86.54,35.0,5.54,15.24,0.0,DEAL,Reuters: Stablecoinx Launches Stablecoinx Harness Infrastructure Software Platform,premarket
+2026-07-03,2026-07-03 10:40,AMEX:SDEV,1.31,26.92,22.8,1.62,9.94,15.0,OFFERING,TradingView: Stablecoin Development Amends 2025 Pre-Funded Warrants; Holders Exercise for 22.6M Shares,premarket
