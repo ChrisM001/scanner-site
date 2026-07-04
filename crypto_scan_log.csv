@@ -607,10 +607,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-04,2026-07-04 00:05,mexc,FLOKI/USDT,2.4e-05,5.09,136168.97,3.4,,0.0,Coindar: FLOKI to Hold AMA on Telegram on July 6th
 2026-07-04,2026-07-04 00:05,mexc,1000BONK/USDT,0.004959,10.0,9684.57,11.1,,,
 2026-07-04,2026-07-04 00:05,mexc,BAS/USDT,0.035527,22.12,229.73,4.1,,,
+2026-07-04,2026-07-04 00:35,gate,BAS/USDT,0.037363,5.54,198.66,4.2,,,
 2026-07-04,2026-07-04 00:25,gate,LAB/USDT,6.22349,4.41,153.4,65.0,,,
 2026-07-04,2026-07-04 00:05,mexc,MAGMA/USDT,0.7969,42.2,68.99,13.6,,,
 2026-07-04,2026-07-04 00:01,mexc,NOM/USDT,0.002214,5.78,62.53,4.0,,,
-2026-07-04,2026-07-04 00:31,gate,VELVET/USDT,0.49647,8.88,35.73,4.8,,3.0,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-04,2026-07-04 00:35,gate,VELVET/USDT,0.50186,10.07,35.93,4.8,,3,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-04,2026-07-04 00:05,mexc,BASED/USDT,0.09542,11.86,22.23,6.7,,,
 2026-07-04,2026-07-04 00:05,mexc,ANSEM/USDT,0.3206,64.83,20.45,3.2,,,
 2026-07-04,2026-07-04 00:31,gate,TLM/USDT,0.00259,4.02,14.23,18.5,,68.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
