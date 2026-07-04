@@ -607,8 +607,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-04,2026-07-04 00:05,mexc,FLOKI/USDT,2.4e-05,5.09,136168.97,3.4,,0.0,Coindar: FLOKI to Hold AMA on Telegram on July 6th
 2026-07-04,2026-07-04 00:05,mexc,1000BONK/USDT,0.004959,10.0,9684.57,11.1,,,
 2026-07-04,2026-07-04 00:05,mexc,BAS/USDT,0.035527,22.12,229.73,4.1,,,
-2026-07-04,2026-07-04 00:55,gate,BAS/USDT,0.036819,4.0,204.19,4.3,,,
-2026-07-04,2026-07-04 01:15,gate,HMSTR/USDT,0.000273,6.09,180.36,5.2,,21.0,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
+2026-07-04,2026-07-04 01:21,gate,BAS/USDT,0.037024,4.58,194.16,4.1,,,
+2026-07-04,2026-07-04 01:21,gate,HMSTR/USDT,0.000276,7.34,181.92,5.3,,21,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
 2026-07-04,2026-07-04 00:25,gate,LAB/USDT,6.22349,4.41,153.4,65.0,,,
 2026-07-04,2026-07-04 00:05,mexc,MAGMA/USDT,0.7969,42.2,68.99,13.6,,,
 2026-07-04,2026-07-04 00:01,mexc,NOM/USDT,0.002214,5.78,62.53,4.0,,,
