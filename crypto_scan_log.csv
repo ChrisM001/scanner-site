@@ -606,10 +606,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-04,2026-07-04 00:05,mexc,NEX/USDT,3e-06,8.23,1119374.65,3.7,,,
 2026-07-04,2026-07-04 00:05,mexc,FLOKI/USDT,2.4e-05,5.09,136168.97,3.4,,0.0,Coindar: FLOKI to Hold AMA on Telegram on July 6th
 2026-07-04,2026-07-04 00:05,mexc,1000BONK/USDT,0.004959,10.0,9684.57,11.1,,,
-2026-07-04,2026-07-04 03:45,gate,HMSTR/USDT,0.000298,15.68,296.77,8.6,,21,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
+2026-07-04,2026-07-04 03:50,gate,HMSTR/USDT,0.000296,14.75,299.94,8.7,,21,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
 2026-07-04,2026-07-04 00:05,mexc,BAS/USDT,0.035527,22.12,229.73,4.1,,,
-2026-07-04,2026-07-04 03:45,gate,BAS/USDT,0.038622,9.1,203.7,4.3,,,
-2026-07-04,2026-07-04 03:45,gate,LAB/USDT,7.36684,23.59,166.82,70.7,,,
+2026-07-04,2026-07-04 03:50,gate,BAS/USDT,0.038417,8.52,205.18,4.3,,,
+2026-07-04,2026-07-04 03:50,gate,LAB/USDT,7.18611,20.56,167.87,71.2,,,
 2026-07-04,2026-07-04 00:05,mexc,MAGMA/USDT,0.7969,42.2,68.99,13.6,,,
 2026-07-04,2026-07-04 00:01,mexc,NOM/USDT,0.002214,5.78,62.53,4.0,,,
 2026-07-04,2026-07-04 03:25,gate,VELVET/USDT,0.47567,4.32,35.0,4.7,,3.0,Invezz: Is the VELVET price rally over after its 300% surge?
@@ -618,4 +618,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-04,2026-07-04 00:31,gate,TLM/USDT,0.00259,4.02,14.23,18.5,,68.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
 2026-07-04,2026-07-04 00:05,mexc,TLM/USDT,0.002497,48.45,13.03,36.1,,,
 2026-07-04,2026-07-04 00:05,mexc,VELVET/USDT,0.4569,12.45,4.94,25.0,,,
-2026-07-04,2026-07-04 03:45,gate,BEAT/USDT,2.7414,3.18,2.24,9.2,,25,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-04,2026-07-04 03:45,gate,BEAT/USDT,2.7414,3.18,2.24,9.2,,25.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
