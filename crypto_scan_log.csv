@@ -652,13 +652,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-05,2026-07-05 23:55,gate,LIT/USDT,2.473,12.36,2.26,4.8,,,
 2026-07-06,2026-07-06 01:51,gate,UB/USDT,0.10776,3.6,690.98,3.1,,,
 2026-07-06,2026-07-06 00:11,gate,VANRY/USDT,0.005739,3.46,204.41,24.6,,335.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
-2026-07-06,2026-07-06 00:25,mexc,VANRY/USDT,0.005525,3.3,111.48,5.1,,335.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-06,2026-07-06 01:55,mexc,VANRY/USDT,0.005672,6.05,115.76,5.3,,335.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-06,2026-07-06 00:01,mexc,LAB/USDT,16.559,3.09,20.18,74.7,,,
 2026-07-06,2026-07-06 00:25,mexc,SKYAI/USDT,0.05622,3.0,10.06,9.3,,,
-2026-07-06,2026-07-06 00:25,mexc,TLM/USDT,0.003225,5.46,7.23,41.8,,70.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
+2026-07-06,2026-07-06 01:55,mexc,TLM/USDT,0.003383,10.62,7.6,43.9,,70.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
 2026-07-06,2026-07-06 01:11,gate,MIRA/USDT,0.05345,3.77,6.99,3.2,Listing,282.0,CoinMarketCal: Mira (MIRA) - Gate Listing - 26 Sep 2025
 2026-07-06,2026-07-06 01:01,gate,SKYAI/USDT,0.05877,3.67,6.86,6.7,,,
-2026-07-06,2026-07-06 01:51,gate,TLM/USDT,0.003425,3.44,6.67,16.4,,70,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
+2026-07-06,2026-07-06 01:51,gate,TLM/USDT,0.003425,3.44,6.67,16.4,,70.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
 2026-07-06,2026-07-06 00:25,mexc,VELVET/USDT,0.5221,7.03,3.25,17.0,,5.0,Invezz: Is the VELVET price rally over after its 300% surge?
-2026-07-06,2026-07-06 01:51,gate,LIT/USDT,2.576,4.72,2.54,5.7,,186,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
-2026-07-06,2026-07-06 01:51,gate,EPIC/USDT,0.4009,6.31,2.35,8.5,Listing,319,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
+2026-07-06,2026-07-06 01:51,gate,LIT/USDT,2.576,4.72,2.54,5.7,,186.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
+2026-07-06,2026-07-06 01:51,gate,EPIC/USDT,0.4009,6.31,2.35,8.5,Listing,319.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
