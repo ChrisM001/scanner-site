@@ -651,8 +651,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-05,2026-07-05 23:15,gate,ENA/USDT,0.08128,3.16,6.06,5.2,,,
 2026-07-05,2026-07-05 23:55,gate,LIT/USDT,2.473,12.36,2.26,4.8,,,
 2026-07-06,2026-07-06 00:11,gate,VANRY/USDT,0.005739,3.46,204.41,24.6,,335.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
-2026-07-06,2026-07-06 00:25,mexc,VANRY/USDT,0.005525,3.3,111.48,5.1,,335,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-06,2026-07-06 00:25,mexc,VANRY/USDT,0.005525,3.3,111.48,5.1,,335.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-06,2026-07-06 00:01,mexc,LAB/USDT,16.559,3.09,20.18,74.7,,,
 2026-07-06,2026-07-06 00:25,mexc,SKYAI/USDT,0.05622,3.0,10.06,9.3,,,
-2026-07-06,2026-07-06 00:25,mexc,TLM/USDT,0.003225,5.46,7.23,41.8,,70,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
-2026-07-06,2026-07-06 00:25,mexc,VELVET/USDT,0.5221,7.03,3.25,17.0,,5,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-06,2026-07-06 00:25,mexc,TLM/USDT,0.003225,5.46,7.23,41.8,,70.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
+2026-07-06,2026-07-06 01:01,gate,SKYAI/USDT,0.05877,3.67,6.86,6.7,,,
+2026-07-06,2026-07-06 01:01,gate,TLM/USDT,0.003456,4.38,6.43,15.9,,70,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
+2026-07-06,2026-07-06 00:25,mexc,VELVET/USDT,0.5221,7.03,3.25,17.0,,5.0,Invezz: Is the VELVET price rally over after its 300% surge?
