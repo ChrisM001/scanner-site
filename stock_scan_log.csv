@@ -139,11 +139,11 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-07-03,2026-07-03 11:51,NASDAQ:WHLR,1.15,17.22,37.7,0.55,21.31,,,(News-Abruf gedrosselt),premarket
 2026-07-03,2026-07-03 11:51,NASDAQ:USDE,3.88,86.54,35.0,5.54,15.24,0.0,DEAL,Reuters: Stablecoinx Launches Stablecoinx Harness Infrastructure Software Platform,premarket
 2026-07-03,2026-07-03 11:51,AMEX:SDEV,1.31,26.92,22.8,1.62,9.94,,,(News-Abruf gedrosselt),premarket
-2026-07-06,2026-07-06 11:25,NASDAQ:CWD,0.922,126.25,6232.1,8.28,0.81,3.0,,Stocktwits: CWD Stock Jumps Over 110%  Caliber Expands Chainlink-Powered Tokenization Push,premarket
-2026-07-06,2026-07-06 11:25,NASDAQ:CLRO,7.201,11.8,2389.8,0.74,0.56,3.0,,Stocktwits: Why Did CLRO Stock Surge More Than 170% Today?,premarket
+2026-07-06,2026-07-06 11:31,NASDAQ:CWD,0.92,126.25,6232.1,8.28,0.84,3.0,,Stocktwits: CWD Stock Jumps Over 110%  Caliber Expands Chainlink-Powered Tokenization Push,premarket
+2026-07-06,2026-07-06 11:31,NASDAQ:CLRO,7.107,11.8,2389.8,0.74,0.57,0.0,M&A,TradingView: Weekly Recap: $1M loan facility and reverse merger to form Cortigent,premarket
 2026-07-06,2026-07-06 08:01,NASDAQ:PPCB,2.02,40.26,376.2,2.04,10.13,24.0,,Stocktwits: PPCB Stock Surges Over 200% Just Days After Implementing Reverse Share Split  Whats Driving Todays Smashing Rally?,premarket
 2026-07-06,2026-07-06 08:01,NASDAQ:CETX,3.395,21.07,324.8,1.11,13.43,3.0,,Stocktwits: Why Is CETX Stock Rising Today?,premarket
 2026-07-06,2026-07-06 08:01,NASDAQ:DSY,4.18,45.49,48.9,1.25,8.38,3.0,,"dpa-AFX: Morning Market Movers: USDE, DSY, LHAI, ELTX See Big Swings",premarket
-2026-07-06,2026-07-06 11:25,NASDAQ:WHLR,0.92,17.22,37.7,0.55,0.16,13.0,,TradingView: Wheeler Real Estate Investment Trust to market 35-property retail portfolio with CBRE,premarket
-2026-07-06,2026-07-06 11:25,NASDAQ:USDE,2.53,86.54,35.0,5.38,0.3,3.0,DEAL,Reuters: Stablecoinx Launches Stablecoinx Harness Infrastructure Software Platform,premarket
-2026-07-06,2026-07-06 11:25,AMEX:SDEV,1.27,26.92,22.8,1.62,0.1,18.0,OFFERING,TradingView: Stablecoin Development Amends 2025 Pre-Funded Warrants; Holders Exercise for 22.6M Shares,premarket
+2026-07-06,2026-07-06 11:31,NASDAQ:WHLR,0.94,17.22,37.7,0.55,0.18,13.0,,TradingView: Wheeler Real Estate Investment Trust to market 35-property retail portfolio with CBRE,premarket
+2026-07-06,2026-07-06 11:31,NASDAQ:USDE,2.5,86.54,35.0,5.38,0.31,3.0,DEAL,Reuters: Stablecoinx Launches Stablecoinx Harness Infrastructure Software Platform,premarket
+2026-07-06,2026-07-06 11:31,AMEX:SDEV,1.26,26.92,22.8,1.62,0.11,18.0,OFFERING,TradingView: Stablecoin Development Amends 2025 Pre-Funded Warrants; Holders Exercise for 22.6M Shares,premarket
