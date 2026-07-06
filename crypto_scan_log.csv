@@ -650,8 +650,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-05,2026-07-05 01:11,mexc,VELVET/USDT,0.5417,4.03,6.14,31.8,,4.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-05,2026-07-05 23:15,gate,ENA/USDT,0.08128,3.16,6.06,5.2,,,
 2026-07-05,2026-07-05 23:55,gate,LIT/USDT,2.473,12.36,2.26,4.8,,,
-2026-07-06,2026-07-06 02:41,gate,UB/USDT,0.10862,4.42,714.29,3.2,,,
-2026-07-06,2026-07-06 02:41,gate,HMSTR/USDT,0.00032,3.06,331.06,16.5,,23,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
+2026-07-06,2026-07-06 02:55,gate,UB/USDT,0.10878,4.58,723.47,3.2,,,
+2026-07-06,2026-07-06 02:41,gate,HMSTR/USDT,0.00032,3.06,331.06,16.5,,23.0,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
 2026-07-06,2026-07-06 02:01,gate,VANRY/USDT,0.005783,4.25,213.81,25.7,,335.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-06,2026-07-06 02:11,mexc,VANRY/USDT,0.005638,5.42,115.54,5.3,,335.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-06,2026-07-06 00:01,mexc,LAB/USDT,16.559,3.09,20.18,74.7,,,
@@ -661,5 +661,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-06,2026-07-06 01:01,gate,SKYAI/USDT,0.05877,3.67,6.86,6.7,,,
 2026-07-06,2026-07-06 01:51,gate,TLM/USDT,0.003425,3.44,6.67,16.4,,70.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
 2026-07-06,2026-07-06 00:25,mexc,VELVET/USDT,0.5221,7.03,3.25,17.0,,5.0,Invezz: Is the VELVET price rally over after its 300% surge?
-2026-07-06,2026-07-06 02:41,gate,LIT/USDT,2.574,4.63,2.62,5.8,,186,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
+2026-07-06,2026-07-06 02:55,gate,LIT/USDT,2.611,6.14,2.67,5.9,,186,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-07-06,2026-07-06 01:51,gate,EPIC/USDT,0.4009,6.31,2.35,8.5,Listing,319.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
