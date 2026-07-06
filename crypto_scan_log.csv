@@ -661,5 +661,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-06,2026-07-06 01:01,gate,SKYAI/USDT,0.05877,3.67,6.86,6.7,,,
 2026-07-06,2026-07-06 01:51,gate,TLM/USDT,0.003425,3.44,6.67,16.4,,70.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
 2026-07-06,2026-07-06 00:25,mexc,VELVET/USDT,0.5221,7.03,3.25,17.0,,5.0,Invezz: Is the VELVET price rally over after its 300% surge?
-2026-07-06,2026-07-06 03:05,gate,LIT/USDT,2.659,8.09,2.75,6.1,,186,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
-2026-07-06,2026-07-06 03:05,gate,EPIC/USDT,0.3929,4.19,2.38,8.6,Listing,319,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
+2026-07-06,2026-07-06 03:21,gate,LIT/USDT,2.657,8.01,2.84,6.3,,186.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
+2026-07-06,2026-07-06 03:21,gate,EPIC/USDT,0.4082,8.25,2.43,8.8,Listing,319.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
