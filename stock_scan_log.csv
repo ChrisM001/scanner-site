@@ -147,13 +147,13 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-07-06,2026-07-06 12:41,NASDAQ:WHLR,0.92,17.22,37.7,0.55,0.29,13.0,,TradingView: Wheeler Real Estate Investment Trust to market 35-property retail portfolio with CBRE,premarket
 2026-07-06,2026-07-06 12:41,NASDAQ:USDE,2.571,86.54,35.0,5.38,0.46,4.0,DEAL,Reuters: Stablecoinx Launches Stablecoinx Harness Infrastructure Software Platform,premarket
 2026-07-06,2026-07-06 12:41,AMEX:SDEV,1.26,26.92,22.8,1.62,0.15,18.0,OFFERING,TradingView: Stablecoin Development Amends 2025 Pre-Funded Warrants; Holders Exercise for 22.6M Shares,premarket
-2026-07-07,2026-07-07 12:05,NASDAQ:LUCY,1.14,38.16,3046.4,5.76,0.7,0.0,,London Stock Exchange: REG - Tekcapital plc - Portfolio Company Update - Innovative Eyewear Inc,premarket
-2026-07-07,2026-07-07 12:05,NASDAQ:SPHL,3.02,35.16,146.3,1.24,2.8,158.0,,"GlobeNewswire: Springview Holdings Ltd Identifies Corner Terrace Residence in Singapore as Pilot Project with Potential to Deliver Up to ~S$2,000 in Monthly Electricity Savings",premarket
-2026-07-07,2026-07-07 12:05,NASDAQ:KIDZ,0.843,72.82,109.3,1.11,0.8,1.0,,TradingView: KIDZ AI wins 2026 EdTechX Award and unveils KIDZBot AI robotics platform,premarket
-2026-07-07,2026-07-07 12:05,NASDAQ:JLHL,3.98,24.97,50.1,1.28,0.15,21.0,,GlobeNewswire: Julong Holding Limited Announces Changes to Its Board of Directors and Board Committees,premarket
-2026-07-07,2026-07-07 12:05,NASDAQ:LHSW,4.354,277.78,49.8,0.15,0.37,13.0,DEAL,GlobeNewswire: Lianhe Sowell International Group Ltd. Secures AI-Powered Automotive Painting Robots Sales Orders in West and Southern Africa,premarket
+2026-07-07,2026-07-07 12:11,NASDAQ:LUCY,1.13,38.16,3046.4,5.76,0.73,0.0,,London Stock Exchange: REG - Tekcapital plc - Portfolio Company Update - Innovative Eyewear Inc,premarket
+2026-07-07,2026-07-07 12:11,NASDAQ:SPHL,3.01,35.16,146.3,1.24,2.82,158.0,,"GlobeNewswire: Springview Holdings Ltd Identifies Corner Terrace Residence in Singapore as Pilot Project with Potential to Deliver Up to ~S$2,000 in Monthly Electricity Savings",premarket
+2026-07-07,2026-07-07 12:11,NASDAQ:KIDZ,0.826,72.82,109.3,1.11,0.84,1.0,,TradingView: KIDZ AI wins 2026 EdTechX Award and unveils KIDZBot AI robotics platform,premarket
+2026-07-07,2026-07-07 12:11,NASDAQ:JLHL,3.985,24.97,50.1,1.28,0.15,21.0,,GlobeNewswire: Julong Holding Limited Announces Changes to Its Board of Directors and Board Committees,premarket
+2026-07-07,2026-07-07 12:11,NASDAQ:LHSW,4.35,277.78,49.8,0.15,0.38,13.0,DEAL,GlobeNewswire: Lianhe Sowell International Group Ltd. Secures AI-Powered Automotive Painting Robots Sales Orders in West and Southern Africa,premarket
 2026-07-07,2026-07-07 08:05,NASDAQ:FXHO,13.07,81.46,38.4,0.1,0.72,,,,premarket
-2026-07-07,2026-07-07 08:05,NYSE:PEW,2.73,16.17,36.0,18.11,3.38,4.0,,Reuters: Trump Jr.'s 'Amazon of guns' could make millions under new proposed firearm rule,premarket
-2026-07-07,2026-07-07 12:05,NASDAQ:TDIC,4.243,20.33,27.5,0.62,4.87,56.0,,"GlobeNewswire: Dreamland Limiteds Subsidiary Trendic International Limited and LinkFung Innovation Limited Enter Into MoU to Explore Development, Implementation, and Deployment of a Comprehensive AI-Powered Intelligent Image Library Platform",premarket
-2026-07-07,2026-07-07 12:05,NASDAQ:CRE,2.751,14.86,21.8,1.1,1.6,35.0,,"dpa-AFX: Morning Market Movers: HKIT, ANY, NAMM, CRE See Big Swings",premarket
-2026-07-07,2026-07-07 12:05,NASDAQ:ZCMD,1.71,126.13,6.4,1.14,0.33,12.0,,Dow Jones Newswires: Zhongchao Announces 1-For-3 Shr Consolidation >ZCMD,premarket
+2026-07-07,2026-07-07 12:11,NYSE:PEW,2.89,16.17,36.0,18.11,0.11,4.0,,Reuters: Trump Jr.'s 'Amazon of guns' could make millions under new proposed firearm rule,premarket
+2026-07-07,2026-07-07 12:11,NASDAQ:TDIC,4.25,20.33,27.5,0.62,4.89,56.0,,"GlobeNewswire: Dreamland Limiteds Subsidiary Trendic International Limited and LinkFung Innovation Limited Enter Into MoU to Explore Development, Implementation, and Deployment of a Comprehensive AI-Powered Intelligent Image Library Platform",premarket
+2026-07-07,2026-07-07 12:11,NASDAQ:CRE,2.72,14.86,21.8,1.1,1.61,35.0,,"dpa-AFX: Morning Market Movers: HKIT, ANY, NAMM, CRE See Big Swings",premarket
+2026-07-07,2026-07-07 12:11,NASDAQ:ZCMD,1.71,126.13,6.4,1.14,0.34,12.0,,Dow Jones Newswires: Zhongchao Announces 1-For-3 Shr Consolidation >ZCMD,premarket
