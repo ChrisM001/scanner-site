@@ -676,12 +676,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-07,2026-07-07 00:01,mexc,BILL/USDT,0.04277,3.7,164.46,3.7,,,
 2026-07-07,2026-07-07 00:01,mexc,BLUR/USDT,0.02087,26.48,149.8,5.2,,457.0,The Block: Blurs decline fuels OpenSeas market share surge amid broader NFT struggles
 2026-07-07,2026-07-07 00:01,mexc,US/USDT,0.023827,40.61,121.38,13.2,,,
-2026-07-07,2026-07-07 12:01,gate,BLUR/USDT,0.02413,14.8,39.98,14.2,,457,The Block: Blurs decline fuels OpenSeas market share surge amid broader NFT struggles
-2026-07-07,2026-07-07 12:01,gate,OPG/USDT,0.1403,13.6,29.52,5.2,Listing,21,CoinMarketCal: OpenGradient (OPG) - Upbit Listing - Date (15 June 2026)
-2026-07-07,2026-07-07 12:01,gate,TAC/USDT,0.050896,56.86,21.88,5.9,,,
+2026-07-07,2026-07-07 12:05,gate,BLUR/USDT,0.02422,15.22,40.58,14.4,,457,The Block: Blurs decline fuels OpenSeas market share surge amid broader NFT struggles
+2026-07-07,2026-07-07 12:05,gate,OPG/USDT,0.1405,13.77,29.57,5.2,Listing,21,CoinMarketCal: OpenGradient (OPG) - Upbit Listing - Date (15 June 2026)
+2026-07-07,2026-07-07 12:05,gate,TAC/USDT,0.050458,55.51,21.98,5.9,,,
 2026-07-07,2026-07-07 00:01,mexc,ANSEM/USDT,0.4288,18.38,20.49,5.4,,,
-2026-07-07,2026-07-07 12:01,gate,NES/USDT,0.274,8.64,16.95,3.8,,,
-2026-07-07,2026-07-07 12:01,gate,WLFI/USDT,0.06073,4.49,12.0,3.3,,2,The Block: Nearly 1 million wallets are down $3.81 billion on Trumps memecoin: report
+2026-07-07,2026-07-07 12:05,gate,NES/USDT,0.2779,10.19,17.05,3.8,,,
+2026-07-07,2026-07-07 12:05,gate,WLFI/USDT,0.06074,4.51,12.02,3.3,,2,The Block: Nearly 1 million wallets are down $3.81 billion on Trumps memecoin: report
 2026-07-07,2026-07-07 11:56,gate,M/USDT,1.5021,24.37,9.27,3.2,,,
 2026-07-07,2026-07-07 07:41,gate,EPIC/USDT,0.4222,3.53,4.99,18.4,Listing,320.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
-2026-07-07,2026-07-07 11:56,gate,TLM/USDT,0.00321,3.58,3.82,11.3,,,
+2026-07-07,2026-07-07 12:05,gate,TLM/USDT,0.003221,3.94,3.48,10.3,,72,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
