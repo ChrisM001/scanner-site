@@ -671,10 +671,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-06,2026-07-06 23:15,gate,EPIC/USDT,0.4012,6.39,3.2,11.6,,,
 2026-07-07,2026-07-07 00:01,mexc,TRIA/USDT,0.0329,9.81,654.89,5.0,,,
 2026-07-07,2026-07-07 00:01,mexc,HMSTR/USDT,0.00039,11.47,296.51,5.3,,24.0,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
+2026-07-07,2026-07-07 02:41,gate,LAB/USDT,14.46873,3.05,221.46,102.6,,,
 2026-07-07,2026-07-07 00:01,mexc,BILL/USDT,0.04277,3.7,164.46,3.7,,,
-2026-07-07,2026-07-07 02:01,gate,VANRY/USDT,0.008171,10.05,157.51,42.1,,336.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-07,2026-07-07 02:41,gate,VANRY/USDT,0.008344,12.38,161.2,43.1,,336,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-07,2026-07-07 00:01,mexc,BLUR/USDT,0.02087,26.48,149.8,5.2,,457.0,The Block: Blurs decline fuels OpenSeas market share surge amid broader NFT struggles
 2026-07-07,2026-07-07 00:01,mexc,US/USDT,0.023827,40.61,121.38,13.2,,,
 2026-07-07,2026-07-07 01:55,gate,NES/USDT,0.2608,3.41,20.62,4.6,,,
 2026-07-07,2026-07-07 00:01,mexc,ANSEM/USDT,0.4288,18.38,20.49,5.4,,,
-2026-07-07,2026-07-07 02:01,gate,EPIC/USDT,0.4804,17.8,3.26,12.1,Listing,320.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
+2026-07-07,2026-07-07 02:41,gate,EPIC/USDT,0.4781,17.24,3.49,12.9,Listing,320,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
