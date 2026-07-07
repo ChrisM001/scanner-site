@@ -672,13 +672,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-07,2026-07-07 00:01,mexc,TRIA/USDT,0.0329,9.81,654.89,5.0,,,
 2026-07-07,2026-07-07 00:01,mexc,HMSTR/USDT,0.00039,11.47,296.51,5.3,,24.0,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
 2026-07-07,2026-07-07 06:25,gate,LAB/USDT,14.48867,3.2,211.01,97.8,,,
-2026-07-07,2026-07-07 06:31,gate,VANRY/USDT,0.007691,3.58,191.3,51.1,,336,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-07,2026-07-07 07:21,gate,VANRY/USDT,0.007738,4.22,195.42,52.2,,336,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-07,2026-07-07 00:01,mexc,BILL/USDT,0.04277,3.7,164.46,3.7,,,
 2026-07-07,2026-07-07 00:01,mexc,BLUR/USDT,0.02087,26.48,149.8,5.2,,457.0,The Block: Blurs decline fuels OpenSeas market share surge amid broader NFT struggles
 2026-07-07,2026-07-07 00:01,mexc,US/USDT,0.023827,40.61,121.38,13.2,,,
+2026-07-07,2026-07-07 07:21,gate,OPG/USDT,0.146,18.22,22.41,4.0,Listing,21,CoinMarketCal: OpenGradient (OPG) - Upbit Listing - Date (15 June 2026)
 2026-07-07,2026-07-07 00:01,mexc,ANSEM/USDT,0.4288,18.38,20.49,5.4,,,
-2026-07-07,2026-07-07 06:31,gate,NES/USDT,0.2608,3.41,19.77,4.4,,,
-2026-07-07,2026-07-07 06:31,gate,OPG/USDT,0.1555,25.91,17.86,3.2,Listing,21,CoinMarketCal: OpenGradient (OPG) - Upbit Listing - Date (15 June 2026)
-2026-07-07,2026-07-07 06:31,gate,WLFI/USDT,0.0599,3.06,11.83,3.2,,2,The Block: Nearly 1 million wallets are down $3.81 billion on Trumps memecoin: report
-2026-07-07,2026-07-07 06:31,gate,TLM/USDT,0.00343,10.68,4.11,12.2,,71,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
-2026-07-07,2026-07-07 06:31,gate,EPIC/USDT,0.4764,16.82,3.39,12.5,Listing,320,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
+2026-07-07,2026-07-07 07:21,gate,NES/USDT,0.2724,8.01,19.92,4.5,,,
+2026-07-07,2026-07-07 06:31,gate,WLFI/USDT,0.0599,3.06,11.83,3.2,,2.0,The Block: Nearly 1 million wallets are down $3.81 billion on Trumps memecoin: report
+2026-07-07,2026-07-07 07:21,gate,TLM/USDT,0.003498,12.88,3.87,11.5,,71,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
+2026-07-07,2026-07-07 06:31,gate,EPIC/USDT,0.4764,16.82,3.39,12.5,Listing,320.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
