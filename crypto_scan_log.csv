@@ -671,12 +671,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-06,2026-07-06 23:15,gate,EPIC/USDT,0.4012,6.39,3.2,11.6,,,
 2026-07-07,2026-07-07 00:01,mexc,TRIA/USDT,0.0329,9.81,654.89,5.0,,,
 2026-07-07,2026-07-07 00:01,mexc,HMSTR/USDT,0.00039,11.47,296.51,5.3,,24.0,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
-2026-07-07,2026-07-07 02:41,gate,LAB/USDT,14.46873,3.05,221.46,102.6,,,
+2026-07-07,2026-07-07 05:41,gate,LAB/USDT,14.46404,3.02,223.3,103.5,,,
 2026-07-07,2026-07-07 03:15,gate,VANRY/USDT,0.008756,17.93,165.68,44.3,,336.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-07,2026-07-07 00:01,mexc,BILL/USDT,0.04277,3.7,164.46,3.7,,,
 2026-07-07,2026-07-07 00:01,mexc,BLUR/USDT,0.02087,26.48,149.8,5.2,,457.0,The Block: Blurs decline fuels OpenSeas market share surge amid broader NFT struggles
 2026-07-07,2026-07-07 00:01,mexc,US/USDT,0.023827,40.61,121.38,13.2,,,
 2026-07-07,2026-07-07 00:01,mexc,ANSEM/USDT,0.4288,18.38,20.49,5.4,,,
 2026-07-07,2026-07-07 03:11,gate,NES/USDT,0.2598,3.01,19.89,4.5,,,
-2026-07-07,2026-07-07 05:11,gate,TLM/USDT,0.003317,7.03,4.21,12.5,,71.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
-2026-07-07,2026-07-07 05:11,gate,EPIC/USDT,0.4813,18.02,3.31,12.2,Listing,320.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
+2026-07-07,2026-07-07 05:41,gate,TLM/USDT,0.0035,12.94,4.28,12.7,,71,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
+2026-07-07,2026-07-07 05:41,gate,EPIC/USDT,0.4935,21.02,3.52,13.0,Listing,320,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
