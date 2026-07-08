@@ -691,12 +691,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-08,2026-07-08 01:35,gate,LAB/USDT,5.9489,3.48,415.91,209.4,,,
 2026-07-08,2026-07-08 00:55,gate,US/USDT,0.020083,3.12,236.51,3.2,,,
 2026-07-08,2026-07-08 02:05,gate,TAC/USDT,0.004729,4.95,71.26,21.1,,,
-2026-07-08,2026-07-08 02:31,gate,EDGEX/USDT,0.4071,3.25,61.01,4.0,Listing,62.0,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
+2026-07-08,2026-07-08 04:05,gate,EDGEX/USDT,0.4071,3.25,59.45,3.9,Listing,62,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
 2026-07-08,2026-07-08 00:11,gate,BLUR/USDT,0.02076,3.7,19.23,17.1,,458.0,The Block: Blurs decline fuels OpenSeas market share surge amid broader NFT struggles
-2026-07-08,2026-07-08 04:01,gate,NES/USDT,0.2989,6.98,13.71,3.2,,,
+2026-07-08,2026-07-08 04:05,gate,NES/USDT,0.2999,7.34,13.81,3.2,,,
 2026-07-08,2026-07-08 03:46,gate,CLO/USDT,0.20826,3.5,9.51,3.2,,,
 2026-07-08,2026-07-08 01:41,gate,SKYAI/USDT,0.0364,3.29,7.54,6.5,,,
 2026-07-08,2026-07-08 03:51,gate,EVAA/USDT,2.7463,4.07,5.5,51.6,,,
 2026-07-08,2026-07-08 01:15,gate,EPIC/USDT,0.3426,3.01,4.84,18.0,Listing,321.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
-2026-07-08,2026-07-08 04:01,gate,SLX/USDT,0.18224,4.23,4.62,4.0,,,
+2026-07-08,2026-07-08 04:05,gate,SLX/USDT,0.18134,3.72,4.67,4.1,,,
 2026-07-08,2026-07-08 00:31,gate,TLM/USDT,0.002651,3.55,2.38,7.5,,72.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
