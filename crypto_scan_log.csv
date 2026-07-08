@@ -691,13 +691,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-08,2026-07-08 01:35,gate,LAB/USDT,5.9489,3.48,415.91,209.4,,,
 2026-07-08,2026-07-08 00:55,gate,US/USDT,0.020083,3.12,236.51,3.2,,,
 2026-07-08,2026-07-08 02:05,gate,TAC/USDT,0.004729,4.95,71.26,21.1,,,
-2026-07-08,2026-07-08 06:11,gate,EDGEX/USDT,0.4565,15.77,67.94,4.5,Listing,62,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
-2026-07-08,2026-07-08 06:05,gate,VANRY/USDT,0.006684,4.18,37.88,12.9,,337.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-08,2026-07-08 06:25,gate,EDGEX/USDT,0.4629,17.4,69.87,4.6,Listing,62,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
+2026-07-08,2026-07-08 06:25,gate,VANRY/USDT,0.006656,3.74,38.07,13.0,,337,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-08,2026-07-08 00:11,gate,BLUR/USDT,0.02076,3.7,19.23,17.1,,458.0,The Block: Blurs decline fuels OpenSeas market share surge amid broader NFT struggles
-2026-07-08,2026-07-08 06:11,gate,NES/USDT,0.3028,8.38,14.64,3.4,,,
-2026-07-08,2026-07-08 06:11,gate,CLO/USDT,0.2079,3.32,10.59,3.6,,,
+2026-07-08,2026-07-08 06:25,gate,NES/USDT,0.3015,7.91,15.17,3.5,,,
+2026-07-08,2026-07-08 06:25,gate,CLO/USDT,0.21224,5.48,10.79,3.6,,,
 2026-07-08,2026-07-08 01:41,gate,SKYAI/USDT,0.0364,3.29,7.54,6.5,,,
-2026-07-08,2026-07-08 06:11,gate,EVAA/USDT,2.8322,7.33,6.05,56.8,,,
-2026-07-08,2026-07-08 06:11,gate,SLX/USDT,0.18849,7.81,5.45,4.8,,,
+2026-07-08,2026-07-08 06:25,gate,EVAA/USDT,2.9405,11.43,6.09,57.2,,,
+2026-07-08,2026-07-08 06:25,gate,SLX/USDT,0.18687,6.88,5.48,4.8,,,
 2026-07-08,2026-07-08 01:15,gate,EPIC/USDT,0.3426,3.01,4.84,18.0,Listing,321.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-07-08,2026-07-08 05:51,gate,TLM/USDT,0.002675,4.49,2.21,7.0,,72.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
