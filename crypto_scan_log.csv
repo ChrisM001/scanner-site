@@ -690,14 +690,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-07,2026-07-07 13:51,gate,LIT/USDT,2.659,3.14,2.58,6.7,,,
 2026-07-08,2026-07-08 01:35,gate,LAB/USDT,5.9489,3.48,415.91,209.4,,,
 2026-07-08,2026-07-08 00:55,gate,US/USDT,0.020083,3.12,236.51,3.2,,,
-2026-07-08,2026-07-08 08:31,gate,EDGEX/USDT,0.4903,24.35,89.55,5.9,Listing,62,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
+2026-07-08,2026-07-08 08:36,gate,EDGEX/USDT,0.4859,23.23,89.87,5.9,Listing,62,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
 2026-07-08,2026-07-08 02:05,gate,TAC/USDT,0.004729,4.95,71.26,21.1,,,
-2026-07-08,2026-07-08 08:31,gate,VANRY/USDT,0.007284,13.53,31.71,10.8,,337,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-08,2026-07-08 08:36,gate,VANRY/USDT,0.007291,13.64,31.83,10.9,,337,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-08,2026-07-08 00:11,gate,BLUR/USDT,0.02076,3.7,19.23,17.1,,458.0,The Block: Blurs decline fuels OpenSeas market share surge amid broader NFT struggles
-2026-07-08,2026-07-08 08:31,gate,NES/USDT,0.3031,8.48,15.97,3.7,,,
-2026-07-08,2026-07-08 08:31,gate,CLO/USDT,0.2091,3.92,12.27,4.1,,,
+2026-07-08,2026-07-08 08:36,gate,NES/USDT,0.3024,8.23,16.02,3.7,,,
+2026-07-08,2026-07-08 08:36,gate,CLO/USDT,0.20979,4.26,12.28,4.1,,,
 2026-07-08,2026-07-08 01:41,gate,SKYAI/USDT,0.0364,3.29,7.54,6.5,,,
-2026-07-08,2026-07-08 08:31,gate,EVAA/USDT,2.9709,12.58,6.68,62.8,,,
-2026-07-08,2026-07-08 08:31,gate,SLX/USDT,0.18468,5.63,5.72,5.0,,,
+2026-07-08,2026-07-08 08:36,gate,EVAA/USDT,2.94,11.41,6.69,62.8,,,
+2026-07-08,2026-07-08 08:36,gate,SLX/USDT,0.18486,5.73,5.74,5.0,,,
 2026-07-08,2026-07-08 01:15,gate,EPIC/USDT,0.3426,3.01,4.84,18.0,Listing,321.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
-2026-07-08,2026-07-08 07:35,gate,TLM/USDT,0.002663,4.02,2.04,6.5,,72.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
+2026-07-08,2026-07-08 08:36,gate,TLM/USDT,0.002672,4.38,2.0,6.3,,72,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
