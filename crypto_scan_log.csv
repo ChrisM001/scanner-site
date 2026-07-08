@@ -690,15 +690,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-07,2026-07-07 13:51,gate,LIT/USDT,2.659,3.14,2.58,6.7,,,
 2026-07-08,2026-07-08 01:35,gate,LAB/USDT,5.9489,3.48,415.91,209.4,,,
 2026-07-08,2026-07-08 00:55,gate,US/USDT,0.020083,3.12,236.51,3.2,,,
-2026-07-08,2026-07-08 11:51,gate,EDGEX/USDT,0.5273,33.73,125.77,8.3,Listing,62,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
+2026-07-08,2026-07-08 12:01,gate,EDGEX/USDT,0.5204,31.98,126.77,8.4,Listing,62,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
 2026-07-08,2026-07-08 02:05,gate,TAC/USDT,0.004729,4.95,71.26,21.1,,,
 2026-07-08,2026-07-08 11:32,gate,VANRY/USDT,0.006634,3.4,27.38,9.4,,337.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-08,2026-07-08 12:01,gate,VELVET/USDT,0.4311,3.37,23.5,3.3,,8,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-08,2026-07-08 00:11,gate,BLUR/USDT,0.02076,3.7,19.23,17.1,,458.0,The Block: Blurs decline fuels OpenSeas market share surge amid broader NFT struggles
-2026-07-08,2026-07-08 11:51,gate,NES/USDT,0.3035,8.63,17.56,4.1,,,
-2026-07-08,2026-07-08 11:51,gate,CLO/USDT,0.22238,10.52,14.41,4.8,,,
+2026-07-08,2026-07-08 12:01,gate,NES/USDT,0.2965,6.12,16.64,3.8,,,
+2026-07-08,2026-07-08 12:01,gate,CLO/USDT,0.2205,9.59,14.07,4.7,,,
 2026-07-08,2026-07-08 01:41,gate,SKYAI/USDT,0.0364,3.29,7.54,6.5,,,
-2026-07-08,2026-07-08 11:51,gate,EVAA/USDT,3.2046,21.44,7.47,70.1,,,
-2026-07-08,2026-07-08 11:51,gate,KAITO/USDT,0.7961,31.07,6.28,3.2,,88,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
-2026-07-08,2026-07-08 11:51,gate,SLX/USDT,0.18568,6.2,5.85,5.1,,,
+2026-07-08,2026-07-08 12:01,gate,EVAA/USDT,3.2872,24.57,7.34,68.9,,,
+2026-07-08,2026-07-08 12:01,gate,KAITO/USDT,0.7928,30.52,6.85,3.4,,88,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-08,2026-07-08 12:01,gate,SLX/USDT,0.18673,6.8,5.69,5.0,,,
 2026-07-08,2026-07-08 01:15,gate,EPIC/USDT,0.3426,3.01,4.84,18.0,Listing,321.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-07-08,2026-07-08 08:41,gate,TLM/USDT,0.002638,3.05,2.0,6.4,,72.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
