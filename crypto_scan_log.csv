@@ -705,18 +705,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-08,2026-07-08 01:15,gate,EPIC/USDT,0.3426,3.01,4.84,18.0,Listing,321.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-07-08,2026-07-08 20:51,gate,UNI/USDT,3.289,3.07,2.11,12.5,,,
 2026-07-08,2026-07-08 08:41,gate,TLM/USDT,0.002638,3.05,2.0,6.4,,72.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
-2026-07-09,2026-07-09 16:51,gate,TAG/USDT,0.000699,6.02,270406.92,13.3,,,
+2026-07-09,2026-07-09 17:11,gate,TAG/USDT,0.000696,5.64,270795.0,13.3,,,
 2026-07-09,2026-07-09 00:11,mexc,TAG/USDT,0.000661,88.85,91674.95,4.1,,,
 2026-07-09,2026-07-09 02:25,gate,LAB/USDT,1.39059,10.71,378.87,206.2,,,
 2026-07-09,2026-07-09 13:14,gate,EDGEX/USDT,0.4215,3.64,150.85,18.5,,0.0,Binance News: edgeX Announces Restructuring and Product Roadmap After EDGE Token Flash Crash in June
 2026-07-09,2026-07-09 09:06,gate,POWER/USDT,0.09925,5.42,84.81,4.1,,,
 2026-07-09,2026-07-09 00:11,mexc,VANRY/USDT,0.007119,9.55,44.31,6.7,,338.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
-2026-07-09,2026-07-09 16:51,gate,ESPORTS/USDT,0.0189,16.74,38.22,3.2,,,
+2026-07-09,2026-07-09 17:11,gate,ESPORTS/USDT,0.01922,18.72,39.08,3.2,,,
 2026-07-09,2026-07-09 16:51,gate,VANRY/USDT,0.007409,3.46,33.77,12.5,,,
 2026-07-09,2026-07-09 00:11,mexc,ANSEM/USDT,0.2999,9.13,17.59,5.8,,,
-2026-07-09,2026-07-09 16:51,gate,SKYAI/USDT,0.03629,4.64,17.02,14.5,,,
+2026-07-09,2026-07-09 17:11,gate,SKYAI/USDT,0.03668,5.77,16.93,14.4,,,
+2026-07-09,2026-07-09 17:11,gate,BASED/USDT,0.1039,19.27,15.2,3.4,,,
 2026-07-09,2026-07-09 00:11,mexc,FET/USDT,0.16,3.15,15.04,17.2,Partner,6.0,Coindar: Fetch.ai to Become Official AI Partner of Goodwood FOS on July 9th
-2026-07-09,2026-07-09 16:51,gate,BASED/USDT,0.10652,22.28,14.93,3.3,,,
 2026-07-09,2026-07-09 00:01,mexc,LAB/USDT,1.261,8.7,14.65,56.4,,,
 2026-07-09,2026-07-09 00:11,mexc,OGN/USDT,0.01919,16.72,10.58,5.9,,3.0,Coindar: Origin Token to Host Community Call on July 6th
 2026-07-09,2026-07-09 00:11,mexc,SKYAI/USDT,0.0336,5.49,10.24,8.0,,,
@@ -728,5 +728,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-09,2026-07-09 01:05,gate,EVAA/USDT,2.8775,3.65,5.24,60.4,,,
 2026-07-09,2026-07-09 00:11,mexc,APE/USDT,0.1618,6.58,3.62,6.0,,,
 2026-07-09,2026-07-09 00:11,mexc,UAI/USDT,0.4119,4.59,2.34,3.4,,,
-2026-07-09,2026-07-09 16:51,gate,ARB/USDT,0.08612,11.98,2.05,6.7,,,
+2026-07-09,2026-07-09 17:11,gate,ARB/USDT,0.08601,11.83,2.04,6.6,,,
 2026-07-09,2026-07-09 10:16,gate,UNI/USDT,3.393,3.54,2.01,12.7,,0.0,CryptoProwl: Paradigm Raises $1.2B as Crypto VC Expands Into AI and Robotics
