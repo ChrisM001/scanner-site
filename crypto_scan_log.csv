@@ -705,13 +705,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-08,2026-07-08 01:15,gate,EPIC/USDT,0.3426,3.01,4.84,18.0,Listing,321.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-07-08,2026-07-08 20:51,gate,UNI/USDT,3.289,3.07,2.11,12.5,,,
 2026-07-08,2026-07-08 08:41,gate,TLM/USDT,0.002638,3.05,2.0,6.4,,72.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
-2026-07-09,2026-07-09 00:01,mexc,TAG/USDT,0.000665,90.0,88498.66,3.9,,,
-2026-07-09,2026-07-09 00:01,mexc,VANRY/USDT,0.0071,9.26,44.14,6.7,,338,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
-2026-07-09,2026-07-09 00:01,mexc,ANSEM/USDT,0.3025,10.08,17.54,5.8,,,
-2026-07-09,2026-07-09 00:01,mexc,FET/USDT,0.1598,3.03,14.98,17.2,Partner,6,Coindar: Fetch.ai to Become Official AI Partner of Goodwood FOS on July 9th
+2026-07-09,2026-07-09 00:06,mexc,TAG/USDT,0.000665,90.0,89630.85,4.0,,,
+2026-07-09,2026-07-09 00:06,mexc,VANRY/USDT,0.00706,8.64,44.18,6.7,,338,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-09,2026-07-09 00:06,mexc,ANSEM/USDT,0.3022,9.97,17.57,5.8,,,
+2026-07-09,2026-07-09 00:01,mexc,FET/USDT,0.1598,3.03,14.98,17.2,Partner,6.0,Coindar: Fetch.ai to Become Official AI Partner of Goodwood FOS on July 9th
 2026-07-09,2026-07-09 00:01,mexc,LAB/USDT,1.261,8.7,14.65,56.4,,,
-2026-07-09,2026-07-09 00:01,mexc,OGN/USDT,0.0188,14.35,10.34,5.7,,3,Coindar: Origin Token to Host Community Call on July 6th
-2026-07-09,2026-07-09 00:01,mexc,SKYAI/USDT,0.03472,9.01,10.16,7.9,,,
-2026-07-09,2026-07-09 00:01,mexc,RAVE/USDT,0.2778,7.3,7.4,3.7,,,
-2026-07-09,2026-07-09 00:01,mexc,APE/USDT,0.1613,6.25,3.6,6.0,,,
-2026-07-09,2026-07-09 00:01,mexc,UAI/USDT,0.4112,4.41,2.33,3.4,,,
+2026-07-09,2026-07-09 00:06,mexc,OGN/USDT,0.01913,16.36,10.39,5.8,,3,Coindar: Origin Token to Host Community Call on July 6th
+2026-07-09,2026-07-09 00:06,mexc,SKYAI/USDT,0.0343,7.69,10.21,8.0,,,
+2026-07-09,2026-07-09 00:06,mexc,RAVE/USDT,0.2792,7.84,7.42,3.7,,,
+2026-07-09,2026-07-09 00:06,mexc,APE/USDT,0.1619,6.65,3.61,6.0,,6,"Binance News: BAYC Holder Sells Three NFTs for 27.42 ETH to Add to Ether Long Position, Lookonchain Says"
+2026-07-09,2026-07-09 00:06,mexc,UAI/USDT,0.4095,3.98,2.34,3.4,,,
