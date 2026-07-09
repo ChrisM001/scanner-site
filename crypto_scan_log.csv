@@ -705,15 +705,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-08,2026-07-08 01:15,gate,EPIC/USDT,0.3426,3.01,4.84,18.0,Listing,321.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-07-08,2026-07-08 20:51,gate,UNI/USDT,3.289,3.07,2.11,12.5,,,
 2026-07-08,2026-07-08 08:41,gate,TLM/USDT,0.002638,3.05,2.0,6.4,,72.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
-2026-07-09,2026-07-09 09:41,gate,TAG/USDT,0.000741,12.41,130584.45,6.4,,,
+2026-07-09,2026-07-09 09:45,gate,TAG/USDT,0.000738,12.03,131058.14,6.4,,,
 2026-07-09,2026-07-09 00:11,mexc,TAG/USDT,0.000661,88.85,91674.95,4.1,,,
 2026-07-09,2026-07-09 02:25,gate,LAB/USDT,1.39059,10.71,378.87,206.2,,,
-2026-07-09,2026-07-09 09:41,gate,EDGEX/USDT,0.4603,13.18,159.99,19.6,Listing,63,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
+2026-07-09,2026-07-09 09:45,gate,EDGEX/USDT,0.4644,14.19,160.46,19.7,Listing,63,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
 2026-07-09,2026-07-09 09:06,gate,POWER/USDT,0.09925,5.42,84.81,4.1,,,
 2026-07-09,2026-07-09 00:11,mexc,VANRY/USDT,0.007119,9.55,44.31,6.7,,338.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
-2026-07-09,2026-07-09 09:35,gate,VANRY/USDT,0.007521,5.03,23.63,8.7,,338.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-09,2026-07-09 09:45,gate,VANRY/USDT,0.007419,3.6,23.82,8.8,,338,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-09,2026-07-09 00:11,mexc,ANSEM/USDT,0.2999,9.13,17.59,5.8,,,
-2026-07-09,2026-07-09 09:41,gate,SKYAI/USDT,0.03856,11.19,16.85,14.4,,,
+2026-07-09,2026-07-09 09:45,gate,SKYAI/USDT,0.0377,8.71,16.91,14.4,,,
 2026-07-09,2026-07-09 00:11,mexc,FET/USDT,0.16,3.15,15.04,17.2,Partner,6.0,Coindar: Fetch.ai to Become Official AI Partner of Goodwood FOS on July 9th
 2026-07-09,2026-07-09 00:01,mexc,LAB/USDT,1.261,8.7,14.65,56.4,,,
 2026-07-09,2026-07-09 09:06,gate,KAITO/USDT,0.6829,3.42,11.33,8.0,,89.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
