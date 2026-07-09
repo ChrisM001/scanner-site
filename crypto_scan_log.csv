@@ -705,21 +705,21 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-08,2026-07-08 01:15,gate,EPIC/USDT,0.3426,3.01,4.84,18.0,Listing,321.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-07-08,2026-07-08 20:51,gate,UNI/USDT,3.289,3.07,2.11,12.5,,,
 2026-07-08,2026-07-08 08:41,gate,TLM/USDT,0.002638,3.05,2.0,6.4,,72.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
-2026-07-09,2026-07-09 10:25,gate,TAG/USDT,0.000811,23.05,136325.64,6.7,,,
+2026-07-09,2026-07-09 11:05,gate,TAG/USDT,0.000894,35.64,140737.39,6.9,,,
 2026-07-09,2026-07-09 00:11,mexc,TAG/USDT,0.000661,88.85,91674.95,4.1,,,
 2026-07-09,2026-07-09 02:25,gate,LAB/USDT,1.39059,10.71,378.87,206.2,,,
-2026-07-09,2026-07-09 10:25,gate,EDGEX/USDT,0.4351,6.98,159.43,19.5,Listing,63,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
+2026-07-09,2026-07-09 10:25,gate,EDGEX/USDT,0.4351,6.98,159.43,19.5,Listing,63.0,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
 2026-07-09,2026-07-09 09:06,gate,POWER/USDT,0.09925,5.42,84.81,4.1,,,
 2026-07-09,2026-07-09 00:11,mexc,VANRY/USDT,0.007119,9.55,44.31,6.7,,338.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
-2026-07-09,2026-07-09 10:25,gate,VANRY/USDT,0.007516,4.96,23.43,8.6,,338,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-09,2026-07-09 11:05,gate,VANRY/USDT,0.0074,3.34,23.95,8.8,,338,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-09,2026-07-09 00:11,mexc,ANSEM/USDT,0.2999,9.13,17.59,5.8,,,
-2026-07-09,2026-07-09 10:25,gate,SKYAI/USDT,0.03935,13.47,16.81,14.3,,,
+2026-07-09,2026-07-09 11:05,gate,SKYAI/USDT,0.03941,13.64,16.53,14.1,,,
 2026-07-09,2026-07-09 00:11,mexc,FET/USDT,0.16,3.15,15.04,17.2,Partner,6.0,Coindar: Fetch.ai to Become Official AI Partner of Goodwood FOS on July 9th
 2026-07-09,2026-07-09 00:01,mexc,LAB/USDT,1.261,8.7,14.65,56.4,,,
-2026-07-09,2026-07-09 10:25,gate,KAITO/USDT,0.6854,3.8,11.4,8.1,,89,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-09,2026-07-09 00:11,mexc,OGN/USDT,0.01919,16.72,10.58,5.9,,3.0,Coindar: Origin Token to Host Community Call on July 6th
 2026-07-09,2026-07-09 00:11,mexc,SKYAI/USDT,0.0336,5.49,10.24,8.0,,,
 2026-07-09,2026-07-09 08:35,gate,CLO/USDT,0.20661,9.33,9.39,3.2,,,
+2026-07-09,2026-07-09 11:05,gate,KAITO/USDT,0.691,4.65,8.91,6.3,,89,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-09,2026-07-09 00:11,mexc,KAITO/USDT,0.6659,3.75,8.16,3.4,,88.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-09,2026-07-09 00:11,mexc,RAVE/USDT,0.2777,7.26,7.43,3.7,,,
 2026-07-09,2026-07-09 10:16,gate,ENA/USDT,0.07695,3.05,6.2,4.7,Unlock,9.0,"NewsBTC: ENA, SUI And EIGEN Lead This Weeks $73 Million Token Unlock Schedule"
