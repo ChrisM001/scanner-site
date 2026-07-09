@@ -705,18 +705,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-08,2026-07-08 01:15,gate,EPIC/USDT,0.3426,3.01,4.84,18.0,Listing,321.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-07-08,2026-07-08 20:51,gate,UNI/USDT,3.289,3.07,2.11,12.5,,,
 2026-07-08,2026-07-08 08:41,gate,TLM/USDT,0.002638,3.05,2.0,6.4,,72.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
-2026-07-09,2026-07-09 04:45,gate,TAG/USDT,0.000704,6.83,109753.71,5.4,,,
+2026-07-09,2026-07-09 05:11,gate,TAG/USDT,0.000692,5.05,110350.09,5.4,,,
 2026-07-09,2026-07-09 00:11,mexc,TAG/USDT,0.000661,88.85,91674.95,4.1,,,
 2026-07-09,2026-07-09 02:25,gate,LAB/USDT,1.39059,10.71,378.87,206.2,,,
-2026-07-09,2026-07-09 03:45,gate,EDGEX/USDT,0.4218,3.71,163.7,20.1,Listing,63.0,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
+2026-07-09,2026-07-09 05:11,gate,EDGEX/USDT,0.4206,3.42,160.27,19.6,Listing,63,CoinMarketCal: edgeX - Kraken Listing - 06 May 2026
 2026-07-09,2026-07-09 03:45,gate,POWER/USDT,0.09729,3.34,79.95,3.8,,,
 2026-07-09,2026-07-09 00:11,mexc,VANRY/USDT,0.007119,9.55,44.31,6.7,,338.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
-2026-07-09,2026-07-09 04:41,gate,VANRY/USDT,0.0074,3.34,21.59,8.0,,338.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-09,2026-07-09 05:11,gate,VANRY/USDT,0.007544,5.35,21.11,7.8,,338,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-09,2026-07-09 00:11,mexc,ANSEM/USDT,0.2999,9.13,17.59,5.8,,,
 2026-07-09,2026-07-09 00:11,mexc,FET/USDT,0.16,3.15,15.04,17.2,Partner,6.0,Coindar: Fetch.ai to Become Official AI Partner of Goodwood FOS on July 9th
 2026-07-09,2026-07-09 00:01,mexc,LAB/USDT,1.261,8.7,14.65,56.4,,,
-2026-07-09,2026-07-09 04:45,gate,SKYAI/USDT,0.03863,11.39,12.71,10.8,,,
-2026-07-09,2026-07-09 04:45,gate,CLO/USDT,0.20478,8.36,11.88,4.0,,,
+2026-07-09,2026-07-09 05:11,gate,SKYAI/USDT,0.03898,12.4,13.34,11.4,,,
+2026-07-09,2026-07-09 05:11,gate,CLO/USDT,0.20821,10.18,11.33,3.9,,,
 2026-07-09,2026-07-09 00:11,mexc,OGN/USDT,0.01919,16.72,10.58,5.9,,3.0,Coindar: Origin Token to Host Community Call on July 6th
 2026-07-09,2026-07-09 00:11,mexc,SKYAI/USDT,0.0336,5.49,10.24,8.0,,,
 2026-07-09,2026-07-09 00:11,mexc,KAITO/USDT,0.6659,3.75,8.16,3.4,,88.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
