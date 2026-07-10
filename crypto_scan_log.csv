@@ -732,9 +732,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-09,2026-07-09 23:11,gate,ARB/USDT,0.08792,14.32,2.76,9.0,,,
 2026-07-09,2026-07-09 00:11,mexc,UAI/USDT,0.4119,4.59,2.34,3.4,,,
 2026-07-09,2026-07-09 10:16,gate,UNI/USDT,3.393,3.54,2.01,12.7,,0.0,CryptoProwl: Paradigm Raises $1.2B as Crypto VC Expands Into AI and Robotics
-2026-07-10,2026-07-10 01:05,gate,TAG/USDT,0.000942,10.96,160402.5,17.8,,,
-2026-07-10,2026-07-10 00:25,gate,US/USDT,0.028205,3.36,367.64,5.8,,,
-2026-07-10,2026-07-10 01:05,gate,LAB/USDT,1.277,12.13,154.79,89.0,,,
+2026-07-10,2026-07-10 01:15,gate,TAG/USDT,0.000926,9.04,161985.91,18.0,,,
+2026-07-10,2026-07-10 01:15,gate,US/USDT,0.02842,4.14,375.2,5.9,,,
+2026-07-10,2026-07-10 01:15,gate,LAB/USDT,1.25725,10.4,155.66,89.5,,,
 2026-07-10,2026-07-10 01:01,gate,EDGEX/USDT,0.4567,3.23,49.85,7.3,,0.0,Binance News: edgeX Announces Restructuring and Product Roadmap After EDGE Token Flash Crash in June
 2026-07-10,2026-07-10 01:01,gate,TAC/USDT,0.005081,7.1,20.58,7.0,,,
 2026-07-10,2026-07-10 01:01,gate,EVAA/USDT,2.3325,4.34,3.14,40.8,,,
