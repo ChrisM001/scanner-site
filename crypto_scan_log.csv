@@ -732,12 +732,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-09,2026-07-09 23:11,gate,ARB/USDT,0.08792,14.32,2.76,9.0,,,
 2026-07-09,2026-07-09 00:11,mexc,UAI/USDT,0.4119,4.59,2.34,3.4,,,
 2026-07-09,2026-07-09 10:16,gate,UNI/USDT,3.393,3.54,2.01,12.7,,0.0,CryptoProwl: Paradigm Raises $1.2B as Crypto VC Expands Into AI and Robotics
-2026-07-10,2026-07-10 03:51,gate,TAG/USDT,0.000935,10.08,169360.95,18.8,,,
-2026-07-10,2026-07-10 03:51,gate,US/USDT,0.028286,3.65,436.96,6.9,,,
+2026-07-10,2026-07-10 03:56,gate,TAG/USDT,0.000919,8.22,169753.11,18.8,,,
+2026-07-10,2026-07-10 03:56,gate,US/USDT,0.028532,4.55,437.43,6.9,,,
 2026-07-10,2026-07-10 03:51,gate,LAB/USDT,1.18917,4.42,162.4,93.3,,,
-2026-07-10,2026-07-10 03:51,gate,EDGEX/USDT,0.4653,5.18,51.11,7.5,,0,Binance News: edgeX Announces Restructuring and Product Roadmap After EDGE Token Flash Crash in June
-2026-07-10,2026-07-10 03:51,gate,VANRY/USDT,0.007355,3.24,29.25,11.9,,339,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-10,2026-07-10 03:56,gate,EDGEX/USDT,0.4707,6.4,51.15,7.5,,0,Binance News: edgeX Announces Restructuring and Product Roadmap After EDGE Token Flash Crash in June
+2026-07-10,2026-07-10 03:56,gate,VANRY/USDT,0.0074,3.87,29.3,12.0,,339,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-10,2026-07-10 01:01,gate,TAC/USDT,0.005081,7.1,20.58,7.0,,,
-2026-07-10,2026-07-10 03:51,gate,ENA/USDT,0.07913,3.57,7.69,5.6,,0,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
-2026-07-10,2026-07-10 03:51,gate,EVAA/USDT,2.4669,10.36,3.17,41.3,,,
-2026-07-10,2026-07-10 03:51,gate,ARB/USDT,0.09141,4.48,3.11,10.6,,0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
+2026-07-10,2026-07-10 03:56,gate,ENA/USDT,0.07909,3.52,7.72,5.6,,0,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
+2026-07-10,2026-07-10 03:56,gate,EVAA/USDT,2.4029,7.49,3.18,41.4,,,
+2026-07-10,2026-07-10 03:56,gate,ARB/USDT,0.09139,4.46,3.12,10.7,,0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
