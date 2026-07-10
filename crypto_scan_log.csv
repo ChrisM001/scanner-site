@@ -732,12 +732,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-09,2026-07-09 23:11,gate,ARB/USDT,0.08792,14.32,2.76,9.0,,,
 2026-07-09,2026-07-09 00:11,mexc,UAI/USDT,0.4119,4.59,2.34,3.4,,,
 2026-07-09,2026-07-09 10:16,gate,UNI/USDT,3.393,3.54,2.01,12.7,,0.0,CryptoProwl: Paradigm Raises $1.2B as Crypto VC Expands Into AI and Robotics
-2026-07-10,2026-07-10 04:11,gate,TAG/USDT,0.000931,9.68,169081.44,18.7,,,
-2026-07-10,2026-07-10 04:11,gate,US/USDT,0.028227,3.44,440.06,7.0,,,
+2026-07-10,2026-07-10 04:15,gate,TAG/USDT,0.000932,9.76,169408.99,18.8,,,
+2026-07-10,2026-07-10 04:15,gate,US/USDT,0.028191,3.31,440.29,7.0,,,
 2026-07-10,2026-07-10 03:51,gate,LAB/USDT,1.18917,4.42,162.4,93.3,,,
-2026-07-10,2026-07-10 04:05,gate,EDGEX/USDT,0.4608,4.16,50.39,7.4,,0.0,Binance News: edgeX Announces Restructuring and Product Roadmap After EDGE Token Flash Crash in June
+2026-07-10,2026-07-10 04:15,gate,EDGEX/USDT,0.46,3.98,50.45,7.4,,0,Binance News: edgeX Announces Restructuring and Product Roadmap After EDGE Token Flash Crash in June
 2026-07-10,2026-07-10 03:56,gate,VANRY/USDT,0.0074,3.87,29.3,12.0,,339.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-10,2026-07-10 01:01,gate,TAC/USDT,0.005081,7.1,20.58,7.0,,,
-2026-07-10,2026-07-10 04:11,gate,ENA/USDT,0.079,3.4,7.47,5.5,,0,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
-2026-07-10,2026-07-10 04:11,gate,EVAA/USDT,2.4508,9.64,3.15,41.0,,,
-2026-07-10,2026-07-10 04:11,gate,ARB/USDT,0.09147,4.55,3.01,10.3,,0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
+2026-07-10,2026-07-10 04:15,gate,ENA/USDT,0.0787,3.01,7.5,5.5,,0,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
+2026-07-10,2026-07-10 04:15,gate,EVAA/USDT,2.4761,10.77,3.16,41.1,,,
+2026-07-10,2026-07-10 04:15,gate,ARB/USDT,0.09128,4.33,3.01,10.3,,0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
