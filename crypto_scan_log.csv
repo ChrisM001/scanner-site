@@ -732,15 +732,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-09,2026-07-09 23:11,gate,ARB/USDT,0.08792,14.32,2.76,9.0,,,
 2026-07-09,2026-07-09 00:11,mexc,UAI/USDT,0.4119,4.59,2.34,3.4,,,
 2026-07-09,2026-07-09 10:16,gate,UNI/USDT,3.393,3.54,2.01,12.7,,0.0,CryptoProwl: Paradigm Raises $1.2B as Crypto VC Expands Into AI and Robotics
-2026-07-10,2026-07-10 11:34,gate,PEPE/USDT,3e-06,3.65,7067751.06,16.4,,6,Coinpedia: Are Meme Coins Waking Up: PEPE and BONK Lead the Crypto Rally
-2026-07-10,2026-07-10 11:34,gate,TAG/USDT,0.001088,28.18,194108.69,21.5,,,
-2026-07-10,2026-07-10 11:34,gate,SKL/USDT,0.00562,36.74,1341.87,10.5,,35,Coindar: SKALE to Hold Live Stream on X
+2026-07-10,2026-07-10 11:36,gate,PEPE/USDT,3e-06,3.49,7075588.3,16.5,,6,Coinpedia: Are Meme Coins Waking Up: PEPE and BONK Lead the Crypto Rally
+2026-07-10,2026-07-10 11:36,gate,TAG/USDT,0.001082,27.43,194380.13,21.5,,,
+2026-07-10,2026-07-10 11:36,gate,SKL/USDT,0.00566,37.71,1342.11,10.5,,35,Coindar: SKALE to Hold Live Stream on X
 2026-07-10,2026-07-10 04:31,gate,US/USDT,0.028455,4.27,445.09,7.0,,,
-2026-07-10,2026-07-10 11:34,gate,LAB/USDT,1.17782,3.42,137.91,79.3,,,
-2026-07-10,2026-07-10 11:21,gate,VELVET/USDT,0.54629,13.13,65.97,9.0,,10.0,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-10,2026-07-10 11:36,gate,LAB/USDT,1.18191,3.78,137.97,79.3,,,
+2026-07-10,2026-07-10 11:36,gate,VELVET/USDT,0.49852,3.23,70.72,9.7,,10,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-10,2026-07-10 06:21,gate,EDGEX/USDT,0.471,6.46,45.27,6.6,,0.0,Binance News: edgeX Announces Restructuring and Product Roadmap After EDGE Token Flash Crash in June
 2026-07-10,2026-07-10 03:56,gate,VANRY/USDT,0.0074,3.87,29.3,12.0,,339.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-10,2026-07-10 01:01,gate,TAC/USDT,0.005081,7.1,20.58,7.0,,,
-2026-07-10,2026-07-10 11:34,gate,ENA/USDT,0.079,3.4,7.72,5.6,,0,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
-2026-07-10,2026-07-10 11:34,gate,ARB/USDT,0.09528,8.9,4.0,13.7,,0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
-2026-07-10,2026-07-10 11:34,gate,EVAA/USDT,2.6534,18.7,2.7,35.1,,,
+2026-07-10,2026-07-10 11:36,gate,ENA/USDT,0.07904,3.46,7.74,5.7,,0,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
+2026-07-10,2026-07-10 11:36,gate,ARB/USDT,0.09497,8.55,4.0,13.7,,0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
+2026-07-10,2026-07-10 11:36,gate,EVAA/USDT,2.7139,21.41,2.71,35.3,,,
