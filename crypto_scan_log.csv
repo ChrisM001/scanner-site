@@ -732,10 +732,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-09,2026-07-09 23:11,gate,ARB/USDT,0.08792,14.32,2.76,9.0,,,
 2026-07-09,2026-07-09 00:11,mexc,UAI/USDT,0.4119,4.59,2.34,3.4,,,
 2026-07-09,2026-07-09 10:16,gate,UNI/USDT,3.393,3.54,2.01,12.7,,0.0,CryptoProwl: Paradigm Raises $1.2B as Crypto VC Expands Into AI and Robotics
-2026-07-10,2026-07-10 02:21,gate,TAG/USDT,0.00091,7.12,169098.47,18.7,,,
-2026-07-10,2026-07-10 01:15,gate,US/USDT,0.02842,4.14,375.2,5.9,,,
+2026-07-10,2026-07-10 02:25,gate,TAG/USDT,0.000911,7.31,169345.98,18.8,,,
+2026-07-10,2026-07-10 02:25,gate,US/USDT,0.028296,3.69,417.55,6.6,,,
 2026-07-10,2026-07-10 01:55,gate,LAB/USDT,1.19974,5.35,161.78,93.0,,,
 2026-07-10,2026-07-10 02:01,gate,EDGEX/USDT,0.457,3.3,50.4,7.4,,0.0,Binance News: edgeX Announces Restructuring and Product Roadmap After EDGE Token Flash Crash in June
 2026-07-10,2026-07-10 01:55,gate,VANRY/USDT,0.007411,4.03,29.93,12.2,,339.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-10,2026-07-10 01:01,gate,TAC/USDT,0.005081,7.1,20.58,7.0,,,
+2026-07-10,2026-07-10 02:25,gate,ENA/USDT,0.07879,3.13,7.38,5.4,,0,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
 2026-07-10,2026-07-10 02:21,gate,EVAA/USDT,2.316,3.61,3.13,40.8,,,
