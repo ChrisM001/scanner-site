@@ -754,9 +754,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-11,2026-07-11 00:01,mexc,B/USDT,0.2254,8.15,116.03,10.9,,361.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-11,2026-07-11 00:01,mexc,VIRTUAL/USDT,0.6152,13.84,40.59,13.7,,8.0,CoinMarketCal: Virtuals Protocol - Robinhood x Virtual - 02 July 2026
 2026-07-11,2026-07-11 00:01,mexc,US/USDT,0.024365,8.19,33.11,6.1,,,
+2026-07-11,2026-07-11 02:05,gate,VIRTUAL/USDT,0.6319,3.37,22.98,3.1,,8,CoinMarketCal: Virtuals Protocol - Robinhood x Virtual - 02 July 2026
 2026-07-11,2026-07-11 00:01,mexc,ANSEM/USDT,0.2325,11.45,19.18,7.3,,,
 2026-07-11,2026-07-11 00:01,mexc,TAC/USDT,0.003911,3.08,14.25,7.2,,,
 2026-07-11,2026-07-11 00:01,mexc,FARTCOIN/USDT,0.15115,3.67,9.47,12.0,,92.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-07-11,2026-07-11 00:01,mexc,MMT/USDT,0.2036,15.35,5.62,3.2,,248.0,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
-2026-07-11,2026-07-11 02:01,gate,SKYAI/USDT,0.03867,3.18,3.84,3.2,,,
+2026-07-11,2026-07-11 02:05,gate,SKYAI/USDT,0.03886,3.68,3.85,3.3,,,
 2026-07-11,2026-07-11 01:55,gate,EVAA/USDT,2.5821,5.13,2.62,37.5,,,
