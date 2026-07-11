@@ -754,14 +754,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-11,2026-07-11 10:15,gate,SKL/USDT,0.00503,3.71,306.66,24.4,,36.0,Coindar: SKALE to Hold Live Stream on X
 2026-07-11,2026-07-11 06:21,gate,B/USDT,0.2526,12.57,137.41,9.7,,361.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-11,2026-07-11 00:01,mexc,B/USDT,0.2254,8.15,116.03,10.9,,361.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-11,2026-07-11 13:55,gate,HMSTR/USDT,0.000218,3.55,52.09,3.0,,29,Invezz: Hamster Kombat (HMSTR) price jumps 47% in a day: Heres why the crypto is rising
 2026-07-11,2026-07-11 06:51,gate,VIRTUAL/USDT,0.6361,4.06,41.65,5.5,,8.0,CoinMarketCal: Virtuals Protocol - Robinhood x Virtual - 02 July 2026
 2026-07-11,2026-07-11 00:01,mexc,VIRTUAL/USDT,0.6152,13.84,40.59,13.7,,8.0,CoinMarketCal: Virtuals Protocol - Robinhood x Virtual - 02 July 2026
 2026-07-11,2026-07-11 00:01,mexc,US/USDT,0.024365,8.19,33.11,6.1,,,
 2026-07-11,2026-07-11 00:01,mexc,ANSEM/USDT,0.2325,11.45,19.18,7.3,,,
 2026-07-11,2026-07-11 00:01,mexc,TAC/USDT,0.003911,3.08,14.25,7.2,,,
 2026-07-11,2026-07-11 00:01,mexc,FARTCOIN/USDT,0.15115,3.67,9.47,12.0,,92.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-07-11,2026-07-11 13:35,gate,CLO/USDT,0.25483,24.85,8.77,3.0,,,
+2026-07-11,2026-07-11 13:55,gate,CLO/USDT,0.25657,25.7,8.85,3.0,,,
 2026-07-11,2026-07-11 00:01,mexc,MMT/USDT,0.2036,15.35,5.62,3.2,,248.0,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
-2026-07-11,2026-07-11 13:35,gate,BEAT/USDT,3.0155,12.59,4.78,14.1,,33,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-07-11,2026-07-11 13:35,gate,SKYAI/USDT,0.04037,7.71,4.19,3.5,,,
+2026-07-11,2026-07-11 13:55,gate,BEAT/USDT,2.9801,11.27,4.86,14.3,,33,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-11,2026-07-11 13:55,gate,SKYAI/USDT,0.0398,6.19,4.21,3.6,,,
 2026-07-11,2026-07-11 01:55,gate,EVAA/USDT,2.5821,5.13,2.62,37.5,,,
