@@ -749,16 +749,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-10,2026-07-10 22:35,gate,SKYAI/USDT,0.03969,4.34,3.77,3.3,,,
 2026-07-10,2026-07-10 23:15,gate,EVAA/USDT,2.4977,11.73,2.88,37.5,,,
 2026-07-11,2026-07-11 02:15,gate,TAG/USDT,0.001006,3.5,75297.85,11.6,,,
-2026-07-11,2026-07-11 04:28,gate,SKL/USDT,0.0052,7.22,359.93,28.6,,36.0,Coindar: SKALE to Hold Live Stream on X
+2026-07-11,2026-07-11 04:31,gate,SKL/USDT,0.00529,9.07,360.29,28.6,,36,Coindar: SKALE to Hold Live Stream on X
 2026-07-11,2026-07-11 00:01,mexc,TRIA/USDT,0.0104,5.47,331.7,4.1,,,
 2026-07-11,2026-07-11 00:01,mexc,B/USDT,0.2254,8.15,116.03,10.9,,361.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-11,2026-07-11 04:28,gate,B/USDT,0.2515,12.08,94.16,6.6,,361.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-11,2026-07-11 04:31,gate,B/USDT,0.2507,11.72,94.86,6.7,,361,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-11,2026-07-11 00:01,mexc,VIRTUAL/USDT,0.6152,13.84,40.59,13.7,,8.0,CoinMarketCal: Virtuals Protocol - Robinhood x Virtual - 02 July 2026
-2026-07-11,2026-07-11 04:21,gate,VIRTUAL/USDT,0.6305,3.14,33.45,4.4,,8.0,CoinMarketCal: Virtuals Protocol - Robinhood x Virtual - 02 July 2026
+2026-07-11,2026-07-11 04:31,gate,VIRTUAL/USDT,0.6299,3.04,33.87,4.5,,8,CoinMarketCal: Virtuals Protocol - Robinhood x Virtual - 02 July 2026
 2026-07-11,2026-07-11 00:01,mexc,US/USDT,0.024365,8.19,33.11,6.1,,,
 2026-07-11,2026-07-11 00:01,mexc,ANSEM/USDT,0.2325,11.45,19.18,7.3,,,
 2026-07-11,2026-07-11 00:01,mexc,TAC/USDT,0.003911,3.08,14.25,7.2,,,
 2026-07-11,2026-07-11 00:01,mexc,FARTCOIN/USDT,0.15115,3.67,9.47,12.0,,92.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-07-11,2026-07-11 00:01,mexc,MMT/USDT,0.2036,15.35,5.62,3.2,,248.0,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
-2026-07-11,2026-07-11 03:31,gate,SKYAI/USDT,0.03865,3.12,3.69,3.1,,,
+2026-07-11,2026-07-11 04:31,gate,SKYAI/USDT,0.03861,3.01,3.55,3.0,,,
 2026-07-11,2026-07-11 01:55,gate,EVAA/USDT,2.5821,5.13,2.62,37.5,,,
