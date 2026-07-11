@@ -752,7 +752,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-11,2026-07-11 00:01,mexc,TRIA/USDT,0.0104,5.47,331.7,4.1,,,
 2026-07-11,2026-07-11 00:11,gate,SKL/USDT,0.00513,5.77,306.8,24.4,,36.0,Coindar: SKALE to Hold Live Stream on X
 2026-07-11,2026-07-11 00:01,mexc,B/USDT,0.2254,8.15,116.03,10.9,,361.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-11,2026-07-11 02:15,gate,B/USDT,0.233,3.83,73.45,5.2,,361,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-11,2026-07-11 02:21,gate,B/USDT,0.2314,3.12,73.95,5.2,,361.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-11,2026-07-11 00:01,mexc,VIRTUAL/USDT,0.6152,13.84,40.59,13.7,,8.0,CoinMarketCal: Virtuals Protocol - Robinhood x Virtual - 02 July 2026
 2026-07-11,2026-07-11 00:01,mexc,US/USDT,0.024365,8.19,33.11,6.1,,,
 2026-07-11,2026-07-11 02:11,gate,VIRTUAL/USDT,0.6299,3.04,23.11,3.1,,8.0,CoinMarketCal: Virtuals Protocol - Robinhood x Virtual - 02 July 2026
