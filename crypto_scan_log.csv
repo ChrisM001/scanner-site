@@ -750,7 +750,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-10,2026-07-10 23:15,gate,EVAA/USDT,2.4977,11.73,2.88,37.5,,,
 2026-07-11,2026-07-11 10:25,gate,TAG/USDT,0.001048,7.74,59757.9,9.2,,,
 2026-07-11,2026-07-11 17:25,gate,XPIN/USDT,0.001955,4.08,58707.22,12.8,Listing,324.0,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
-2026-07-11,2026-07-11 17:41,gate,T/USDT,0.00455,33.08,39508.3,6.3,,78,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
+2026-07-11,2026-07-11 18:15,gate,T/USDT,0.004426,29.45,41807.86,6.7,,78,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
 2026-07-11,2026-07-11 00:01,mexc,TRIA/USDT,0.0104,5.47,331.7,4.1,,,
 2026-07-11,2026-07-11 10:15,gate,SKL/USDT,0.00503,3.71,306.66,24.4,,36.0,Coindar: SKALE to Hold Live Stream on X
 2026-07-11,2026-07-11 06:21,gate,B/USDT,0.2526,12.57,137.41,9.7,,361.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
@@ -761,12 +761,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-11,2026-07-11 00:01,mexc,US/USDT,0.024365,8.19,33.11,6.1,,,
 2026-07-11,2026-07-11 00:01,mexc,ANSEM/USDT,0.2325,11.45,19.18,7.3,,,
 2026-07-11,2026-07-11 00:01,mexc,TAC/USDT,0.003911,3.08,14.25,7.2,,,
-2026-07-11,2026-07-11 17:41,gate,CLO/USDT,0.25074,22.85,10.89,3.7,,,
+2026-07-11,2026-07-11 18:15,gate,CLO/USDT,0.25666,25.75,11.02,3.8,,,
 2026-07-11,2026-07-11 00:01,mexc,FARTCOIN/USDT,0.15115,3.67,9.47,12.0,,92.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-07-11,2026-07-11 15:00,gate,ENA/USDT,0.08374,3.37,9.22,6.6,,1.0,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
-2026-07-11,2026-07-11 16:21,gate,ADA/USDT,0.1716,3.0,6.6,20.4,,0.0,CryptoProwl: Weekly Wrap: Bitcoin Has A Winning Week
+2026-07-11,2026-07-11 18:15,gate,ADA/USDT,0.1717,3.06,6.82,21.1,,0,CryptoProwl: Weekly Wrap: Bitcoin Has A Winning Week
 2026-07-11,2026-07-11 00:01,mexc,MMT/USDT,0.2036,15.35,5.62,3.2,,248.0,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
 2026-07-11,2026-07-11 14:55,gate,BEAT/USDT,2.7612,3.1,5.39,15.9,,33.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-07-11,2026-07-11 14:55,gate,SKYAI/USDT,0.03904,4.16,4.01,3.4,,,
 2026-07-11,2026-07-11 01:55,gate,EVAA/USDT,2.5821,5.13,2.62,37.5,,,
-2026-07-11,2026-07-11 17:41,gate,ARB/USDT,0.09699,4.48,2.44,9.1,,1,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
+2026-07-11,2026-07-11 18:15,gate,ARB/USDT,0.09747,5.0,2.42,9.1,,1,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
