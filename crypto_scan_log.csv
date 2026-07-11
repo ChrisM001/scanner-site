@@ -748,7 +748,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-10,2026-07-10 23:15,gate,ARB/USDT,0.09254,5.77,4.13,14.1,,,
 2026-07-10,2026-07-10 22:35,gate,SKYAI/USDT,0.03969,4.34,3.77,3.3,,,
 2026-07-10,2026-07-10 23:15,gate,EVAA/USDT,2.4977,11.73,2.88,37.5,,,
-2026-07-11,2026-07-11 00:51,gate,TAG/USDT,0.001015,4.39,81917.29,12.6,,,
+2026-07-11,2026-07-11 01:41,gate,TAG/USDT,0.001004,3.25,76878.02,11.8,,,
 2026-07-11,2026-07-11 00:01,mexc,TRIA/USDT,0.0104,5.47,331.7,4.1,,,
 2026-07-11,2026-07-11 00:11,gate,SKL/USDT,0.00513,5.77,306.8,24.4,,36.0,Coindar: SKALE to Hold Live Stream on X
 2026-07-11,2026-07-11 00:01,mexc,B/USDT,0.2254,8.15,116.03,10.9,,361.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
@@ -758,5 +758,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-11,2026-07-11 00:01,mexc,TAC/USDT,0.003911,3.08,14.25,7.2,,,
 2026-07-11,2026-07-11 00:01,mexc,FARTCOIN/USDT,0.15115,3.67,9.47,12.0,,92.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-07-11,2026-07-11 00:01,mexc,MMT/USDT,0.2036,15.35,5.62,3.2,,248.0,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
-2026-07-11,2026-07-11 01:25,gate,SKYAI/USDT,0.03995,6.59,3.99,3.4,,,
-2026-07-11,2026-07-11 01:25,gate,EVAA/USDT,2.5824,5.14,2.59,37.1,,,
+2026-07-11,2026-07-11 01:41,gate,SKYAI/USDT,0.03898,4.0,4.01,3.4,,,
+2026-07-11,2026-07-11 01:41,gate,EVAA/USDT,2.6158,6.5,2.61,37.3,,,
