@@ -749,7 +749,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-10,2026-07-10 22:35,gate,SKYAI/USDT,0.03969,4.34,3.77,3.3,,,
 2026-07-10,2026-07-10 23:15,gate,EVAA/USDT,2.4977,11.73,2.88,37.5,,,
 2026-07-11,2026-07-11 10:25,gate,TAG/USDT,0.001048,7.74,59757.9,9.2,,,
-2026-07-11,2026-07-11 11:15,gate,XPIN/USDT,0.002171,15.55,32940.86,7.2,Listing,323,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
+2026-07-11,2026-07-11 11:15,gate,XPIN/USDT,0.002171,15.55,32940.86,7.2,Listing,323.0,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
 2026-07-11,2026-07-11 00:01,mexc,TRIA/USDT,0.0104,5.47,331.7,4.1,,,
 2026-07-11,2026-07-11 10:15,gate,SKL/USDT,0.00503,3.71,306.66,24.4,,36.0,Coindar: SKALE to Hold Live Stream on X
 2026-07-11,2026-07-11 06:21,gate,B/USDT,0.2526,12.57,137.41,9.7,,361.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
@@ -760,7 +760,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-11,2026-07-11 00:01,mexc,ANSEM/USDT,0.2325,11.45,19.18,7.3,,,
 2026-07-11,2026-07-11 00:01,mexc,TAC/USDT,0.003911,3.08,14.25,7.2,,,
 2026-07-11,2026-07-11 00:01,mexc,FARTCOIN/USDT,0.15115,3.67,9.47,12.0,,92.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-07-11,2026-07-11 13:35,gate,CLO/USDT,0.25483,24.85,8.77,3.0,,,
 2026-07-11,2026-07-11 00:01,mexc,MMT/USDT,0.2036,15.35,5.62,3.2,,248.0,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
-2026-07-11,2026-07-11 11:15,gate,BEAT/USDT,2.9456,9.98,4.3,12.7,,33,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-07-11,2026-07-11 11:15,gate,SKYAI/USDT,0.0401,6.99,4.18,3.5,,,
+2026-07-11,2026-07-11 13:35,gate,BEAT/USDT,3.0155,12.59,4.78,14.1,,33,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-11,2026-07-11 13:35,gate,SKYAI/USDT,0.04037,7.71,4.19,3.5,,,
 2026-07-11,2026-07-11 01:55,gate,EVAA/USDT,2.5821,5.13,2.62,37.5,,,
