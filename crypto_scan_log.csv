@@ -770,4 +770,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-11,2026-07-11 14:55,gate,SKYAI/USDT,0.03904,4.16,4.01,3.4,,,
 2026-07-11,2026-07-11 01:55,gate,EVAA/USDT,2.5821,5.13,2.62,37.5,,,
 2026-07-11,2026-07-11 21:15,gate,ARB/USDT,0.09886,6.5,2.31,8.6,,,
-2026-07-12,2026-07-12 00:01,mexc,SXT/USDT,0.009198,24.6,19.21,11.7,Partner,95.0,CoinMarketCal: Space and Time (SXT) - Microsoft Cloud Partner - 07 April 2026
+2026-07-12,2026-07-12 00:05,mexc,B/USDT,0.1173,3.62,202.14,49.3,,362.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-12,2026-07-12 00:05,mexc,SXT/USDT,0.00934,26.52,19.33,11.8,Partner,95.0,CoinMarketCal: Space and Time (SXT) - Microsoft Cloud Partner - 07 April 2026
