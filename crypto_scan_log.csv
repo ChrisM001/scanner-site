@@ -771,13 +771,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-11,2026-07-11 01:55,gate,EVAA/USDT,2.5821,5.13,2.62,37.5,,,
 2026-07-11,2026-07-11 21:15,gate,ARB/USDT,0.09886,6.5,2.31,8.6,,,
 2026-07-12,2026-07-12 00:55,gate,TAG/USDT,0.00097,3.75,29393.3,5.0,,,
-2026-07-12,2026-07-12 07:41,gate,XPIN/USDT,0.00203,3.55,17998.34,11.9,Listing,324,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
-2026-07-12,2026-07-12 07:41,gate,T/USDT,0.005195,12.4,5396.61,18.5,,79,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
+2026-07-12,2026-07-12 07:41,gate,XPIN/USDT,0.00203,3.55,17998.34,11.9,Listing,324.0,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
+2026-07-12,2026-07-12 08:01,gate,T/USDT,0.0052,12.51,5461.17,18.8,,79,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
 2026-07-12,2026-07-12 00:31,mexc,B/USDT,0.1172,3.53,203.5,49.6,,362.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-12,2026-07-12 07:41,gate,B/USDT,0.1331,13.57,166.51,23.0,,362,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-12,2026-07-12 08:01,gate,B/USDT,0.1332,13.65,163.82,22.7,,362,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-12,2026-07-12 01:45,gate,SKL/USDT,0.00479,3.01,92.57,10.8,,37.0,Coindar: SKALE to Hold Live Stream on X
 2026-07-12,2026-07-12 04:15,gate,VIRTUAL/USDT,0.6109,3.19,26.19,3.9,Partner,0.0,Coinpedia: Virtuals Protocol price Jumps 20% as Robinhood Chain Integration Fuels AI Trading Narrative
 2026-07-12,2026-07-12 01:21,mexc,SXT/USDT,0.008752,18.55,20.9,12.7,Partner,95.0,CoinMarketCal: Space and Time (SXT) - Microsoft Cloud Partner - 07 April 2026
-2026-07-12,2026-07-12 07:41,gate,CLO/USDT,0.26845,3.52,11.72,4.1,,,
-2026-07-12,2026-07-12 07:41,gate,VANRY/USDT,0.007111,25.95,8.5,3.7,,341,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
-2026-07-12,2026-07-12 07:41,gate,ARB/USDT,0.09823,3.49,2.53,9.8,,2,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
+2026-07-12,2026-07-12 08:01,gate,CLO/USDT,0.27153,4.71,11.56,4.0,,,
+2026-07-12,2026-07-12 08:01,gate,VANRY/USDT,0.006712,18.88,8.8,3.8,,341,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-12,2026-07-12 08:01,gate,ARB/USDT,0.09822,3.48,2.5,9.6,,2,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
