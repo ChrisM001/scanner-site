@@ -772,7 +772,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-11,2026-07-11 21:15,gate,ARB/USDT,0.09886,6.5,2.31,8.6,,,
 2026-07-12,2026-07-12 00:55,gate,TAG/USDT,0.00097,3.75,29393.3,5.0,,,
 2026-07-12,2026-07-12 00:25,gate,XPIN/USDT,0.002024,3.26,19682.03,13.0,Listing,324.0,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
-2026-07-12,2026-07-12 01:51,gate,T/USDT,0.004917,6.38,3238.05,11.1,,79.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
+2026-07-12,2026-07-12 03:05,gate,T/USDT,0.005173,11.92,3749.72,12.9,,79.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
 2026-07-12,2026-07-12 00:31,mexc,B/USDT,0.1172,3.53,203.5,49.6,,362.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-12,2026-07-12 01:45,gate,SKL/USDT,0.00479,3.01,92.57,10.8,,37.0,Coindar: SKALE to Hold Live Stream on X
 2026-07-12,2026-07-12 01:21,mexc,SXT/USDT,0.008752,18.55,20.9,12.7,Partner,95.0,CoinMarketCal: Space and Time (SXT) - Microsoft Cloud Partner - 07 April 2026
+2026-07-12,2026-07-12 03:05,gate,ARB/USDT,0.09779,3.02,2.24,8.6,,2.0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
