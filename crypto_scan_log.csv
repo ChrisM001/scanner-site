@@ -772,15 +772,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-11,2026-07-11 21:15,gate,ARB/USDT,0.09886,6.5,2.31,8.6,,,
 2026-07-12,2026-07-12 00:55,gate,TAG/USDT,0.00097,3.75,29393.3,5.0,,,
 2026-07-12,2026-07-12 08:35,gate,XPIN/USDT,0.002028,3.45,17087.4,11.3,Listing,324.0,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
-2026-07-12,2026-07-12 10:15,gate,T/USDT,0.005231,13.18,5862.14,20.1,,79,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
+2026-07-12,2026-07-12 11:21,gate,T/USDT,0.005775,24.95,6770.18,23.2,,79,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
 2026-07-12,2026-07-12 00:31,mexc,B/USDT,0.1172,3.53,203.5,49.6,,362.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-12,2026-07-12 10:15,gate,B/USDT,0.136,16.04,154.91,21.4,,362,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-12,2026-07-12 10:15,gate,B/USDT,0.136,16.04,154.91,21.4,,362.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-12,2026-07-12 01:45,gate,SKL/USDT,0.00479,3.01,92.57,10.8,,37.0,Coindar: SKALE to Hold Live Stream on X
 2026-07-12,2026-07-12 04:15,gate,VIRTUAL/USDT,0.6109,3.19,26.19,3.9,Partner,0.0,Coinpedia: Virtuals Protocol price Jumps 20% as Robinhood Chain Integration Fuels AI Trading Narrative
 2026-07-12,2026-07-12 01:21,mexc,SXT/USDT,0.008752,18.55,20.9,12.7,Partner,95.0,CoinMarketCal: Space and Time (SXT) - Microsoft Cloud Partner - 07 April 2026
-2026-07-12,2026-07-12 10:15,gate,CLO/USDT,0.28133,8.49,12.16,4.3,,,
-2026-07-12,2026-07-12 10:15,gate,VANRY/USDT,0.006665,18.05,10.86,4.7,,341,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-12,2026-07-12 11:21,gate,CLO/USDT,0.28198,8.74,12.6,4.4,,,
+2026-07-12,2026-07-12 11:21,gate,VANRY/USDT,0.00646,14.42,11.41,4.9,,341,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-12,2026-07-12 09:51,gate,ENA/USDT,0.08234,3.0,8.29,5.8,,2.0,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
-2026-07-12,2026-07-12 10:15,gate,BEAT/USDT,2.4462,4.1,6.02,16.1,,34,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-12,2026-07-12 11:21,gate,BEAT/USDT,2.7006,14.92,6.37,17.0,,34,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-07-12,2026-07-12 09:55,gate,SKYAI/USDT,0.03599,3.96,3.87,3.1,,,
 2026-07-12,2026-07-12 08:01,gate,ARB/USDT,0.09822,3.48,2.5,9.6,,2.0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
