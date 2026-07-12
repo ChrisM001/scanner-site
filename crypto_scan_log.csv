@@ -770,19 +770,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-11,2026-07-11 14:55,gate,SKYAI/USDT,0.03904,4.16,4.01,3.4,,,
 2026-07-11,2026-07-11 01:55,gate,EVAA/USDT,2.5821,5.13,2.62,37.5,,,
 2026-07-11,2026-07-11 21:15,gate,ARB/USDT,0.09886,6.5,2.31,8.6,,,
-2026-07-12,2026-07-12 18:35,gate,PEPE/USDT,3e-06,3.81,7057301.56,16.2,,1.0,Coinpedia: PEPE Price Eyes a 13% Rally as Bulls Challenge a Crucial Resistance Zone
+2026-07-12,2026-07-12 18:45,gate,PEPE/USDT,3e-06,3.62,7083173.56,16.3,,1,Coinpedia: PEPE Price Eyes a 13% Rally as Bulls Challenge a Crucial Resistance Zone
 2026-07-12,2026-07-12 16:41,gate,TAG/USDT,0.000963,3.0,18258.04,3.1,,,
 2026-07-12,2026-07-12 08:35,gate,XPIN/USDT,0.002028,3.45,17087.4,11.3,Listing,324.0,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
-2026-07-12,2026-07-12 18:35,gate,T/USDT,0.00531,14.89,6649.6,22.8,,79.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
+2026-07-12,2026-07-12 18:45,gate,T/USDT,0.005326,15.23,6659.45,22.9,,80,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
 2026-07-12,2026-07-12 00:31,mexc,B/USDT,0.1172,3.53,203.5,49.6,,362.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-12,2026-07-12 11:31,gate,B/USDT,0.1225,4.52,146.54,20.3,,363.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-12,2026-07-12 01:45,gate,SKL/USDT,0.00479,3.01,92.57,10.8,,37.0,Coindar: SKALE to Hold Live Stream on X
-2026-07-12,2026-07-12 18:35,gate,VELVET/USDT,0.50193,14.51,40.8,4.6,,12.0,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-12,2026-07-12 18:45,gate,VELVET/USDT,0.50316,14.8,40.96,4.6,,12,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-12,2026-07-12 04:15,gate,VIRTUAL/USDT,0.6109,3.19,26.19,3.9,Partner,0.0,Coinpedia: Virtuals Protocol price Jumps 20% as Robinhood Chain Integration Fuels AI Trading Narrative
 2026-07-12,2026-07-12 01:21,mexc,SXT/USDT,0.008752,18.55,20.9,12.7,Partner,95.0,CoinMarketCal: Space and Time (SXT) - Microsoft Cloud Partner - 07 April 2026
-2026-07-12,2026-07-12 18:35,gate,VANRY/USDT,0.006518,15.44,14.71,6.4,,341.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
-2026-07-12,2026-07-12 18:01,gate,CLO/USDT,0.26863,3.59,10.21,3.6,,,
+2026-07-12,2026-07-12 18:45,gate,VANRY/USDT,0.006462,14.45,14.76,6.4,,341,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-12,2026-07-12 18:45,gate,CLO/USDT,0.26838,3.5,10.28,3.6,,,
 2026-07-12,2026-07-12 09:51,gate,ENA/USDT,0.08234,3.0,8.29,5.8,,2.0,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
-2026-07-12,2026-07-12 18:35,gate,BEAT/USDT,2.8184,19.94,5.66,15.1,,34.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-12,2026-07-12 18:45,gate,BEAT/USDT,2.7367,16.46,5.7,15.2,,34,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-07-12,2026-07-12 09:55,gate,SKYAI/USDT,0.03599,3.96,3.87,3.1,,,
 2026-07-12,2026-07-12 08:01,gate,ARB/USDT,0.09822,3.48,2.5,9.6,,2.0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
