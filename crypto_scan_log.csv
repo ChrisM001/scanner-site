@@ -772,4 +772,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-11,2026-07-11 21:15,gate,ARB/USDT,0.09886,6.5,2.31,8.6,,,
 2026-07-12,2026-07-12 00:25,gate,XPIN/USDT,0.002024,3.26,19682.03,13.0,Listing,324.0,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
 2026-07-12,2026-07-12 00:31,mexc,B/USDT,0.1172,3.53,203.5,49.6,,362.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-12,2026-07-12 00:31,mexc,SXT/USDT,0.009126,23.62,19.87,12.1,Partner,95.0,CoinMarketCal: Space and Time (SXT) - Microsoft Cloud Partner - 07 April 2026
+2026-07-12,2026-07-12 00:41,mexc,SXT/USDT,0.009171,24.23,20.11,12.2,Partner,95.0,CoinMarketCal: Space and Time (SXT) - Microsoft Cloud Partner - 07 April 2026
