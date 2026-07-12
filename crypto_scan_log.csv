@@ -773,16 +773,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-12,2026-07-12 20:51,gate,PEPE/USDT,3e-06,3.22,6918988.3,15.9,,,
 2026-07-12,2026-07-12 16:41,gate,TAG/USDT,0.000963,3.0,18258.04,3.1,,,
 2026-07-12,2026-07-12 08:35,gate,XPIN/USDT,0.002028,3.45,17087.4,11.3,Listing,324.0,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
-2026-07-12,2026-07-12 20:51,gate,T/USDT,0.005643,22.09,6655.57,22.9,,,
+2026-07-12,2026-07-12 21:15,gate,T/USDT,0.005498,18.95,6554.66,22.5,,,
 2026-07-12,2026-07-12 00:31,mexc,B/USDT,0.1172,3.53,203.5,49.6,,362.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-12,2026-07-12 11:31,gate,B/USDT,0.1225,4.52,146.54,20.3,,363.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-12,2026-07-12 01:45,gate,SKL/USDT,0.00479,3.01,92.57,10.8,,37.0,Coindar: SKALE to Hold Live Stream on X
-2026-07-12,2026-07-12 20:51,gate,VELVET/USDT,0.48631,10.95,41.38,4.7,,,
+2026-07-12,2026-07-12 21:15,gate,VELVET/USDT,0.47783,9.02,41.32,4.7,,,
 2026-07-12,2026-07-12 04:15,gate,VIRTUAL/USDT,0.6109,3.19,26.19,3.9,Partner,0.0,Coinpedia: Virtuals Protocol price Jumps 20% as Robinhood Chain Integration Fuels AI Trading Narrative
 2026-07-12,2026-07-12 01:21,mexc,SXT/USDT,0.008752,18.55,20.9,12.7,Partner,95.0,CoinMarketCal: Space and Time (SXT) - Microsoft Cloud Partner - 07 April 2026
-2026-07-12,2026-07-12 20:51,gate,VANRY/USDT,0.006274,11.12,15.12,6.6,,,
+2026-07-12,2026-07-12 21:15,gate,VANRY/USDT,0.006315,11.85,15.16,6.6,,,
 2026-07-12,2026-07-12 19:41,gate,CLO/USDT,0.26926,3.84,10.01,3.5,,,
 2026-07-12,2026-07-12 09:51,gate,ENA/USDT,0.08234,3.0,8.29,5.8,,2.0,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
-2026-07-12,2026-07-12 20:51,gate,BEAT/USDT,2.6401,12.35,5.69,15.2,,,
+2026-07-12,2026-07-12 21:15,gate,BEAT/USDT,2.6101,11.07,5.63,15.0,,,
 2026-07-12,2026-07-12 09:55,gate,SKYAI/USDT,0.03599,3.96,3.87,3.1,,,
 2026-07-12,2026-07-12 08:01,gate,ARB/USDT,0.09822,3.48,2.5,9.6,,2.0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
