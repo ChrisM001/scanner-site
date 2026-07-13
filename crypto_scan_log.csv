@@ -788,13 +788,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-12,2026-07-12 08:01,gate,ARB/USDT,0.09822,3.48,2.5,9.6,,2.0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
 2026-07-13,2026-07-13 03:05,gate,T/USDT,0.005443,3.44,1818.06,19.6,,80.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
 2026-07-13,2026-07-13 00:05,mexc,T/USDT,0.005361,3.89,1610.94,21.2,,80.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
-2026-07-13,2026-07-13 02:55,gate,US/USDT,0.024121,3.15,225.4,3.1,,,
+2026-07-13,2026-07-13 04:15,gate,US/USDT,0.024201,3.49,243.64,3.4,,,
 2026-07-13,2026-07-13 00:05,mexc,DODO/USDT,0.02233,36.99,134.66,3.9,,41.0,Coindar: DODO Becomes ENI Super Node
-2026-07-13,2026-07-13 04:11,gate,LAB/USDT,0.42585,4.95,80.58,47.3,,,
-2026-07-13,2026-07-13 04:11,gate,VELVET/USDT,0.53659,10.59,50.51,5.2,,12,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-13,2026-07-13 04:15,gate,LAB/USDT,0.42674,5.17,80.96,47.6,,,
+2026-07-13,2026-07-13 04:15,gate,VELVET/USDT,0.53313,9.88,50.59,5.2,,12,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-13,2026-07-13 01:15,gate,B/USDT,0.112,3.42,45.4,7.4,,363.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-13,2026-07-13 00:05,mexc,PIPPIN/USDT,0.01678,3.38,26.84,7.5,,124.0,Coinpedia: Pippin Price Rally Today: Is the 14% Surge a Bull Trap?
-2026-07-13,2026-07-13 04:11,gate,MAGMA/USDT,0.34721,7.94,17.68,3.9,,,
+2026-07-13,2026-07-13 04:15,gate,MAGMA/USDT,0.35029,8.9,17.71,3.9,,,
 2026-07-13,2026-07-13 00:05,mexc,ANSEM/USDT,0.2706,12.51,10.16,4.1,,,
-2026-07-13,2026-07-13 04:11,gate,BEAT/USDT,2.6314,3.18,6.17,14.5,,34,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-13,2026-07-13 04:11,gate,BEAT/USDT,2.6314,3.18,6.17,14.5,,34.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-07-13,2026-07-13 01:01,gate,EVAA/USDT,1.2118,6.21,3.83,74.4,,,
