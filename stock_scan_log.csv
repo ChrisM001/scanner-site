@@ -175,8 +175,8 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-07-10,2026-07-10 12:11,NASDAQ:BJDX,1.47,11.94,1.0,0.94,0.61,31.0,OFFERING,"TradingView: Bluejay Diagnostics Raises $7.7 Million in Private Placement, Issues Pre-Funded and 5-Year Warrants",premarket
 2026-07-10,2026-07-10 08:11,NASDAQ:IOTR,4.06,19.21,0.4,0.64,0.3,2.0,EARNINGS,Dow Jones Newswires: IOThree Shares Climb as FY Revenue Rises; CEO Sees Strong Demand Continuing,premarket
 2026-07-13,2026-07-13 08:01,NASDAQ:CHSN,1.27,23.08,824.2,3.41,27.12,11.0,LEGAL,"Reuters: Chanson International Holding - On June 26, Jihong Cai Resigned As Chief Financial Officer Of Chanson International Holding - SEC Filing",premarket
-2026-07-13,2026-07-13 08:01,NASDAQ:JZXN,1.62,38.46,789.0,1.39,6.78,2.0,DEAL,"GlobeNewswire: Jiuzi Holdings, Inc. (Nasdaq: JZXN) Intends to Sign Cooperation Agreement with AI Intelligent Imaging and Data Platform Company; Initial Cooperation Expected to Generate Approximately US$1.0 million in Profit",premarket
-2026-07-13,2026-07-13 08:31,NASDAQ:GMM,3.44,207.5,197.1,1.68,0.1,30.0,,Stocktwits: GMM Stock Soared 60% Pre-Market Today  A Look At Some Key Highlights That Got Investors Talking,premarket
+2026-07-13,2026-07-13 08:51,NASDAQ:JZXN,1.66,38.46,789.1,1.39,0.1,2.0,DEAL,"GlobeNewswire: Jiuzi Holdings, Inc. (Nasdaq: JZXN) Intends to Sign Cooperation Agreement with AI Intelligent Imaging and Data Platform Company; Initial Cooperation Expected to Generate Approximately US$1.0 million in Profit",premarket
+2026-07-13,2026-07-13 08:51,NASDAQ:GMM,3.27,207.5,197.1,1.68,0.17,30.0,,Stocktwits: GMM Stock Soared 60% Pre-Market Today  A Look At Some Key Highlights That Got Investors Talking,premarket
 2026-07-13,2026-07-13 08:01,NASDAQ:WOK,2.37,17.33,19.8,2.42,7.41,26.0,,"GlobeNewswire: WORK Medical Announces 1-for-100 Reverse Stock Split Effective June 18, 2026",premarket
 2026-07-13,2026-07-13 08:01,AMEX:INUV,1.19,11.01,10.6,13.25,0.37,4.0,,TradingView: Inuvo publishes updated investor presentation highlighting IntentKey AI strategy and $220B TAM,premarket
 2026-07-13,2026-07-13 08:01,NASDAQ:PMA,1.57,24.03,9.1,4.56,8.07,,,,premarket
