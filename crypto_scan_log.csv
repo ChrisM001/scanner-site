@@ -786,15 +786,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-12,2026-07-12 23:11,gate,BEAT/USDT,2.5494,8.49,5.62,15.0,,,
 2026-07-12,2026-07-12 09:55,gate,SKYAI/USDT,0.03599,3.96,3.87,3.1,,,
 2026-07-12,2026-07-12 08:01,gate,ARB/USDT,0.09822,3.48,2.5,9.6,,2.0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
-2026-07-13,2026-07-13 11:16,gate,JCT/USDT,0.004323,21.19,3269.69,3.2,,1,CoinMarketCal: Janction: Binance Alpha & Futures List on 10 Nov 2026
+2026-07-13,2026-07-13 11:21,gate,JCT/USDT,0.004304,20.66,3273.48,3.2,,1,CoinMarketCal: Janction: Binance Alpha & Futures List on 10 Nov 2026
 2026-07-13,2026-07-13 03:05,gate,T/USDT,0.005443,3.44,1818.06,19.6,,80.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
 2026-07-13,2026-07-13 00:05,mexc,T/USDT,0.005361,3.89,1610.94,21.2,,80.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
-2026-07-13,2026-07-13 11:16,gate,BILL/USDT,0.05439,9.75,553.58,3.0,,,
+2026-07-13,2026-07-13 11:21,gate,BILL/USDT,0.05461,10.19,561.04,3.1,,,
 2026-07-13,2026-07-13 11:16,gate,US/USDT,0.02412,3.15,249.91,3.4,,,
 2026-07-13,2026-07-13 00:05,mexc,DODO/USDT,0.02233,36.99,134.66,3.9,,41.0,Coindar: DODO Becomes ENI Super Node
-2026-07-13,2026-07-13 11:16,gate,VELVET/USDT,0.62178,28.15,92.82,9.5,,13,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-13,2026-07-13 11:21,gate,VELVET/USDT,0.61874,27.52,93.03,9.5,,13,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-13,2026-07-13 05:31,gate,LAB/USDT,0.42022,3.57,81.68,48.0,,,
-2026-07-13,2026-07-13 11:16,gate,B/USDT,0.1224,13.02,32.05,5.2,,364,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-13,2026-07-13 11:21,gate,B/USDT,0.1236,14.13,32.26,5.2,,364,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-13,2026-07-13 00:05,mexc,PIPPIN/USDT,0.01678,3.38,26.84,7.5,,124.0,Coinpedia: Pippin Price Rally Today: Is the 14% Surge a Bull Trap?
 2026-07-13,2026-07-13 11:11,gate,MAGMA/USDT,0.33189,3.18,19.35,4.3,,,
 2026-07-13,2026-07-13 00:05,mexc,ANSEM/USDT,0.2706,12.51,10.16,4.1,,,
