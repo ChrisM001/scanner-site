@@ -786,14 +786,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-12,2026-07-12 23:11,gate,BEAT/USDT,2.5494,8.49,5.62,15.0,,,
 2026-07-12,2026-07-12 09:55,gate,SKYAI/USDT,0.03599,3.96,3.87,3.1,,,
 2026-07-12,2026-07-12 08:01,gate,ARB/USDT,0.09822,3.48,2.5,9.6,,2.0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
-2026-07-13,2026-07-13 01:01,gate,T/USDT,0.005437,3.33,1962.92,21.2,,80.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
+2026-07-13,2026-07-13 01:35,gate,T/USDT,0.005451,3.59,2007.78,21.7,,80,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
 2026-07-13,2026-07-13 00:05,mexc,T/USDT,0.005361,3.89,1610.94,21.2,,80.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
-2026-07-13,2026-07-13 01:31,gate,US/USDT,0.024172,3.37,220.61,3.0,,,
+2026-07-13,2026-07-13 01:35,gate,US/USDT,0.024321,4.01,221.31,3.1,,,
 2026-07-13,2026-07-13 00:05,mexc,DODO/USDT,0.02233,36.99,134.66,3.9,,41.0,Coindar: DODO Becomes ENI Super Node
 2026-07-13,2026-07-13 01:31,gate,LAB/USDT,0.42082,3.71,84.26,49.5,,,
-2026-07-13,2026-07-13 01:25,gate,VELVET/USDT,0.50069,3.19,47.03,4.8,,12.0,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-13,2026-07-13 01:35,gate,VELVET/USDT,0.50473,4.02,47.14,4.8,,12,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-13,2026-07-13 01:15,gate,B/USDT,0.112,3.42,45.4,7.4,,363.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-13,2026-07-13 00:05,mexc,PIPPIN/USDT,0.01678,3.38,26.84,7.5,,124.0,Coinpedia: Pippin Price Rally Today: Is the 14% Surge a Bull Trap?
-2026-07-13,2026-07-13 01:31,gate,MAGMA/USDT,0.33534,4.25,15.78,3.5,,,
+2026-07-13,2026-07-13 01:35,gate,MAGMA/USDT,0.33346,3.67,15.86,3.5,,,
 2026-07-13,2026-07-13 00:05,mexc,ANSEM/USDT,0.2706,12.51,10.16,4.1,,,
 2026-07-13,2026-07-13 01:01,gate,EVAA/USDT,1.2118,6.21,3.83,74.4,,,
