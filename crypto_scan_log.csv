@@ -786,13 +786,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-12,2026-07-12 23:11,gate,BEAT/USDT,2.5494,8.49,5.62,15.0,,,
 2026-07-12,2026-07-12 09:55,gate,SKYAI/USDT,0.03599,3.96,3.87,3.1,,,
 2026-07-12,2026-07-12 08:01,gate,ARB/USDT,0.09822,3.48,2.5,9.6,,2.0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
-2026-07-13,2026-07-13 20:02,gate,JCT/USDT,0.004384,22.9,4536.29,4.4,,,
+2026-07-13,2026-07-13 20:32,gate,JCT/USDT,0.004316,21.0,4564.14,4.4,,,
 2026-07-13,2026-07-13 03:05,gate,T/USDT,0.005443,3.44,1818.06,19.6,,80.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
 2026-07-13,2026-07-13 00:05,mexc,T/USDT,0.005361,3.89,1610.94,21.2,,80.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
-2026-07-13,2026-07-13 20:02,gate,BILL/USDT,0.05837,17.78,1037.37,5.7,,,
+2026-07-13,2026-07-13 20:32,gate,BILL/USDT,0.05834,17.72,1052.49,5.8,,,
 2026-07-13,2026-07-13 19:21,gate,US/USDT,0.024725,5.73,217.86,3.0,,,
 2026-07-13,2026-07-13 00:05,mexc,DODO/USDT,0.02233,36.99,134.66,3.9,,41.0,Coindar: DODO Becomes ENI Super Node
-2026-07-13,2026-07-13 20:02,gate,VELVET/USDT,0.61105,25.94,95.75,9.8,,,
+2026-07-13,2026-07-13 20:32,gate,VELVET/USDT,0.59803,23.25,96.35,9.9,,,
 2026-07-13,2026-07-13 05:31,gate,LAB/USDT,0.42022,3.57,81.68,48.0,,,
 2026-07-13,2026-07-13 17:02,gate,B/USDT,0.1143,5.54,33.17,5.4,,,
 2026-07-13,2026-07-13 00:05,mexc,PIPPIN/USDT,0.01678,3.38,26.84,7.5,,124.0,Coinpedia: Pippin Price Rally Today: Is the 14% Surge a Bull Trap?
