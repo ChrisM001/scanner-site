@@ -786,3 +786,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-12,2026-07-12 23:11,gate,BEAT/USDT,2.5494,8.49,5.62,15.0,,,
 2026-07-12,2026-07-12 09:55,gate,SKYAI/USDT,0.03599,3.96,3.87,3.1,,,
 2026-07-12,2026-07-12 08:01,gate,ARB/USDT,0.09822,3.48,2.5,9.6,,2.0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
+2026-07-13,2026-07-13 00:01,mexc,DODO/USDT,0.02261,38.71,133.55,3.9,,41,Coindar: DODO Becomes ENI Super Node
+2026-07-13,2026-07-13 00:01,mexc,PIPPIN/USDT,0.01673,3.08,26.64,7.5,,124,Coinpedia: Pippin Price Rally Today: Is the 14% Surge a Bull Trap?
+2026-07-13,2026-07-13 00:01,mexc,ANSEM/USDT,0.2736,13.76,10.08,4.0,,,
