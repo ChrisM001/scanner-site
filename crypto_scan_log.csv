@@ -788,13 +788,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-12,2026-07-12 08:01,gate,ARB/USDT,0.09822,3.48,2.5,9.6,,2.0,Binance News: Arbitrum Jumps 19% Benefitting From Robinhood's $568 Million Onchain Trading Frenzy
 2026-07-13,2026-07-13 03:05,gate,T/USDT,0.005443,3.44,1818.06,19.6,,80.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
 2026-07-13,2026-07-13 00:05,mexc,T/USDT,0.005361,3.89,1610.94,21.2,,80.0,Coindar: Threshold Network Introduced Verifiable Bitcoin Accounts on April 23rd
-2026-07-13,2026-07-13 05:45,gate,US/USDT,0.024294,3.89,251.95,3.5,,,
+2026-07-13,2026-07-13 07:35,gate,US/USDT,0.024835,6.21,269.2,3.7,,,
 2026-07-13,2026-07-13 00:05,mexc,DODO/USDT,0.02233,36.99,134.66,3.9,,41.0,Coindar: DODO Becomes ENI Super Node
 2026-07-13,2026-07-13 05:31,gate,LAB/USDT,0.42022,3.57,81.68,48.0,,,
-2026-07-13,2026-07-13 05:45,gate,VELVET/USDT,0.5475,12.84,54.37,5.6,,12,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-13,2026-07-13 07:35,gate,VELVET/USDT,0.57108,17.7,62.96,6.5,,13,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-13,2026-07-13 01:15,gate,B/USDT,0.112,3.42,45.4,7.4,,363.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-13,2026-07-13 00:05,mexc,PIPPIN/USDT,0.01678,3.38,26.84,7.5,,124.0,Coinpedia: Pippin Price Rally Today: Is the 14% Surge a Bull Trap?
-2026-07-13,2026-07-13 05:45,gate,MAGMA/USDT,0.3696,14.9,18.27,4.0,,,
+2026-07-13,2026-07-13 07:35,gate,MAGMA/USDT,0.34997,8.8,19.35,4.3,,,
 2026-07-13,2026-07-13 00:05,mexc,ANSEM/USDT,0.2706,12.51,10.16,4.1,,,
-2026-07-13,2026-07-13 04:11,gate,BEAT/USDT,2.6314,3.18,6.17,14.5,,34.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-13,2026-07-13 07:35,gate,BEAT/USDT,2.6292,3.1,6.1,14.3,,35,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-07-13,2026-07-13 01:01,gate,EVAA/USDT,1.2118,6.21,3.83,74.4,,,
