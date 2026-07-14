@@ -801,12 +801,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-13,2026-07-13 01:01,gate,EVAA/USDT,1.2118,6.21,3.83,74.4,,,
 2026-07-13,2026-07-13 20:02,gate,BEAT/USDT,2.6762,4.94,2.38,5.6,,,
 2026-07-14,2026-07-14 03:34,gate,T/USDT,0.004937,4.16,369.82,4.7,,0.0,CoinMarketCal: Ondo: rebrands Global Markets as Ondo Stocks - 13 Jul 2026
-2026-07-14,2026-07-14 05:45,gate,LAB/USDT,0.31327,23.52,142.52,85.8,,,
-2026-07-14,2026-07-14 05:45,gate,VELVET/USDT,0.62786,4.34,108.78,10.8,,13,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-14,2026-07-14 05:51,gate,LAB/USDT,0.3291,29.77,143.36,86.4,,,
+2026-07-14,2026-07-14 05:51,gate,VELVET/USDT,0.6419,6.67,109.37,10.8,,13,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-14,2026-07-14 00:31,mexc,AIOT/USDT,0.03746,21.7,92.19,5.6,,291.0,CoinMarketCal: OKZOO (AIOT) - HealthFi AMA Event - 26 Sep 2025
-2026-07-14,2026-07-14 05:41,gate,B/USDT,0.112,3.61,27.54,4.9,,364.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-14,2026-07-14 05:51,gate,B/USDT,0.1118,3.42,28.13,5.0,,364,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-14,2026-07-14 00:31,mexc,ANSEM/USDT,0.2927,5.59,10.1,4.1,,,
-2026-07-14,2026-07-14 05:45,gate,ENA/USDT,0.08183,4.24,8.28,5.7,,4,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
+2026-07-14,2026-07-14 05:51,gate,ENA/USDT,0.08169,4.06,8.32,5.7,,4,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
 2026-07-14,2026-07-14 00:31,mexc,VELVET/USDT,0.6028,6.74,7.32,31.0,,13.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-14,2026-07-14 00:31,mexc,ALLO/USDT,0.46658,8.72,4.01,50.5,,20.0,CoinMarketCal: Allora (ALLO) - Allora & Quack AI - Date (23 June 2026)
 2026-07-14,2026-07-14 00:31,mexc,DEXE/USDT,41.73,3.62,3.47,10.5,,0.0,Coinpedia: Top AI Crypto Coins To Watch This Week
