@@ -800,15 +800,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-13,2026-07-13 00:05,mexc,ANSEM/USDT,0.2706,12.51,10.16,4.1,,,
 2026-07-13,2026-07-13 01:01,gate,EVAA/USDT,1.2118,6.21,3.83,74.4,,,
 2026-07-13,2026-07-13 20:02,gate,BEAT/USDT,2.6762,4.94,2.38,5.6,,,
-2026-07-14,2026-07-14 07:11,gate,BILL/USDT,0.06308,5.36,952.83,7.0,,,
+2026-07-14,2026-07-14 08:01,gate,BILL/USDT,0.06495,8.49,1023.78,7.6,,,
 2026-07-14,2026-07-14 03:34,gate,T/USDT,0.004937,4.16,369.82,4.7,,0.0,CoinMarketCal: Ondo: rebrands Global Markets as Ondo Stocks - 13 Jul 2026
-2026-07-14,2026-07-14 07:11,gate,LAB/USDT,0.27107,6.88,139.45,84.0,,,
-2026-07-14,2026-07-14 07:11,gate,VELVET/USDT,0.63474,5.48,107.52,10.6,,14,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-14,2026-07-14 08:01,gate,LAB/USDT,0.27701,9.23,139.19,83.8,,,
+2026-07-14,2026-07-14 08:01,gate,VELVET/USDT,0.63434,5.42,99.29,9.8,,14,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-14,2026-07-14 00:31,mexc,AIOT/USDT,0.03746,21.7,92.19,5.6,,291.0,CoinMarketCal: OKZOO (AIOT) - HealthFi AMA Event - 26 Sep 2025
 2026-07-14,2026-07-14 07:05,gate,ZBT/USDT,0.14353,3.24,65.17,3.2,,252.0,CoinMarketCal: ZEROBASE (ZBT) - ZBT Claim & AMA - 04 Nov 2025
-2026-07-14,2026-07-14 07:11,gate,B/USDT,0.1134,4.9,28.39,5.0,,364,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-14,2026-07-14 08:01,gate,B/USDT,0.1127,4.26,28.47,5.0,,364,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-14,2026-07-14 00:31,mexc,ANSEM/USDT,0.2927,5.59,10.1,4.1,,,
-2026-07-14,2026-07-14 07:11,gate,ENA/USDT,0.08243,5.01,8.33,5.7,,4,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
+2026-07-14,2026-07-14 08:01,gate,ENA/USDT,0.08286,5.55,8.64,5.9,,4,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
 2026-07-14,2026-07-14 00:31,mexc,VELVET/USDT,0.6028,6.74,7.32,31.0,,13.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-14,2026-07-14 00:31,mexc,ALLO/USDT,0.46658,8.72,4.01,50.5,,20.0,CoinMarketCal: Allora (ALLO) - Allora & Quack AI - Date (23 June 2026)
 2026-07-14,2026-07-14 00:31,mexc,DEXE/USDT,41.73,3.62,3.47,10.5,,0.0,Coinpedia: Top AI Crypto Coins To Watch This Week
