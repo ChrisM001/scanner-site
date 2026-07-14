@@ -801,11 +801,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-13,2026-07-13 01:01,gate,EVAA/USDT,1.2118,6.21,3.83,74.4,,,
 2026-07-13,2026-07-13 20:02,gate,BEAT/USDT,2.6762,4.94,2.38,5.6,,,
 2026-07-14,2026-07-14 03:34,gate,T/USDT,0.004937,4.16,369.82,4.7,,0.0,CoinMarketCal: Ondo: rebrands Global Markets as Ondo Stocks - 13 Jul 2026
-2026-07-14,2026-07-14 05:31,gate,LAB/USDT,0.33595,32.47,140.47,84.6,,,
-2026-07-14,2026-07-14 05:25,gate,VELVET/USDT,0.62268,3.48,108.3,10.7,,13.0,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-14,2026-07-14 05:35,gate,LAB/USDT,0.33911,33.71,141.04,85.0,,,
+2026-07-14,2026-07-14 05:35,gate,VELVET/USDT,0.61991,3.02,108.52,10.7,,13,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-14,2026-07-14 00:31,mexc,AIOT/USDT,0.03746,21.7,92.19,5.6,,291.0,CoinMarketCal: OKZOO (AIOT) - HealthFi AMA Event - 26 Sep 2025
 2026-07-14,2026-07-14 00:31,mexc,ANSEM/USDT,0.2927,5.59,10.1,4.1,,,
-2026-07-14,2026-07-14 05:31,gate,ENA/USDT,0.08172,4.1,8.18,5.6,,,
+2026-07-14,2026-07-14 05:35,gate,ENA/USDT,0.08162,3.97,8.2,5.6,,4,Binance News: Ethena Allows Registered Users to Mint and Redeem USDe With USDC for Free
 2026-07-14,2026-07-14 00:31,mexc,VELVET/USDT,0.6028,6.74,7.32,31.0,,13.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-14,2026-07-14 00:31,mexc,ALLO/USDT,0.46658,8.72,4.01,50.5,,20.0,CoinMarketCal: Allora (ALLO) - Allora & Quack AI - Date (23 June 2026)
 2026-07-14,2026-07-14 00:31,mexc,DEXE/USDT,41.73,3.62,3.47,10.5,,0.0,Coinpedia: Top AI Crypto Coins To Watch This Week
