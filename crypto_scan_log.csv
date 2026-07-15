@@ -820,16 +820,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-14,2026-07-14 16:06,gate,PI/USDT,0.0806,4.27,3.59,8.4,,,
 2026-07-14,2026-07-14 00:31,mexc,DEXE/USDT,41.73,3.62,3.47,10.5,,0.0,Coinpedia: Top AI Crypto Coins To Watch This Week
 2026-07-14,2026-07-14 23:31,gate,KAITO/USDT,0.7755,19.53,2.92,3.2,,,
-2026-07-15,2026-07-15 12:01,gate,AKE/USDT,0.000539,183.98,83630.51,36.3,,265,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-15,2026-07-15 12:01,gate,PUMP/USDT,0.001629,7.67,3191.49,5.7,Unlock,1,Invezz: Pump.fun (PUMP) price analysis: Can buybacks offset $127M unlock pressure?
+2026-07-15,2026-07-15 12:05,gate,AKE/USDT,0.000529,178.61,84258.24,36.5,,265,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-15,2026-07-15 12:05,gate,PUMP/USDT,0.001627,7.53,3196.54,5.7,Unlock,1,Invezz: Pump.fun (PUMP) price analysis: Can buybacks offset $127M unlock pressure?
 2026-07-15,2026-07-15 01:05,mexc,TRIA/USDT,0.00948,4.06,440.0,6.9,,,
-2026-07-15,2026-07-15 12:01,gate,US/USDT,0.033425,23.81,407.58,6.3,,,
+2026-07-15,2026-07-15 12:05,gate,US/USDT,0.03374,24.98,409.47,6.3,,,
 2026-07-15,2026-07-15 01:11,mexc,PUMPFUN/USDT,0.001515,3.69,132.96,8.2,,,
 2026-07-15,2026-07-15 00:45,gate,LAB/USDT,0.26373,5.45,120.63,74.6,,,
 2026-07-15,2026-07-15 01:11,mexc,DODO/USDT,0.02653,36.12,60.71,5.5,,43.0,Coindar: DODO Becomes ENI Super Node
 2026-07-15,2026-07-15 02:01,gate,BSB/USDT,0.15482,3.01,14.3,5.5,,,
-2026-07-15,2026-07-15 12:01,gate,VANRY/USDT,0.005726,6.47,8.41,4.0,,344,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-15,2026-07-15 12:05,gate,VANRY/USDT,0.00565,5.06,8.42,4.0,,344,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-15,2026-07-15 01:11,mexc,VELVET/USDT,0.5911,11.44,7.62,32.2,,14.0,Invezz: Is the VELVET price rally over after its 300% surge?
-2026-07-15,2026-07-15 12:01,gate,KAITO/USDT,0.8061,3.64,4.42,5.0,,95,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
-2026-07-15,2026-07-15 12:01,gate,PI/USDT,0.0818,3.68,2.45,6.2,,,
+2026-07-15,2026-07-15 12:01,gate,KAITO/USDT,0.8061,3.64,4.42,5.0,,95.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-15,2026-07-15 12:05,gate,PI/USDT,0.0822,4.18,2.45,6.2,,,
 2026-07-15,2026-07-15 11:41,gate,BEAT/USDT,2.6144,4.16,2.11,3.9,,37.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
