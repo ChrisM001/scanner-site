@@ -820,14 +820,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-14,2026-07-14 16:06,gate,PI/USDT,0.0806,4.27,3.59,8.4,,,
 2026-07-14,2026-07-14 00:31,mexc,DEXE/USDT,41.73,3.62,3.47,10.5,,0.0,Coinpedia: Top AI Crypto Coins To Watch This Week
 2026-07-14,2026-07-14 23:31,gate,KAITO/USDT,0.7755,19.53,2.92,3.2,,,
-2026-07-15,2026-07-15 08:01,gate,AKE/USDT,0.000631,232.24,29674.66,12.9,,265,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-15,2026-07-15 08:01,gate,PUMP/USDT,0.001653,9.25,3026.96,5.4,Unlock,1,Invezz: Pump.fun (PUMP) price analysis: Can buybacks offset $127M unlock pressure?
+2026-07-15,2026-07-15 08:06,gate,AKE/USDT,0.000611,222.13,34552.35,15.0,,265,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-15,2026-07-15 08:06,gate,PUMP/USDT,0.001666,10.11,3038.46,5.4,Unlock,1,Invezz: Pump.fun (PUMP) price analysis: Can buybacks offset $127M unlock pressure?
 2026-07-15,2026-07-15 01:05,mexc,TRIA/USDT,0.00948,4.06,440.0,6.9,,,
-2026-07-15,2026-07-15 08:01,gate,US/USDT,0.034116,26.37,304.67,4.7,,,
+2026-07-15,2026-07-15 08:06,gate,US/USDT,0.034103,26.32,312.53,4.8,,,
 2026-07-15,2026-07-15 01:11,mexc,PUMPFUN/USDT,0.001515,3.69,132.96,8.2,,,
 2026-07-15,2026-07-15 00:45,gate,LAB/USDT,0.26373,5.45,120.63,74.6,,,
 2026-07-15,2026-07-15 01:11,mexc,DODO/USDT,0.02653,36.12,60.71,5.5,,43.0,Coindar: DODO Becomes ENI Super Node
 2026-07-15,2026-07-15 02:01,gate,BSB/USDT,0.15482,3.01,14.3,5.5,,,
 2026-07-15,2026-07-15 01:11,mexc,VELVET/USDT,0.5911,11.44,7.62,32.2,,14.0,Invezz: Is the VELVET price rally over after its 300% surge?
-2026-07-15,2026-07-15 07:01,gate,VANRY/USDT,0.005541,3.03,7.01,3.3,,344.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
-2026-07-15,2026-07-15 08:01,gate,PI/USDT,0.0828,4.94,2.52,6.4,,,
+2026-07-15,2026-07-15 08:06,gate,VANRY/USDT,0.005584,3.83,7.49,3.5,,344,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-15,2026-07-15 08:06,gate,PI/USDT,0.0831,5.32,2.55,6.4,,,
