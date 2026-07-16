@@ -835,9 +835,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-15,2026-07-15 12:01,gate,KAITO/USDT,0.8061,3.64,4.42,5.0,,95.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-15,2026-07-15 21:25,gate,BEAT/USDT,2.6364,5.04,2.34,4.4,,,
 2026-07-15,2026-07-15 14:46,gate,PI/USDT,0.0814,3.17,2.05,5.2,,,
-2026-07-16,2026-07-16 05:15,gate,AKE/USDT,0.000804,18.63,26808.93,104.2,,266,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-16,2026-07-16 05:15,gate,BANK/USDT,0.05577,9.1,1027.36,3.1,,366,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-16,2026-07-16 05:15,gate,US/USDT,0.042904,21.37,775.81,14.2,,,
+2026-07-16,2026-07-16 05:35,gate,AKE/USDT,0.000818,20.75,27071.37,105.2,,266,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-16,2026-07-16 05:35,gate,BANK/USDT,0.05522,8.02,1040.98,3.2,,366,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-16,2026-07-16 05:35,gate,US/USDT,0.044413,25.64,800.91,14.6,,,
 2026-07-16,2026-07-16 00:01,mexc,ROAM/USDT,0.008451,17.73,106.32,5.6,,453.0,CoinMarketCal: BNB (BNB) - TOKEN2049 Keynote - From 30 Apr to 01 May 2025
 2026-07-16,2026-07-16 00:05,gate,LAB/USDT,0.25563,5.43,63.84,40.2,,,
 2026-07-16,2026-07-16 02:45,gate,VELVET/USDT,0.5226,3.05,31.08,3.0,,15.0,Invezz: Is the VELVET price rally over after its 300% surge?
