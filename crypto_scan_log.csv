@@ -835,6 +835,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-15,2026-07-15 12:01,gate,KAITO/USDT,0.8061,3.64,4.42,5.0,,95.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-15,2026-07-15 21:25,gate,BEAT/USDT,2.6364,5.04,2.34,4.4,,,
 2026-07-15,2026-07-15 14:46,gate,PI/USDT,0.0814,3.17,2.05,5.2,,,
-2026-07-16,2026-07-16 00:01,mexc,ROAM/USDT,0.008451,17.73,106.32,5.6,,453,CoinMarketCal: BNB (BNB) - TOKEN2049 Keynote - From 30 Apr to 01 May 2025
-2026-07-16,2026-07-16 00:01,mexc,ONDO/USDT,0.3682,10.5,20.56,39.6,Partner,0,Coinpedia: ONDO Price Rises 5% as DTCC Tokenization Partnership Expands Tokenized Stocks
+2026-07-16,2026-07-16 00:01,mexc,ROAM/USDT,0.008451,17.73,106.32,5.6,,453.0,CoinMarketCal: BNB (BNB) - TOKEN2049 Keynote - From 30 Apr to 01 May 2025
+2026-07-16,2026-07-16 00:05,gate,LAB/USDT,0.25563,5.43,63.84,40.2,,,
+2026-07-16,2026-07-16 00:01,mexc,ONDO/USDT,0.3682,10.5,20.56,39.6,Partner,0.0,Coinpedia: ONDO Price Rises 5% as DTCC Tokenization Partnership Expands Tokenized Stocks
 2026-07-16,2026-07-16 00:01,mexc,LAB/USDT,0.2473,9.42,4.03,15.7,,,
