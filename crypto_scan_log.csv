@@ -835,14 +835,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-15,2026-07-15 12:01,gate,KAITO/USDT,0.8061,3.64,4.42,5.0,,95.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-15,2026-07-15 21:25,gate,BEAT/USDT,2.6364,5.04,2.34,4.4,,,
 2026-07-15,2026-07-15 14:46,gate,PI/USDT,0.0814,3.17,2.05,5.2,,,
-2026-07-16,2026-07-16 05:05,gate,AKE/USDT,0.000792,16.93,26553.09,103.2,,266,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-16,2026-07-16 05:05,gate,BANK/USDT,0.05518,7.94,998.62,3.0,,366,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-16,2026-07-16 05:05,gate,US/USDT,0.04446,25.77,751.79,13.7,,,
+2026-07-16,2026-07-16 05:11,gate,AKE/USDT,0.000807,19.13,26711.98,103.8,,266,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-16,2026-07-16 05:11,gate,BANK/USDT,0.05601,9.57,1022.07,3.1,,366,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-16,2026-07-16 05:11,gate,US/USDT,0.044408,25.62,764.61,14.0,,,
 2026-07-16,2026-07-16 00:01,mexc,ROAM/USDT,0.008451,17.73,106.32,5.6,,453.0,CoinMarketCal: BNB (BNB) - TOKEN2049 Keynote - From 30 Apr to 01 May 2025
 2026-07-16,2026-07-16 00:05,gate,LAB/USDT,0.25563,5.43,63.84,40.2,,,
 2026-07-16,2026-07-16 02:45,gate,VELVET/USDT,0.5226,3.05,31.08,3.0,,15.0,Invezz: Is the VELVET price rally over after its 300% surge?
+2026-07-16,2026-07-16 05:11,gate,SKL/USDT,0.00482,3.88,22.26,3.0,,41,Coindar: SKALE to Hold Live Stream on X
 2026-07-16,2026-07-16 00:01,mexc,ONDO/USDT,0.3682,10.5,20.56,39.6,Partner,0.0,Coinpedia: ONDO Price Rises 5% as DTCC Tokenization Partnership Expands Tokenized Stocks
-2026-07-16,2026-07-16 05:05,gate,RAVE/USDT,0.3044,6.66,15.47,4.0,,,
+2026-07-16,2026-07-16 05:11,gate,RAVE/USDT,0.3039,6.48,15.56,4.0,,,
 2026-07-16,2026-07-16 03:41,gate,VANRY/USDT,0.005694,3.83,7.26,3.5,,345.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-16,2026-07-16 00:01,mexc,LAB/USDT,0.2473,9.42,4.03,15.7,,,
 2026-07-16,2026-07-16 02:35,gate,PI/USDT,0.0817,3.94,2.15,5.6,,,
