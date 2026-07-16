@@ -835,13 +835,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-15,2026-07-15 12:01,gate,KAITO/USDT,0.8061,3.64,4.42,5.0,,95.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-15,2026-07-15 21:25,gate,BEAT/USDT,2.6364,5.04,2.34,4.4,,,
 2026-07-15,2026-07-15 14:46,gate,PI/USDT,0.0814,3.17,2.05,5.2,,,
-2026-07-16,2026-07-16 03:05,gate,AKE/USDT,0.000761,12.38,25871.31,100.5,,266.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-16,2026-07-16 03:01,gate,US/USDT,0.036591,3.51,571.55,10.4,,,
+2026-07-16,2026-07-16 03:11,gate,AKE/USDT,0.000758,11.88,25942.03,100.8,,266,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-16,2026-07-16 03:11,gate,US/USDT,0.039985,13.11,602.46,11.0,,,
 2026-07-16,2026-07-16 00:01,mexc,ROAM/USDT,0.008451,17.73,106.32,5.6,,453.0,CoinMarketCal: BNB (BNB) - TOKEN2049 Keynote - From 30 Apr to 01 May 2025
 2026-07-16,2026-07-16 00:05,gate,LAB/USDT,0.25563,5.43,63.84,40.2,,,
 2026-07-16,2026-07-16 02:45,gate,VELVET/USDT,0.5226,3.05,31.08,3.0,,15.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-16,2026-07-16 00:01,mexc,ONDO/USDT,0.3682,10.5,20.56,39.6,Partner,0.0,Coinpedia: ONDO Price Rises 5% as DTCC Tokenization Partnership Expands Tokenized Stocks
-2026-07-16,2026-07-16 03:01,gate,RAVE/USDT,0.2961,3.75,14.52,3.7,,,
-2026-07-16,2026-07-16 02:25,gate,VANRY/USDT,0.00565,3.03,7.01,3.4,,345.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
+2026-07-16,2026-07-16 03:11,gate,RAVE/USDT,0.294,3.01,14.59,3.7,,,
+2026-07-16,2026-07-16 03:11,gate,VANRY/USDT,0.00566,3.21,7.11,3.4,,345,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-07-16,2026-07-16 00:01,mexc,LAB/USDT,0.2473,9.42,4.03,15.7,,,
 2026-07-16,2026-07-16 02:35,gate,PI/USDT,0.0817,3.94,2.15,5.6,,,
