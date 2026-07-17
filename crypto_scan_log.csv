@@ -853,16 +853,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-16,2026-07-16 23:40,gate,KAITO/USDT,0.8545,11.9,5.17,6.9,,,
 2026-07-16,2026-07-16 00:01,mexc,LAB/USDT,0.2473,9.42,4.03,15.7,,,
 2026-07-16,2026-07-16 02:35,gate,PI/USDT,0.0817,3.94,2.15,5.6,,,
-2026-07-17,2026-07-17 07:40,mexc,AKE/USDT,0.001035,5.77,11112.82,42.7,,267.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-17,2026-07-17 07:40,mexc,BANK/USDT,0.06296,3.99,968.82,5.1,,367.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-17,2026-07-17 07:51,mexc,AKE/USDT,0.001028,5.01,11159.23,42.9,,267,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-17,2026-07-17 07:51,mexc,BANK/USDT,0.06266,3.5,971.08,5.1,,367,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-17,2026-07-17 07:45,gate,BANK/USDT,0.06314,3.19,717.0,3.5,,367.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-17,2026-07-17 06:10,gate,US/USDT,0.044151,3.22,509.9,12.9,,,
 2026-07-17,2026-07-17 07:10,gate,ESPORTS/USDT,0.02333,3.14,249.59,11.5,,225.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-17,2026-07-17 03:11,mexc,CRO/USDT,0.05917,3.02,74.44,6.0,,0.0,Cointelegraph: Citadel Securities invests $400M in Crypto.com at $20B valuation
-2026-07-17,2026-07-17 06:16,mexc,US/USDT,0.043503,3.4,38.83,11.5,,,
+2026-07-17,2026-07-17 07:51,mexc,US/USDT,0.04337,3.08,36.36,10.8,,,
 2026-07-17,2026-07-17 01:10,mexc,RAVE/USDT,0.3227,3.76,12.88,6.8,,,
 2026-07-17,2026-07-17 06:16,mexc,SKYAI/USDT,0.03329,4.94,11.85,7.6,,,
-2026-07-17,2026-07-17 07:40,mexc,TAC/USDT,0.003701,17.94,6.26,3.4,,,
-2026-07-17,2026-07-17 07:40,mexc,KAITO/USDT,0.868,13.56,5.87,4.0,,97.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-17,2026-07-17 07:51,mexc,TAC/USDT,0.003693,17.68,6.31,3.4,,,
+2026-07-17,2026-07-17 07:51,mexc,KAITO/USDT,0.868,13.56,5.92,4.0,,97,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-17,2026-07-17 07:30,gate,KAITO/USDT,0.8768,3.34,5.56,8.7,,97.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-17,2026-07-17 00:25,mexc,LAB/USDT,0.221,3.03,2.52,9.6,,,
