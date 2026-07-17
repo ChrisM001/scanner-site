@@ -853,10 +853,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-16,2026-07-16 23:40,gate,KAITO/USDT,0.8545,11.9,5.17,6.9,,,
 2026-07-16,2026-07-16 00:01,mexc,LAB/USDT,0.2473,9.42,4.03,15.7,,,
 2026-07-16,2026-07-16 02:35,gate,PI/USDT,0.0817,3.94,2.15,5.6,,,
-2026-07-17,2026-07-17 08:25,gate,AKE/USDT,0.001137,11.31,11355.9,82.8,,267.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-17,2026-07-17 08:40,gate,AKE/USDT,0.00112,9.65,11451.28,83.5,,267.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-17,2026-07-17 08:01,mexc,AKE/USDT,0.001023,4.52,10586.1,40.7,,267.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-17,2026-07-17 07:55,mexc,BANK/USDT,0.06245,3.15,971.82,5.1,,367.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-17,2026-07-17 08:25,gate,BANK/USDT,0.06354,3.84,661.02,3.3,,367.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-17,2026-07-17 08:40,gate,BANK/USDT,0.06432,5.12,668.6,3.3,,367.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-17,2026-07-17 06:10,gate,US/USDT,0.044151,3.22,509.9,12.9,,,
 2026-07-17,2026-07-17 07:10,gate,ESPORTS/USDT,0.02333,3.14,249.59,11.5,,225.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-17,2026-07-17 03:11,mexc,CRO/USDT,0.05917,3.02,74.44,6.0,,0.0,Cointelegraph: Citadel Securities invests $400M in Crypto.com at $20B valuation
