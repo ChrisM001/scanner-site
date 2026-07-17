@@ -853,3 +853,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-16,2026-07-16 23:40,gate,KAITO/USDT,0.8545,11.9,5.17,6.9,,,
 2026-07-16,2026-07-16 00:01,mexc,LAB/USDT,0.2473,9.42,4.03,15.7,,,
 2026-07-16,2026-07-16 02:35,gate,PI/USDT,0.0817,3.94,2.15,5.6,,,
+2026-07-17,2026-07-17 00:01,mexc,AKE/USDT,0.001018,4.05,10990.86,42.2,,267,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-17,2026-07-17 00:01,mexc,CRO/USDT,0.0612,6.56,67.99,5.5,,0,Cointelegraph: Citadel Securities invests $400M in Crypto.com at $20B valuation
+2026-07-17,2026-07-17 00:01,mexc,RAVE/USDT,0.322,3.53,12.87,6.8,,,
+2026-07-17,2026-07-17 00:01,mexc,SKYAI/USDT,0.03397,7.09,7.13,4.6,,,
