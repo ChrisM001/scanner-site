@@ -854,18 +854,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-16,2026-07-16 00:01,mexc,LAB/USDT,0.2473,9.42,4.03,15.7,,,
 2026-07-16,2026-07-16 02:35,gate,PI/USDT,0.0817,3.94,2.15,5.6,,,
 2026-07-17,2026-07-17 08:01,mexc,AKE/USDT,0.001023,4.52,10586.1,40.7,,267.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-17,2026-07-17 12:09,gate,AKE/USDT,0.001165,14.09,10084.08,73.5,,267,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-17,2026-07-17 12:20,gate,AKE/USDT,0.001181,15.62,10132.95,73.9,,267,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-17,2026-07-17 07:55,mexc,BANK/USDT,0.06245,3.15,971.82,5.1,,367.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-17,2026-07-17 12:09,gate,BANK/USDT,0.0731,19.46,870.67,4.3,,368,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-17,2026-07-17 12:20,gate,BANK/USDT,0.06966,13.84,932.61,4.6,,368,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-17,2026-07-17 12:01,gate,BILL/USDT,0.02762,4.15,333.07,4.4,,,
 2026-07-17,2026-07-17 11:25,gate,ESPORTS/USDT,0.02498,10.43,275.26,12.7,,226.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-17,2026-07-17 12:09,gate,US/USDT,0.044456,3.93,266.57,6.7,,,
+2026-07-17,2026-07-17 12:20,gate,US/USDT,0.04473,4.57,268.38,6.8,,,
 2026-07-17,2026-07-17 03:11,mexc,CRO/USDT,0.05917,3.02,74.44,6.0,,0.0,Cointelegraph: Citadel Securities invests $400M in Crypto.com at $20B valuation
 2026-07-17,2026-07-17 07:51,mexc,US/USDT,0.04337,3.08,36.36,10.8,,,
 2026-07-17,2026-07-17 01:10,mexc,RAVE/USDT,0.3227,3.76,12.88,6.8,,,
 2026-07-17,2026-07-17 06:16,mexc,SKYAI/USDT,0.03329,4.94,11.85,7.6,,,
 2026-07-17,2026-07-17 08:01,mexc,TAC/USDT,0.003643,16.09,6.3,3.4,,,
 2026-07-17,2026-07-17 08:01,mexc,KAITO/USDT,0.8678,13.54,5.91,4.0,,97.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
-2026-07-17,2026-07-17 12:09,gate,KAITO/USDT,0.8949,5.47,5.54,8.7,,97,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
-2026-07-17,2026-07-17 12:09,gate,ONDO/USDT,0.381,4.84,4.47,10.5,,0,Chainwire: MEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure
+2026-07-17,2026-07-17 12:20,gate,KAITO/USDT,0.9116,7.44,5.73,9.0,,97,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-17,2026-07-17 12:20,gate,ONDO/USDT,0.3817,5.04,4.51,10.6,,0,Chainwire: MEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure
 2026-07-17,2026-07-17 00:25,mexc,LAB/USDT,0.221,3.03,2.52,9.6,,,
