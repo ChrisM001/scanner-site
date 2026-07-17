@@ -854,8 +854,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-16,2026-07-16 00:01,mexc,LAB/USDT,0.2473,9.42,4.03,15.7,,,
 2026-07-16,2026-07-16 02:35,gate,PI/USDT,0.0817,3.94,2.15,5.6,,,
 2026-07-17,2026-07-17 00:05,mexc,AKE/USDT,0.001016,3.84,11009.35,42.3,,267.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-17,2026-07-17 06:20,mexc,BANK/USDT,0.06301,4.07,967.65,5.1,,367,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-17,2026-07-17 05:25,gate,BANK/USDT,0.06335,3.53,837.26,4.1,,367.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-17,2026-07-17 06:20,mexc,BANK/USDT,0.06301,4.07,967.65,5.1,,367.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-17,2026-07-17 06:35,gate,BANK/USDT,0.06307,3.07,855.95,4.2,,367.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-17,2026-07-17 06:10,gate,US/USDT,0.044151,3.22,509.9,12.9,,,
 2026-07-17,2026-07-17 01:15,gate,ESPORTS/USDT,0.02356,4.16,221.23,10.2,,225.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-17,2026-07-17 03:11,mexc,CRO/USDT,0.05917,3.02,74.44,6.0,,0.0,Cointelegraph: Citadel Securities invests $400M in Crypto.com at $20B valuation
@@ -863,5 +863,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-17,2026-07-17 01:10,mexc,RAVE/USDT,0.3227,3.76,12.88,6.8,,,
 2026-07-17,2026-07-17 06:16,mexc,SKYAI/USDT,0.03329,4.94,11.85,7.6,,,
 2026-07-17,2026-07-17 06:20,mexc,TAC/USDT,0.003559,13.41,6.06,3.3,,,
-2026-07-17,2026-07-17 06:20,mexc,KAITO/USDT,0.8586,12.33,5.33,3.6,,96,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-17,2026-07-17 06:20,mexc,KAITO/USDT,0.8586,12.33,5.33,3.6,,96.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-17,2026-07-17 00:25,mexc,LAB/USDT,0.221,3.03,2.52,9.6,,,
