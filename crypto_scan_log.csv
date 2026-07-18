@@ -875,6 +875,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-18,2026-07-18 00:05,mexc,AKE/USDT,0.001401,13.4,8256.97,48.5,,268.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-18,2026-07-18 00:25,gate,AKE/USDT,0.001516,5.5,8043.61,89.1,,268.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-18,2026-07-18 00:01,mexc,BANK/USDT,0.07017,4.73,1611.88,21.2,,368.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-18,2026-07-18 00:40,gate,BANK/USDT,0.07461,5.66,1183.59,9.7,,368.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-18,2026-07-18 00:40,gate,ESPORTS/USDT,0.03264,5.19,278.45,10.9,,226.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-18,2026-07-18 01:06,gate,BANK/USDT,0.07349,4.08,1191.49,9.8,,368.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-18,2026-07-18 01:06,gate,ESPORTS/USDT,0.03418,10.15,278.82,10.9,,226.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-18,2026-07-18 01:06,gate,LRC/USDT,0.0169,4.26,25.5,4.4,,17.0,Binance News: RootData: Number of Crypto Projects Shut Down in 2026 Rises to 70
 2026-07-18,2026-07-18 00:05,mexc,ESPORTS/USDT,0.0318,48.94,24.81,10.0,,226.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
