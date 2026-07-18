@@ -872,15 +872,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-17,2026-07-17 19:46,gate,ONDO/USDT,0.3753,3.27,3.51,8.3,,,
 2026-07-17,2026-07-17 00:25,mexc,LAB/USDT,0.221,3.03,2.52,9.6,,,
 2026-07-18,2026-07-18 00:05,mexc,XEC/USDT,8e-06,8.34,55215.84,3.4,,16.0,Coindar: ECash Released Bitcoin ABC v.0.33.7 on July 1st
-2026-07-18,2026-07-18 19:31,gate,AKE/USDT,0.001995,38.85,13924.08,154.3,,268,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-18,2026-07-18 19:35,gate,AKE/USDT,0.001999,39.12,13953.51,154.6,,268,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-18,2026-07-18 00:05,mexc,AKE/USDT,0.001401,13.4,8256.97,48.5,,268.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-18,2026-07-18 19:31,gate,BANK/USDT,0.11188,58.45,1855.72,15.3,,369,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-18,2026-07-18 19:35,gate,BANK/USDT,0.11231,59.06,1858.51,15.3,,369,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-18,2026-07-18 00:01,mexc,BANK/USDT,0.07017,4.73,1611.88,21.2,,368.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-18,2026-07-18 19:31,gate,ESPORTS/USDT,0.03217,3.67,454.31,17.8,,227,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-18,2026-07-18 19:35,gate,ESPORTS/USDT,0.03583,15.47,458.54,18.0,,227,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-18,2026-07-18 01:20,gate,BILL/USDT,0.02437,5.18,303.04,4.4,,,
-2026-07-18,2026-07-18 19:31,gate,AVAAI/USDT,0.008557,12.12,284.22,3.6,,,
-2026-07-18,2026-07-18 13:49,gate,US/USDT,0.049705,3.08,274.89,7.6,,,
-2026-07-18,2026-07-18 19:31,gate,B/USDT,0.1627,41.72,79.08,14.5,,369,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-18,2026-07-18 19:35,gate,US/USDT,0.049732,3.14,288.54,8.0,,,
+2026-07-18,2026-07-18 19:35,gate,AVAAI/USDT,0.008561,12.17,284.29,3.6,,,
+2026-07-18,2026-07-18 19:35,gate,B/USDT,0.1627,41.72,79.27,14.5,,369,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-18,2026-07-18 01:10,gate,LRC/USDT,0.01693,4.44,25.55,4.4,,17.0,Binance News: RootData: Number of Crypto Projects Shut Down in 2026 Rises to 70
 2026-07-18,2026-07-18 00:05,mexc,ESPORTS/USDT,0.0318,48.94,24.81,10.0,,226.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-18,2026-07-18 17:40,gate,LAB/USDT,0.19191,4.75,17.23,10.7,,,
