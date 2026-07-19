@@ -884,20 +884,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-18,2026-07-18 01:10,gate,LRC/USDT,0.01693,4.44,25.55,4.4,,17.0,Binance News: RootData: Number of Crypto Projects Shut Down in 2026 Rises to 70
 2026-07-18,2026-07-18 00:05,mexc,ESPORTS/USDT,0.0318,48.94,24.81,10.0,,226.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-18,2026-07-18 23:45,gate,LAB/USDT,0.19276,5.21,16.4,10.2,,,
-2026-07-19,2026-07-19 09:51,gate,PEPE/USDT,3e-06,3.12,6685569.64,15.1,,4.0,CryptoProwl: Binance Meme Selling Intensifies
-2026-07-19,2026-07-19 10:01,gate,BONK/USDT,3e-06,3.08,2453493.74,3.7,Hack,0,Coinpedia: BONK Price Drops Nearly 10% as Treasury Drainer Sells Another 800B Tokens
+2026-07-19,2026-07-19 10:06,gate,PEPE/USDT,3e-06,3.19,6639661.89,15.0,,4,CryptoProwl: Binance Meme Selling Intensifies
+2026-07-19,2026-07-19 10:06,gate,BONK/USDT,3e-06,3.37,2457190.49,3.7,Hack,0,Coinpedia: BONK Price Drops Nearly 10% as Treasury Drainer Sells Another 800B Tokens
 2026-07-19,2026-07-19 00:11,mexc,AKE/USDT,0.002038,19.2,8823.0,81.8,,269.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-19,2026-07-19 00:55,gate,AKE/USDT,0.002099,5.08,8762.59,145.3,,269.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-19,2026-07-19 10:01,gate,BANK/USDT,0.14167,27.38,1675.2,25.4,,369,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-19,2026-07-19 10:06,gate,BANK/USDT,0.14036,26.2,1682.55,25.5,,369,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-19,2026-07-19 00:11,mexc,BANK/USDT,0.10974,38.87,864.34,18.7,,369.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-19,2026-07-19 10:01,gate,ESPORTS/USDT,0.04322,42.31,814.47,31.4,,228,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-19,2026-07-19 10:01,gate,HOME/USDT,0.00837,16.25,368.94,4.6,,72,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-07-19,2026-07-19 10:06,gate,ESPORTS/USDT,0.04452,46.59,822.81,31.8,,228,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-19,2026-07-19 10:06,gate,HOME/USDT,0.00832,15.56,370.88,4.6,,72,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-07-19,2026-07-19 02:25,gate,US/USDT,0.048492,3.58,240.13,7.2,,,
-2026-07-19,2026-07-19 10:01,gate,BILL/USDT,0.02707,7.55,229.98,3.4,,,
-2026-07-19,2026-07-19 10:01,gate,B/USDT,0.1969,18.19,85.93,20.5,,369,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-19,2026-07-19 10:06,gate,BILL/USDT,0.02651,5.32,230.73,3.5,,,
+2026-07-19,2026-07-19 10:06,gate,B/USDT,0.1981,18.91,86.15,20.5,,369,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-19,2026-07-19 00:11,mexc,BILL/USDT,0.02572,7.7,84.24,3.6,,,
 2026-07-19,2026-07-19 00:11,mexc,B/USDT,0.17,20.14,66.76,31.9,,369.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-19,2026-07-19 00:11,mexc,ESPORTS/USDT,0.03129,49.92,65.11,28.8,,227.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-19,2026-07-19 03:35,gate,NES/USDT,0.2325,3.24,14.27,3.6,,,
 2026-07-19,2026-07-19 00:11,mexc,FARTCOIN/USDT,0.13426,4.1,7.19,8.6,,100.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-07-19,2026-07-19 10:01,gate,KAITO/USDT,0.9156,12.83,3.64,7.9,,99,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-19,2026-07-19 10:06,gate,KAITO/USDT,0.9182,13.15,3.72,8.1,,99,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
