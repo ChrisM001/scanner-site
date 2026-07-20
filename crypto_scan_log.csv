@@ -906,7 +906,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-20,2026-07-20 03:05,gate,PEPE/USDT,3e-06,3.14,26281572.37,60.0,,4.0,CryptoProwl: Binance Meme Selling Intensifies
 2026-07-20,2026-07-20 01:35,gate,AKE/USDT,0.002197,11.06,3475.13,65.2,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-20,2026-07-20 00:01,mexc,AKE/USDT,0.001979,4.53,2913.9,30.4,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-20,2026-07-20 06:05,gate,BANK/USDT,0.25332,11.79,1811.56,84.9,,370,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-20,2026-07-20 06:25,gate,BANK/USDT,0.24386,7.62,1825.69,85.6,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-20,2026-07-20 00:01,mexc,BANK/USDT,0.22324,39.25,1373.05,81.7,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-20,2026-07-20 04:40,gate,ESPORTS/USDT,0.02415,12.22,853.41,37.1,,228.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-20,2026-07-20 03:40,gate,HOME/USDT,0.0077,3.08,393.08,5.3,,72.0,CoinMarketCal: HOME - Announcement - 18 May 2026
@@ -914,6 +914,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-20,2026-07-20 06:05,gate,AVAAI/USDT,0.011482,13.69,83.27,3.0,,,
 2026-07-20,2026-07-20 00:01,mexc,B/USDT,0.2511,16.25,60.14,39.2,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-20,2026-07-20 03:42,gate,KAITO/USDT,0.9891,5.46,6.39,17.1,,99.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
-2026-07-20,2026-07-20 06:05,gate,ACE/USDT,0.094,11.51,3.91,4.7,,311,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
+2026-07-20,2026-07-20 06:25,gate,ACE/USDT,0.1112,31.91,4.19,5.0,,311.0,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
 2026-07-20,2026-07-20 06:01,gate,TLM/USDT,0.00232,3.94,3.68,15.2,,84.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
 2026-07-20,2026-07-20 05:35,gate,PI/USDT,0.0961,3.78,3.33,9.9,,,
