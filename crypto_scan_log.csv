@@ -906,14 +906,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-20,2026-07-20 03:05,gate,PEPE/USDT,3e-06,3.14,26281572.37,60.0,,4.0,CryptoProwl: Binance Meme Selling Intensifies
 2026-07-20,2026-07-20 01:35,gate,AKE/USDT,0.002197,11.06,3475.13,65.2,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-20,2026-07-20 00:01,mexc,AKE/USDT,0.001979,4.53,2913.9,30.4,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-20,2026-07-20 05:25,gate,BANK/USDT,0.24273,7.12,1800.07,84.4,,370,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-20,2026-07-20 05:35,gate,BANK/USDT,0.25047,10.53,1807.56,84.7,,370,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-20,2026-07-20 00:01,mexc,BANK/USDT,0.22324,39.25,1373.05,81.7,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-20,2026-07-20 04:40,gate,ESPORTS/USDT,0.02415,12.22,853.41,37.1,,228.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-20,2026-07-20 03:40,gate,HOME/USDT,0.0077,3.08,393.08,5.3,,72.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-07-20,2026-07-20 00:01,mexc,PUMPFUN/USDT,0.001981,18.19,177.46,13.4,,,
-2026-07-20,2026-07-20 05:25,gate,AVAAI/USDT,0.011312,12.01,87.69,3.2,,,
+2026-07-20,2026-07-20 05:35,gate,AVAAI/USDT,0.011224,11.14,88.21,3.2,,,
 2026-07-20,2026-07-20 00:01,mexc,B/USDT,0.2511,16.25,60.14,39.2,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-20,2026-07-20 03:42,gate,KAITO/USDT,0.9891,5.46,6.39,17.1,,99.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
-2026-07-20,2026-07-20 05:25,gate,TLM/USDT,0.002316,3.76,3.66,15.1,,84,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
-2026-07-20,2026-07-20 05:25,gate,ACE/USDT,0.0924,9.61,3.58,4.3,,311,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
-2026-07-20,2026-07-20 05:25,gate,PI/USDT,0.0967,4.43,3.32,9.9,,,
+2026-07-20,2026-07-20 05:25,gate,TLM/USDT,0.002316,3.76,3.66,15.1,,84.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
+2026-07-20,2026-07-20 05:35,gate,ACE/USDT,0.0944,11.98,3.65,4.4,,311,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
+2026-07-20,2026-07-20 05:35,gate,PI/USDT,0.0961,3.78,3.33,9.9,,,
