@@ -905,11 +905,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-19,2026-07-19 22:35,gate,PI/USDT,0.0918,7.49,3.26,8.9,,,
 2026-07-20,2026-07-20 01:35,gate,AKE/USDT,0.002197,11.06,3475.13,65.2,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-20,2026-07-20 00:01,mexc,AKE/USDT,0.001979,4.53,2913.9,30.4,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-20,2026-07-20 02:45,gate,BANK/USDT,0.2463,8.69,1613.32,75.6,,370,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-20,2026-07-20 02:50,gate,BANK/USDT,0.2408,6.27,1627.88,76.3,,370,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-20,2026-07-20 00:01,mexc,BANK/USDT,0.22324,39.25,1373.05,81.7,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-20,2026-07-20 02:45,gate,ESPORTS/USDT,0.02404,11.71,850.65,37.0,,228,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-20,2026-07-20 02:45,gate,HOME/USDT,0.00783,4.82,388.82,5.3,,72,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-07-20,2026-07-20 02:50,gate,ESPORTS/USDT,0.02333,8.41,852.01,37.1,,228,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-20,2026-07-20 02:50,gate,HOME/USDT,0.00784,4.95,390.11,5.3,,72,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-07-20,2026-07-20 00:01,mexc,PUMPFUN/USDT,0.001981,18.19,177.46,13.4,,,
 2026-07-20,2026-07-20 00:01,mexc,B/USDT,0.2511,16.25,60.14,39.2,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-20,2026-07-20 02:45,gate,KAITO/USDT,0.9863,5.16,6.34,17.0,,99,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
-2026-07-20,2026-07-20 02:45,gate,PI/USDT,0.0973,5.08,3.07,9.1,,,
+2026-07-20,2026-07-20 02:50,gate,KAITO/USDT,0.987,5.24,6.38,17.1,,99,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-20,2026-07-20 02:50,gate,PI/USDT,0.0973,5.08,3.07,9.1,,,
+2026-07-20,2026-07-20 02:50,gate,ACE/USDT,0.0977,15.9,2.5,3.0,,311,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
