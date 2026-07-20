@@ -904,17 +904,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-19,2026-07-19 22:35,gate,TLM/USDT,0.002261,30.54,3.38,12.5,,,
 2026-07-19,2026-07-19 22:35,gate,PI/USDT,0.0918,7.49,3.26,8.9,,,
 2026-07-20,2026-07-20 03:05,gate,PEPE/USDT,3e-06,3.14,26281572.37,60.0,,4.0,CryptoProwl: Binance Meme Selling Intensifies
-2026-07-20,2026-07-20 10:15,gate,BONK/USDT,3e-06,8.98,3234331.55,5.4,Hack,1,Coinpedia: BONK Price Drops Nearly 10% as Treasury Drainer Sells Another 800B Tokens
+2026-07-20,2026-07-20 10:21,gate,BONK/USDT,3e-06,9.08,3259814.32,5.4,Hack,1,Coinpedia: BONK Price Drops Nearly 10% as Treasury Drainer Sells Another 800B Tokens
 2026-07-20,2026-07-20 01:35,gate,AKE/USDT,0.002197,11.06,3475.13,65.2,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-20,2026-07-20 00:01,mexc,AKE/USDT,0.001979,4.53,2913.9,30.4,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-20,2026-07-20 10:15,gate,BANK/USDT,0.27292,20.44,1903.23,89.2,,370,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-20,2026-07-20 10:21,gate,BANK/USDT,0.27085,19.53,1910.94,89.6,,370,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-20,2026-07-20 00:01,mexc,BANK/USDT,0.22324,39.25,1373.05,81.7,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-20,2026-07-20 04:40,gate,ESPORTS/USDT,0.02415,12.22,853.41,37.1,,228.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-20,2026-07-20 10:01,gate,HOME/USDT,0.0077,3.08,278.69,3.8,,73.0,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-07-20,2026-07-20 10:21,gate,HOME/USDT,0.00773,3.48,281.53,3.8,,73,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-07-20,2026-07-20 00:01,mexc,PUMPFUN/USDT,0.001981,18.19,177.46,13.4,,,
 2026-07-20,2026-07-20 10:01,gate,AVAAI/USDT,0.010555,4.52,95.35,3.4,,,
 2026-07-20,2026-07-20 00:01,mexc,B/USDT,0.2511,16.25,60.14,39.2,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-20,2026-07-20 10:15,gate,ACE/USDT,0.138,63.7,10.42,12.5,,311,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
-2026-07-20,2026-07-20 10:15,gate,KAITO/USDT,0.9723,3.67,5.92,15.8,,100,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-20,2026-07-20 10:21,gate,ACE/USDT,0.1366,62.04,10.52,12.6,,311,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
+2026-07-20,2026-07-20 10:21,gate,KAITO/USDT,0.972,3.64,5.93,15.8,,100,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-20,2026-07-20 06:01,gate,TLM/USDT,0.00232,3.94,3.68,15.2,,84.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
-2026-07-20,2026-07-20 10:15,gate,PI/USDT,0.0999,7.88,3.57,10.6,,,
+2026-07-20,2026-07-20 10:21,gate,PI/USDT,0.0997,7.67,3.58,10.6,,,
