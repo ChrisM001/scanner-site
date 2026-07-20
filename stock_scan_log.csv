@@ -203,8 +203,14 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-07-16,2026-07-16 12:25,NASDAQ:KUST,1.27,47.52,15.2,0.58,0.63,15.0,,"GlobeNewswire: Country Stampede Shatters Attendance Records With 42,000+ Fans at 30th Anniversary Festival",premarket
 2026-07-16,2026-07-16 09:41,NASDAQ:JTAI,3.621,978.63,12.0,1.22,0.88,0.0,M&A,"Dow Jones Newswires: Jet.AI Hldrs Would Have Ownership in Reverse Takeover Entity, Representing About $10/Shr of Additional Stk and Cash Value >JTAI",premarket
 2026-07-16,2026-07-16 12:25,NASDAQ:SOBR,1.03,43.59,5.9,2.32,1.22,0.0,OFFERING,Dow Jones Newswires: SOBR Safe Shares Plummet as Warrants Are Exercised at Reduced Price,premarket
-2026-07-17,2026-07-17 12:55,NASDAQ:IQST,1.15,29.94,248.6,9.18,0.85,1,,Dow Jones Newswires: IQSTEL Continuing to Evaluate Strategic Acquisitions That Strengthen Profitability and Expand Global Technology Platform >IQST,premarket
-2026-07-17,2026-07-17 12:55,NASDAQ:ATPC,3.804,35.32,207.0,0.47,0.65,50,,"dpa-AFX: Morning Market Movers: NCT, ATPC, ASTC, SNOW See Big Swings",premarket
-2026-07-17,2026-07-17 12:55,NASDAQ:DXST,2.84,25.96,56.2,1.22,0.14,8,,"GlobeNewswire: Decent Holding Provides Business Update: Paid Member Base Reaches Nearly 150,000, Underscoring the Strength of Its Nationwide Community Healthcare Platform",premarket
+2026-07-17,2026-07-17 12:55,NASDAQ:IQST,1.15,29.94,248.6,9.18,0.85,1.0,,Dow Jones Newswires: IQSTEL Continuing to Evaluate Strategic Acquisitions That Strengthen Profitability and Expand Global Technology Platform >IQST,premarket
+2026-07-17,2026-07-17 12:55,NASDAQ:ATPC,3.804,35.32,207.0,0.47,0.65,50.0,,"dpa-AFX: Morning Market Movers: NCT, ATPC, ASTC, SNOW See Big Swings",premarket
+2026-07-17,2026-07-17 12:55,NASDAQ:DXST,2.84,25.96,56.2,1.22,0.14,8.0,,"GlobeNewswire: Decent Holding Provides Business Update: Paid Member Base Reaches Nearly 150,000, Underscoring the Strength of Its Nationwide Community Healthcare Platform",premarket
 2026-07-17,2026-07-17 12:55,NASDAQ:TGHL,1.33,57.77,11.0,12.72,0.94,,,,premarket
 2026-07-17,2026-07-17 08:10,NASDAQ:EHGO,2.0,19.88,0.5,2.24,2.32,16.0,OFFERING,"GlobeNewswire: EShallGo Inc. Announces Pricing of $750,000 Registered Direct Offering",premarket
+2026-07-20,2026-07-20 08:01,AMEX:SLND,1.14,68.06,2083.0,14.24,73.37,2.0,DEAL,BusinessWire: Southland Awarded Projects in the Caribbean and Southwest Totaling $25 Million,premarket
+2026-07-20,2026-07-20 08:01,NASDAQ:TRUG,1.36,16.24,54.0,1.02,0.28,59.0,,Dow Jones Newswires: TruGolf Holdings 1Q Loss $1.4M >TRUG,premarket
+2026-07-20,2026-07-20 08:01,NASDAQ:GLXG,1.18,11.21,31.0,1.71,1.03,38.0,,"dpa-AFX: Morning Market Movers: GLXG, PPCB, DSY, VSME See Big Swings",premarket
+2026-07-20,2026-07-20 08:01,NASDAQ:BIYA,4.19,38.16,13.9,2.67,4.37,11.0,,GlobeNewswire: Baiya International Group Inc. Announces Reverse Split Record Date,premarket
+2026-07-20,2026-07-20 08:01,NASDAQ:PMAX,2.06,17.09,10.5,0.89,5.93,95.0,,"GlobeNewswire: POWELL MAX LIMITED ANNOUNCES 1-FOR-10 SHARE CONSOLIDATION EFFECTIVE APRIL 17, 2026",premarket
+2026-07-20,2026-07-20 08:01,NASDAQ:JLHL,9.66,14.93,0.3,1.28,0.96,33.0,,GlobeNewswire: Julong Holding Limited Announces Changes to Its Board of Directors and Board Committees,premarket
