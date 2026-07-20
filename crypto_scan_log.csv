@@ -904,20 +904,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-19,2026-07-19 22:35,gate,TLM/USDT,0.002261,30.54,3.38,12.5,,,
 2026-07-19,2026-07-19 22:35,gate,PI/USDT,0.0918,7.49,3.26,8.9,,,
 2026-07-20,2026-07-20 11:51,gate,PEPE/USDT,3e-06,3.07,27442992.26,62.6,,0.0,Invezz: PEPE price coils below its 50-day EMA as breakout pressure intensifies
-2026-07-20,2026-07-20 15:31,gate,BONK/USDT,3e-06,11.17,3312539.35,5.5,Hack,1,Coinpedia: BONK Price Drops Nearly 10% as Treasury Drainer Sells Another 800B Tokens
+2026-07-20,2026-07-20 15:36,gate,BONK/USDT,3e-06,10.31,3320019.78,5.5,Hack,1,Coinpedia: BONK Price Drops Nearly 10% as Treasury Drainer Sells Another 800B Tokens
 2026-07-20,2026-07-20 01:35,gate,AKE/USDT,0.002197,11.06,3475.13,65.2,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-20,2026-07-20 00:01,mexc,AKE/USDT,0.001979,4.53,2913.9,30.4,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-20,2026-07-20 15:31,gate,HANA/USDT,0.04384,21.37,2634.97,3.1,,,
-2026-07-20,2026-07-20 15:31,gate,BANK/USDT,0.28056,23.81,1554.84,72.9,,371,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-20,2026-07-20 15:36,gate,HANA/USDT,0.04391,21.57,2646.2,3.1,,,
+2026-07-20,2026-07-20 15:36,gate,BANK/USDT,0.27713,22.3,1556.11,72.9,,371,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-20,2026-07-20 00:01,mexc,BANK/USDT,0.22324,39.25,1373.05,81.7,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-20,2026-07-20 04:40,gate,ESPORTS/USDT,0.02415,12.22,853.41,37.1,,228.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-20,2026-07-20 15:31,gate,HOME/USDT,0.0077,3.08,244.14,3.3,,73,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-07-20,2026-07-20 15:31,gate,HOME/USDT,0.0077,3.08,244.14,3.3,,73.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-07-20,2026-07-20 00:01,mexc,PUMPFUN/USDT,0.001981,18.19,177.46,13.4,,,
 2026-07-20,2026-07-20 12:06,gate,AVAAI/USDT,0.010436,3.34,97.27,3.5,,,
 2026-07-20,2026-07-20 00:01,mexc,B/USDT,0.2511,16.25,60.14,39.2,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-20,2026-07-20 15:31,gate,ACE/USDT,0.1188,40.93,17.73,21.3,,311,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
-2026-07-20,2026-07-20 15:31,gate,PROM/USDT,2.456,53.6,7.3,4.8,,76,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
-2026-07-20,2026-07-20 15:31,gate,ENA/USDT,0.08294,3.86,7.19,4.6,,3,Binance News: Ethena Launches on Monad With USDe and sUSDe Support
-2026-07-20,2026-07-20 15:31,gate,KAITO/USDT,0.979,4.38,5.08,13.6,,100,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-20,2026-07-20 15:36,gate,ACE/USDT,0.1207,43.18,17.83,21.4,,,
+2026-07-20,2026-07-20 15:36,gate,PROM/USDT,2.465,54.16,7.41,4.9,,,
+2026-07-20,2026-07-20 15:36,gate,ENA/USDT,0.08309,4.04,7.27,4.6,,,
+2026-07-20,2026-07-20 15:36,gate,KAITO/USDT,0.9824,4.74,5.11,13.6,,,
 2026-07-20,2026-07-20 06:01,gate,TLM/USDT,0.00232,3.94,3.68,15.2,,84.0,Coindar: Alien Worlds to Hold Live Stream on Twitch on April 27th
-2026-07-20,2026-07-20 15:31,gate,PI/USDT,0.1,7.99,2.42,7.2,,,
+2026-07-20,2026-07-20 15:36,gate,PI/USDT,0.0996,7.56,2.43,7.2,,,
