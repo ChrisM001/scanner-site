@@ -903,15 +903,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-19,2026-07-19 22:35,gate,KAITO/USDT,0.9421,16.09,7.11,15.4,,,
 2026-07-19,2026-07-19 22:35,gate,TLM/USDT,0.002261,30.54,3.38,12.5,,,
 2026-07-19,2026-07-19 22:35,gate,PI/USDT,0.0918,7.49,3.26,8.9,,,
-2026-07-20,2026-07-20 03:05,gate,PEPE/USDT,3e-06,3.14,26281572.37,60.0,,4,CryptoProwl: Binance Meme Selling Intensifies
+2026-07-20,2026-07-20 03:05,gate,PEPE/USDT,3e-06,3.14,26281572.37,60.0,,4.0,CryptoProwl: Binance Meme Selling Intensifies
 2026-07-20,2026-07-20 01:35,gate,AKE/USDT,0.002197,11.06,3475.13,65.2,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-20,2026-07-20 00:01,mexc,AKE/USDT,0.001979,4.53,2913.9,30.4,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-20,2026-07-20 03:05,gate,BANK/USDT,0.24344,7.43,1643.37,77.0,,370,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-20,2026-07-20 03:10,gate,BANK/USDT,0.2414,6.53,1647.05,77.2,,370,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-20,2026-07-20 00:01,mexc,BANK/USDT,0.22324,39.25,1373.05,81.7,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-20,2026-07-20 03:05,gate,ESPORTS/USDT,0.0224,4.09,834.55,36.3,,228,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-20,2026-07-20 03:05,gate,HOME/USDT,0.00776,3.88,389.26,5.3,,72,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-07-20,2026-07-20 03:10,gate,ESPORTS/USDT,0.02254,4.74,835.93,36.4,,228,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-20,2026-07-20 03:10,gate,HOME/USDT,0.00774,3.61,390.2,5.3,,72,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-07-20,2026-07-20 00:01,mexc,PUMPFUN/USDT,0.001981,18.19,177.46,13.4,,,
 2026-07-20,2026-07-20 00:01,mexc,B/USDT,0.2511,16.25,60.14,39.2,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-20,2026-07-20 03:05,gate,KAITO/USDT,0.989,5.45,6.24,16.7,,99,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
-2026-07-20,2026-07-20 03:05,gate,PI/USDT,0.0974,5.18,3.04,9.0,,,
-2026-07-20,2026-07-20 03:05,gate,ACE/USDT,0.0959,13.76,2.55,3.1,,311,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
+2026-07-20,2026-07-20 03:10,gate,KAITO/USDT,0.9874,5.28,6.26,16.7,,99,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-20,2026-07-20 03:10,gate,PI/USDT,0.0972,4.97,3.05,9.1,,,
+2026-07-20,2026-07-20 03:10,gate,ACE/USDT,0.0947,12.34,2.61,3.1,,311,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
