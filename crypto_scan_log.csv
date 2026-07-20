@@ -903,8 +903,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-19,2026-07-19 22:35,gate,KAITO/USDT,0.9421,16.09,7.11,15.4,,,
 2026-07-19,2026-07-19 22:35,gate,TLM/USDT,0.002261,30.54,3.38,12.5,,,
 2026-07-19,2026-07-19 22:35,gate,PI/USDT,0.0918,7.49,3.26,8.9,,,
-2026-07-20,2026-07-20 00:10,gate,AKE/USDT,0.002089,5.63,3343.98,62.8,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-20,2026-07-20 01:20,gate,AKE/USDT,0.002101,6.2,3439.16,64.5,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-20,2026-07-20 00:01,mexc,AKE/USDT,0.001979,4.53,2913.9,30.4,,270.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-20,2026-07-20 00:01,mexc,BANK/USDT,0.22324,39.25,1373.05,81.7,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-20,2026-07-20 01:20,gate,ESPORTS/USDT,0.02314,7.53,865.14,37.6,,228.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-20,2026-07-20 00:01,mexc,PUMPFUN/USDT,0.001981,18.19,177.46,13.4,,,
 2026-07-20,2026-07-20 00:01,mexc,B/USDT,0.2511,16.25,60.14,39.2,,370.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
