@@ -930,9 +930,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-21,2026-07-21 00:01,mexc,1000BONK/USDT,0.003181,3.61,10803.22,12.0,,,
 2026-07-21,2026-07-21 03:50,gate,AKE/USDT,0.00176,3.99,1974.52,40.9,,271.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-21,2026-07-21 00:50,gate,HEMI/USDT,0.007108,3.87,1564.4,6.1,,132.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-07-21,2026-07-21 03:50,gate,ERA/USDT,0.0993,57.37,1205.44,3.2,,20.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-07-21,2026-07-21 04:05,gate,ERA/USDT,0.1023,62.12,1284.9,3.4,,20.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-07-21,2026-07-21 01:46,gate,BANK/USDT,0.27837,4.1,887.09,59.3,,371.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-21,2026-07-21 03:50,gate,ESPORTS/USDT,0.02132,5.7,239.0,11.0,,229.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-21,2026-07-21 04:05,gate,ESPORTS/USDT,0.02163,7.24,206.1,9.5,,229.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-21,2026-07-21 00:01,mexc,ESPORTS/USDT,0.02014,3.22,13.31,7.1,,229.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-21,2026-07-21 00:40,gate,PROM/USDT,2.02,4.34,2.85,10.7,,77.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
 2026-07-21,2026-07-21 00:05,gate,ACE/USDT,0.1167,3.46,2.83,28.5,,312.0,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
