@@ -928,13 +928,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-20,2026-07-20 23:05,gate,PI/USDT,0.0974,5.18,2.12,6.3,,,
 2026-07-20,2026-07-20 21:46,gate,ONDO/USDT,0.3566,3.33,2.03,5.4,,,
 2026-07-21,2026-07-21 00:01,mexc,1000BONK/USDT,0.003181,3.61,10803.22,12.0,,,
-2026-07-21,2026-07-21 05:50,gate,ERA/USDT,0.1011,60.22,1876.34,5.0,,20.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-07-21,2026-07-21 05:55,gate,ERA/USDT,0.1022,61.97,1887.72,5.0,,20.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-07-21,2026-07-21 04:10,gate,AKE/USDT,0.001799,6.31,1802.55,37.3,,271.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-21,2026-07-21 00:50,gate,HEMI/USDT,0.007108,3.87,1564.4,6.1,,132.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-07-21,2026-07-21 01:46,gate,BANK/USDT,0.27837,4.1,887.09,59.3,,371.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-21,2026-07-21 05:50,gate,ESPORTS/USDT,0.02146,6.4,207.63,9.5,,229.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-21,2026-07-21 05:55,gate,ESPORTS/USDT,0.02173,7.73,208.29,9.6,,229.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-21,2026-07-21 05:55,gate,NIGHT/USDT,0.01885,3.29,116.06,3.9,Listing,226.0,CoinMarketCal: NIGHT (NIGHT) - Gate.io Listing - 09 Dec 2025
 2026-07-21,2026-07-21 00:01,mexc,ESPORTS/USDT,0.02014,3.22,13.31,7.1,,229.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-21,2026-07-21 05:50,gate,ADA/USDT,0.1766,4.13,10.13,28.7,Upgrade,0.0,"Coinpedia: Cardano Activates Van Rossem Hard Fork, What next for ADA?"
-2026-07-21,2026-07-21 05:50,gate,ENA/USDT,0.08539,3.05,7.75,4.9,,4.0,Binance News: Ethena Launches on Monad With USDe and sUSDe Support
+2026-07-21,2026-07-21 05:55,gate,ADA/USDT,0.1761,3.83,10.17,28.9,Upgrade,0.0,"Coinpedia: Cardano Activates Van Rossem Hard Fork, What next for ADA?"
+2026-07-21,2026-07-21 05:55,gate,ENA/USDT,0.0854,3.07,7.78,4.9,,4.0,Binance News: Ethena Launches on Monad With USDe and sUSDe Support
 2026-07-21,2026-07-21 00:40,gate,PROM/USDT,2.02,4.34,2.85,10.7,,77.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
 2026-07-21,2026-07-21 00:05,gate,ACE/USDT,0.1167,3.46,2.83,28.5,,312.0,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
