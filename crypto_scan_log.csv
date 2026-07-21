@@ -928,17 +928,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-20,2026-07-20 23:05,gate,PI/USDT,0.0974,5.18,2.12,6.3,,,
 2026-07-20,2026-07-20 21:46,gate,ONDO/USDT,0.3566,3.33,2.03,5.4,,,
 2026-07-21,2026-07-21 00:01,mexc,1000BONK/USDT,0.003181,3.61,10803.22,12.0,,,
-2026-07-21,2026-07-21 10:02,gate,ERA/USDT,0.0918,45.48,3400.78,9.0,,20.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-07-21,2026-07-21 10:05,gate,ERA/USDT,0.0938,48.65,3443.69,9.1,,20.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-07-21,2026-07-21 09:16,gate,AKE/USDT,0.001758,3.88,1994.66,41.3,,271.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-21,2026-07-21 00:50,gate,HEMI/USDT,0.007108,3.87,1564.4,6.1,,132.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-07-21,2026-07-21 07:56,gate,BANK/USDT,0.30053,12.39,928.04,62.0,,371.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-21,2026-07-21 10:02,gate,ESPORTS/USDT,0.0247,22.46,194.67,8.9,,230.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-21,2026-07-21 09:21,gate,NIGHT/USDT,0.01882,3.12,126.59,4.3,Listing,226.0,CoinMarketCal: NIGHT (NIGHT) - Gate.io Listing - 09 Dec 2025
+2026-07-21,2026-07-21 10:05,gate,ESPORTS/USDT,0.02503,24.1,196.96,9.0,,230.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-21,2026-07-21 10:05,gate,NIGHT/USDT,0.01916,4.99,127.85,4.3,Listing,226.0,CoinMarketCal: NIGHT (NIGHT) - Gate.io Listing - 09 Dec 2025
 2026-07-21,2026-07-21 09:46,gate,US/USDT,0.041547,7.39,91.24,3.0,,,
 2026-07-21,2026-07-21 08:01,gate,B/USDT,0.2535,3.72,27.74,10.9,,371.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-21,2026-07-21 00:01,mexc,ESPORTS/USDT,0.02014,3.22,13.31,7.1,,229.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-21,2026-07-21 09:46,gate,ADA/USDT,0.1751,3.24,10.87,30.8,Upgrade,0.0,"Coinpedia: Cardano Activates Van Rossem Hard Fork, What next for ADA?"
-2026-07-21,2026-07-21 10:02,gate,ENA/USDT,0.08606,3.86,8.26,5.2,,4.0,Binance News: Ethena Launches on Monad With USDe and sUSDe Support
+2026-07-21,2026-07-21 10:05,gate,ENA/USDT,0.08631,4.16,8.29,5.2,,4.0,Binance News: Ethena Launches on Monad With USDe and sUSDe Support
 2026-07-21,2026-07-21 00:40,gate,PROM/USDT,2.02,4.34,2.85,10.7,,77.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
 2026-07-21,2026-07-21 00:05,gate,ACE/USDT,0.1167,3.46,2.83,28.5,,312.0,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
-2026-07-21,2026-07-21 10:02,gate,ONDO/USDT,0.4027,12.71,2.11,5.7,,3.0,Chainwire: MEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure
+2026-07-21,2026-07-21 10:05,gate,ONDO/USDT,0.4013,12.31,2.12,5.7,,4.0,Chainwire: MEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure
