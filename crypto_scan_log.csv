@@ -946,17 +946,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-21,2026-07-21 00:05,gate,ACE/USDT,0.1167,3.46,2.83,28.5,,312.0,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
 2026-07-21,2026-07-21 22:01,gate,ONDO/USDT,0.3921,9.74,2.7,7.3,,,
 2026-07-21,2026-07-21 22:01,gate,GRAM/USDT,1.5364,7.37,2.53,4.4,,,
-2026-07-22,2026-07-22 12:40,gate,AKE/USDT,0.001867,10.58,1428.23,31.5,,272,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-22,2026-07-22 13:11,gate,AKE/USDT,0.001866,10.57,1522.58,33.5,,272,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-22,2026-07-22 00:11,mexc,AKE/USDT,0.001687,5.88,1152.37,13.5,,272.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-22,2026-07-22 05:35,gate,BANK/USDT,0.19077,4.39,980.84,93.9,,372.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-22,2026-07-22 00:11,mexc,BANK/USDT,0.18247,10.63,812.88,112.9,,372.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-22,2026-07-22 00:11,mexc,NIGHT/USDT,0.02367,9.07,562.47,6.3,Listing,227.0,CoinMarketCal: NIGHT (NIGHT) - Gate.io Listing - 09 Dec 2025
-2026-07-22,2026-07-22 12:40,gate,ERA/USDT,0.0998,8.6,301.91,18.5,,21,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-07-22,2026-07-22 13:11,gate,ERA/USDT,0.101,9.9,293.84,18.0,,21,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-07-22,2026-07-22 00:11,mexc,PUMPFUN/USDT,0.00204,3.44,151.15,14.1,,,
-2026-07-22,2026-07-22 12:40,gate,US/USDT,0.045387,9.8,150.69,5.1,,,
-2026-07-22,2026-07-22 12:40,gate,LAB/USDT,0.14826,7.47,45.77,26.4,,,
+2026-07-22,2026-07-22 13:11,gate,US/USDT,0.045099,9.1,150.83,5.2,,,
+2026-07-22,2026-07-22 13:11,gate,LAB/USDT,0.14919,8.14,45.75,26.4,,,
 2026-07-22,2026-07-22 00:11,mexc,ESPORTS/USDT,0.03052,5.86,21.02,12.2,,230.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-22,2026-07-22 12:40,gate,RE/USDT,0.47474,20.24,14.83,3.0,Listing,22,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
+2026-07-22,2026-07-22 13:11,gate,RE/USDT,0.472,19.55,16.46,3.3,Listing,22,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-22,2026-07-22 00:11,mexc,B/USDT,0.247,5.69,7.75,5.8,,372.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-22,2026-07-22 00:11,mexc,FWDISTOCK/USDT,5.04,14.0,4.09,3.9,,,
-2026-07-22,2026-07-22 11:05,gate,ONDO/USDT,0.4134,3.04,2.14,6.2,,0.0,CoinMarketCal: Ondo: enables tokenized stocks as perp collateral - 21 Jul 2026
+2026-07-22,2026-07-22 13:11,gate,ONDO/USDT,0.4145,3.32,2.21,6.4,,0,CoinMarketCal: Ondo: enables tokenized stocks as perp collateral - 21 Jul 2026
