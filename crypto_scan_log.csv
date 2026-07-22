@@ -946,15 +946,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-21,2026-07-21 00:05,gate,ACE/USDT,0.1167,3.46,2.83,28.5,,312.0,CoinMarketCal: Fusionist (ACE) - Fusionist AMA - 16 Sep 2025
 2026-07-21,2026-07-21 22:01,gate,ONDO/USDT,0.3921,9.74,2.7,7.3,,,
 2026-07-21,2026-07-21 22:01,gate,GRAM/USDT,1.5364,7.37,2.53,4.4,,,
-2026-07-22,2026-07-22 08:01,gate,AKE/USDT,0.001837,8.84,1179.23,26.0,,272,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-22,2026-07-22 08:35,gate,AKE/USDT,0.001776,5.21,1244.36,27.4,,272,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-22,2026-07-22 00:11,mexc,AKE/USDT,0.001687,5.88,1152.37,13.5,,272.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-22,2026-07-22 05:35,gate,BANK/USDT,0.19077,4.39,980.84,93.9,,372.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-22,2026-07-22 00:11,mexc,BANK/USDT,0.18247,10.63,812.88,112.9,,372.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-22,2026-07-22 00:11,mexc,NIGHT/USDT,0.02367,9.07,562.47,6.3,Listing,227.0,CoinMarketCal: NIGHT (NIGHT) - Gate.io Listing - 09 Dec 2025
-2026-07-22,2026-07-22 08:01,gate,ERA/USDT,0.1117,21.55,219.83,13.5,,21,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-07-22,2026-07-22 08:01,gate,ERA/USDT,0.1117,21.55,219.83,13.5,,21.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-07-22,2026-07-22 00:11,mexc,PUMPFUN/USDT,0.00204,3.44,151.15,14.1,,,
-2026-07-22,2026-07-22 08:01,gate,US/USDT,0.044297,7.16,124.47,4.3,,,
-2026-07-22,2026-07-22 08:01,gate,LAB/USDT,0.15523,12.52,40.37,23.3,,,
+2026-07-22,2026-07-22 08:35,gate,US/USDT,0.045552,10.2,133.94,4.6,,,
+2026-07-22,2026-07-22 08:35,gate,LAB/USDT,0.15309,10.97,41.42,23.9,,,
 2026-07-22,2026-07-22 00:11,mexc,ESPORTS/USDT,0.03052,5.86,21.02,12.2,,230.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-22,2026-07-22 00:11,mexc,B/USDT,0.247,5.69,7.75,5.8,,372.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-22,2026-07-22 00:11,mexc,FWDISTOCK/USDT,5.04,14.0,4.09,3.9,,,
