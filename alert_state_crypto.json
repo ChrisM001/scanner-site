@@ -1,1 +1,1 @@
-{"set": ["AKE/USDT", "ERA/USDT", "LAB/USDT", "ONDO/USDT", "RE/USDT", "US/USDT"], "left": {}, "vals": {"AKE/USDT": 8.53, "ERA/USDT": 10.45, "US/USDT": 7.73, "LAB/USDT": 10.92, "RE/USDT": 23.69, "ONDO/USDT": 3.04}}
+{"set": ["AKE/USDT", "ERA/USDT", "LAB/USDT", "RE/USDT", "US/USDT"], "left": {"ONDO/USDT": 1784728274.470784}, "vals": {"AKE/USDT": 8.45, "ERA/USDT": 9.58, "US/USDT": 7.77, "LAB/USDT": 9.97, "RE/USDT": 23.68}}
