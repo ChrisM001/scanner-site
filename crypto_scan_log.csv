@@ -947,7 +947,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-21,2026-07-21 22:01,gate,ONDO/USDT,0.3921,9.74,2.7,7.3,,,
 2026-07-21,2026-07-21 22:01,gate,GRAM/USDT,1.5364,7.37,2.53,4.4,,,
 2026-07-22,2026-07-22 00:11,mexc,AKE/USDT,0.001687,5.88,1152.37,13.5,,272.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-22,2026-07-22 00:25,gate,BANK/USDT,0.19335,5.8,910.88,87.2,,372.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-22,2026-07-22 00:55,gate,BANK/USDT,0.18825,3.01,928.55,88.9,,372.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-22,2026-07-22 00:11,mexc,BANK/USDT,0.18247,10.63,812.88,112.9,,372.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-22,2026-07-22 00:11,mexc,NIGHT/USDT,0.02367,9.07,562.47,6.3,Listing,227.0,CoinMarketCal: NIGHT (NIGHT) - Gate.io Listing - 09 Dec 2025
 2026-07-22,2026-07-22 00:11,mexc,PUMPFUN/USDT,0.00204,3.44,151.15,14.1,,,
