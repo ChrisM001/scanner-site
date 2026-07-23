@@ -964,12 +964,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-22,2026-07-22 17:41,gate,ADA/USDT,0.1788,3.0,6.54,18.7,,,
 2026-07-22,2026-07-22 00:11,mexc,FWDISTOCK/USDT,5.04,14.0,4.09,3.9,,,
 2026-07-22,2026-07-22 21:50,gate,ONDO/USDT,0.4154,3.54,2.45,7.1,,,
-2026-07-23,2026-07-23 01:20,gate,AKE/USDT,0.001794,5.12,1570.9,36.4,,273.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-23,2026-07-23 01:25,gate,AKE/USDT,0.001786,4.67,1573.6,36.5,,273.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-23,2026-07-23 00:45,mexc,BANK/USDT,0.23725,28.55,588.17,111.0,,373.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-23,2026-07-23 01:20,gate,BANK/USDT,0.25363,9.78,500.95,62.7,,373.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-23,2026-07-23 01:25,gate,BANK/USDT,0.25266,9.36,502.32,62.8,,373.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-23,2026-07-23 00:45,mexc,NIGHT/USDT,0.02242,9.9,402.09,5.2,Listing,228.0,CoinMarketCal: NIGHT (NIGHT) - Gate.io Listing - 09 Dec 2025
 2026-07-23,2026-07-23 00:25,gate,ERA/USDT,0.101,4.12,139.35,15.9,,22.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
-2026-07-23,2026-07-23 01:10,gate,RIF/USDT,0.07023,4.87,73.12,5.2,,47.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
+2026-07-23,2026-07-23 01:25,gate,RIF/USDT,0.0699,4.38,73.27,5.2,,47.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
 2026-07-23,2026-07-23 00:45,mexc,ZAMA/USDT,0.04878,17.03,67.09,3.2,Partner,1.0,CoinMarketCal: Zama: partners with Elliptic for confidential compliance screening - 21 Jul 2026
 2026-07-23,2026-07-23 00:45,mexc,RIF/USDT,0.06645,13.68,29.16,4.7,,47.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
 2026-07-23,2026-07-23 00:50,gate,MIRA/USDT,0.05032,3.73,9.39,6.0,Listing,299.0,CoinMarketCal: Mira (MIRA) - Gate Listing - 26 Sep 2025
