@@ -964,18 +964,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-22,2026-07-22 17:41,gate,ADA/USDT,0.1788,3.0,6.54,18.7,,,
 2026-07-22,2026-07-22 00:11,mexc,FWDISTOCK/USDT,5.04,14.0,4.09,3.9,,,
 2026-07-22,2026-07-22 21:50,gate,ONDO/USDT,0.4154,3.54,2.45,7.1,,,
-2026-07-23,2026-07-23 10:41,gate,AKE/USDT,0.001954,14.5,1605.45,37.2,,273,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-23,2026-07-23 10:51,gate,AKE/USDT,0.001966,15.23,1626.72,37.7,,273,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-23,2026-07-23 00:45,mexc,BANK/USDT,0.23725,28.55,588.17,111.0,,373.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-23,2026-07-23 10:41,gate,BANK/USDT,0.2507,8.51,403.76,50.5,,373,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-23,2026-07-23 10:51,gate,BANK/USDT,0.25236,9.23,405.52,50.7,,373,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-23,2026-07-23 00:45,mexc,NIGHT/USDT,0.02242,9.9,402.09,5.2,Listing,228.0,CoinMarketCal: NIGHT (NIGHT) - Gate.io Listing - 09 Dec 2025
-2026-07-23,2026-07-23 10:41,gate,ZAMA/USDT,0.05225,9.91,236.74,6.2,Partner,1,CoinMarketCal: Zama: partners with Elliptic for confidential compliance screening - 21 Jul 2026
-2026-07-23,2026-07-23 10:41,gate,ESPORTS/USDT,0.03056,3.28,125.83,6.8,,232,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-23,2026-07-23 10:41,gate,ERA/USDT,0.1028,5.98,92.69,10.6,,22,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
-2026-07-23,2026-07-23 10:41,gate,RIF/USDT,0.07844,17.13,82.0,5.8,,47,Coindar: Rootstock to Join Meetup in Prague on June 12th
+2026-07-23,2026-07-23 10:51,gate,ZAMA/USDT,0.05295,11.38,246.96,6.4,Partner,1,CoinMarketCal: Zama: partners with Elliptic for confidential compliance screening - 21 Jul 2026
+2026-07-23,2026-07-23 10:41,gate,ESPORTS/USDT,0.03056,3.28,125.83,6.8,,232.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-23,2026-07-23 10:51,gate,ERA/USDT,0.1029,6.08,93.26,10.6,,22,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-07-23,2026-07-23 10:51,gate,RIF/USDT,0.07912,18.14,82.34,5.8,,47,Coindar: Rootstock to Join Meetup in Prague on June 12th
 2026-07-23,2026-07-23 00:45,mexc,ZAMA/USDT,0.04878,17.03,67.09,3.2,Partner,1.0,CoinMarketCal: Zama: partners with Elliptic for confidential compliance screening - 21 Jul 2026
-2026-07-23,2026-07-23 10:41,gate,WLFI/USDT,0.06303,12.33,37.46,8.6,,18,The Block: Nearly 1 million wallets are down $3.81 billion on Trumps memecoin: report
+2026-07-23,2026-07-23 10:51,gate,WLFI/USDT,0.06361,13.37,37.76,8.7,,18,The Block: Nearly 1 million wallets are down $3.81 billion on Trumps memecoin: report
 2026-07-23,2026-07-23 01:45,gate,RE/USDT,0.49044,3.41,29.94,5.4,Listing,23.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-23,2026-07-23 00:45,mexc,RIF/USDT,0.06645,13.68,29.16,4.7,,47.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
-2026-07-23,2026-07-23 10:41,gate,LAB/USDT,0.16494,6.39,22.77,12.9,,,
-2026-07-23,2026-07-23 10:41,gate,O/USDT,0.6173,4.57,22.58,4.8,,,
+2026-07-23,2026-07-23 10:51,gate,LAB/USDT,0.16534,6.65,22.96,13.0,,,
+2026-07-23,2026-07-23 10:51,gate,O/USDT,0.6157,4.3,22.6,4.8,,,
 2026-07-23,2026-07-23 04:51,gate,MIRA/USDT,0.05028,3.65,8.37,5.4,Listing,299.0,CoinMarketCal: Mira (MIRA) - Gate Listing - 26 Sep 2025
