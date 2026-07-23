@@ -968,9 +968,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-23,2026-07-23 00:45,mexc,BANK/USDT,0.23725,28.55,588.17,111.0,,373.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-23,2026-07-23 03:45,gate,BANK/USDT,0.23992,3.84,521.65,65.3,,373.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-23,2026-07-23 00:45,mexc,NIGHT/USDT,0.02242,9.9,402.09,5.2,Listing,228.0,CoinMarketCal: NIGHT (NIGHT) - Gate.io Listing - 09 Dec 2025
-2026-07-23,2026-07-23 03:50,gate,ERA/USDT,0.1051,8.35,144.38,16.5,,22.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-07-23,2026-07-23 04:01,gate,ERA/USDT,0.108,11.34,142.28,16.2,,22.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-07-23,2026-07-23 03:50,gate,ZAMA/USDT,0.04988,4.92,123.04,3.2,Partner,1.0,CoinMarketCal: Zama: partners with Elliptic for confidential compliance screening - 21 Jul 2026
-2026-07-23,2026-07-23 03:50,gate,RIF/USDT,0.07778,16.14,84.02,6.0,,47.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
+2026-07-23,2026-07-23 04:01,gate,RIF/USDT,0.07692,14.86,83.27,5.9,,47.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
 2026-07-23,2026-07-23 00:45,mexc,ZAMA/USDT,0.04878,17.03,67.09,3.2,Partner,1.0,CoinMarketCal: Zama: partners with Elliptic for confidential compliance screening - 21 Jul 2026
 2026-07-23,2026-07-23 01:45,gate,RE/USDT,0.49044,3.41,29.94,5.4,Listing,23.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-23,2026-07-23 00:45,mexc,RIF/USDT,0.06645,13.68,29.16,4.7,,47.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
