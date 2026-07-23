@@ -964,3 +964,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-22,2026-07-22 17:41,gate,ADA/USDT,0.1788,3.0,6.54,18.7,,,
 2026-07-22,2026-07-22 00:11,mexc,FWDISTOCK/USDT,5.04,14.0,4.09,3.9,,,
 2026-07-22,2026-07-22 21:50,gate,ONDO/USDT,0.4154,3.54,2.45,7.1,,,
+2026-07-23,2026-07-23 00:01,mexc,BANK/USDT,0.23027,24.77,572.95,108.1,,373.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-23,2026-07-23 00:01,mexc,NIGHT/USDT,0.02197,7.69,391.54,5.1,Listing,228.0,CoinMarketCal: NIGHT (NIGHT) - Gate.io Listing - 09 Dec 2025
+2026-07-23,2026-07-23 00:01,mexc,RIF/USDT,0.06682,14.31,28.29,4.6,,47.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
