@@ -964,16 +964,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-22,2026-07-22 17:41,gate,ADA/USDT,0.1788,3.0,6.54,18.7,,,
 2026-07-22,2026-07-22 00:11,mexc,FWDISTOCK/USDT,5.04,14.0,4.09,3.9,,,
 2026-07-22,2026-07-22 21:50,gate,ONDO/USDT,0.4154,3.54,2.45,7.1,,,
-2026-07-23,2026-07-23 08:02,gate,AKE/USDT,0.00188,10.16,1449.65,33.6,,273,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-23,2026-07-23 08:20,gate,AKE/USDT,0.001881,10.25,1488.49,34.5,,273,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-23,2026-07-23 00:45,mexc,BANK/USDT,0.23725,28.55,588.17,111.0,,373.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-23,2026-07-23 08:02,gate,BANK/USDT,0.24788,7.29,403.55,50.5,,373,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-23,2026-07-23 08:20,gate,BANK/USDT,0.25256,9.31,408.05,51.0,,373,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-23,2026-07-23 00:45,mexc,NIGHT/USDT,0.02242,9.9,402.09,5.2,Listing,228.0,CoinMarketCal: NIGHT (NIGHT) - Gate.io Listing - 09 Dec 2025
-2026-07-23,2026-07-23 08:02,gate,ZAMA/USDT,0.0502,5.6,172.79,4.5,Partner,1,CoinMarketCal: Zama: partners with Elliptic for confidential compliance screening - 21 Jul 2026
-2026-07-23,2026-07-23 08:02,gate,ERA/USDT,0.1068,10.1,99.23,11.3,,22,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
-2026-07-23,2026-07-23 08:02,gate,RIF/USDT,0.07543,12.63,87.45,6.2,,47,Coindar: Rootstock to Join Meetup in Prague on June 12th
+2026-07-23,2026-07-23 08:02,gate,ZAMA/USDT,0.0502,5.6,172.79,4.5,Partner,1.0,CoinMarketCal: Zama: partners with Elliptic for confidential compliance screening - 21 Jul 2026
+2026-07-23,2026-07-23 08:20,gate,ERA/USDT,0.1071,10.41,99.99,11.4,,22,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-07-23,2026-07-23 08:20,gate,RIF/USDT,0.07513,12.18,87.95,6.2,,47,Coindar: Rootstock to Join Meetup in Prague on June 12th
 2026-07-23,2026-07-23 00:45,mexc,ZAMA/USDT,0.04878,17.03,67.09,3.2,Partner,1.0,CoinMarketCal: Zama: partners with Elliptic for confidential compliance screening - 21 Jul 2026
-2026-07-23,2026-07-23 08:02,gate,WLFI/USDT,0.06169,9.94,32.65,7.5,,18,The Block: Nearly 1 million wallets are down $3.81 billion on Trumps memecoin: report
+2026-07-23,2026-07-23 08:20,gate,WLFI/USDT,0.06223,10.91,33.46,7.7,,18,The Block: Nearly 1 million wallets are down $3.81 billion on Trumps memecoin: report
 2026-07-23,2026-07-23 01:45,gate,RE/USDT,0.49044,3.41,29.94,5.4,Listing,23.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-23,2026-07-23 00:45,mexc,RIF/USDT,0.06645,13.68,29.16,4.7,,47.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
-2026-07-23,2026-07-23 08:02,gate,O/USDT,0.6277,6.34,21.66,4.6,,,
+2026-07-23,2026-07-23 08:20,gate,O/USDT,0.622,5.37,22.12,4.7,,,
 2026-07-23,2026-07-23 04:51,gate,MIRA/USDT,0.05028,3.65,8.37,5.4,Listing,299.0,CoinMarketCal: Mira (MIRA) - Gate Listing - 26 Sep 2025
