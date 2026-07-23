@@ -966,6 +966,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-22,2026-07-22 21:50,gate,ONDO/USDT,0.4154,3.54,2.45,7.1,,,
 2026-07-23,2026-07-23 00:15,mexc,BANK/USDT,0.23173,25.56,578.54,109.2,,373.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-23,2026-07-23 00:15,mexc,NIGHT/USDT,0.02203,7.99,395.55,5.1,Listing,228.0,CoinMarketCal: NIGHT (NIGHT) - Gate.io Listing - 09 Dec 2025
-2026-07-23,2026-07-23 00:10,gate,RIF/USDT,0.06924,3.39,72.89,5.2,,47.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
+2026-07-23,2026-07-23 00:20,gate,ERA/USDT,0.1015,4.64,139.24,15.9,,22.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-07-23,2026-07-23 00:20,gate,RIF/USDT,0.06918,3.3,73.16,5.2,,47.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
 2026-07-23,2026-07-23 00:15,mexc,ZAMA/USDT,0.04791,14.94,63.0,3.0,Partner,1.0,CoinMarketCal: Zama: partners with Elliptic for confidential compliance screening - 21 Jul 2026
 2026-07-23,2026-07-23 00:15,mexc,RIF/USDT,0.06928,18.52,28.68,4.6,,47.0,Coindar: Rootstock to Join Meetup in Prague on June 12th
