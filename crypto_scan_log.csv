@@ -984,24 +984,24 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-23,2026-07-23 23:50,gate,KAITO/USDT,1.0159,3.08,3.5,12.7,,,
 2026-07-23,2026-07-23 23:50,gate,BEAT/USDT,3.0065,14.37,3.0,3.6,,,
 2026-07-23,2026-07-23 21:10,gate,INTC/USDT,108.35,4.07,2.03,72.8,,,
-2026-07-24,2026-07-24 11:26,gate,AKE/USDT,0.002746,9.97,3456.97,88.5,,274,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-24,2026-07-24 11:31,gate,AKE/USDT,0.002853,14.22,3494.18,89.4,,274,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-24,2026-07-24 00:16,mexc,AKE/USDT,0.00232,10.38,1866.62,24.5,,274.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-24,2026-07-24 00:16,mexc,BANK/USDT,0.27298,6.31,412.55,93.5,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-24,2026-07-24 11:26,gate,BANK/USDT,0.29424,6.97,293.89,41.4,,375,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-24,2026-07-24 11:26,gate,HOME/USDT,0.00662,12.01,287.21,4.5,,77,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-07-24,2026-07-24 11:26,gate,US/USDT,0.049168,8.12,167.71,6.1,,,
+2026-07-24,2026-07-24 11:31,gate,BANK/USDT,0.29693,7.94,294.96,41.6,,375,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-24,2026-07-24 11:31,gate,HOME/USDT,0.00661,11.84,287.49,4.5,,77,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-07-24,2026-07-24 11:31,gate,US/USDT,0.049733,9.37,170.55,6.2,,,
 2026-07-24,2026-07-24 00:16,mexc,BILL/USDT,0.03132,17.83,163.6,7.8,,,
-2026-07-24,2026-07-24 11:21,gate,ESPORTS/USDT,0.04137,3.81,162.28,8.7,,233.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-24,2026-07-24 11:31,gate,ESPORTS/USDT,0.04203,5.47,163.32,8.8,,233,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-24,2026-07-24 11:21,gate,ZAMA/USDT,0.05472,3.11,141.86,9.1,,0.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-24,2026-07-24 01:35,gate,RIF/USDT,0.123,3.64,138.63,20.6,,0.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
 2026-07-24,2026-07-24 00:16,mexc,RIF/USDT,0.11876,7.68,74.38,17.8,,0.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
-2026-07-24,2026-07-24 11:26,gate,RE/USDT,0.63662,15.15,51.32,8.8,Listing,24,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
+2026-07-24,2026-07-24 11:31,gate,RE/USDT,0.63523,14.9,51.66,8.9,Listing,24,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-24,2026-07-24 09:46,gate,VELVET/USDT,0.47339,3.74,46.95,4.3,,24.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-24,2026-07-24 10:06,gate,ERA/USDT,0.0965,3.43,27.51,3.7,,23.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-07-24,2026-07-24 00:16,mexc,RE/USDT,0.5679,9.02,23.79,11.2,Listing,24.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-24,2026-07-24 00:16,mexc,ESPORTS/USDT,0.03974,28.02,12.61,7.5,,232.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-24,2026-07-24 01:11,gate,LAB/USDT,0.15396,3.3,12.36,6.9,,,
+2026-07-24,2026-07-24 11:31,gate,BEAT/USDT,3.1106,3.4,10.19,11.5,,46,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-07-24,2026-07-24 00:16,mexc,ON/USDT,0.19401,14.89,8.33,6.9,,,
 2026-07-24,2026-07-24 08:41,gate,B/USDT,0.1811,3.07,8.31,3.5,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-24,2026-07-24 10:16,gate,BEAT/USDT,3.0996,3.03,8.26,9.3,,46.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-07-24,2026-07-24 00:01,mexc,B/USDT,0.1764,3.58,5.54,4.3,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
