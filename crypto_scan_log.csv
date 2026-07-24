@@ -986,15 +986,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-23,2026-07-23 21:10,gate,INTC/USDT,108.35,4.07,2.03,72.8,,,
 2026-07-24,2026-07-24 00:16,mexc,AKE/USDT,0.00232,10.38,1866.62,24.5,,274.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-24,2026-07-24 00:16,mexc,BANK/USDT,0.27298,6.31,412.55,93.5,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-24,2026-07-24 01:20,gate,BANK/USDT,0.29142,5.94,274.46,38.7,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-24,2026-07-24 01:20,gate,ZAMA/USDT,0.05504,3.71,180.31,11.5,,0.0,CoinMarketCal: Zama: launches confidential RFQ beta - 23 Jul 2026
+2026-07-24,2026-07-24 01:25,gate,BANK/USDT,0.30289,10.11,275.62,38.9,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-24,2026-07-24 01:25,gate,ZAMA/USDT,0.05491,3.47,180.35,11.5,,0.0,CoinMarketCal: Zama: launches confidential RFQ beta - 23 Jul 2026
 2026-07-24,2026-07-24 00:16,mexc,BILL/USDT,0.03132,17.83,163.6,7.8,,,
-2026-07-24,2026-07-24 01:20,gate,RIF/USDT,0.12626,6.39,135.87,20.2,,0.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
-2026-07-24,2026-07-24 01:20,gate,ESPORTS/USDT,0.04111,3.16,134.98,7.3,,232.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-24,2026-07-24 01:25,gate,RIF/USDT,0.12726,7.23,136.64,20.3,,0.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
+2026-07-24,2026-07-24 01:25,gate,ESPORTS/USDT,0.04124,3.49,136.03,7.3,,232.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-24,2026-07-24 00:16,mexc,RIF/USDT,0.11876,7.68,74.38,17.8,,0.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
-2026-07-24,2026-07-24 01:05,gate,ERA/USDT,0.0964,3.32,50.09,6.6,,23.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-07-24,2026-07-24 01:25,gate,ERA/USDT,0.0962,3.11,50.97,6.8,,23.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-07-24,2026-07-24 00:16,mexc,RE/USDT,0.5679,9.02,23.79,11.2,Listing,24.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
-2026-07-24,2026-07-24 01:20,gate,RE/USDT,0.58199,5.27,18.99,3.3,Listing,24.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
+2026-07-24,2026-07-24 01:25,gate,RE/USDT,0.58127,5.14,19.01,3.3,Listing,24.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-24,2026-07-24 00:16,mexc,ESPORTS/USDT,0.03974,28.02,12.61,7.5,,232.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-24,2026-07-24 01:11,gate,LAB/USDT,0.15396,3.3,12.36,6.9,,,
 2026-07-24,2026-07-24 00:16,mexc,ON/USDT,0.19401,14.89,8.33,6.9,,,
