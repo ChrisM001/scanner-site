@@ -984,11 +984,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-23,2026-07-23 23:50,gate,KAITO/USDT,1.0159,3.08,3.5,12.7,,,
 2026-07-23,2026-07-23 23:50,gate,BEAT/USDT,3.0065,14.37,3.0,3.6,,,
 2026-07-23,2026-07-23 21:10,gate,INTC/USDT,108.35,4.07,2.03,72.8,,,
-2026-07-24,2026-07-24 00:05,mexc,AKE/USDT,0.002347,11.65,1849.61,24.3,,274,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-24,2026-07-24 00:05,mexc,BANK/USDT,0.27219,6.0,411.01,93.1,,374,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-24,2026-07-24 00:05,mexc,AKE/USDT,0.002347,11.65,1849.61,24.3,,274.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-24,2026-07-24 00:05,mexc,BANK/USDT,0.27219,6.0,411.01,93.1,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-24,2026-07-24 00:05,mexc,BILL/USDT,0.03152,18.58,161.85,7.7,,,
-2026-07-24,2026-07-24 00:05,mexc,RIF/USDT,0.11818,7.16,74.1,17.7,,0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
-2026-07-24,2026-07-24 00:05,mexc,RE/USDT,0.5592,7.35,23.41,11.0,Listing,24,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
-2026-07-24,2026-07-24 00:05,mexc,ESPORTS/USDT,0.03923,26.38,12.46,7.4,,232,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-24,2026-07-24 00:05,mexc,RIF/USDT,0.11818,7.16,74.1,17.7,,0.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
+2026-07-24,2026-07-24 00:05,mexc,RE/USDT,0.5592,7.35,23.41,11.0,Listing,24.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
+2026-07-24,2026-07-24 00:10,gate,RE/USDT,0.5745,3.92,17.85,3.1,Listing,24.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
+2026-07-24,2026-07-24 00:05,mexc,ESPORTS/USDT,0.03923,26.38,12.46,7.4,,232.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-24,2026-07-24 00:05,mexc,ON/USDT,0.19352,14.6,8.32,6.9,,,
 2026-07-24,2026-07-24 00:01,mexc,B/USDT,0.1764,3.58,5.54,4.3,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
