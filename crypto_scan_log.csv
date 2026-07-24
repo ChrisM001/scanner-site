@@ -987,16 +987,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-24,2026-07-24 12:21,gate,AKE/USDT,0.002797,12.01,3582.25,91.7,,274.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-24,2026-07-24 00:16,mexc,AKE/USDT,0.00232,10.38,1866.62,24.5,,274.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-24,2026-07-24 00:16,mexc,BANK/USDT,0.27298,6.31,412.55,93.5,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-24,2026-07-24 13:51,gate,HOME/USDT,0.00673,13.87,308.04,4.8,,,
-2026-07-24,2026-07-24 13:51,gate,BANK/USDT,0.29874,8.6,297.77,42.0,,,
+2026-07-24,2026-07-24 14:06,gate,HOME/USDT,0.00675,14.21,309.68,4.8,,,
+2026-07-24,2026-07-24 14:06,gate,BANK/USDT,0.29816,8.39,291.8,41.2,,,
 2026-07-24,2026-07-24 13:51,gate,US/USDT,0.047734,4.97,192.48,7.0,,,
-2026-07-24,2026-07-24 13:51,gate,ESPORTS/USDT,0.04408,10.61,176.67,9.5,,,
+2026-07-24,2026-07-24 14:06,gate,ESPORTS/USDT,0.04402,10.46,173.55,9.3,,,
 2026-07-24,2026-07-24 00:16,mexc,BILL/USDT,0.03132,17.83,163.6,7.8,,,
-2026-07-24,2026-07-24 13:51,gate,LA/USDT,0.0742,15.58,149.86,3.6,,,
+2026-07-24,2026-07-24 14:06,gate,LA/USDT,0.0735,14.49,154.32,3.7,,,
 2026-07-24,2026-07-24 11:21,gate,ZAMA/USDT,0.05472,3.11,141.86,9.1,,0.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-24,2026-07-24 01:35,gate,RIF/USDT,0.123,3.64,138.63,20.6,,0.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
 2026-07-24,2026-07-24 00:16,mexc,RIF/USDT,0.11876,7.68,74.38,17.8,,0.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
-2026-07-24,2026-07-24 13:51,gate,RE/USDT,0.63579,15.0,55.12,9.5,,,
+2026-07-24,2026-07-24 14:06,gate,RE/USDT,0.63153,14.23,54.44,9.4,,,
 2026-07-24,2026-07-24 09:46,gate,VELVET/USDT,0.47339,3.74,46.95,4.3,,24.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-24,2026-07-24 10:06,gate,ERA/USDT,0.0965,3.43,27.51,3.7,,23.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-07-24,2026-07-24 00:16,mexc,RE/USDT,0.5679,9.02,23.79,11.2,Listing,24.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
