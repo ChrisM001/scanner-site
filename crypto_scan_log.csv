@@ -986,14 +986,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-23,2026-07-23 21:10,gate,INTC/USDT,108.35,4.07,2.03,72.8,,,
 2026-07-24,2026-07-24 00:16,mexc,AKE/USDT,0.00232,10.38,1866.62,24.5,,274.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-24,2026-07-24 00:16,mexc,BANK/USDT,0.27298,6.31,412.55,93.5,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-24,2026-07-24 00:35,gate,BANK/USDT,0.28419,3.31,297.56,42.0,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-24,2026-07-24 00:50,gate,BANK/USDT,0.28837,4.83,299.8,42.3,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-24,2026-07-24 00:16,mexc,BILL/USDT,0.03132,17.83,163.6,7.8,,,
 2026-07-24,2026-07-24 00:45,gate,ESPORTS/USDT,0.04109,3.11,136.37,7.3,,232.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-24,2026-07-24 00:45,gate,RIF/USDT,0.12411,4.58,133.4,19.8,,0.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
+2026-07-24,2026-07-24 00:50,gate,RIF/USDT,0.12603,6.19,133.98,19.9,,0.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
 2026-07-24,2026-07-24 00:16,mexc,RIF/USDT,0.11876,7.68,74.38,17.8,,0.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
-2026-07-24,2026-07-24 00:45,gate,ERA/USDT,0.0965,3.43,48.83,6.5,,23.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-07-24,2026-07-24 00:50,gate,ERA/USDT,0.0967,3.64,49.42,6.6,,23.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-07-24,2026-07-24 00:16,mexc,RE/USDT,0.5679,9.02,23.79,11.2,Listing,24.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
-2026-07-24,2026-07-24 00:45,gate,RE/USDT,0.56965,3.04,18.9,3.2,Listing,24.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
+2026-07-24,2026-07-24 00:50,gate,RE/USDT,0.58042,4.99,19.03,3.3,Listing,24.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-24,2026-07-24 00:30,gate,LAB/USDT,0.15383,3.21,13.44,7.5,,,
 2026-07-24,2026-07-24 00:16,mexc,ESPORTS/USDT,0.03974,28.02,12.61,7.5,,232.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-24,2026-07-24 00:16,mexc,ON/USDT,0.19401,14.89,8.33,6.9,,,
