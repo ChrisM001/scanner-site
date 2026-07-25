@@ -1007,13 +1007,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-24,2026-07-24 08:41,gate,B/USDT,0.1811,3.07,8.31,3.5,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-24,2026-07-24 00:01,mexc,B/USDT,0.1764,3.58,5.54,4.3,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-25,2026-07-25 09:57,mexc,AKE/USDT,0.003287,31.25,3370.24,50.5,,275.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-25,2026-07-25 12:45,gate,AKE/USDT,0.00325,19.16,2633.51,76.2,,275.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-25,2026-07-25 12:50,gate,AKE/USDT,0.003278,20.2,2635.7,76.3,,275.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-25,2026-07-25 10:35,gate,GWEI/USDT,0.026535,3.03,372.99,4.1,,45.0,"Coinpedia: ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises?"
 2026-07-25,2026-07-25 09:57,mexc,BANK/USDT,0.32377,8.09,304.52,80.4,,375.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-25,2026-07-25 04:35,gate,HOME/USDT,0.0067,3.08,254.58,4.3,,77.0,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-07-25,2026-07-25 12:45,gate,EUL/USDT,1.6254,50.64,224.21,5.3,,268.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
-2026-07-25,2026-07-25 00:50,gate,ESPORTS/USDT,0.04895,3.07,170.77,9.5,,233.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-25,2026-07-25 12:45,gate,BANK/USDT,0.32819,8.74,127.17,19.7,,376.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-25,2026-07-25 12:50,gate,EUL/USDT,1.6265,50.74,228.78,5.4,,268.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
+2026-07-25,2026-07-25 12:50,gate,ESPORTS/USDT,0.05054,6.42,175.64,9.8,,234.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-25,2026-07-25 12:50,gate,BANK/USDT,0.33014,9.39,127.5,19.8,,376.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-25,2026-07-25 09:10,gate,ZAMA/USDT,0.05556,3.91,88.78,7.0,,0.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-25,2026-07-25 08:25,gate,RIF/USDT,0.10964,3.35,36.59,6.7,,1.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
 2026-07-25,2026-07-25 00:16,mexc,RIF/USDT,0.10716,4.99,35.31,9.6,,1.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
