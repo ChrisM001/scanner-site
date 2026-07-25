@@ -1008,8 +1008,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-24,2026-07-24 00:01,mexc,B/USDT,0.1764,3.58,5.54,4.3,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-25,2026-07-25 00:16,mexc,AKE/USDT,0.002786,11.24,3203.06,48.0,,275.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-25,2026-07-25 00:20,gate,AKE/USDT,0.002815,3.23,3155.46,91.4,,275.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-25,2026-07-25 04:20,gate,BANK/USDT,0.31197,3.37,179.14,27.8,,375.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-25,2026-07-25 00:50,gate,ESPORTS/USDT,0.04895,3.07,170.77,9.5,,233.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-25,2026-07-25 03:01,gate,ZAMA/USDT,0.05655,5.76,55.18,4.4,,0.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
+2026-07-25,2026-07-25 04:20,gate,ZAMA/USDT,0.0591,10.53,59.14,4.7,,0.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-25,2026-07-25 01:45,gate,RIF/USDT,0.11128,4.89,49.95,9.1,,1.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
 2026-07-25,2026-07-25 00:16,mexc,RIF/USDT,0.10716,4.99,35.31,9.6,,1.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
 2026-07-25,2026-07-25 00:10,mexc,ZAMA/USDT,0.054,3.34,34.05,3.1,,0.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
