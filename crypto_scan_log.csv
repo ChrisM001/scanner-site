@@ -1007,17 +1007,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-24,2026-07-24 08:41,gate,B/USDT,0.1811,3.07,8.31,3.5,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-24,2026-07-24 00:01,mexc,B/USDT,0.1764,3.58,5.54,4.3,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-25,2026-07-25 18:20,gate,PEPE/USDT,3e-06,3.42,5303745.51,12.2,,5.0,Coinpedia: BONK Recovers After Sell-Off While PEPE Tests Key ResistanceHeres Whats Next for These Popular Memecoins
-2026-07-25,2026-07-25 19:05,gate,SHIB/USDT,5e-06,18.53,97735.59,10.3,Burn,0.0,Coinpedia: Can Shiba Inu Price Recover as SHIB Burn Rate Surges?
+2026-07-25,2026-07-25 19:55,gate,SHIB/USDT,5e-06,20.97,114654.03,12.1,Burn,0.0,Coinpedia: Can Shiba Inu Price Recover as SHIB Burn Rate Surges?
 2026-07-25,2026-07-25 19:52,mexc,SHIB/USDT,5e-06,6.31,5617.17,26.5,Burn,0.0,Coinpedia: Can Shiba Inu Price Recover as SHIB Burn Rate Surges?
 2026-07-25,2026-07-25 13:57,mexc,AKE/USDT,0.0032,27.77,3145.63,47.1,,275.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-25,2026-07-25 19:05,gate,AKE/USDT,0.003174,16.36,1842.35,53.3,,275.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-25,2026-07-25 19:05,gate,EUL/USDT,1.6345,51.48,440.95,10.4,,268.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
+2026-07-25,2026-07-25 19:55,gate,AKE/USDT,0.003158,15.79,1863.6,54.0,,275.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-25,2026-07-25 19:55,gate,EUL/USDT,1.666,54.4,469.14,11.1,,268.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-07-25,2026-07-25 10:35,gate,GWEI/USDT,0.026535,3.03,372.99,4.1,,45.0,"Coinpedia: ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises?"
 2026-07-25,2026-07-25 19:52,mexc,BANK/USDT,0.34305,13.61,348.89,92.1,,376.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-25,2026-07-25 19:55,gate,ESPORTS/USDT,0.06118,28.83,262.65,14.6,,234.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-25,2026-07-25 04:35,gate,HOME/USDT,0.0067,3.08,254.58,4.3,,77.0,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-07-25,2026-07-25 19:05,gate,ESPORTS/USDT,0.0613,29.08,250.58,13.9,,234.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-25,2026-07-25 19:05,gate,BANK/USDT,0.34346,13.8,209.66,32.5,,376.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-25,2026-07-25 19:05,gate,ZAMA/USDT,0.0559,4.54,121.61,9.6,,1.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
+2026-07-25,2026-07-25 19:55,gate,BANK/USDT,0.34282,13.59,214.13,33.2,,376.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-25,2026-07-25 19:55,gate,ZAMA/USDT,0.05556,3.91,123.76,9.8,,1.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-25,2026-07-25 19:52,mexc,ZAMA/USDT,0.05558,6.72,77.52,7.1,,1.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-25,2026-07-25 19:52,mexc,ESPORTS/USDT,0.06102,22.6,38.68,24.9,,234.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-25,2026-07-25 08:25,gate,RIF/USDT,0.10964,3.35,36.59,6.7,,1.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
@@ -1026,11 +1026,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-25,2026-07-25 02:55,gate,VELVET/USDT,0.46233,3.09,32.52,3.0,,24.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-25,2026-07-25 13:57,mexc,DEXE/USDT,4.435,50.95,21.12,121.7,,0.0,Coinpedia: DEXE Price Rebounds After Massive Sell-OffCan Bulls Sustain the Recovery?
 2026-07-25,2026-07-25 19:52,mexc,WIF/USDT,0.1558,4.35,9.36,4.0,,28.0,Coinpedia: dogwifhat (WIF) Price Rebounds Into Key Supply Zone  Can Bulls Trigger a 30% Breakout?
+2026-07-25,2026-07-25 19:55,gate,DOGE/USDT,0.07281,4.73,8.76,46.4,,1.0,Dow Jones Newswires: Sentiment Around Clarity Act Pressures Bitcoin and Crypto  Market Talk
 2026-07-25,2026-07-25 19:52,mexc,PENGU/USDT,0.006245,3.22,8.48,4.8,,10.0,"Coinpedia: Five Altcoins Trending Today: PENGU, ARROW, ADI, CASHCAT and AERO Are Moving"
-2026-07-25,2026-07-25 19:05,gate,DOGE/USDT,0.07286,4.8,8.43,44.7,,1.0,Dow Jones Newswires: Sentiment Around Clarity Act Pressures Bitcoin and Crypto  Market Talk
 2026-07-25,2026-07-25 13:57,mexc,B2/USDT,0.4435,8.62,8.16,3.9,,433.0,"CoinMarketCal: BNB (BNB), BSquared Network (B2) and others - Alpha Tokens X Space - 19 May 2025"
 2026-07-25,2026-07-25 19:52,mexc,EUL/USDT,1.674,15.28,6.41,16.3,,268.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
-2026-07-25,2026-07-25 19:05,gate,BEAT/USDT,3.3844,4.56,5.56,5.8,,47.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-25,2026-07-25 19:55,gate,BEAT/USDT,3.3768,4.33,5.63,5.9,,47.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-07-25,2026-07-25 13:57,mexc,SLX/USDT,0.1178,3.6,5.27,3.0,,,
 2026-07-25,2026-07-25 13:57,mexc,PROM/USDT,2.011,20.13,4.39,4.9,,81.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
 2026-07-25,2026-07-25 09:20,gate,KAITO/USDT,0.9925,3.95,2.31,9.9,,105.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
