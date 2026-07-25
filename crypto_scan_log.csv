@@ -1009,8 +1009,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-25,2026-07-25 00:16,mexc,AKE/USDT,0.002786,11.24,3203.06,48.0,,275.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-25,2026-07-25 00:20,gate,AKE/USDT,0.002815,3.23,3155.46,91.4,,275.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-25,2026-07-25 00:50,gate,ESPORTS/USDT,0.04895,3.07,170.77,9.5,,233.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-25,2026-07-25 00:55,gate,ZAMA/USDT,0.05571,4.19,55.91,4.4,,0.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
-2026-07-25,2026-07-25 00:55,gate,RIF/USDT,0.11076,4.4,55.26,10.1,,1.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
+2026-07-25,2026-07-25 01:01,gate,ZAMA/USDT,0.05573,4.23,52.7,4.2,,0.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
+2026-07-25,2026-07-25 01:01,gate,RIF/USDT,0.11238,5.93,49.16,8.9,,1.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
+2026-07-25,2026-07-25 01:01,gate,VELVET/USDT,0.46327,3.3,39.87,3.7,,24.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-25,2026-07-25 00:16,mexc,RIF/USDT,0.10716,4.99,35.31,9.6,,1.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
 2026-07-25,2026-07-25 00:10,mexc,ZAMA/USDT,0.054,3.34,34.05,3.1,,0.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-25,2026-07-25 00:16,mexc,ESPORTS/USDT,0.04872,6.49,22.73,14.6,,233.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
