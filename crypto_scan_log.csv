@@ -1007,17 +1007,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-24,2026-07-24 08:41,gate,B/USDT,0.1811,3.07,8.31,3.5,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-24,2026-07-24 00:01,mexc,B/USDT,0.1764,3.58,5.54,4.3,,374.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-25,2026-07-25 18:20,gate,PEPE/USDT,3e-06,3.42,5303745.51,12.2,,5.0,Coinpedia: BONK Recovers After Sell-Off While PEPE Tests Key ResistanceHeres Whats Next for These Popular Memecoins
-2026-07-25,2026-07-25 22:50,gate,SHIB/USDT,5e-06,15.78,143542.42,15.2,,,
+2026-07-25,2026-07-25 22:55,gate,SHIB/USDT,5e-06,15.69,143792.12,15.2,,,
 2026-07-25,2026-07-25 19:52,mexc,SHIB/USDT,5e-06,6.31,5617.17,26.5,Burn,0.0,Coinpedia: Can Shiba Inu Price Recover as SHIB Burn Rate Surges?
 2026-07-25,2026-07-25 13:57,mexc,AKE/USDT,0.0032,27.77,3145.63,47.1,,275.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-25,2026-07-25 22:50,gate,AKE/USDT,0.00311,14.04,1856.91,53.8,,,
-2026-07-25,2026-07-25 21:25,gate,EUL/USDT,1.6681,54.6,530.61,12.5,,,
+2026-07-25,2026-07-25 22:55,gate,AKE/USDT,0.003174,16.39,1866.05,54.0,,,
+2026-07-25,2026-07-25 22:55,gate,EUL/USDT,1.7786,64.84,563.62,13.3,,,
 2026-07-25,2026-07-25 10:35,gate,GWEI/USDT,0.026535,3.03,372.99,4.1,,45.0,"Coinpedia: ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises?"
 2026-07-25,2026-07-25 19:52,mexc,BANK/USDT,0.34305,13.61,348.89,92.1,,376.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-25,2026-07-25 22:50,gate,ESPORTS/USDT,0.05972,25.75,271.21,15.1,,,
+2026-07-25,2026-07-25 22:55,gate,ESPORTS/USDT,0.05965,25.61,271.4,15.1,,,
 2026-07-25,2026-07-25 04:35,gate,HOME/USDT,0.0067,3.08,254.58,4.3,,77.0,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-07-25,2026-07-25 22:50,gate,BANK/USDT,0.34616,14.7,206.93,32.1,,,
-2026-07-25,2026-07-25 22:50,gate,ZAMA/USDT,0.0561,4.92,123.06,9.7,,,
+2026-07-25,2026-07-25 22:55,gate,BANK/USDT,0.34694,14.96,207.14,32.2,,,
+2026-07-25,2026-07-25 22:55,gate,ZAMA/USDT,0.05648,5.63,123.19,9.7,,,
 2026-07-25,2026-07-25 19:52,mexc,ZAMA/USDT,0.05558,6.72,77.52,7.1,,1.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-25,2026-07-25 19:52,mexc,ESPORTS/USDT,0.06102,22.6,38.68,24.9,,234.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-25,2026-07-25 08:25,gate,RIF/USDT,0.10964,3.35,36.59,6.7,,1.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
@@ -1026,12 +1026,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-25,2026-07-25 02:55,gate,VELVET/USDT,0.46233,3.09,32.52,3.0,,24.0,Invezz: Is the VELVET price rally over after its 300% surge?
 2026-07-25,2026-07-25 13:57,mexc,DEXE/USDT,4.435,50.95,21.12,121.7,,0.0,Coinpedia: DEXE Price Rebounds After Massive Sell-OffCan Bulls Sustain the Recovery?
 2026-07-25,2026-07-25 19:52,mexc,WIF/USDT,0.1558,4.35,9.36,4.0,,28.0,Coinpedia: dogwifhat (WIF) Price Rebounds Into Key Supply Zone  Can Bulls Trigger a 30% Breakout?
-2026-07-25,2026-07-25 22:50,gate,DOGE/USDT,0.07201,3.58,9.19,48.7,,,
+2026-07-25,2026-07-25 22:55,gate,DOGE/USDT,0.072,3.57,9.21,48.8,,,
 2026-07-25,2026-07-25 19:52,mexc,PENGU/USDT,0.006245,3.22,8.48,4.8,,10.0,"Coinpedia: Five Altcoins Trending Today: PENGU, ARROW, ADI, CASHCAT and AERO Are Moving"
 2026-07-25,2026-07-25 13:57,mexc,B2/USDT,0.4435,8.62,8.16,3.9,,433.0,"CoinMarketCal: BNB (BNB), BSquared Network (B2) and others - Alpha Tokens X Space - 19 May 2025"
 2026-07-25,2026-07-25 19:52,mexc,EUL/USDT,1.674,15.28,6.41,16.3,,268.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
-2026-07-25,2026-07-25 22:50,gate,BEAT/USDT,3.3567,3.71,5.57,5.8,,,
+2026-07-25,2026-07-25 22:55,gate,BEAT/USDT,3.358,3.75,5.57,5.8,,,
 2026-07-25,2026-07-25 13:57,mexc,SLX/USDT,0.1178,3.6,5.27,3.0,,,
 2026-07-25,2026-07-25 13:57,mexc,PROM/USDT,2.011,20.13,4.39,4.9,,81.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
-2026-07-25,2026-07-25 21:25,gate,KAITO/USDT,0.9843,3.09,2.35,10.1,,,
+2026-07-25,2026-07-25 22:55,gate,KAITO/USDT,1.0041,5.16,2.46,10.6,,,
 2026-07-25,2026-07-25 19:52,mexc,KAITO/USDT,0.9763,3.71,2.04,3.1,,105.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
