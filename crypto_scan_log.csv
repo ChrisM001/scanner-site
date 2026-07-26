@@ -1035,14 +1035,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-25,2026-07-25 13:57,mexc,PROM/USDT,2.011,20.13,4.39,4.9,,81.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
 2026-07-25,2026-07-25 22:55,gate,KAITO/USDT,1.0041,5.16,2.46,10.6,,,
 2026-07-25,2026-07-25 19:52,mexc,KAITO/USDT,0.9763,3.71,2.04,3.1,,105.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
-2026-07-26,2026-07-26 00:16,mexc,SHIB/USDT,5e-06,3.2,7149.25,42.0,Burn,0,Coinpedia: Can Shiba Inu Price Recover as SHIB Burn Rate Surges?
-2026-07-26,2026-07-26 00:16,mexc,BANK/USDT,0.35254,16.75,290.56,86.4,,376,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-26,2026-07-26 00:21,mexc,SHIB/USDT,5e-06,3.68,7168.2,42.1,Burn,0.0,Coinpedia: Can Shiba Inu Price Recover as SHIB Burn Rate Surges?
+2026-07-26,2026-07-26 00:21,mexc,BANK/USDT,0.35162,16.45,291.11,86.6,,376.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-26,2026-07-26 00:05,gate,ESPORTS/USDT,0.06758,3.35,247.17,15.1,,234.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-26,2026-07-26 00:16,mexc,ZAMA/USDT,0.05522,6.02,60.29,7.0,,1,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
-2026-07-26,2026-07-26 00:16,mexc,ESPORTS/USDT,0.06336,27.3,36.53,27.8,,234,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-26,2026-07-26 00:21,mexc,ZAMA/USDT,0.05602,7.56,60.37,7.0,,1.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
+2026-07-26,2026-07-26 00:21,mexc,ESPORTS/USDT,0.06323,27.04,36.71,27.9,,234.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-26,2026-07-26 00:01,gate,EUL/USDT,2.0335,4.84,24.66,14.9,,268.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
-2026-07-26,2026-07-26 00:16,mexc,DEXE/USDT,4.415,6.64,12.52,129.0,,0,Coinpedia: DEXE Price Rebounds After Massive Sell-OffCan Bulls Sustain the Recovery?
-2026-07-26,2026-07-26 00:16,mexc,WIF/USDT,0.1542,3.28,11.9,5.1,,28,Coinpedia: dogwifhat (WIF) Price Rebounds Into Key Supply Zone  Can Bulls Trigger a 30% Breakout?
-2026-07-26,2026-07-26 00:16,mexc,FET/USDT,0.1587,3.86,6.45,5.0,Partner,23,Coindar: Fetch.ai to Become Official AI Partner of Goodwood FOS on July 9th
-2026-07-26,2026-07-26 00:16,mexc,KAITO/USDT,1.0111,7.41,2.06,3.4,,105,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
-2026-07-26,2026-07-26 00:16,mexc,VELVET/USDT,0.4749,9.52,2.04,7.9,,,
+2026-07-26,2026-07-26 00:16,mexc,DEXE/USDT,4.415,6.64,12.52,129.0,,0.0,Coinpedia: DEXE Price Rebounds After Massive Sell-OffCan Bulls Sustain the Recovery?
+2026-07-26,2026-07-26 00:21,mexc,WIF/USDT,0.1544,3.41,11.9,5.1,,28.0,Coinpedia: dogwifhat (WIF) Price Rebounds Into Key Supply Zone  Can Bulls Trigger a 30% Breakout?
+2026-07-26,2026-07-26 00:21,mexc,FET/USDT,0.1585,3.73,6.5,5.0,Partner,23.0,Coindar: Fetch.ai to Become Official AI Partner of Goodwood FOS on July 9th
+2026-07-26,2026-07-26 00:21,mexc,KAITO/USDT,1.0167,8.01,2.07,3.4,,105.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-26,2026-07-26 00:21,mexc,VELVET/USDT,0.476,9.77,2.06,8.0,,0.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
