@@ -1035,3 +1035,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-25,2026-07-25 13:57,mexc,PROM/USDT,2.011,20.13,4.39,4.9,,81.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
 2026-07-25,2026-07-25 22:55,gate,KAITO/USDT,1.0041,5.16,2.46,10.6,,,
 2026-07-25,2026-07-25 19:52,mexc,KAITO/USDT,0.9763,3.71,2.04,3.1,,105.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-26,2026-07-26 00:01,gate,EUL/USDT,2.0335,4.84,24.66,14.9,,268.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
