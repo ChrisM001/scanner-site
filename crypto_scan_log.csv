@@ -1063,8 +1063,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-26,2026-07-26 00:26,mexc,VELVET/USDT,0.4786,10.37,2.07,8.0,,0.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-07-27,2026-07-27 07:05,gate,PEPE/USDT,3e-06,3.22,13618800.64,30.9,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
 2026-07-27,2026-07-27 00:35,mexc,SHIB/USDT,5e-06,3.68,9989.08,89.1,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
-2026-07-27,2026-07-27 23:25,gate,PUMP/USDT,0.00211,4.71,4665.83,10.4,,,
-2026-07-27,2026-07-27 23:25,gate,AKE/USDT,0.004068,29.76,3154.31,100.9,,,
+2026-07-27,2026-07-27 23:34,gate,PUMP/USDT,0.00212,5.21,4681.8,10.4,,,
+2026-07-27,2026-07-27 23:34,gate,AKE/USDT,0.003887,23.97,3186.49,102.0,,,
 2026-07-27,2026-07-27 05:07,mexc,AKE/USDT,0.003481,21.18,1110.51,18.5,,277.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-27,2026-07-27 23:25,gate,BTW/USDT,0.074697,3.81,752.02,12.9,,,
 2026-07-27,2026-07-27 11:31,gate,BANK/USDT,0.39273,3.42,341.84,60.0,,378.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
@@ -1074,11 +1074,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-27,2026-07-27 02:01,gate,ESP/USDT,0.11381,3.86,217.5,12.3,,124.0,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
 2026-07-27,2026-07-27 05:07,mexc,ESP/USDT,0.11168,18.8,193.15,8.3,,124.0,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
 2026-07-27,2026-07-27 21:05,gate,LA/USDT,0.0828,8.95,177.88,8.3,,,
-2026-07-27,2026-07-27 23:25,gate,US/USDT,0.046045,4.19,119.66,4.7,,,
+2026-07-27,2026-07-27 23:34,gate,US/USDT,0.045564,3.1,120.27,4.7,,,
 2026-07-27,2026-07-27 05:07,mexc,PUMPFUN/USDT,0.002005,8.2,89.03,9.4,,,
 2026-07-27,2026-07-27 20:26,gate,DIA/USDT,0.1432,3.17,71.29,7.0,,,
 2026-07-27,2026-07-27 16:26,gate,CXMT/USDT,6.733,3.76,62.02,66.0,,,
-2026-07-27,2026-07-27 23:20,gate,ZAMA/USDT,0.06034,3.27,52.93,6.5,,,
+2026-07-27,2026-07-27 23:34,gate,ZAMA/USDT,0.06024,3.1,53.14,6.6,,,
 2026-07-27,2026-07-27 23:17,mexc,COTI/USDT,0.011343,48.11,44.24,6.1,,,
 2026-07-27,2026-07-27 00:05,mexc,ZAMA/USDT,0.05901,7.36,26.01,3.3,,2.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-27,2026-07-27 20:46,gate,RIF/USDT,0.09326,13.63,24.56,4.9,,,
@@ -1091,4 +1091,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-27,2026-07-27 23:17,mexc,KAITO/USDT,1.309,8.28,3.98,8.1,,,
 2026-07-27,2026-07-27 05:07,mexc,ZRO/USDT,0.8838,4.32,2.52,3.5,,,
 2026-07-27,2026-07-27 10:56,gate,ONDO/USDT,0.4172,3.06,2.34,7.4,,,
-2026-07-27,2026-07-27 23:25,gate,KAITO/USDT,1.2882,9.12,2.17,11.2,,,
+2026-07-27,2026-07-27 23:34,gate,KAITO/USDT,1.2901,9.28,2.2,11.4,,,
