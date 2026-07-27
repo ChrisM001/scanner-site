@@ -1063,8 +1063,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-26,2026-07-26 00:26,mexc,VELVET/USDT,0.4786,10.37,2.07,8.0,,0.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-07-27,2026-07-27 07:05,gate,PEPE/USDT,3e-06,3.22,13618800.64,30.9,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
 2026-07-27,2026-07-27 00:35,mexc,SHIB/USDT,5e-06,3.68,9989.08,89.1,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
-2026-07-27,2026-07-27 22:55,gate,PUMP/USDT,0.002119,5.16,4844.32,10.7,,,
-2026-07-27,2026-07-27 22:55,gate,AKE/USDT,0.004279,36.48,3130.18,100.2,,,
+2026-07-27,2026-07-27 23:01,gate,PUMP/USDT,0.002107,4.57,4565.29,10.1,,,
+2026-07-27,2026-07-27 23:01,gate,AKE/USDT,0.004364,39.18,3117.84,99.8,,,
 2026-07-27,2026-07-27 05:07,mexc,AKE/USDT,0.003481,21.18,1110.51,18.5,,277.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-27,2026-07-27 22:55,gate,BTW/USDT,0.074184,3.1,748.37,12.8,,,
 2026-07-27,2026-07-27 11:31,gate,BANK/USDT,0.39273,3.42,341.84,60.0,,378.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
@@ -1074,7 +1074,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-27,2026-07-27 05:07,mexc,BANK/USDT,0.39458,3.92,201.43,65.2,,377.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-27,2026-07-27 05:07,mexc,ESP/USDT,0.11168,18.8,193.15,8.3,,124.0,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
 2026-07-27,2026-07-27 21:05,gate,LA/USDT,0.0828,8.95,177.88,8.3,,,
-2026-07-27,2026-07-27 22:55,gate,US/USDT,0.046227,4.6,118.98,4.7,,,
+2026-07-27,2026-07-27 23:01,gate,US/USDT,0.046246,4.64,118.65,4.7,,,
 2026-07-27,2026-07-27 05:07,mexc,PUMPFUN/USDT,0.002005,8.2,89.03,9.4,,,
 2026-07-27,2026-07-27 20:26,gate,DIA/USDT,0.1432,3.17,71.29,7.0,,,
 2026-07-27,2026-07-27 16:26,gate,CXMT/USDT,6.733,3.76,62.02,66.0,,,
@@ -1083,10 +1083,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-27,2026-07-27 20:46,gate,RIF/USDT,0.09326,13.63,24.56,4.9,,,
 2026-07-27,2026-07-27 18:51,gate,BEAT/USDT,3.6411,3.66,21.55,18.8,,,
 2026-07-27,2026-07-27 05:07,mexc,DIA/USDT,0.163,20.74,21.36,7.6,,4.0,Coindar: DIA Released DIA ZK
-2026-07-27,2026-07-27 22:55,gate,B/USDT,0.1875,4.11,8.31,3.6,,,
+2026-07-27,2026-07-27 23:01,gate,B/USDT,0.1866,3.61,8.23,3.6,,,
 2026-07-27,2026-07-27 00:01,mexc,FARTCOIN/USDT,0.13309,3.09,7.69,8.6,,108.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-07-27,2026-07-27 05:07,mexc,ENA/USDT,0.08927,4.25,4.42,14.9,Unlock,1.0,Binance News: Ethena Set to Unlock 110.95 Million ENA Tokens on August 2
 2026-07-27,2026-07-27 05:07,mexc,ON/USDT,0.13961,13.86,2.58,3.5,,,
 2026-07-27,2026-07-27 05:07,mexc,ZRO/USDT,0.8838,4.32,2.52,3.5,,,
 2026-07-27,2026-07-27 10:56,gate,ONDO/USDT,0.4172,3.06,2.34,7.4,,,
-2026-07-27,2026-07-27 22:55,gate,KAITO/USDT,1.3343,13.03,2.12,10.9,,,
+2026-07-27,2026-07-27 23:01,gate,KAITO/USDT,1.3364,13.21,2.09,10.8,,,
