@@ -239,10 +239,10 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-07-24,2026-07-24 12:20,NASDAQ:ADVB,21.41,23.67,1.4,0.56,0.45,4.0,,"dpa-AFX: Morning Market Movers: BIYA, GVH, ADVB, SDOT See Big Swings",premarket
 2026-07-24,2026-07-24 12:20,NASDAQ:ZYBT,1.7,27.54,0.7,7.71,0.24,2.0,,"dpa-AFX: Morning Market Movers: ZYBT, LSTA, WNW, DHR See Big Swings",premarket
 2026-07-27,2026-07-27 08:10,NASDAQ:AKAN,10.04,23.92,141.5,0.54,0.26,38.0,,Reuters: Akanda Announces Receipt Of Nasdaq Notice Regarding Minimum Stockholders' Equity Requirement,premarket
-2026-07-27,2026-07-27 12:31,NYSE:LVWR,1.53,64.29,90.2,10.17,0.6,4.0,EARNINGS,Reuters: LiveWire Q2 revenue rises 55% as unit sales grow,premarket
+2026-07-27,2026-07-27 12:35,NYSE:LVWR,1.52,64.29,90.2,10.17,0.61,4.0,EARNINGS,Reuters: LiveWire Q2 revenue rises 55% as unit sales grow,premarket
 2026-07-27,2026-07-27 08:10,NASDAQ:MSS,3.01,17.12,82.0,0.81,8.34,2.0,DEAL,ACCESS Newswire: Maison Solutions Signs Definitive Agreement to Establish Majority-Controlled AI Technology Platform,premarket
-2026-07-27,2026-07-27 12:31,NASDAQ:WLDS,3.06,14.8,9.8,2.05,0.11,33.0,,"GlobeNewswire: Wearable Devices Publishes White Paper Positioning Wrist-Worn Neural Sensing as the ""Intent Layer"" for Agentic AI, AR, and Robotics",premarket
-2026-07-27,2026-07-27 12:31,NASDAQ:VIVK,2.49,70.28,6.0,0.59,0.63,2.0,,GlobeNewswire: Vivakor Surpasses $1 Billion in Annualized Physical Crude Transactions,premarket
-2026-07-27,2026-07-27 12:31,NASDAQ:SKYQ,4.33,14.89,1.8,3.85,0.28,5.0,,"TradingView: Sky awards $100,000 to Marcus Laun for interim leadership",premarket
+2026-07-27,2026-07-27 12:35,NASDAQ:WLDS,3.1,14.8,9.8,2.05,0.11,33.0,,"GlobeNewswire: Wearable Devices Publishes White Paper Positioning Wrist-Worn Neural Sensing as the ""Intent Layer"" for Agentic AI, AR, and Robotics",premarket
+2026-07-27,2026-07-27 12:35,NASDAQ:VIVK,2.48,70.28,6.0,0.59,0.64,2.0,,GlobeNewswire: Vivakor Surpasses $1 Billion in Annualized Physical Crude Transactions,premarket
+2026-07-27,2026-07-27 12:35,NASDAQ:SKYQ,4.38,14.89,1.8,3.85,0.29,5.0,,"TradingView: Sky awards $100,000 to Marcus Laun for interim leadership",premarket
 2026-07-27,2026-07-27 08:10,NASDAQ:PN,10.93,16.21,1.3,1.11,0.4,79.0,,GlobeNewswire: Skycorp to Hold Extraordinary General Meeting,premarket
 2026-07-27,2026-07-27 08:10,NASDAQ:ADVB,23.14,37.6,0.5,0.56,0.74,6.0,,"dpa-AFX: Morning Market Movers: BIYA, GVH, ADVB, SDOT See Big Swings",premarket
