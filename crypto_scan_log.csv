@@ -1064,9 +1064,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-27,2026-07-27 07:05,gate,PEPE/USDT,3e-06,3.22,13618800.64,30.9,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
 2026-07-27,2026-07-27 00:35,mexc,SHIB/USDT,5e-06,3.68,9989.08,89.1,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
 2026-07-27,2026-07-27 14:21,gate,PUMP/USDT,0.002087,3.57,3472.71,7.7,,,
-2026-07-27,2026-07-27 14:21,gate,AKE/USDT,0.004209,34.24,2812.02,90.0,,,
+2026-07-27,2026-07-27 14:31,gate,AKE/USDT,0.004267,36.09,2824.61,90.4,,,
 2026-07-27,2026-07-27 05:07,mexc,AKE/USDT,0.003481,21.18,1110.51,18.5,,277.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-27,2026-07-27 14:21,gate,BTW/USDT,0.106911,48.58,443.39,7.6,,,
+2026-07-27,2026-07-27 14:31,gate,BTW/USDT,0.103633,44.02,466.75,8.0,,,
 2026-07-27,2026-07-27 11:31,gate,BANK/USDT,0.39273,3.42,341.84,60.0,,378.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-27,2026-07-27 02:45,gate,ESPORTS/USDT,0.03073,12.15,333.24,21.6,,235.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-27,2026-07-27 05:07,mexc,UB/USDT,0.14616,10.35,233.06,4.2,,,
@@ -1075,12 +1075,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-27,2026-07-27 05:07,mexc,ESP/USDT,0.11168,18.8,193.15,8.3,,124.0,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
 2026-07-27,2026-07-27 13:31,gate,US/USDT,0.045574,3.12,112.72,4.4,,,
 2026-07-27,2026-07-27 05:07,mexc,PUMPFUN/USDT,0.002005,8.2,89.03,9.4,,,
-2026-07-27,2026-07-27 14:21,gate,DIA/USDT,0.1628,17.29,64.08,6.3,,,
+2026-07-27,2026-07-27 14:31,gate,DIA/USDT,0.163,17.44,64.43,6.3,,,
 2026-07-27,2026-07-27 14:21,gate,CXMT/USDT,6.69,3.1,59.43,63.2,,,
-2026-07-27,2026-07-27 13:06,gate,ZAMA/USDT,0.06054,3.61,30.3,3.7,,,
+2026-07-27,2026-07-27 14:31,gate,ZAMA/USDT,0.06031,3.22,32.81,4.1,,,
 2026-07-27,2026-07-27 00:05,mexc,ZAMA/USDT,0.05901,7.36,26.01,3.3,,2.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-27,2026-07-27 05:07,mexc,DIA/USDT,0.163,20.74,21.36,7.6,,4.0,Coindar: DIA Released DIA ZK
-2026-07-27,2026-07-27 14:21,gate,BEAT/USDT,4.4148,25.68,11.46,10.0,,,
+2026-07-27,2026-07-27 14:31,gate,BEAT/USDT,4.4099,25.55,11.62,10.2,,,
 2026-07-27,2026-07-27 00:01,mexc,FARTCOIN/USDT,0.13309,3.09,7.69,8.6,,108.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-07-27,2026-07-27 13:02,gate,B/USDT,0.1855,3.0,7.29,3.1,,,
 2026-07-27,2026-07-27 05:07,mexc,ENA/USDT,0.08927,4.25,4.42,14.9,Unlock,1.0,Binance News: Ethena Set to Unlock 110.95 Million ENA Tokens on August 2
