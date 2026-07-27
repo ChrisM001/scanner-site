@@ -1061,20 +1061,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-26,2026-07-26 23:55,gate,KAITO/USDT,1.1749,16.62,3.44,16.0,,,
 2026-07-26,2026-07-26 00:26,mexc,KAITO/USDT,1.0241,8.79,2.09,3.4,,105.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-26,2026-07-26 00:26,mexc,VELVET/USDT,0.4786,10.37,2.07,8.0,,0.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
-2026-07-27,2026-07-27 07:05,gate,PEPE/USDT,3e-06,3.22,13618800.64,30.9,,0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
+2026-07-27,2026-07-27 07:05,gate,PEPE/USDT,3e-06,3.22,13618800.64,30.9,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
 2026-07-27,2026-07-27 00:35,mexc,SHIB/USDT,5e-06,3.68,9989.08,89.1,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
-2026-07-27,2026-07-27 07:05,gate,AKE/USDT,0.004514,43.96,1886.62,60.4,,277,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-27,2026-07-27 07:15,gate,AKE/USDT,0.004384,39.84,1951.6,62.4,,277,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-27,2026-07-27 05:07,mexc,AKE/USDT,0.003481,21.18,1110.51,18.5,,277.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-27,2026-07-27 02:45,gate,ESPORTS/USDT,0.03073,12.15,333.24,21.6,,235.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-27,2026-07-27 07:05,gate,BANK/USDT,0.45008,18.52,257.76,45.2,,377,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-27,2026-07-27 07:15,gate,BANK/USDT,0.4471,17.74,262.92,46.2,,377,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-27,2026-07-27 05:07,mexc,UB/USDT,0.14616,10.35,233.06,4.2,,,
 2026-07-27,2026-07-27 02:01,gate,ESP/USDT,0.11381,3.86,217.5,12.3,,124.0,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
 2026-07-27,2026-07-27 05:07,mexc,BANK/USDT,0.39458,3.92,201.43,65.2,,377.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-27,2026-07-27 05:07,mexc,ESP/USDT,0.11168,18.8,193.15,8.3,,124.0,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
-2026-07-27,2026-07-27 07:05,gate,US/USDT,0.049043,10.97,94.8,3.7,,,
+2026-07-27,2026-07-27 07:15,gate,US/USDT,0.048605,9.98,96.35,3.8,,,
 2026-07-27,2026-07-27 05:07,mexc,PUMPFUN/USDT,0.002005,8.2,89.03,9.4,,,
-2026-07-27,2026-07-27 07:05,gate,CXMT/USDT,6.92,6.64,52.1,55.4,,,
-2026-07-27,2026-07-27 07:05,gate,DIA/USDT,0.1597,15.06,37.84,3.7,,4,Coindar: DIA Released DIA ZK
+2026-07-27,2026-07-27 07:15,gate,CXMT/USDT,6.887,6.13,52.72,56.1,,,
+2026-07-27,2026-07-27 07:15,gate,DIA/USDT,0.1685,21.4,38.42,3.8,,4,Coindar: DIA Released DIA ZK
 2026-07-27,2026-07-27 00:05,mexc,ZAMA/USDT,0.05901,7.36,26.01,3.3,,2.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-27,2026-07-27 05:07,mexc,DIA/USDT,0.163,20.74,21.36,7.6,,4.0,Coindar: DIA Released DIA ZK
 2026-07-27,2026-07-27 00:01,mexc,FARTCOIN/USDT,0.13309,3.09,7.69,8.6,,108.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
