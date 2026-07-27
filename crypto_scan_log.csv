@@ -1063,8 +1063,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-26,2026-07-26 00:26,mexc,VELVET/USDT,0.4786,10.37,2.07,8.0,,0.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-07-27,2026-07-27 07:05,gate,PEPE/USDT,3e-06,3.22,13618800.64,30.9,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
 2026-07-27,2026-07-27 00:35,mexc,SHIB/USDT,5e-06,3.68,9989.08,89.1,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
-2026-07-27,2026-07-27 10:26,gate,AKE/USDT,0.004186,33.52,2548.82,81.5,,277,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-27,2026-07-27 10:26,gate,PUMP/USDT,0.002077,3.08,2027.46,4.5,Unlock,0,Coinpedia: Pump.fun Price Nears Breakout Zone After Absorbing Vesting SupplyCan it Reach $0.005?
+2026-07-27,2026-07-27 10:31,gate,AKE/USDT,0.004194,33.78,2559.33,81.9,,277,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-27,2026-07-27 10:26,gate,PUMP/USDT,0.002077,3.08,2027.46,4.5,Unlock,0.0,Coinpedia: Pump.fun Price Nears Breakout Zone After Absorbing Vesting SupplyCan it Reach $0.005?
 2026-07-27,2026-07-27 05:07,mexc,AKE/USDT,0.003481,21.18,1110.51,18.5,,277.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-27,2026-07-27 02:45,gate,ESPORTS/USDT,0.03073,12.15,333.24,21.6,,235.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-27,2026-07-27 09:01,gate,BANK/USDT,0.41579,9.49,305.73,53.7,,377.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
@@ -1072,15 +1072,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-27,2026-07-27 02:01,gate,ESP/USDT,0.11381,3.86,217.5,12.3,,124.0,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
 2026-07-27,2026-07-27 05:07,mexc,BANK/USDT,0.39458,3.92,201.43,65.2,,377.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-27,2026-07-27 05:07,mexc,ESP/USDT,0.11168,18.8,193.15,8.3,,124.0,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
-2026-07-27,2026-07-27 10:26,gate,BTW/USDT,0.096082,33.53,179.51,3.1,,,
-2026-07-27,2026-07-27 10:26,gate,US/USDT,0.047007,6.37,108.86,4.3,,,
+2026-07-27,2026-07-27 10:31,gate,BTW/USDT,0.097558,35.58,181.19,3.1,,,
+2026-07-27,2026-07-27 10:31,gate,US/USDT,0.04639,4.97,109.33,4.3,,,
 2026-07-27,2026-07-27 05:07,mexc,PUMPFUN/USDT,0.002005,8.2,89.03,9.4,,,
-2026-07-27,2026-07-27 10:26,gate,DIA/USDT,0.1809,30.33,57.54,5.7,,4,Coindar: DIA Released DIA ZK
-2026-07-27,2026-07-27 10:26,gate,CXMT/USDT,6.827,5.21,56.63,60.2,,,
+2026-07-27,2026-07-27 10:31,gate,DIA/USDT,0.178,28.24,58.08,5.7,,4,Coindar: DIA Released DIA ZK
+2026-07-27,2026-07-27 10:31,gate,CXMT/USDT,6.823,5.15,56.7,60.3,,,
 2026-07-27,2026-07-27 00:05,mexc,ZAMA/USDT,0.05901,7.36,26.01,3.3,,2.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-27,2026-07-27 05:07,mexc,DIA/USDT,0.163,20.74,21.36,7.6,,4.0,Coindar: DIA Released DIA ZK
 2026-07-27,2026-07-27 00:01,mexc,FARTCOIN/USDT,0.13309,3.09,7.69,8.6,,108.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-07-27,2026-07-27 10:26,gate,BEAT/USDT,3.8834,10.56,6.53,5.7,,49,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-27,2026-07-27 10:31,gate,BEAT/USDT,3.8997,11.02,6.56,5.7,,49,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-07-27,2026-07-27 05:07,mexc,ENA/USDT,0.08927,4.25,4.42,14.9,Unlock,1.0,Binance News: Ethena Set to Unlock 110.95 Million ENA Tokens on August 2
 2026-07-27,2026-07-27 05:07,mexc,ON/USDT,0.13961,13.86,2.58,3.5,,,
 2026-07-27,2026-07-27 05:07,mexc,ZRO/USDT,0.8838,4.32,2.52,3.5,,,
