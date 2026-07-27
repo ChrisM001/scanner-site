@@ -1061,12 +1061,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-26,2026-07-26 23:55,gate,KAITO/USDT,1.1749,16.62,3.44,16.0,,,
 2026-07-26,2026-07-26 00:26,mexc,KAITO/USDT,1.0241,8.79,2.09,3.4,,105.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-26,2026-07-26 00:26,mexc,VELVET/USDT,0.4786,10.37,2.07,8.0,,0.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
-2026-07-27,2026-07-27 00:11,mexc,SHIB/USDT,5e-06,3.09,9833.89,87.7,,0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
-2026-07-27,2026-07-27 00:11,mexc,AKE/USDT,0.003182,10.77,1041.62,17.3,,277,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-27,2026-07-27 00:11,mexc,UB/USDT,0.14728,11.19,189.57,3.4,,,
-2026-07-27,2026-07-27 00:11,mexc,ESP/USDT,0.11138,18.48,128.96,5.5,,124,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
-2026-07-27,2026-07-27 00:11,mexc,PUMPFUN/USDT,0.001991,7.44,92.16,9.7,,,
+2026-07-27,2026-07-27 00:16,mexc,SHIB/USDT,5e-06,3.64,9846.6,87.8,,0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
+2026-07-27,2026-07-27 00:16,mexc,AKE/USDT,0.003192,11.09,1044.14,17.4,,277,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-27,2026-07-27 00:16,mexc,UB/USDT,0.14676,10.8,191.6,3.5,,,
+2026-07-27,2026-07-27 00:16,mexc,ESP/USDT,0.11201,19.15,130.36,5.6,,124,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
+2026-07-27,2026-07-27 00:16,mexc,PUMPFUN/USDT,0.001986,7.17,92.33,9.8,,,
 2026-07-27,2026-07-27 00:05,mexc,ZAMA/USDT,0.05901,7.36,26.01,3.3,,2.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
+2026-07-27,2026-07-27 00:16,mexc,DIA/USDT,0.1425,5.55,17.49,6.2,,4,Coindar: DIA Released DIA ZK
 2026-07-27,2026-07-27 00:01,mexc,FARTCOIN/USDT,0.13309,3.09,7.69,8.6,,108.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-07-27,2026-07-27 00:11,mexc,ENA/USDT,0.08927,4.25,4.13,13.9,Unlock,0,Binance News: Ethena Set to Unlock 110.95 Million ENA Tokens on August 2
-2026-07-27,2026-07-27 00:11,mexc,ON/USDT,0.12899,5.2,2.55,3.4,,,
+2026-07-27,2026-07-27 00:16,mexc,ENA/USDT,0.08927,4.25,4.16,14.0,Unlock,0,Binance News: Ethena Set to Unlock 110.95 Million ENA Tokens on August 2
+2026-07-27,2026-07-27 00:16,mexc,ON/USDT,0.12828,4.62,2.55,3.4,,,
