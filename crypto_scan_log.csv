@@ -1061,11 +1061,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-26,2026-07-26 23:55,gate,KAITO/USDT,1.1749,16.62,3.44,16.0,,,
 2026-07-26,2026-07-26 00:26,mexc,KAITO/USDT,1.0241,8.79,2.09,3.4,,105.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-26,2026-07-26 00:26,mexc,VELVET/USDT,0.4786,10.37,2.07,8.0,,0.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
-2026-07-27,2026-07-27 00:01,mexc,AKE/USDT,0.003147,9.53,1033.87,17.2,,277,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-27,2026-07-27 00:01,mexc,UB/USDT,0.14764,11.46,183.6,3.3,,,
-2026-07-27,2026-07-27 00:01,mexc,ESP/USDT,0.11024,17.27,124.71,5.4,,124,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
-2026-07-27,2026-07-27 00:01,mexc,PUMPFUN/USDT,0.002008,8.36,90.46,9.6,,,
-2026-07-27,2026-07-27 00:01,mexc,ZAMA/USDT,0.05854,6.51,25.96,3.3,,2,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
-2026-07-27,2026-07-27 00:01,mexc,FARTCOIN/USDT,0.13309,3.09,7.69,8.6,,108,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-07-27,2026-07-27 00:01,mexc,ENA/USDT,0.09003,5.13,3.96,13.3,Unlock,0,Binance News: Ethena Set to Unlock 110.95 Million ENA Tokens on August 2
-2026-07-27,2026-07-27 00:01,mexc,ON/USDT,0.12776,4.2,2.54,3.4,,,
+2026-07-27,2026-07-27 00:05,mexc,SHIB/USDT,5e-06,3.23,9826.98,87.6,,0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
+2026-07-27,2026-07-27 00:05,mexc,AKE/USDT,0.003184,10.84,1039.68,17.3,,277,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-27,2026-07-27 00:05,mexc,UB/USDT,0.14578,10.06,186.17,3.4,,,
+2026-07-27,2026-07-27 00:05,mexc,ESP/USDT,0.10928,16.25,127.26,5.5,,124,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
+2026-07-27,2026-07-27 00:05,mexc,PUMPFUN/USDT,0.001987,7.23,91.39,9.7,,,
+2026-07-27,2026-07-27 00:05,mexc,ZAMA/USDT,0.05901,7.36,26.01,3.3,,2,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
+2026-07-27,2026-07-27 00:01,mexc,FARTCOIN/USDT,0.13309,3.09,7.69,8.6,,108.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-07-27,2026-07-27 00:05,mexc,ENA/USDT,0.0901,5.22,4.0,13.5,Unlock,0,Binance News: Ethena Set to Unlock 110.95 Million ENA Tokens on August 2
+2026-07-27,2026-07-27 00:05,mexc,ON/USDT,0.12831,4.64,2.55,3.4,,,
