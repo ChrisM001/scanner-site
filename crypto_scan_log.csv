@@ -1063,10 +1063,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-26,2026-07-26 00:26,mexc,VELVET/USDT,0.4786,10.37,2.07,8.0,,0.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-07-27,2026-07-27 07:05,gate,PEPE/USDT,3e-06,3.22,13618800.64,30.9,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
 2026-07-27,2026-07-27 00:35,mexc,SHIB/USDT,5e-06,3.68,9989.08,89.1,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
-2026-07-27,2026-07-27 21:05,gate,PUMP/USDT,0.002169,7.64,4565.43,10.1,,,
-2026-07-27,2026-07-27 21:05,gate,AKE/USDT,0.004392,40.1,2740.45,87.7,,,
+2026-07-27,2026-07-27 21:11,gate,PUMP/USDT,0.002162,7.3,4578.03,10.2,,,
+2026-07-27,2026-07-27 21:11,gate,AKE/USDT,0.004541,44.83,2778.84,88.9,,,
 2026-07-27,2026-07-27 05:07,mexc,AKE/USDT,0.003481,21.18,1110.51,18.5,,277.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-27,2026-07-27 21:05,gate,BTW/USDT,0.076528,6.35,727.92,12.5,,,
+2026-07-27,2026-07-27 21:11,gate,BTW/USDT,0.07821,8.69,728.36,12.5,,,
 2026-07-27,2026-07-27 11:31,gate,BANK/USDT,0.39273,3.42,341.84,60.0,,378.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-27,2026-07-27 02:45,gate,ESPORTS/USDT,0.03073,12.15,333.24,21.6,,235.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-27,2026-07-27 05:07,mexc,UB/USDT,0.14616,10.35,233.06,4.2,,,
@@ -1083,7 +1083,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-27,2026-07-27 20:46,gate,RIF/USDT,0.09326,13.63,24.56,4.9,,,
 2026-07-27,2026-07-27 18:51,gate,BEAT/USDT,3.6411,3.66,21.55,18.8,,,
 2026-07-27,2026-07-27 05:07,mexc,DIA/USDT,0.163,20.74,21.36,7.6,,4.0,Coindar: DIA Released DIA ZK
-2026-07-27,2026-07-27 21:05,gate,B/USDT,0.1861,3.33,8.24,3.6,,,
+2026-07-27,2026-07-27 21:11,gate,B/USDT,0.1863,3.44,8.25,3.6,,,
 2026-07-27,2026-07-27 00:01,mexc,FARTCOIN/USDT,0.13309,3.09,7.69,8.6,,108.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-07-27,2026-07-27 05:07,mexc,ENA/USDT,0.08927,4.25,4.42,14.9,Unlock,1.0,Binance News: Ethena Set to Unlock 110.95 Million ENA Tokens on August 2
 2026-07-27,2026-07-27 05:07,mexc,ON/USDT,0.13961,13.86,2.58,3.5,,,
