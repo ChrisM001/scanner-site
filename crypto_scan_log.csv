@@ -1063,8 +1063,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-26,2026-07-26 00:26,mexc,VELVET/USDT,0.4786,10.37,2.07,8.0,,0.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-07-27,2026-07-27 07:05,gate,PEPE/USDT,3e-06,3.22,13618800.64,30.9,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
 2026-07-27,2026-07-27 00:35,mexc,SHIB/USDT,5e-06,3.68,9989.08,89.1,,0.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
-2026-07-27,2026-07-27 23:45,gate,PUMP/USDT,0.002093,3.87,4700.75,10.4,,,
-2026-07-27,2026-07-27 23:45,gate,AKE/USDT,0.004012,27.97,3215.04,102.9,,,
+2026-07-27,2026-07-27 23:51,gate,PUMP/USDT,0.002109,4.67,4709.81,10.5,,,
+2026-07-27,2026-07-27 23:51,gate,AKE/USDT,0.004053,29.27,3220.58,103.0,,,
 2026-07-27,2026-07-27 05:07,mexc,AKE/USDT,0.003481,21.18,1110.51,18.5,,277.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-27,2026-07-27 23:40,gate,BTW/USDT,0.074236,3.17,753.25,12.9,,,
 2026-07-27,2026-07-27 11:31,gate,BANK/USDT,0.39273,3.42,341.84,60.0,,378.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
@@ -1078,7 +1078,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-27,2026-07-27 05:07,mexc,PUMPFUN/USDT,0.002005,8.2,89.03,9.4,,,
 2026-07-27,2026-07-27 20:26,gate,DIA/USDT,0.1432,3.17,71.29,7.0,,,
 2026-07-27,2026-07-27 16:26,gate,CXMT/USDT,6.733,3.76,62.02,66.0,,,
-2026-07-27,2026-07-27 23:45,gate,ZAMA/USDT,0.0602,3.03,53.26,6.6,,,
+2026-07-27,2026-07-27 23:51,gate,ZAMA/USDT,0.06038,3.34,53.35,6.6,,,
 2026-07-27,2026-07-27 23:37,mexc,COTI/USDT,0.011304,47.61,47.34,6.6,,,
 2026-07-27,2026-07-27 00:05,mexc,ZAMA/USDT,0.05901,7.36,26.01,3.3,,2.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
 2026-07-27,2026-07-27 20:46,gate,RIF/USDT,0.09326,13.63,24.56,4.9,,,
@@ -1091,4 +1091,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-27,2026-07-27 23:37,mexc,KAITO/USDT,1.29,6.71,4.13,8.4,,,
 2026-07-27,2026-07-27 05:07,mexc,ZRO/USDT,0.8838,4.32,2.52,3.5,,,
 2026-07-27,2026-07-27 10:56,gate,ONDO/USDT,0.4172,3.06,2.34,7.4,,,
-2026-07-27,2026-07-27 23:45,gate,KAITO/USDT,1.2848,8.84,2.22,11.5,,,
+2026-07-27,2026-07-27 23:51,gate,KAITO/USDT,1.2919,9.44,2.23,11.5,,,
