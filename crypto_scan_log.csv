@@ -1092,17 +1092,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-27,2026-07-27 05:07,mexc,ZRO/USDT,0.8838,4.32,2.52,3.5,,,
 2026-07-27,2026-07-27 10:56,gate,ONDO/USDT,0.4172,3.06,2.34,7.4,,,
 2026-07-27,2026-07-27 23:51,gate,KAITO/USDT,1.2919,9.44,2.23,11.5,,,
-2026-07-28,2026-07-28 04:01,gate,AKE/USDT,0.004655,15.58,2959.63,104.7,,278,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-28,2026-07-28 04:01,gate,BTW/USDT,0.077487,4.39,719.62,13.9,,,
+2026-07-28,2026-07-28 04:05,gate,AKE/USDT,0.004497,11.64,2966.46,104.9,,278,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-28,2026-07-28 04:05,gate,BTW/USDT,0.077586,4.53,722.43,13.9,,,
 2026-07-28,2026-07-28 00:01,mexc,BANK/USDT,0.33929,3.94,298.44,107.6,,378.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-28,2026-07-28 04:01,gate,HOME/USDT,0.00573,3.06,195.35,3.6,,80,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-07-28,2026-07-28 04:01,gate,LA/USDT,0.0645,5.05,179.4,13.8,,414,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
+2026-07-28,2026-07-28 04:01,gate,HOME/USDT,0.00573,3.06,195.35,3.6,,80.0,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-07-28,2026-07-28 04:05,gate,LA/USDT,0.064,4.23,180.15,13.9,,414,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
 2026-07-28,2026-07-28 03:50,gate,SOON/USDT,0.2457,3.8,122.37,3.0,,,
-2026-07-28,2026-07-28 04:01,gate,COTI/USDT,0.01285,20.32,96.32,6.5,,13,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
-2026-07-28,2026-07-28 04:01,gate,ESPORTS/USDT,0.02813,8.82,73.85,4.9,,236,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-28,2026-07-28 04:05,gate,COTI/USDT,0.01329,24.44,99.43,6.7,,13,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
+2026-07-28,2026-07-28 04:05,gate,ESPORTS/USDT,0.02787,7.81,74.17,4.9,,236,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-07-28,2026-07-28 03:56,gate,ZAMA/USDT,0.06302,4.34,47.14,6.9,,3.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
-2026-07-28,2026-07-28 04:01,gate,BEAT/USDT,2.7738,5.8,35.42,29.2,,49,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-07-28,2026-07-28 04:01,gate,RIF/USDT,0.08801,14.81,27.85,6.1,,4,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
+2026-07-28,2026-07-28 04:05,gate,BEAT/USDT,2.8247,7.74,35.47,29.2,,49,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-28,2026-07-28 04:05,gate,RIF/USDT,0.08573,11.83,27.93,6.1,,4,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
 2026-07-28,2026-07-28 00:01,mexc,RIF/USDT,0.07671,3.11,22.94,7.1,,4.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
 2026-07-28,2026-07-28 00:01,mexc,COTI/USDT,0.010719,39.97,19.17,7.7,,13.0,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
 2026-07-28,2026-07-28 03:20,gate,LAB/USDT,0.14287,3.08,14.76,7.3,,,
