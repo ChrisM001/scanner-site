@@ -1092,18 +1092,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-27,2026-07-27 05:07,mexc,ZRO/USDT,0.8838,4.32,2.52,3.5,,,
 2026-07-27,2026-07-27 10:56,gate,ONDO/USDT,0.4172,3.06,2.34,7.4,,,
 2026-07-27,2026-07-27 23:51,gate,KAITO/USDT,1.2919,9.44,2.23,11.5,,,
-2026-07-28,2026-07-28 02:36,gate,AKE/USDT,0.00465,15.45,3039.99,107.5,,278,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-28,2026-07-28 02:45,gate,AKE/USDT,0.00459,13.96,3061.43,108.3,,278,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-28,2026-07-28 00:55,gate,BTW/USDT,0.077026,3.77,678.04,13.1,,,
 2026-07-28,2026-07-28 00:01,mexc,BANK/USDT,0.33929,3.94,298.44,107.6,,378.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-28,2026-07-28 02:36,gate,HOME/USDT,0.00574,3.24,196.18,3.6,,80,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-07-28,2026-07-28 02:36,gate,LA/USDT,0.0673,9.61,176.03,13.6,,414,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
-2026-07-28,2026-07-28 02:36,gate,ESPORTS/USDT,0.02818,9.01,80.15,5.3,,236,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-28,2026-07-28 02:36,gate,COTI/USDT,0.01375,28.75,71.86,4.8,,13,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
-2026-07-28,2026-07-28 02:36,gate,BEAT/USDT,2.9985,14.37,34.4,28.4,,49,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-07-28,2026-07-28 02:36,gate,RIF/USDT,0.08566,11.74,27.14,5.9,,4,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
+2026-07-28,2026-07-28 02:36,gate,HOME/USDT,0.00574,3.24,196.18,3.6,,80.0,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-07-28,2026-07-28 02:45,gate,LA/USDT,0.067,9.12,176.88,13.6,,414,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
+2026-07-28,2026-07-28 02:45,gate,ESPORTS/USDT,0.02824,9.25,80.51,5.3,,236,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-07-28,2026-07-28 02:45,gate,COTI/USDT,0.01423,33.24,74.0,5.0,,13,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
+2026-07-28,2026-07-28 02:45,gate,BEAT/USDT,2.8372,8.22,34.54,28.5,,49,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-28,2026-07-28 02:45,gate,RIF/USDT,0.08548,11.51,27.21,5.9,,4,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
 2026-07-28,2026-07-28 00:01,mexc,RIF/USDT,0.07671,3.11,22.94,7.1,,4.0,Coinpedia: Can RIF Price Rally Continue After 70% Surge? Rootstocks Bitcoin DeFi Growth Fuels Optimism
 2026-07-28,2026-07-28 00:01,mexc,COTI/USDT,0.010719,39.97,19.17,7.7,,13.0,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
-2026-07-28,2026-07-28 02:36,gate,LAB/USDT,0.14336,3.43,14.98,7.4,,,
+2026-07-28,2026-07-28 02:45,gate,LAB/USDT,0.14337,3.44,15.05,7.4,,,
 2026-07-28,2026-07-28 00:01,mexc,ON/USDT,0.19053,4.88,6.15,11.0,,,
 2026-07-28,2026-07-28 00:20,gate,EUL/USDT,1.7226,4.93,4.87,13.7,,270.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-07-28,2026-07-28 00:01,mexc,KAITO/USDT,1.2841,6.22,3.63,8.5,,107.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
