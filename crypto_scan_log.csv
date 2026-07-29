@@ -1122,4 +1122,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-29,2026-07-29 00:55,gate,AKE/USDT,0.004278,4.73,1514.84,56.2,,279.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-29,2026-07-29 00:50,gate,BTW/USDT,0.093414,3.65,344.3,6.9,,,
 2026-07-29,2026-07-29 00:55,gate,ZAMA/USDT,0.06256,3.2,37.84,6.3,,4.0,CoinMarketCal: Zama: opens Confidential RFQ to the public - Sep 2026
+2026-07-29,2026-07-29 01:01,gate,COTI/USDT,0.01123,3.98,28.46,19.4,,14.0,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
 2026-07-29,2026-07-29 00:50,gate,EUL/USDT,1.6052,3.33,3.1,9.8,,271.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
