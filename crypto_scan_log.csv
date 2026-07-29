@@ -1119,3 +1119,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-28,2026-07-28 00:01,mexc,KAITO/USDT,1.2841,6.22,3.63,8.5,,107.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-28,2026-07-28 23:50,gate,ONDO/USDT,0.4071,3.25,2.66,9.4,,,
 2026-07-28,2026-07-28 02:21,gate,KAITO/USDT,1.3411,4.16,2.33,12.9,,107.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
+2026-07-29,2026-07-29 00:10,gate,EUL/USDT,1.6022,3.13,2.98,9.4,,271.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
