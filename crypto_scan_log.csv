@@ -1119,19 +1119,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-28,2026-07-28 00:01,mexc,KAITO/USDT,1.2841,6.22,3.63,8.5,,107.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
 2026-07-28,2026-07-28 23:50,gate,ONDO/USDT,0.4071,3.25,2.66,9.4,,,
 2026-07-28,2026-07-28 02:21,gate,KAITO/USDT,1.3411,4.16,2.33,12.9,,107.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
-2026-07-29,2026-07-29 06:10,gate,UB/USDT,0.14131,4.86,1787.46,4.5,,,
+2026-07-29,2026-07-29 09:05,gate,UB/USDT,0.13948,3.5,2143.65,5.4,,,
 2026-07-29,2026-07-29 01:20,gate,AKE/USDT,0.004236,3.72,1442.71,53.6,,279.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-29,2026-07-29 07:51,gate,BTW/USDT,0.092991,3.18,450.33,9.0,,,
 2026-07-29,2026-07-29 01:26,mexc,BTW/USDT,0.09176,15.27,276.03,6.4,,,
 2026-07-29,2026-07-29 01:26,mexc,ZIL/USDT,0.002879,15.66,131.8,8.5,,6.0,The Block: Zilliqa halts native transactions over bug in its Ledger app dating to 2019
 2026-07-29,2026-07-29 01:26,mexc,BULLA/USDT,0.01858,8.23,59.35,3.4,,,
 2026-07-29,2026-07-29 08:41,gate,ZAMA/USDT,0.06252,3.13,30.66,5.1,,0.0,"Binance News: Zama CEO Says GPU Benchmark Reaches 1,000 Confidential Transfers Per Second"
-2026-07-29,2026-07-29 08:46,gate,BEAT/USDT,3.704,9.43,20.88,17.8,,51,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-07-29,2026-07-29 08:46,gate,COTI/USDT,0.01323,22.5,20.1,13.7,,14,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
+2026-07-29,2026-07-29 09:05,gate,COTI/USDT,0.01251,15.83,19.41,13.2,,14,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
+2026-07-29,2026-07-29 09:05,gate,BEAT/USDT,3.7252,10.06,19.24,16.4,,51,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-07-29,2026-07-29 01:26,mexc,ON/USDT,0.31027,11.76,12.8,51.5,,,
-2026-07-29,2026-07-29 08:46,gate,SOXS/USDT,64.98,5.37,6.02,5.7,,,
-2026-07-29,2026-07-29 08:46,gate,EUL/USDT,1.791,15.29,4.04,12.7,,272,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
+2026-07-29,2026-07-29 09:05,gate,SOXS/USDT,64.23,4.15,5.94,5.6,,,
+2026-07-29,2026-07-29 09:05,gate,EUL/USDT,1.7615,13.39,4.03,12.7,,272,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-07-29,2026-07-29 01:26,mexc,SOXS/USDT,63.91,4.17,3.88,7.6,,,
 2026-07-29,2026-07-29 01:26,mexc,KAITO/USDT,1.2352,9.33,3.78,10.2,,108.0,Coinpedia: Grayscale Is Accumulating These Altcoins in Q2 2026
-2026-07-29,2026-07-29 08:46,gate,CXMT/USDT,7.128,6.77,3.62,27.3,,,
+2026-07-29,2026-07-29 09:05,gate,CXMT/USDT,7.075,5.98,3.63,27.4,,,
 2026-07-29,2026-07-29 01:26,mexc,BEAT/USDT,3.453,13.06,2.24,47.1,,50.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
