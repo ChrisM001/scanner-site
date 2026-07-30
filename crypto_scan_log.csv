@@ -1141,7 +1141,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-29,2026-07-29 20:11,gate,EUL/USDT,1.6319,5.05,3.63,11.5,,,
 2026-07-29,2026-07-29 01:26,mexc,BEAT/USDT,3.453,13.06,2.24,47.1,,50.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-07-30,2026-07-30 00:01,mexc,BANK/USDT,0.17217,4.26,161.47,66.9,,380.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-30,2026-07-30 00:10,gate,UAI/USDT,0.45358,4.03,92.53,10.7,,,
 2026-07-30,2026-07-30 00:01,mexc,RE/USDT,0.4962,12.11,15.62,7.3,Listing,30.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
-2026-07-30,2026-07-30 00:05,gate,COTI/USDT,0.01785,5.62,13.17,17.9,,15.0,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
+2026-07-30,2026-07-30 00:10,gate,COTI/USDT,0.01849,9.41,13.32,18.1,,15,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
 2026-07-30,2026-07-30 00:01,mexc,UAI/USDT,0.4408,6.34,7.95,12.4,,,
 2026-07-30,2026-07-30 00:01,mexc,ON/USDT,0.32919,8.8,6.91,39.1,,,
