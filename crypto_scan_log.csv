@@ -1140,13 +1140,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-29,2026-07-29 20:11,gate,CXMT/USDT,7.065,5.83,3.73,28.1,,,
 2026-07-29,2026-07-29 20:11,gate,EUL/USDT,1.6319,5.05,3.63,11.5,,,
 2026-07-29,2026-07-29 01:26,mexc,BEAT/USDT,3.453,13.06,2.24,47.1,,50.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-07-30,2026-07-30 01:25,gate,UB/USDT,0.13434,4.72,3981.26,10.4,,,
+2026-07-30,2026-07-30 01:31,gate,UB/USDT,0.1347,5.0,3984.91,10.4,,,
 2026-07-30,2026-07-30 01:16,gate,AKE/USDT,0.003988,4.62,1274.3,49.5,,280.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-30,2026-07-30 01:25,gate,BANK/USDT,0.1787,3.74,415.16,106.3,,380,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-30,2026-07-30 01:31,gate,BANK/USDT,0.17782,3.23,416.32,106.6,,380,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-30,2026-07-30 00:01,mexc,BANK/USDT,0.17217,4.26,161.47,66.9,,380.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-30,2026-07-30 01:25,gate,UAI/USDT,0.45763,4.96,104.8,12.1,,,
+2026-07-30,2026-07-30 01:31,gate,UAI/USDT,0.45798,5.04,105.07,12.1,,,
 2026-07-30,2026-07-30 00:55,gate,LA/USDT,0.0539,3.65,47.43,5.5,,416.0,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
 2026-07-30,2026-07-30 00:01,mexc,RE/USDT,0.4962,12.11,15.62,7.3,Listing,30.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
-2026-07-30,2026-07-30 01:25,gate,COTI/USDT,0.01744,3.2,14.38,19.6,,15,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
+2026-07-30,2026-07-30 01:31,gate,COTI/USDT,0.01755,3.85,14.42,19.6,,15,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
 2026-07-30,2026-07-30 00:01,mexc,UAI/USDT,0.4408,6.34,7.95,12.4,,,
 2026-07-30,2026-07-30 00:01,mexc,ON/USDT,0.32919,8.8,6.91,39.1,,,
+2026-07-30,2026-07-30 01:31,gate,CXMT/USDT,7.365,4.13,2.96,26.5,,,
