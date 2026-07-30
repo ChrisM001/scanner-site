@@ -1140,14 +1140,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-29,2026-07-29 20:11,gate,CXMT/USDT,7.065,5.83,3.73,28.1,,,
 2026-07-29,2026-07-29 20:11,gate,EUL/USDT,1.6319,5.05,3.63,11.5,,,
 2026-07-29,2026-07-29 01:26,mexc,BEAT/USDT,3.453,13.06,2.24,47.1,,50.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-07-30,2026-07-30 02:40,gate,UB/USDT,0.13648,6.38,3932.53,10.3,,,
-2026-07-30,2026-07-30 02:40,gate,AKE/USDT,0.003988,4.61,1294.42,50.3,,280,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-30,2026-07-30 02:40,gate,BANK/USDT,0.19928,15.69,414.81,106.2,,380,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-30,2026-07-30 02:50,gate,UB/USDT,0.135,5.23,3941.24,10.3,,,
+2026-07-30,2026-07-30 02:50,gate,AKE/USDT,0.00395,3.61,1304.26,50.7,,280,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-30,2026-07-30 02:50,gate,BANK/USDT,0.19541,13.45,420.58,107.7,,380,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-30,2026-07-30 00:01,mexc,BANK/USDT,0.17217,4.26,161.47,66.9,,380.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-30,2026-07-30 02:40,gate,UAI/USDT,0.4795,9.98,111.44,12.8,,,
-2026-07-30,2026-07-30 02:40,gate,LA/USDT,0.0543,4.42,47.27,5.5,,416,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
-2026-07-30,2026-07-30 02:35,gate,RE/USDT,0.5119,3.24,18.01,3.1,Listing,30.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
-2026-07-30,2026-07-30 02:40,gate,COTI/USDT,0.01873,10.83,15.81,21.5,,15,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
+2026-07-30,2026-07-30 02:50,gate,UAI/USDT,0.47906,9.88,111.82,12.9,,,
+2026-07-30,2026-07-30 02:50,gate,LA/USDT,0.0548,5.38,47.47,5.5,,416,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
+2026-07-30,2026-07-30 02:50,gate,RE/USDT,0.51083,3.02,18.15,3.1,Listing,30,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
+2026-07-30,2026-07-30 02:50,gate,COTI/USDT,0.01861,10.12,15.92,21.7,,15,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
 2026-07-30,2026-07-30 00:01,mexc,RE/USDT,0.4962,12.11,15.62,7.3,Listing,30.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-30,2026-07-30 00:01,mexc,UAI/USDT,0.4408,6.34,7.95,12.4,,,
 2026-07-30,2026-07-30 00:01,mexc,ON/USDT,0.32919,8.8,6.91,39.1,,,
