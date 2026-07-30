@@ -1140,20 +1140,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-29,2026-07-29 20:11,gate,CXMT/USDT,7.065,5.83,3.73,28.1,,,
 2026-07-29,2026-07-29 20:11,gate,EUL/USDT,1.6319,5.05,3.63,11.5,,,
 2026-07-29,2026-07-29 01:26,mexc,BEAT/USDT,3.453,13.06,2.24,47.1,,50.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-07-30,2026-07-30 09:11,gate,UB/USDT,0.13988,9.03,3075.3,8.0,,,
-2026-07-30,2026-07-30 09:11,gate,AKE/USDT,0.003938,3.29,1066.7,41.4,,280,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-07-30,2026-07-30 09:26,gate,UB/USDT,0.13977,8.95,3088.99,8.1,,,
+2026-07-30,2026-07-30 09:26,gate,AKE/USDT,0.003948,3.56,1085.05,42.1,,280,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-07-30,2026-07-30 03:05,gate,BANK/USDT,0.18468,7.22,403.18,103.2,,380.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-30,2026-07-30 05:15,gate,BTW/USDT,0.086364,4.1,341.85,7.6,,,
 2026-07-30,2026-07-30 00:01,mexc,BANK/USDT,0.17217,4.26,161.47,66.9,,380.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-30,2026-07-30 05:45,gate,UAI/USDT,0.45866,5.2,135.48,15.6,,,
-2026-07-30,2026-07-30 09:11,gate,ESP/USDT,0.077,17.63,60.21,7.5,,127,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
-2026-07-30,2026-07-30 08:41,gate,SOON/USDT,0.2065,3.93,54.21,3.8,,,
+2026-07-30,2026-07-30 09:26,gate,ESP/USDT,0.07843,19.81,63.37,7.9,,127,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
+2026-07-30,2026-07-30 09:26,gate,SOON/USDT,0.2064,3.88,50.92,3.6,,,
 2026-07-30,2026-07-30 03:20,gate,LA/USDT,0.0541,4.04,43.1,5.0,,416.0,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
-2026-07-30,2026-07-30 09:11,gate,ZAMA/USDT,0.05805,4.99,28.17,5.0,,1,"Binance News: Zama CEO Says GPU Benchmark Reaches 1,000 Confidential Transfers Per Second"
+2026-07-30,2026-07-30 09:26,gate,ZAMA/USDT,0.05869,6.15,28.31,5.0,,1,"Binance News: Zama CEO Says GPU Benchmark Reaches 1,000 Confidential Transfers Per Second"
 2026-07-30,2026-07-30 07:31,gate,COTI/USDT,0.01742,3.08,18.37,25.0,,15.0,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
 2026-07-30,2026-07-30 04:35,gate,RE/USDT,0.51145,3.15,17.63,3.0,Listing,30.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-30,2026-07-30 00:01,mexc,RE/USDT,0.4962,12.11,15.62,7.3,Listing,30.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-07-30,2026-07-30 00:01,mexc,UAI/USDT,0.4408,6.34,7.95,12.4,,,
 2026-07-30,2026-07-30 00:01,mexc,ON/USDT,0.32919,8.8,6.91,39.1,,,
-2026-07-30,2026-07-30 09:11,gate,CXMT/USDT,7.459,5.46,2.73,24.4,,,
-2026-07-30,2026-07-30 09:11,gate,ONDO/USDT,0.4156,3.02,2.43,9.9,,1,"Binance News: Ondo Finance Drops Layer 1 Plan, Launches Ondo Network for Institutional Trading"
+2026-07-30,2026-07-30 09:26,gate,CXMT/USDT,7.477,5.71,2.74,24.6,,,
+2026-07-30,2026-07-30 09:11,gate,ONDO/USDT,0.4156,3.02,2.43,9.9,,1.0,"Binance News: Ondo Finance Drops Layer 1 Plan, Launches Ondo Network for Institutional Trading"
