@@ -1168,13 +1168,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-30,2026-07-30 23:05,gate,FET/USDT,0.1441,4.65,2.13,3.3,,,
 2026-07-30,2026-07-30 23:01,gate,EPIC/USDT,0.7502,3.42,2.1,6.6,,,
 2026-07-31,2026-07-31 00:11,mexc,AKE/USDT,0.0045,4.26,927.13,19.3,,281.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-31,2026-07-31 01:01,gate,BANK/USDT,0.07289,19.35,529.3,154.3,,381.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-31,2026-07-31 01:05,gate,BANK/USDT,0.07162,17.28,530.57,154.7,,381.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-31,2026-07-31 00:11,mexc,KOMA/USDT,0.01439,4.97,169.14,6.3,Listing,393.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
 2026-07-31,2026-07-31 00:11,mexc,ROBO/USDT,0.01418,18.26,80.72,3.4,Listing,134.0,CoinMarketCal: Fabric Protocol (ROBO) - Bithumb Listing - Date (18 March 2026)
-2026-07-31,2026-07-31 01:01,gate,LA/USDT,0.0541,5.46,33.17,4.3,,417.0,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
+2026-07-31,2026-07-31 01:05,gate,MMT/USDT,0.2649,4.09,77.42,5.8,,268.0,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
+2026-07-31,2026-07-31 01:05,gate,LA/USDT,0.0542,5.65,33.28,4.3,,417.0,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
 2026-07-31,2026-07-31 00:11,mexc,CAP/USDT,0.03501,8.25,24.46,4.8,,,
 2026-07-31,2026-07-31 00:02,mexc,PENGU/USDT,0.006047,3.26,10.46,6.8,,1.0,Invezz: PENGU price struggles after comic debut: why are traders selling?
 2026-07-31,2026-07-31 00:11,mexc,MMT/USDT,0.2539,15.25,9.73,8.6,,268.0,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
-2026-07-31,2026-07-31 01:01,gate,COTI/USDT,0.01353,3.6,8.23,15.1,,16.0,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
+2026-07-31,2026-07-31 01:05,gate,COTI/USDT,0.01359,4.06,8.24,15.1,,16.0,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
 2026-07-31,2026-07-31 00:11,mexc,ESPORTS/USDT,0.02007,12.56,5.92,5.0,,239.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-31,2026-07-31 01:01,gate,EPIC/USDT,0.7629,3.94,2.06,6.9,Listing,344.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
+2026-07-31,2026-07-31 01:05,gate,EPIC/USDT,0.7651,4.24,2.07,6.9,Listing,344.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
