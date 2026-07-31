@@ -1168,24 +1168,24 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-30,2026-07-30 23:05,gate,FET/USDT,0.1441,4.65,2.13,3.3,,,
 2026-07-30,2026-07-30 23:01,gate,EPIC/USDT,0.7502,3.42,2.1,6.6,,,
 2026-07-31,2026-07-31 05:51,gate,BOME/USDT,0.000594,3.04,7360.05,3.0,,2.0,Coinpedia: BOME Price Is Heating Up AgainHeres Why
-2026-07-31,2026-07-31 11:16,gate,UB/USDT,0.1669,9.04,2090.33,5.0,,,
+2026-07-31,2026-07-31 11:36,gate,UB/USDT,0.16571,8.26,2113.41,5.1,,,
 2026-07-31,2026-07-31 00:11,mexc,AKE/USDT,0.0045,4.26,927.13,19.3,,281.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-31,2026-07-31 11:16,gate,KOMA/USDT,0.023993,67.77,734.44,23.0,Listing,394,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
-2026-07-31,2026-07-31 11:16,gate,CAP/USDT,0.036,4.5,681.53,7.4,,,
+2026-07-31,2026-07-31 11:36,gate,KOMA/USDT,0.023828,66.62,755.72,23.7,Listing,394,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
+2026-07-31,2026-07-31 11:36,gate,CAP/USDT,0.03604,4.62,691.39,7.5,,,
 2026-07-31,2026-07-31 10:31,gate,BANK/USDT,0.06305,3.24,342.59,99.9,,381.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-31,2026-07-31 06:47,mexc,KOMA/USDT,0.021059,53.62,274.27,10.1,Listing,393.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
-2026-07-31,2026-07-31 11:16,gate,MMT/USDT,0.3088,21.34,238.44,17.8,,269,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
+2026-07-31,2026-07-31 11:36,gate,MMT/USDT,0.282,10.81,259.84,19.4,,269,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
 2026-07-31,2026-07-31 10:26,gate,CFX/USDT,0.04228,3.12,175.29,9.4,,0.0,"CoinMarketCal: Conflux: Upbit opens CFX trading in KRW, BTC, and USDT markets - By 31 Jul 2026"
 2026-07-31,2026-07-31 06:47,mexc,ROBO/USDT,0.01279,6.67,95.76,4.0,Listing,134.0,CoinMarketCal: Fabric Protocol (ROBO) - Bithumb Listing - Date (18 March 2026)
-2026-07-31,2026-07-31 11:16,gate,UAI/USDT,0.38958,6.02,68.57,12.4,,,
+2026-07-31,2026-07-31 11:36,gate,UAI/USDT,0.39784,8.26,69.65,12.6,,,
 2026-07-31,2026-07-31 04:31,gate,LA/USDT,0.0529,3.12,31.74,4.1,,417.0,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
 2026-07-31,2026-07-31 06:47,mexc,CAP/USDT,0.03723,15.12,27.45,5.4,,,
-2026-07-31,2026-07-31 11:16,gate,ERA/USDT,0.0715,11.89,21.6,3.8,,30,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-07-31,2026-07-31 11:36,gate,ERA/USDT,0.071,11.11,22.25,3.9,,30,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-07-31,2026-07-31 06:47,mexc,MMT/USDT,0.2983,35.4,13.36,11.8,,268.0,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
 2026-07-31,2026-07-31 00:02,mexc,PENGU/USDT,0.006047,3.26,10.46,6.8,,1.0,Invezz: PENGU price struggles after comic debut: why are traders selling?
 2026-07-31,2026-07-31 03:25,gate,LAB/USDT,0.15226,3.06,9.92,4.6,,,
-2026-07-31,2026-07-31 11:16,gate,BEAT/USDT,4.1582,6.79,7.68,7.0,,53,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-07-31,2026-07-31 11:36,gate,BEAT/USDT,4.1346,6.19,8.72,7.9,,53,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-07-31,2026-07-31 06:47,mexc,ESPORTS/USDT,0.01909,7.06,5.94,5.1,,239.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-31,2026-07-31 11:16,gate,COTI/USDT,0.01493,14.32,4.7,8.6,,17,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
+2026-07-31,2026-07-31 11:36,gate,COTI/USDT,0.01568,20.06,4.89,9.0,,17,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
 2026-07-31,2026-07-31 03:50,gate,SOXS/USDT,50.72,3.13,4.55,5.7,,,
 2026-07-31,2026-07-31 05:31,gate,EPIC/USDT,0.776,5.72,2.07,6.9,Listing,344.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025

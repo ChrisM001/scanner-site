@@ -273,10 +273,10 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-07-30,2026-07-30 12:05,NASDAQ:SKYQ,4.37,22.34,1.0,3.85,0.23,8.0,,"TradingView: Sky awards $100,000 to Marcus Laun for interim leadership",premarket
 2026-07-30,2026-07-30 12:05,AMEX:BATL,1.43,13.28,1.0,17.98,0.76,6.0,,"Stocktwits: USO, BATL, TPET Jump As Brent Tops $100 For First Time Since May: Gulf Nations Reportedly Racing To Build Pipelines Around Hormuz",premarket
 2026-07-30,2026-07-30 12:05,NYSE:LVWR,2.65,10.26,0.5,10.17,0.16,0.0,,TradingView: LiveWire Group Disclosed Failure to Satisfy a Continued Listing Rule or Standard,premarket
-2026-07-31,2026-07-31 11:15,NASDAQ:CYCU,2.68,19.65,271.4,10.63,19.31,0.0,,Benzinga: Cycurion Adds Another 37% After Stunning 496% SurgeWhat's Fueling the Rally?,premarket
-2026-07-31,2026-07-31 11:15,NASDAQ:NUWE,2.7,171.96,93.1,0.36,0.3,0.0,,Benzinga: Nuwellis Stock Explodes Thursday: What's Driving the Action?,premarket
-2026-07-31,2026-07-31 11:15,NASDAQ:DGNX,1.83,10.97,13.0,16.74,0.12,0.0,,Reuters: Diginex Limited Regains Compliance With Nasdaq Minimum Bid Price Requirement,premarket
-2026-07-31,2026-07-31 08:01,NASDAQ:DCX,1.35,25.0,6.3,2.1,3.06,1.0,,Benzinga: Digital Currency X Technology (DCX) Stock Rallies Over 31% After Hours: Here's What Is Going On,premarket
+2026-07-31,2026-07-31 11:35,NASDAQ:CYCU,2.868,19.65,271.4,10.63,34.97,0.0,,Benzinga: Cycurion Adds Another 37% After Stunning 496% SurgeWhat's Fueling the Rally?,premarket
+2026-07-31,2026-07-31 11:35,NASDAQ:NUWE,2.819,171.96,93.1,0.36,0.48,0.0,,Benzinga: Nuwellis Stock Explodes Thursday: What's Driving the Action?,premarket
+2026-07-31,2026-07-31 11:35,NASDAQ:DGNX,1.8,10.97,13.0,16.74,0.14,0.0,,Reuters: Diginex Limited Regains Compliance With Nasdaq Minimum Bid Price Requirement,premarket
+2026-07-31,2026-07-31 11:35,NASDAQ:DCX,1.145,25.0,6.3,2.1,0.14,1.0,,Benzinga: Digital Currency X Technology (DCX) Stock Rallies Over 31% After Hours: Here's What Is Going On,premarket
 2026-07-31,2026-07-31 08:01,NASDAQ:CAST,1.311,10.0,3.8,16.52,0.57,1.0,,BusinessWire: FreeCast Targets the Multi-Billion Dollar U.S. Local Advertising Market with a Unified Platform Across 210 Television Markets,premarket
 2026-07-31,2026-07-31 08:01,NASDAQ:GVH,1.01,12.09,3.6,2.35,1.96,11.0,DEAL,"GlobeNewswire: Globavend Signs Global Distribution Agreement with DramaBox, Expanding Commercial Distribution to Platform with Over 90 Million Registered Users",premarket
 2026-07-31,2026-07-31 08:01,NASDAQ:YHC,1.77,12.42,2.9,1.1,0.25,21.0,,Dow Jones Newswires: LQR House Inc. Announces 1-for-100 Reverse Stock Split >YHC,premarket
