@@ -1169,11 +1169,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-30,2026-07-30 23:01,gate,EPIC/USDT,0.7502,3.42,2.1,6.6,,,
 2026-07-31,2026-07-31 02:10,gate,UB/USDT,0.1577,3.02,1497.36,3.6,,,
 2026-07-31,2026-07-31 00:11,mexc,AKE/USDT,0.0045,4.26,927.13,19.3,,281.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-31,2026-07-31 02:26,gate,BANK/USDT,0.07119,16.57,516.43,150.6,,381,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-07-31,2026-07-31 02:21,gate,CAP/USDT,0.03593,4.3,500.09,5.4,,,
-2026-07-31,2026-07-31 02:26,gate,KOMA/USDT,0.015439,7.96,311.79,9.8,Listing,393,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
+2026-07-31,2026-07-31 02:31,gate,BANK/USDT,0.0741,21.34,516.77,150.7,,381,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-31,2026-07-31 02:31,gate,CAP/USDT,0.03564,3.45,502.51,5.5,,,
+2026-07-31,2026-07-31 02:31,gate,KOMA/USDT,0.015525,8.56,313.24,9.8,Listing,393,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
 2026-07-31,2026-07-31 00:11,mexc,KOMA/USDT,0.01439,4.97,169.14,6.3,Listing,393.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
-2026-07-31,2026-07-31 02:26,gate,MMT/USDT,0.2797,9.9,87.29,6.5,,268,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
+2026-07-31,2026-07-31 02:31,gate,MMT/USDT,0.2826,11.04,88.62,6.6,,268,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
 2026-07-31,2026-07-31 00:11,mexc,ROBO/USDT,0.01418,18.26,80.72,3.4,Listing,134.0,CoinMarketCal: Fabric Protocol (ROBO) - Bithumb Listing - Date (18 March 2026)
 2026-07-31,2026-07-31 01:15,gate,LA/USDT,0.0542,5.65,33.54,4.4,,417.0,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
 2026-07-31,2026-07-31 00:11,mexc,CAP/USDT,0.03501,8.25,24.46,4.8,,,
@@ -1182,5 +1182,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-31,2026-07-31 00:11,mexc,MMT/USDT,0.2539,15.25,9.73,8.6,,268.0,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
 2026-07-31,2026-07-31 01:05,gate,COTI/USDT,0.01359,4.06,8.24,15.1,,16.0,Coindar: COTI to Hold Live Stream on X and YouTube on July 14th
 2026-07-31,2026-07-31 00:11,mexc,ESPORTS/USDT,0.02007,12.56,5.92,5.0,,239.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-07-31,2026-07-31 02:26,gate,SOXS/USDT,51.4,4.51,3.99,5.0,,,
-2026-07-31,2026-07-31 02:26,gate,EPIC/USDT,0.7904,7.68,2.09,7.0,Listing,344,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
+2026-07-31,2026-07-31 02:31,gate,SOXS/USDT,50.91,3.52,4.0,5.0,,,
+2026-07-31,2026-07-31 02:31,gate,EPIC/USDT,0.8013,9.17,2.1,7.0,Listing,344,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
