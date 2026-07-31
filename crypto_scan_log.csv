@@ -1167,15 +1167,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-30,2026-07-30 23:05,gate,UNI/USDT,4.424,10.96,2.61,19.3,,,
 2026-07-30,2026-07-30 23:05,gate,FET/USDT,0.1441,4.65,2.13,3.3,,,
 2026-07-30,2026-07-30 23:01,gate,EPIC/USDT,0.7502,3.42,2.1,6.6,,,
-2026-07-31,2026-07-31 05:51,gate,BOME/USDT,0.000594,3.04,7360.05,3.0,,2,Coinpedia: BOME Price Is Heating Up AgainHeres Why
-2026-07-31,2026-07-31 05:51,gate,UB/USDT,0.15996,4.5,1960.88,4.7,,,
+2026-07-31,2026-07-31 05:51,gate,BOME/USDT,0.000594,3.04,7360.05,3.0,,2.0,Coinpedia: BOME Price Is Heating Up AgainHeres Why
+2026-07-31,2026-07-31 05:55,gate,UB/USDT,0.15807,3.27,1973.4,4.7,,,
 2026-07-31,2026-07-31 00:11,mexc,AKE/USDT,0.0045,4.26,927.13,19.3,,281.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-07-31,2026-07-31 05:51,gate,CAP/USDT,0.03554,3.16,548.65,6.0,,,
-2026-07-31,2026-07-31 05:51,gate,KOMA/USDT,0.020862,45.88,486.39,15.3,Listing,393,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
-2026-07-31,2026-07-31 05:51,gate,BANK/USDT,0.06777,10.97,476.92,139.0,,381,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-07-31,2026-07-31 05:55,gate,CAP/USDT,0.03623,5.17,551.97,6.0,,,
+2026-07-31,2026-07-31 05:55,gate,KOMA/USDT,0.021229,48.44,488.12,15.3,Listing,393,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
+2026-07-31,2026-07-31 05:55,gate,BANK/USDT,0.06919,13.3,477.41,139.2,,381,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-07-31,2026-07-31 00:11,mexc,KOMA/USDT,0.01439,4.97,169.14,6.3,Listing,393.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
-2026-07-31,2026-07-31 05:51,gate,MMT/USDT,0.2875,12.97,117.0,8.8,,268,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
-2026-07-31,2026-07-31 05:51,gate,CFX/USDT,0.0461,12.44,85.48,4.6,,24,CoinMarketCal: Conflux (CFX) - Infini x Conflux - Date (06 July 2026)
+2026-07-31,2026-07-31 05:55,gate,MMT/USDT,0.294,15.52,117.39,8.8,,268,CoinMarketCal: Momentum (MMT) - Launch - 04 Nov 2025
+2026-07-31,2026-07-31 05:55,gate,CFX/USDT,0.04612,12.49,86.85,4.6,,24,CoinMarketCal: Conflux (CFX) - Infini x Conflux - Date (06 July 2026)
 2026-07-31,2026-07-31 00:11,mexc,ROBO/USDT,0.01418,18.26,80.72,3.4,Listing,134.0,CoinMarketCal: Fabric Protocol (ROBO) - Bithumb Listing - Date (18 March 2026)
 2026-07-31,2026-07-31 04:31,gate,LA/USDT,0.0529,3.12,31.74,4.1,,417.0,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
 2026-07-31,2026-07-31 00:11,mexc,CAP/USDT,0.03501,8.25,24.46,4.8,,,
