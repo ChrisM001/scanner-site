@@ -1193,21 +1193,21 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-31,2026-07-31 23:56,gate,SOXS/USDT,54.75,11.33,4.89,6.1,,,
 2026-07-31,2026-07-31 05:31,gate,EPIC/USDT,0.776,5.72,2.07,6.9,Listing,344.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-08-01,2026-08-01 01:35,gate,RATS/USDT,6.2e-05,3.21,193818.7,22.0,,,
-2026-08-01,2026-08-01 09:55,gate,SHIB/USDT,5e-06,4.88,20276.38,7.7,Burn,0,Coinpedia: Shiba Inu Price Surges 17% Weekly as SHIB Burns Hit One-Year High
-2026-08-01,2026-08-01 09:55,gate,PUMP/USDT,0.002171,4.88,2588.86,7.9,,0,Beincrypto: Pump.fun Layoffs Spark Fury After Workers Miss Million-Dollar Token Payouts
+2026-08-01,2026-08-01 10:16,gate,SHIB/USDT,5e-06,4.23,20552.59,7.9,Burn,0,Coinpedia: Shiba Inu Price Surges 17% Weekly as SHIB Burns Hit One-Year High
+2026-08-01,2026-08-01 10:16,gate,PUMP/USDT,0.002162,4.44,2544.62,7.8,,0,Beincrypto: Pump.fun Layoffs Spark Fury After Workers Miss Million-Dollar Token Payouts
 2026-08-01,2026-08-01 00:01,mexc,1000RATS/USDT,0.06051,12.95,2017.27,16.2,,,
 2026-08-01,2026-08-01 00:01,mexc,AKE/USDT,0.004379,12.18,754.58,16.2,,282.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-01,2026-08-01 00:55,gate,CAP/USDT,0.04051,3.18,525.74,6.8,,,
-2026-08-01,2026-08-01 09:55,gate,BTW/USDT,0.124286,22.43,450.32,8.1,,,
-2026-08-01,2026-08-01 09:55,gate,KOMA/USDT,0.032252,12.99,188.15,33.9,Listing,394,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
+2026-08-01,2026-08-01 10:16,gate,BTW/USDT,0.125091,23.22,469.5,8.4,,,
+2026-08-01,2026-08-01 10:16,gate,KOMA/USDT,0.031681,10.99,183.06,33.0,Listing,394,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
 2026-08-01,2026-08-01 09:01,gate,MMT/USDT,0.2109,3.03,161.99,22.0,,0.0,Coinpedia: Why Is Momentum (MMT) Token Price Up By 77% Today?
 2026-08-01,2026-08-01 00:01,mexc,KOMA/USDT,0.027437,24.47,145.65,17.2,Listing,394.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
 2026-08-01,2026-08-01 01:45,gate,US/USDT,0.058755,3.16,81.36,3.6,,,
 2026-08-01,2026-08-01 05:41,gate,BANK/USDT,0.06016,4.57,78.93,23.8,,382.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-08-01,2026-08-01 00:01,mexc,CAP/USDT,0.03966,4.14,29.92,6.3,,,
-2026-08-01,2026-08-01 09:25,gate,UAI/USDT,0.38815,3.19,18.53,3.7,,,
+2026-08-01,2026-08-01 10:16,gate,UAI/USDT,0.38758,3.04,17.55,3.5,,,
 2026-08-01,2026-08-01 06:41,gate,LAB/USDT,0.15344,3.69,15.4,6.9,,,
-2026-08-01,2026-08-01 09:55,gate,BEAT/USDT,4.618,14.08,14.68,11.9,,54,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-01,2026-08-01 10:16,gate,BEAT/USDT,4.6924,15.91,14.08,11.4,,54,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-01,2026-08-01 09:20,gate,ADA/USDT,0.1737,3.27,8.3,20.8,,2.0,CoinMarketCal: Cardano: Catalyst Pilot Fund launches - Aug 2026
 2026-08-01,2026-08-01 00:01,mexc,FARTCOIN/USDT,0.12429,3.05,6.12,6.7,,113.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-01,2026-08-01 04:26,gate,COTI/USDT,0.01628,3.23,5.32,12.0,,0.0,CoinMarketCal: COTI: Privacy-on-Demand rolls out cross-chain privacy - 31 Jul 2026
