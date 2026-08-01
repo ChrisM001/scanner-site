@@ -1193,10 +1193,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-31,2026-07-31 23:56,gate,SOXS/USDT,54.75,11.33,4.89,6.1,,,
 2026-07-31,2026-07-31 05:31,gate,EPIC/USDT,0.776,5.72,2.07,6.9,Listing,344.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-08-01,2026-08-01 01:01,gate,RATS/USDT,6.4e-05,6.37,179736.0,20.4,,,
-2026-08-01,2026-08-01 01:01,gate,SHIB/USDT,5e-06,5.25,13793.62,5.3,,3,Coinpedia: Shiba Inu Price Rally Begins as Memecoin Frenzy Returns
+2026-08-01,2026-08-01 01:10,gate,SHIB/USDT,5e-06,4.27,14338.03,5.5,,3,Coinpedia: Shiba Inu Price Rally Begins as Memecoin Frenzy Returns
 2026-08-01,2026-08-01 00:01,mexc,1000RATS/USDT,0.06051,12.95,2017.27,16.2,,,
 2026-08-01,2026-08-01 00:01,mexc,AKE/USDT,0.004379,12.18,754.58,16.2,,282.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-01,2026-08-01 00:55,gate,CAP/USDT,0.04051,3.18,525.74,6.8,,,
 2026-08-01,2026-08-01 00:01,mexc,KOMA/USDT,0.027437,24.47,145.65,17.2,Listing,394.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
+2026-08-01,2026-08-01 01:10,gate,US/USDT,0.059117,3.79,74.31,3.2,,,
 2026-08-01,2026-08-01 00:01,mexc,CAP/USDT,0.03966,4.14,29.92,6.3,,,
 2026-08-01,2026-08-01 00:01,mexc,FARTCOIN/USDT,0.12429,3.05,6.12,6.7,,113.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
