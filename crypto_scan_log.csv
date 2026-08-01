@@ -1193,19 +1193,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-07-31,2026-07-31 23:56,gate,SOXS/USDT,54.75,11.33,4.89,6.1,,,
 2026-07-31,2026-07-31 05:31,gate,EPIC/USDT,0.776,5.72,2.07,6.9,Listing,344.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
 2026-08-01,2026-08-01 01:35,gate,RATS/USDT,6.2e-05,3.21,193818.7,22.0,,,
-2026-08-01,2026-08-01 04:20,gate,SHIB/USDT,5e-06,6.18,17392.38,6.6,,3,Coinpedia: Shiba Inu Price Rally Begins as Memecoin Frenzy Returns
-2026-08-01,2026-08-01 04:20,gate,PUMP/USDT,0.002173,4.98,2530.83,7.8,,0,Beincrypto: Pump.fun Layoffs Spark Fury After Workers Miss Million-Dollar Token Payouts
+2026-08-01,2026-08-01 04:26,gate,SHIB/USDT,5e-06,5.67,17506.58,6.7,,3,Coinpedia: Shiba Inu Price Rally Begins as Memecoin Frenzy Returns
+2026-08-01,2026-08-01 04:26,gate,PUMP/USDT,0.002184,5.51,2542.57,7.8,,0,Beincrypto: Pump.fun Layoffs Spark Fury After Workers Miss Million-Dollar Token Payouts
 2026-08-01,2026-08-01 00:01,mexc,1000RATS/USDT,0.06051,12.95,2017.27,16.2,,,
 2026-08-01,2026-08-01 00:01,mexc,AKE/USDT,0.004379,12.18,754.58,16.2,,282.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-01,2026-08-01 00:55,gate,CAP/USDT,0.04051,3.18,525.74,6.8,,,
-2026-08-01,2026-08-01 04:20,gate,BTW/USDT,0.109494,7.86,228.88,4.1,,,
+2026-08-01,2026-08-01 04:26,gate,BTW/USDT,0.109422,7.78,230.6,4.1,,,
 2026-08-01,2026-08-01 03:51,gate,KOMA/USDT,0.029665,3.93,207.47,37.4,Listing,394.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
 2026-08-01,2026-08-01 00:01,mexc,KOMA/USDT,0.027437,24.47,145.65,17.2,Listing,394.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
 2026-08-01,2026-08-01 01:45,gate,US/USDT,0.058755,3.16,81.36,3.6,,,
-2026-08-01,2026-08-01 04:20,gate,BANK/USDT,0.06292,9.37,74.6,22.5,,382,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-08-01,2026-08-01 04:26,gate,BANK/USDT,0.06664,15.84,75.43,22.7,,382,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-08-01,2026-08-01 00:01,mexc,CAP/USDT,0.03966,4.14,29.92,6.3,,,
-2026-08-01,2026-08-01 04:05,gate,UAI/USDT,0.39002,3.69,22.61,4.5,,,
-2026-08-01,2026-08-01 04:20,gate,BEAT/USDT,4.2945,6.08,12.14,9.8,,53,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-01,2026-08-01 04:20,gate,LAB/USDT,0.16776,13.37,11.51,5.2,,,
+2026-08-01,2026-08-01 04:26,gate,UAI/USDT,0.38762,3.05,22.77,4.5,,,
+2026-08-01,2026-08-01 04:26,gate,BEAT/USDT,4.2891,5.95,12.17,9.8,,53,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-01,2026-08-01 04:26,gate,LAB/USDT,0.16586,12.08,11.69,5.3,,,
 2026-08-01,2026-08-01 00:01,mexc,FARTCOIN/USDT,0.12429,3.05,6.12,6.7,,113.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-08-01,2026-08-01 04:20,gate,COTI/USDT,0.0163,3.36,5.32,12.0,,0,CoinMarketCal: COTI: Privacy-on-Demand rolls out cross-chain privacy - 31 Jul 2026
+2026-08-01,2026-08-01 04:26,gate,COTI/USDT,0.01628,3.23,5.32,12.0,,0,CoinMarketCal: COTI: Privacy-on-Demand rolls out cross-chain privacy - 31 Jul 2026
