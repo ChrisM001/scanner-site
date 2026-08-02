@@ -1217,13 +1217,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-01,2026-08-01 00:01,mexc,FARTCOIN/USDT,0.12429,3.05,6.12,6.7,,113.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-01,2026-08-01 04:26,gate,COTI/USDT,0.01628,3.23,5.32,12.0,,0.0,CoinMarketCal: COTI: Privacy-on-Demand rolls out cross-chain privacy - 31 Jul 2026
 2026-08-02,2026-08-02 00:55,gate,RATS/USDT,6.6e-05,4.69,159392.41,52.0,,,
+2026-08-02,2026-08-02 01:31,gate,PUMP/USDT,0.00218,3.22,1895.03,6.0,,1.0,Beincrypto: Pump.fun Layoffs Spark Fury After Workers Miss Million-Dollar Token Payouts
 2026-08-02,2026-08-02 00:01,mexc,AKE/USDT,0.006131,34.38,1594.66,36.7,,283.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-02,2026-08-02 01:20,gate,AKE/USDT,0.006218,4.2,1591.81,69.8,,283.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-02,2026-08-02 00:01,mexc,1000RATS/USDT,0.06318,40.43,1191.57,19.8,,,
 2026-08-02,2026-08-02 01:25,gate,IDOL/USDT,0.02515,3.2,1108.75,4.9,,,
 2026-08-02,2026-08-02 00:10,gate,BTW/USDT,0.094486,3.67,719.89,15.6,,,
-2026-08-02,2026-08-02 01:25,gate,HOME/USDT,0.00664,3.75,199.01,4.6,,85,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-02,2026-08-02 01:20,gate,KOMA/USDT,0.018016,3.46,129.81,36.5,Listing,395.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
+2026-08-02,2026-08-02 01:31,gate,HOME/USDT,0.00662,3.44,199.68,4.6,,85.0,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-02,2026-08-02 01:31,gate,KOMA/USDT,0.018036,3.57,130.32,36.6,Listing,395.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
 2026-08-02,2026-08-02 00:01,mexc,KOMA/USDT,0.017549,7.3,87.77,13.7,Listing,395.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
 2026-08-02,2026-08-02 00:01,mexc,BLESS/USDT,0.011518,20.67,30.21,4.9,Listing,313.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-02,2026-08-02 00:01,mexc,US/USDT,0.057903,5.47,10.29,4.1,,,
