@@ -1216,6 +1216,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-01,2026-08-01 23:41,gate,ADA/USDT,0.1742,3.57,6.22,15.6,,,
 2026-08-01,2026-08-01 00:01,mexc,FARTCOIN/USDT,0.12429,3.05,6.12,6.7,,113.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-01,2026-08-01 04:26,gate,COTI/USDT,0.01628,3.23,5.32,12.0,,0.0,CoinMarketCal: COTI: Privacy-on-Demand rolls out cross-chain privacy - 31 Jul 2026
+2026-08-02,2026-08-02 00:13,gate,RATS/USDT,6.5e-05,3.11,154316.63,50.3,,,
 2026-08-02,2026-08-02 00:01,mexc,AKE/USDT,0.006131,34.38,1594.66,36.7,,283.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-02,2026-08-02 00:01,mexc,1000RATS/USDT,0.06318,40.43,1191.57,19.8,,,
 2026-08-02,2026-08-02 00:10,gate,BTW/USDT,0.094486,3.67,719.89,15.6,,,
