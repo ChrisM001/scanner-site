@@ -1216,28 +1216,28 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-01,2026-08-01 23:41,gate,ADA/USDT,0.1742,3.57,6.22,15.6,,,
 2026-08-01,2026-08-01 00:01,mexc,FARTCOIN/USDT,0.12429,3.05,6.12,6.7,,113.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-01,2026-08-01 04:26,gate,COTI/USDT,0.01628,3.23,5.32,12.0,,0.0,CoinMarketCal: COTI: Privacy-on-Demand rolls out cross-chain privacy - 31 Jul 2026
-2026-08-02,2026-08-02 09:06,gate,PEPE/USDT,3e-06,4.83,10429989.12,22.9,,6,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
+2026-08-02,2026-08-02 09:10,gate,PEPE/USDT,3e-06,5.08,10511233.21,23.1,,6,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
 2026-08-02,2026-08-02 05:32,mexc,PEPE/USDT,3e-06,3.62,5916412.01,80.1,,6.0,"Coinpedia: Memecoin Mania Returns? PEPE, SHIB, and BOME Flash Bullish Breakout Signals"
-2026-08-02,2026-08-02 09:06,gate,RATS/USDT,7.3e-05,15.61,128759.93,42.0,,,
-2026-08-02,2026-08-02 08:55,gate,SHIB/USDT,5e-06,3.51,22315.91,9.3,Burn,1.0,Coinpedia: Shiba Inu Price Surges 17% Weekly as SHIB Burns Hit One-Year High
-2026-08-02,2026-08-02 09:06,gate,PUMP/USDT,0.00219,3.69,2075.17,6.6,,1,Beincrypto: Pump.fun Layoffs Spark Fury After Workers Miss Million-Dollar Token Payouts
+2026-08-02,2026-08-02 09:10,gate,RATS/USDT,7e-05,11.78,130105.56,42.4,,,
+2026-08-02,2026-08-02 09:10,gate,SHIB/USDT,5e-06,3.53,21605.83,9.0,Burn,1,Coinpedia: Shiba Inu Price Surges 17% Weekly as SHIB Burns Hit One-Year High
+2026-08-02,2026-08-02 09:10,gate,PUMP/USDT,0.002186,3.5,2080.16,6.6,,1,Beincrypto: Pump.fun Layoffs Spark Fury After Workers Miss Million-Dollar Token Payouts
 2026-08-02,2026-08-02 00:01,mexc,AKE/USDT,0.006131,34.38,1594.66,36.7,,283.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-02,2026-08-02 01:20,gate,AKE/USDT,0.006218,4.2,1591.81,69.8,,283.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-02,2026-08-02 05:32,mexc,1000RATS/USDT,0.07245,61.03,1586.0,26.4,,,
-2026-08-02,2026-08-02 09:06,gate,BLESS/USDT,0.014206,24.29,1521.44,10.5,Listing,313,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
+2026-08-02,2026-08-02 09:10,gate,BLESS/USDT,0.01429,25.02,1555.47,10.8,Listing,313,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-02,2026-08-02 08:46,gate,UB/USDT,0.1711,4.51,1388.19,3.2,,,
 2026-08-02,2026-08-02 01:25,gate,IDOL/USDT,0.02515,3.2,1108.75,4.9,,,
 2026-08-02,2026-08-02 02:55,gate,BTW/USDT,0.094473,3.66,690.86,15.0,,,
-2026-08-02,2026-08-02 09:06,gate,HOME/USDT,0.00837,30.78,604.11,13.8,,86,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-02,2026-08-02 09:06,gate,CAP/USDT,0.03439,25.88,277.54,3.8,,,
+2026-08-02,2026-08-02 09:10,gate,HOME/USDT,0.0084,31.25,608.85,13.9,,86,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-02,2026-08-02 09:10,gate,CAP/USDT,0.03404,24.6,278.34,3.8,,,
 2026-08-02,2026-08-02 02:16,gate,KOMA/USDT,0.018294,5.05,125.35,35.2,Listing,395.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
 2026-08-02,2026-08-02 05:32,mexc,PUMPFUN/USDT,0.002253,7.08,110.05,18.4,,,
 2026-08-02,2026-08-02 00:01,mexc,KOMA/USDT,0.017549,7.3,87.77,13.7,Listing,395.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
 2026-08-02,2026-08-02 05:32,mexc,BLESS/USDT,0.012862,34.75,52.44,8.6,Listing,313.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
-2026-08-02,2026-08-02 09:06,gate,ADA/USDT,0.1859,6.66,10.91,26.9,Whale,0,Coinpedia: Cardano Price Surges 6%Can Whale Accumulation Push ADA to $0.30?
+2026-08-02,2026-08-02 09:10,gate,ADA/USDT,0.1875,7.57,10.98,27.1,Whale,0,Coinpedia: Cardano Price Surges 6%Can Whale Accumulation Push ADA to $0.30?
 2026-08-02,2026-08-02 00:01,mexc,US/USDT,0.057903,5.47,10.29,4.1,,,
-2026-08-02,2026-08-02 09:06,gate,ENA/USDT,0.0875,10.47,9.82,5.4,,0,Coinpedia: Ethena (ENA) Price Consolidates Near Key Resistance While Bulls Await ConfirmationHeres Whats Next
+2026-08-02,2026-08-02 09:10,gate,ENA/USDT,0.08819,11.34,9.88,5.4,,,
 2026-08-02,2026-08-02 05:32,mexc,ENA/USDT,0.08785,8.79,6.91,19.2,,0.0,Coinpedia: Ethena (ENA) Price Consolidates Near Key Resistance While Bulls Await ConfirmationHeres Whats Next
 2026-08-02,2026-08-02 05:32,mexc,UAI/USDT,0.5453,30.54,6.9,21.7,,,
 2026-08-02,2026-08-02 05:32,mexc,XLM/USDT,0.17643,3.18,4.57,15.0,,4.0,"Coindar: Stellar to Hold Live Stream on X, LinkedIn and YouTube on July 30th"
-2026-08-02,2026-08-02 09:06,gate,WIF/USDT,0.1396,3.03,2.84,3.6,,,
+2026-08-02,2026-08-02 09:10,gate,WIF/USDT,0.1402,3.47,2.85,3.7,,,
