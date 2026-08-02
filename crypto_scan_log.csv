@@ -1218,12 +1218,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-01,2026-08-01 04:26,gate,COTI/USDT,0.01628,3.23,5.32,12.0,,0.0,CoinMarketCal: COTI: Privacy-on-Demand rolls out cross-chain privacy - 31 Jul 2026
 2026-08-02,2026-08-02 00:55,gate,RATS/USDT,6.6e-05,4.69,159392.41,52.0,,,
 2026-08-02,2026-08-02 00:01,mexc,AKE/USDT,0.006131,34.38,1594.66,36.7,,283.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-02,2026-08-02 01:05,gate,AKE/USDT,0.006188,3.68,1530.54,67.1,,283.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-02,2026-08-02 01:20,gate,AKE/USDT,0.006218,4.2,1591.81,69.8,,283,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-02,2026-08-02 00:01,mexc,1000RATS/USDT,0.06318,40.43,1191.57,19.8,,,
-2026-08-02,2026-08-02 01:15,gate,IDOL/USDT,0.025299,3.82,1103.49,4.9,,,
+2026-08-02,2026-08-02 01:20,gate,IDOL/USDT,0.02542,4.31,1105.91,4.9,,,
 2026-08-02,2026-08-02 00:10,gate,BTW/USDT,0.094486,3.67,719.89,15.6,,,
-2026-08-02,2026-08-02 01:15,gate,HOME/USDT,0.00664,3.75,197.83,4.5,,85,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-02,2026-08-02 01:10,gate,KOMA/USDT,0.01834,5.32,129.47,36.4,Listing,395.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
+2026-08-02,2026-08-02 01:20,gate,HOME/USDT,0.00664,3.75,198.48,4.5,,85,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-02,2026-08-02 01:20,gate,KOMA/USDT,0.018016,3.46,129.81,36.5,Listing,395,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
 2026-08-02,2026-08-02 00:01,mexc,KOMA/USDT,0.017549,7.3,87.77,13.7,Listing,395.0,"CoinMarketCal: Comedian (BAN), Koma Inu (KOMA), Parcl (PRCL) - Indodax Listing - 03 Jul 2025"
 2026-08-02,2026-08-02 00:01,mexc,BLESS/USDT,0.011518,20.67,30.21,4.9,Listing,313.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-02,2026-08-02 00:01,mexc,US/USDT,0.057903,5.47,10.29,4.1,,,
