@@ -1248,9 +1248,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-03,2026-08-03 12:31,gate,UB/USDT,0.18001,9.92,2664.64,6.8,,,
 2026-08-03,2026-08-03 04:01,gate,BLESS/USDT,0.021407,3.69,2053.75,46.3,Listing,314.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-03,2026-08-03 05:10,gate,AKE/USDT,0.004968,3.23,1237.68,58.5,,284.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-03,2026-08-03 12:42,mexc,1000RATS/USDT,0.06268,31.62,1211.31,37.3,,,
+2026-08-03,2026-08-03 12:42,mexc,BTW/USDT,0.09572,19.09,253.47,6.8,,,
+2026-08-03,2026-08-03 12:42,mexc,BLESS/USDT,0.019444,15.29,219.5,85.5,Listing,314,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-03,2026-08-03 12:31,gate,BTW/USDT,0.096484,19.99,209.06,4.8,,,
 2026-08-03,2026-08-03 08:01,gate,ICNT/USDT,0.1543,19.61,172.39,3.0,Listing,89.0,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
+2026-08-03,2026-08-03 12:42,mexc,UB/USDT,0.18075,14.91,170.7,3.1,,,
 2026-08-03,2026-08-03 00:50,gate,UAI/USDT,0.55575,3.17,63.73,19.6,,,
+2026-08-03,2026-08-03 12:42,mexc,BICO/USDT,0.01742,43.72,33.14,12.4,,111,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
 2026-08-03,2026-08-03 09:56,gate,BEAT/USDT,3.8286,9.39,30.54,27.8,,56.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-03,2026-08-03 12:31,gate,BICO/USDT,0.01791,11.52,3.8,6.6,,111,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
+2026-08-03,2026-08-03 12:42,mexc,SKYAI/USDT,0.03467,17.24,10.53,4.6,,,
+2026-08-03,2026-08-03 12:42,mexc,ALGO/USDT,0.08715,3.17,4.78,6.4,,0,Coinpedia: Algorand Eyes Recovery as Post-Quantum Roadmap Boosts SentimentCan ALGO Price Break Above $0.1?
+2026-08-03,2026-08-03 12:31,gate,BICO/USDT,0.01791,11.52,3.8,6.6,,111.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
 2026-08-03,2026-08-03 12:31,gate,SOXS/USDT,58.02,16.04,2.54,4.1,,,
