@@ -1245,12 +1245,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-02,2026-08-02 05:32,mexc,XLM/USDT,0.17643,3.18,4.57,15.0,,4.0,"Coindar: Stellar to Hold Live Stream on X, LinkedIn and YouTube on July 30th"
 2026-08-02,2026-08-02 22:59,gate,WIF/USDT,0.1398,3.17,2.38,3.0,,,
 2026-08-03,2026-08-03 10:41,gate,RATS/USDT,7.1e-05,18.98,87223.03,41.7,,,
-2026-08-03,2026-08-03 10:41,gate,UB/USDT,0.17783,8.59,2873.84,7.3,,,
+2026-08-03,2026-08-03 12:26,gate,UB/USDT,0.18007,9.96,2651.27,6.8,,,
 2026-08-03,2026-08-03 04:01,gate,BLESS/USDT,0.021407,3.69,2053.75,46.3,Listing,314.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-03,2026-08-03 05:10,gate,AKE/USDT,0.004968,3.23,1237.68,58.5,,284.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-03,2026-08-03 10:41,gate,BTW/USDT,0.09254,15.09,228.54,5.3,,,
+2026-08-03,2026-08-03 12:26,gate,BTW/USDT,0.095765,19.1,207.65,4.8,,,
 2026-08-03,2026-08-03 08:01,gate,ICNT/USDT,0.1543,19.61,172.39,3.0,Listing,89.0,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
 2026-08-03,2026-08-03 00:50,gate,UAI/USDT,0.55575,3.17,63.73,19.6,,,
 2026-08-03,2026-08-03 09:56,gate,BEAT/USDT,3.8286,9.39,30.54,27.8,,56.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-03,2026-08-03 10:41,gate,BICO/USDT,0.01664,3.61,2.89,5.0,,111,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
-2026-08-03,2026-08-03 10:41,gate,SOXS/USDT,56.2,12.4,2.4,3.9,,,
+2026-08-03,2026-08-03 12:26,gate,BICO/USDT,0.01775,10.52,3.74,6.5,,111,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
+2026-08-03,2026-08-03 12:26,gate,SOXS/USDT,57.98,15.96,2.52,4.1,,,
