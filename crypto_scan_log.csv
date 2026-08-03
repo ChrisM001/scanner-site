@@ -1245,10 +1245,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-02,2026-08-02 05:32,mexc,XLM/USDT,0.17643,3.18,4.57,15.0,,4.0,"Coindar: Stellar to Hold Live Stream on X, LinkedIn and YouTube on July 30th"
 2026-08-02,2026-08-02 22:59,gate,WIF/USDT,0.1398,3.17,2.38,3.0,,,
 2026-08-03,2026-08-03 06:20,gate,RATS/USDT,6.4e-05,6.83,91712.72,43.8,,,
-2026-08-03,2026-08-03 06:31,gate,UB/USDT,0.17243,5.29,3714.4,9.5,,,
+2026-08-03,2026-08-03 06:35,gate,UB/USDT,0.17199,5.03,3720.08,9.5,,,
 2026-08-03,2026-08-03 04:01,gate,BLESS/USDT,0.021407,3.69,2053.75,46.3,Listing,314.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-03,2026-08-03 05:10,gate,AKE/USDT,0.004968,3.23,1237.68,58.5,,284.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-03,2026-08-03 06:31,gate,BTW/USDT,0.089121,10.83,244.59,5.6,,,
+2026-08-03,2026-08-03 06:35,gate,BTW/USDT,0.09009,12.04,245.54,5.7,,,
 2026-08-03,2026-08-03 00:50,gate,UAI/USDT,0.55575,3.17,63.73,19.6,,,
-2026-08-03,2026-08-03 06:31,gate,BEAT/USDT,3.6124,3.21,30.92,28.1,,56,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-03,2026-08-03 06:31,gate,SOXS/USDT,52.17,4.34,2.46,4.0,,,
+2026-08-03,2026-08-03 06:31,gate,BEAT/USDT,3.6124,3.21,30.92,28.1,,56.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-03,2026-08-03 06:35,gate,SOXS/USDT,51.95,3.9,2.46,4.0,,,
