@@ -1274,8 +1274,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-04,2026-08-04 03:05,gate,BLESS/USDT,0.012884,4.03,1429.53,51.3,Listing,315.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-04,2026-08-04 02:05,gate,HOME/USDT,0.00802,3.22,419.54,18.0,,87.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-04,2026-08-04 00:01,mexc,BTW/USDT,0.10544,3.19,280.05,8.3,,,
-2026-08-04,2026-08-04 04:01,gate,BTW/USDT,0.114814,7.79,255.87,6.4,,,
-2026-08-04,2026-08-04 04:01,gate,SKYAI/USDT,0.04853,20.18,41.66,10.3,,,
+2026-08-04,2026-08-04 04:05,gate,BTW/USDT,0.114774,7.75,256.59,6.4,,,
+2026-08-04,2026-08-04 04:05,gate,SKYAI/USDT,0.04838,19.81,42.16,10.4,,,
 2026-08-04,2026-08-04 00:06,mexc,PIPPIN/USDT,0.01943,16.48,40.59,6.6,,146.0,Coinpedia: Pippin Price Rally Today: Is the 14% Surge a Bull Trap?
 2026-08-04,2026-08-04 00:06,mexc,HOME/USDT,0.007994,7.05,32.42,3.1,,87.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-04,2026-08-04 00:55,gate,BEAT/USDT,3.158,3.65,32.4,32.0,,56.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
@@ -1284,5 +1284,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-04,2026-08-04 00:06,mexc,FARTCOIN/USDT,0.13264,3.02,8.65,8.6,,116.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-04,2026-08-04 03:50,gate,VANRY/USDT,0.003717,6.72,5.48,3.1,,364.0,CoinMarketCal: Vanar Chain (VANRY) - Neutron Personal Demo - 05 Aug 2025
 2026-08-04,2026-08-04 00:06,mexc,UAI/USDT,0.3879,10.35,2.8,12.0,,,
-2026-08-04,2026-08-04 03:45,gate,SOXS/USDT,53.54,3.68,2.78,5.0,,,
+2026-08-04,2026-08-04 04:05,gate,SOXS/USDT,53.22,3.06,2.71,4.8,,,
 2026-08-04,2026-08-04 00:06,mexc,BEAT/USDT,3.066,5.9,2.03,50.4,,56.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
