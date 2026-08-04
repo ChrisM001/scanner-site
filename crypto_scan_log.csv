@@ -1270,13 +1270,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-03,2026-08-03 23:55,gate,SOXS/USDT,51.72,3.44,3.15,5.1,,,
 2026-08-03,2026-08-03 23:55,gate,DOT/USDT,0.824,3.39,2.23,4.3,,,
 2026-08-03,2026-08-03 23:55,gate,CXMT/USDT,8.109,7.02,2.08,21.6,,,
-2026-08-04,2026-08-04 04:50,gate,UB/USDT,0.19127,3.75,3416.3,9.5,,,
-2026-08-04,2026-08-04 04:50,gate,PUMP/USDT,0.002222,4.27,1620.99,5.7,,3,Beincrypto: Pump.fun Layoffs Spark Fury After Workers Miss Million-Dollar Token Payouts
+2026-08-04,2026-08-04 04:55,gate,UB/USDT,0.19176,4.02,3425.55,9.5,,,
+2026-08-04,2026-08-04 04:55,gate,PUMP/USDT,0.002207,3.57,1628.21,5.7,,3,Beincrypto: Pump.fun Layoffs Spark Fury After Workers Miss Million-Dollar Token Payouts
 2026-08-04,2026-08-04 03:05,gate,BLESS/USDT,0.012884,4.03,1429.53,51.3,Listing,315.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
-2026-08-04,2026-08-04 04:50,gate,HOME/USDT,0.00857,10.3,523.45,22.4,,87,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-04,2026-08-04 04:55,gate,HOME/USDT,0.00857,10.3,529.67,22.7,,87,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-04,2026-08-04 00:01,mexc,BTW/USDT,0.10544,3.19,280.05,8.3,,,
-2026-08-04,2026-08-04 04:50,gate,BTW/USDT,0.115709,8.63,266.42,6.7,,,
-2026-08-04,2026-08-04 04:50,gate,SKYAI/USDT,0.04767,18.05,48.41,12.0,,,
+2026-08-04,2026-08-04 04:55,gate,BTW/USDT,0.11653,9.4,270.53,6.8,,,
+2026-08-04,2026-08-04 04:55,gate,SKYAI/USDT,0.04497,11.37,49.52,12.2,,,
 2026-08-04,2026-08-04 00:06,mexc,PIPPIN/USDT,0.01943,16.48,40.59,6.6,,146.0,Coinpedia: Pippin Price Rally Today: Is the 14% Surge a Bull Trap?
 2026-08-04,2026-08-04 00:06,mexc,HOME/USDT,0.007994,7.05,32.42,3.1,,87.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-04,2026-08-04 00:55,gate,BEAT/USDT,3.158,3.65,32.4,32.0,,56.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
@@ -1287,4 +1287,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-04,2026-08-04 00:06,mexc,UAI/USDT,0.3879,10.35,2.8,12.0,,,
 2026-08-04,2026-08-04 04:05,gate,SOXS/USDT,53.22,3.06,2.71,4.8,,,
 2026-08-04,2026-08-04 00:06,mexc,BEAT/USDT,3.066,5.9,2.03,50.4,,56.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-04,2026-08-04 04:46,gate,BICO/USDT,0.01737,3.33,2.02,12.4,,112.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
+2026-08-04,2026-08-04 04:55,gate,BICO/USDT,0.01751,4.16,2.03,12.5,,112,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
