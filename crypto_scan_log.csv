@@ -1270,11 +1270,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-03,2026-08-03 23:55,gate,SOXS/USDT,51.72,3.44,3.15,5.1,,,
 2026-08-03,2026-08-03 23:55,gate,DOT/USDT,0.824,3.39,2.23,4.3,,,
 2026-08-03,2026-08-03 23:55,gate,CXMT/USDT,8.109,7.02,2.08,21.6,,,
-2026-08-04,2026-08-04 02:05,gate,BLESS/USDT,0.013846,11.8,1450.71,52.1,Listing,315,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
-2026-08-04,2026-08-04 02:05,gate,HOME/USDT,0.00802,3.22,419.54,18.0,,87,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-04,2026-08-04 02:10,gate,UB/USDT,0.19075,3.47,3262.52,9.0,,,
+2026-08-04,2026-08-04 02:10,gate,BLESS/USDT,0.013636,10.1,1453.33,52.2,Listing,315,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
+2026-08-04,2026-08-04 02:05,gate,HOME/USDT,0.00802,3.22,419.54,18.0,,87.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-04,2026-08-04 00:01,mexc,BTW/USDT,0.10544,3.19,280.05,8.3,,,
 2026-08-04,2026-08-04 00:06,mexc,PIPPIN/USDT,0.01943,16.48,40.59,6.6,,146.0,Coinpedia: Pippin Price Rally Today: Is the 14% Surge a Bull Trap?
-2026-08-04,2026-08-04 02:05,gate,SKYAI/USDT,0.04399,8.94,37.45,9.2,,,
+2026-08-04,2026-08-04 02:10,gate,SKYAI/USDT,0.0439,8.72,37.63,9.3,,,
 2026-08-04,2026-08-04 00:06,mexc,HOME/USDT,0.007994,7.05,32.42,3.1,,87.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-04,2026-08-04 00:55,gate,BEAT/USDT,3.158,3.65,32.4,32.0,,56.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-04,2026-08-04 00:06,mexc,SKYAI/USDT,0.04049,4.92,30.26,13.7,,,
