@@ -1355,7 +1355,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-06,2026-08-06 00:01,mexc,BICO/USDT,0.02721,17.84,5.42,11.4,,,
 2026-08-06,2026-08-06 00:01,mexc,SYN/USDT,0.1416,19.49,2.24,8.0,,,
 2026-08-06,2026-08-06 06:21,gate,SOXS/USDT,46.54,3.01,2.07,4.4,,,
-2026-08-07,2026-08-07 02:15,gate,TUT/USDT,0.025549,4.07,669.84,4.8,,484.0,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
+2026-08-07,2026-08-07 02:20,gate,TUT/USDT,0.025495,3.85,671.81,4.8,,484.0,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
 2026-08-07,2026-08-07 00:41,gate,CAP/USDT,0.03183,4.09,329.34,5.2,,,
 2026-08-07,2026-08-07 01:05,gate,HOME/USDT,0.00954,3.58,253.15,20.2,,90.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-07,2026-08-07 00:01,mexc,BTW/USDT,0.19282,8.41,205.04,7.0,,,
@@ -1367,8 +1367,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-07,2026-08-07 00:01,mexc,BLESS/USDT,0.025212,3.21,59.89,82.1,Listing,318.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-07,2026-08-07 00:01,mexc,SKYAI/USDT,0.10585,29.08,54.32,48.1,,,
 2026-08-07,2026-08-07 00:01,mexc,CYS/USDT,0.8334,4.07,54.04,17.3,,,
-2026-08-07,2026-08-07 02:15,gate,ESPORTS/USDT,0.0195,7.85,53.65,4.0,,246.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-08-07,2026-08-07 02:10,gate,CTSI/USDT,0.03175,4.1,31.04,4.8,,79.0,Coindar: Cartesi Released Skills
-2026-08-07,2026-08-07 02:15,gate,BEAT/USDT,2.0676,6.78,25.21,28.1,,59.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-07,2026-08-07 02:20,gate,ESPORTS/USDT,0.01947,7.69,53.75,4.0,,246.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-08-07,2026-08-07 02:20,gate,CTSI/USDT,0.03188,4.52,31.15,4.8,,79.0,Coindar: Cartesi Released Skills
+2026-08-07,2026-08-07 02:20,gate,BEAT/USDT,2.0629,6.53,25.23,28.1,,59.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-07,2026-08-07 00:01,mexc,ZBT/USDT,0.1864,9.53,10.51,11.5,Listing,294.0,CoinMarketCal: ZEROBASE (ZBT) - Bitrue Listing - 17 Oct 2025
 2026-08-07,2026-08-07 00:01,mexc,BICO/USDT,0.03935,6.63,6.77,18.8,,,
