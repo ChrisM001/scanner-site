@@ -1355,7 +1355,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-06,2026-08-06 00:01,mexc,BICO/USDT,0.02721,17.84,5.42,11.4,,,
 2026-08-06,2026-08-06 00:01,mexc,SYN/USDT,0.1416,19.49,2.24,8.0,,,
 2026-08-06,2026-08-06 06:21,gate,SOXS/USDT,46.54,3.01,2.07,4.4,,,
-2026-08-07,2026-08-07 05:01,gate,TUT/USDT,0.028508,16.12,692.37,5.0,,484.0,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
+2026-08-07,2026-08-07 05:05,gate,TUT/USDT,0.028888,17.67,696.9,5.0,,484,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
 2026-08-07,2026-08-07 00:41,gate,CAP/USDT,0.03183,4.09,329.34,5.2,,,
 2026-08-07,2026-08-07 01:05,gate,HOME/USDT,0.00954,3.58,253.15,20.2,,90.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-07,2026-08-07 00:01,mexc,BTW/USDT,0.19282,8.41,205.04,7.0,,,
@@ -1366,11 +1366,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-07,2026-08-07 01:45,gate,ZBT/USDT,0.19992,6.52,92.7,14.1,Listing,294.0,CoinMarketCal: ZEROBASE (ZBT) - Bitrue Listing - 17 Oct 2025
 2026-08-07,2026-08-07 00:01,mexc,BLESS/USDT,0.025212,3.21,59.89,82.1,Listing,318.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-07,2026-08-07 00:01,mexc,SKYAI/USDT,0.10585,29.08,54.32,48.1,,,
-2026-08-07,2026-08-07 05:01,gate,ESPORTS/USDT,0.01928,6.64,54.14,4.0,,246.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-08-07,2026-08-07 05:05,gate,ESPORTS/USDT,0.01935,7.02,54.28,4.0,,246,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-08-07,2026-08-07 00:01,mexc,CYS/USDT,0.8334,4.07,54.04,17.3,,,
 2026-08-07,2026-08-07 02:20,gate,CTSI/USDT,0.03188,4.52,31.15,4.8,,79.0,Coindar: Cartesi Released Skills
 2026-08-07,2026-08-07 03:35,gate,BEAT/USDT,2.0598,6.37,25.35,28.3,,59.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-07,2026-08-07 03:31,gate,HFT/USDT,0.03115,3.25,21.73,35.4,Airdrop,598.0,Coindar: Hashflow to Hold Airdrop on December 24th
-2026-08-07,2026-08-07 04:41,gate,HEI/USDT,0.21093,7.3,20.91,86.3,,,
+2026-08-07,2026-08-07 05:05,gate,HEI/USDT,0.20312,3.33,19.17,79.2,,,
 2026-08-07,2026-08-07 00:01,mexc,ZBT/USDT,0.1864,9.53,10.51,11.5,Listing,294.0,CoinMarketCal: ZEROBASE (ZBT) - Bitrue Listing - 17 Oct 2025
 2026-08-07,2026-08-07 00:01,mexc,BICO/USDT,0.03935,6.63,6.77,18.8,,,
