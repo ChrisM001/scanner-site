@@ -1386,19 +1386,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-07,2026-08-07 23:16,gate,HEI/USDT,0.22426,14.08,6.21,25.6,,,
 2026-08-07,2026-08-07 23:16,gate,EPIC/USDT,1.1714,28.18,3.77,11.2,,,
 2026-08-07,2026-08-07 14:56,gate,ACE/USDT,0.1132,3.47,2.02,46.5,,,
-2026-08-08,2026-08-08 02:25,gate,UB/USDT,0.14264,4.97,1650.55,7.4,,,
+2026-08-08,2026-08-08 02:31,gate,UB/USDT,0.14149,4.13,1655.18,7.4,,,
 2026-08-08,2026-08-08 00:25,gate,GWEI/USDT,0.034396,3.07,799.3,11.4,,59.0,"Coinpedia: ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises?"
-2026-08-08,2026-08-08 02:25,gate,BLESS/USDT,0.022125,34.03,370.45,34.0,Listing,319,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
-2026-08-08,2026-08-08 02:15,gate,BTW/USDT,0.232275,3.57,232.66,8.1,,,
+2026-08-08,2026-08-08 02:31,gate,BLESS/USDT,0.022224,34.63,373.14,34.3,Listing,319,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
+2026-08-08,2026-08-08 02:31,gate,BTW/USDT,0.231344,3.16,235.34,8.2,,,
 2026-08-08,2026-08-08 00:31,mexc,BTW/USDT,0.22517,13.16,194.3,7.1,,,
 2026-08-08,2026-08-08 00:31,mexc,JIMOTHY/USDT,0.008399,98.65,158.68,3.7,,,
-2026-08-08,2026-08-08 02:25,gate,KGEN/USDT,0.2158,5.97,94.63,4.1,,164,CoinMarketCal: KGeN (KGEN) - Talk from KGeN Korea - 24 February 2026
+2026-08-08,2026-08-08 02:31,gate,KGEN/USDT,0.21643,6.28,94.73,4.1,,164,CoinMarketCal: KGeN (KGEN) - Talk from KGeN Korea - 24 February 2026
 2026-08-08,2026-08-08 01:15,gate,SKYAI/USDT,0.11642,3.19,48.9,27.0,,,
 2026-08-08,2026-08-08 00:31,mexc,BLESS/USDT,0.01652,27.66,47.84,78.4,Listing,319.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-08,2026-08-08 01:50,gate,CYS/USDT,0.9797,3.01,45.63,15.0,,,
 2026-08-08,2026-08-08 00:31,mexc,CYS/USDT,0.9356,10.97,42.1,16.1,,,
-2026-08-08,2026-08-08 02:25,gate,LA/USDT,0.0558,9.2,17.97,3.2,,425,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
-2026-08-08,2026-08-08 02:25,gate,ESP/USDT,0.07019,4.36,16.26,3.3,,136,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
+2026-08-08,2026-08-08 02:31,gate,LA/USDT,0.0555,8.61,18.05,3.2,,425,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
+2026-08-08,2026-08-08 02:31,gate,ESP/USDT,0.07027,4.48,16.29,3.3,,136,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
 2026-08-08,2026-08-08 02:10,gate,HFT/USDT,0.01319,3.86,12.14,27.7,Airdrop,599.0,Coindar: Hashflow to Hold Airdrop on December 24th
 2026-08-08,2026-08-08 00:31,mexc,BICO/USDT,0.05539,4.84,8.65,35.3,,116.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
 2026-08-08,2026-08-08 02:20,gate,HEI/USDT,0.23207,3.29,5.11,25.7,,,
