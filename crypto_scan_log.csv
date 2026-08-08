@@ -1393,7 +1393,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-08,2026-08-08 00:05,gate,SKYAI/USDT,0.11764,4.27,49.94,27.6,,,
 2026-08-08,2026-08-08 00:31,mexc,BLESS/USDT,0.01652,27.66,47.84,78.4,Listing,319.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-08,2026-08-08 00:31,mexc,CYS/USDT,0.9356,10.97,42.1,16.1,,,
-2026-08-08,2026-08-08 00:40,gate,LA/USDT,0.0533,4.31,17.77,3.2,,425,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
+2026-08-08,2026-08-08 00:45,gate,LA/USDT,0.0535,4.7,18.08,3.2,,425,CoinMarketCal: Multiple Assets - EthCC 2025 - 30 Jun to 03 Jul 2025
 2026-08-08,2026-08-08 00:31,mexc,BICO/USDT,0.05539,4.84,8.65,35.3,,116.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
-2026-08-08,2026-08-08 00:40,gate,HEI/USDT,0.2412,7.36,5.13,25.9,,,
+2026-08-08,2026-08-08 00:45,gate,HEI/USDT,0.24413,8.66,5.14,25.9,,,
 2026-08-08,2026-08-08 00:31,mexc,HEI/USDT,0.2271,11.1,4.24,20.1,,,
