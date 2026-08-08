@@ -1387,7 +1387,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-07,2026-08-07 23:16,gate,EPIC/USDT,1.1714,28.18,3.77,11.2,,,
 2026-08-07,2026-08-07 14:56,gate,ACE/USDT,0.1132,3.47,2.02,46.5,,,
 2026-08-08,2026-08-08 00:10,gate,UB/USDT,0.14003,3.05,1845.97,8.3,,,
-2026-08-08,2026-08-08 00:15,gate,GWEI/USDT,0.035041,5.0,790.91,11.3,,59,"Coinpedia: ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises?"
+2026-08-08,2026-08-08 00:25,gate,GWEI/USDT,0.034396,3.07,799.3,11.4,,59.0,"Coinpedia: ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises?"
 2026-08-08,2026-08-08 00:01,mexc,BTW/USDT,0.22267,11.91,189.24,6.9,,,
 2026-08-08,2026-08-08 00:01,mexc,JIMOTHY/USDT,0.008139,92.5,148.53,3.5,,,
 2026-08-08,2026-08-08 00:05,gate,SKYAI/USDT,0.11764,4.27,49.94,27.6,,,
