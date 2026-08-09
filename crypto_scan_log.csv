@@ -1418,12 +1418,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-09,2026-08-09 00:01,mexc,BLUAI/USDT,0.020281,14.56,1454.26,7.1,,,
 2026-08-09,2026-08-09 00:01,mexc,BTW/USDT,0.20565,15.68,368.75,15.6,,,
 2026-08-09,2026-08-09 00:05,gate,CAP/USDT,0.03834,3.79,194.43,3.4,,,
-2026-08-09,2026-08-09 00:50,gate,US/USDT,0.050903,3.42,88.84,4.3,,,
+2026-08-09,2026-08-09 00:55,gate,US/USDT,0.051063,3.74,88.88,4.3,,,
 2026-08-09,2026-08-09 00:35,gate,CYS/USDT,0.9842,4.29,67.34,28.6,,,
 2026-08-09,2026-08-09 00:35,gate,HOME/USDT,0.00985,4.01,63.04,5.3,,92.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-09,2026-08-09 00:01,mexc,CYS/USDT,0.9462,13.08,62.89,30.4,,,
-2026-08-09,2026-08-09 00:50,gate,MMT/USDT,0.2061,4.51,40.68,7.7,,8,Coinpedia: Why Is Momentum (MMT) Token Price Up By 77% Today?
-2026-08-09,2026-08-09 00:50,gate,ZBT/USDT,0.10547,3.34,27.29,5.3,Listing,296,CoinMarketCal: ZEROBASE (ZBT) - Bitrue Listing - 17 Oct 2025
-2026-08-09,2026-08-09 00:50,gate,BEAT/USDT,2.9676,3.9,23.81,29.2,,61,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-09,2026-08-09 00:55,gate,MMT/USDT,0.2058,4.36,40.83,7.7,,8,Coinpedia: Why Is Momentum (MMT) Token Price Up By 77% Today?
+2026-08-09,2026-08-09 00:55,gate,SKYAI/USDT,0.12101,3.08,31.51,18.0,,,
+2026-08-09,2026-08-09 00:55,gate,ZBT/USDT,0.10536,3.23,27.4,5.3,Listing,296,CoinMarketCal: ZEROBASE (ZBT) - Bitrue Listing - 17 Oct 2025
+2026-08-09,2026-08-09 00:55,gate,BEAT/USDT,2.9733,4.1,23.88,29.3,,61,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-09,2026-08-09 00:01,mexc,COOKIE/USDT,0.01303,33.77,9.25,3.0,,204.0,Cointelegraph: Kaito winds down crypto-backed Yaps as X bans payments for AI slop
 2026-08-09,2026-08-09 00:01,mexc,BICO/USDT,0.06241,7.27,5.33,26.9,,117.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
