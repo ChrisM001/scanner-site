@@ -1412,13 +1412,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-08,2026-08-08 02:20,gate,HEI/USDT,0.23207,3.29,5.11,25.7,,,
 2026-08-08,2026-08-08 00:31,mexc,HEI/USDT,0.2271,11.1,4.24,20.1,,,
 2026-08-08,2026-08-08 10:45,gate,HFT/USDT,0.01312,3.31,2.09,4.8,Airdrop,599.0,Coindar: Hashflow to Hold Airdrop on December 24th
-2026-08-09,2026-08-09 11:31,gate,TUT/USDT,0.177432,61.22,4538.93,226.9,,487,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
-2026-08-09,2026-08-09 11:31,gate,IOTX/USDT,0.003115,16.36,2928.65,7.8,,67,Coindar: IoTeX Released QuickSilver Pro
+2026-08-09,2026-08-09 11:46,gate,TUT/USDT,0.184621,67.75,4600.43,230.0,,487,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
+2026-08-09,2026-08-09 11:46,gate,IOTX/USDT,0.003084,15.2,2945.0,7.9,,67,Coindar: IoTeX Released QuickSilver Pro
 2026-08-09,2026-08-09 07:46,gate,BLUAI/USDT,0.020997,3.24,2502.91,11.1,,,
-2026-08-09,2026-08-09 11:31,gate,BMT/USDT,0.02654,102.44,1790.41,7.2,,228,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
+2026-08-09,2026-08-09 11:46,gate,BMT/USDT,0.02396,82.76,1921.4,7.7,,228,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-09,2026-08-09 00:01,mexc,TUT/USDT,0.10579,48.47,1477.86,22.4,,486.0,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
 2026-08-09,2026-08-09 00:01,mexc,BLUAI/USDT,0.020281,14.56,1454.26,7.1,,,
-2026-08-09,2026-08-09 11:31,gate,PUMP/USDT,0.00254,5.57,1235.25,5.3,,4,Coinpedia: Pump.fun (PUMP) Price Surges Without a Clear Catalyst: Whats Fueling the Rally?
+2026-08-09,2026-08-09 11:46,gate,PUMP/USDT,0.002546,5.82,1247.43,5.4,,4,Coinpedia: Pump.fun (PUMP) Price Surges Without a Clear Catalyst: Whats Fueling the Rally?
 2026-08-09,2026-08-09 07:55,gate,UB/USDT,0.14072,7.58,676.78,3.1,,,
 2026-08-09,2026-08-09 04:02,gate,BTW/USDT,0.210756,3.07,375.98,16.1,,,
 2026-08-09,2026-08-09 00:01,mexc,BTW/USDT,0.20565,15.68,368.75,15.6,,,
@@ -1426,17 +1426,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-09,2026-08-09 03:55,gate,CAP/USDT,0.03824,3.52,175.53,3.1,,,
 2026-08-09,2026-08-09 08:31,gate,BLESS/USDT,0.014766,5.55,136.78,13.6,Listing,320.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-09,2026-08-09 09:25,gate,AKE/USDT,0.004059,3.22,129.74,6.5,,290.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-09,2026-08-09 11:31,gate,MUBARAK/USDT,0.01929,23.34,119.22,3.9,Listing,159,CoinMarketCal: Mubarak - INDODAX Listing - 05 March 2026
-2026-08-09,2026-08-09 11:31,gate,ARC/USDT,0.06935,8.94,111.06,3.1,,,
+2026-08-09,2026-08-09 11:46,gate,MUBARAK/USDT,0.01962,25.45,121.19,4.0,Listing,159,CoinMarketCal: Mubarak - INDODAX Listing - 05 March 2026
+2026-08-09,2026-08-09 11:46,gate,ARC/USDT,0.06967,9.44,111.51,3.1,,,
 2026-08-09,2026-08-09 07:51,gate,US/USDT,0.051367,4.36,69.63,3.4,,,
 2026-08-09,2026-08-09 00:35,gate,HOME/USDT,0.00985,4.01,63.04,5.3,,92.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-09,2026-08-09 00:01,mexc,CYS/USDT,0.9462,13.08,62.89,30.4,,,
-2026-08-09,2026-08-09 11:05,gate,CYS/USDT,1.0182,7.89,42.03,17.8,,,
-2026-08-09,2026-08-09 11:31,gate,BEAT/USDT,3.2259,12.94,34.29,42.1,,62,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-09,2026-08-09 08:50,gate,SKYAI/USDT,0.12795,9.0,30.33,17.3,,,
-2026-08-09,2026-08-09 11:31,gate,MMT/USDT,0.2133,8.16,24.68,4.7,,9,Coinpedia: Why Is Momentum (MMT) Token Price Up By 77% Today?
+2026-08-09,2026-08-09 11:46,gate,CYS/USDT,0.9727,3.07,44.85,19.0,,,
+2026-08-09,2026-08-09 11:46,gate,BEAT/USDT,3.2956,15.38,34.64,42.5,,62,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-09,2026-08-09 11:46,gate,SKYAI/USDT,0.12121,3.25,31.3,17.8,,,
+2026-08-09,2026-08-09 11:46,gate,MMT/USDT,0.2142,8.62,24.75,4.7,,,
 2026-08-09,2026-08-09 07:05,gate,ZBT/USDT,0.10527,3.15,22.29,4.3,Listing,296.0,CoinMarketCal: ZEROBASE (ZBT) - Bitrue Listing - 17 Oct 2025
 2026-08-09,2026-08-09 08:31,gate,SAGA/USDT,0.01729,4.41,11.99,4.3,,,
-2026-08-09,2026-08-09 11:31,gate,BANK/USDT,0.04157,3.61,10.89,3.5,,,
+2026-08-09,2026-08-09 11:46,gate,BANK/USDT,0.04294,7.03,11.22,3.6,,,
 2026-08-09,2026-08-09 00:01,mexc,COOKIE/USDT,0.01303,33.77,9.25,3.0,,204.0,Cointelegraph: Kaito winds down crypto-backed Yaps as X bans payments for AI slop
 2026-08-09,2026-08-09 00:01,mexc,BICO/USDT,0.06241,7.27,5.33,26.9,,117.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
