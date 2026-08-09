@@ -1412,22 +1412,22 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-08,2026-08-08 02:20,gate,HEI/USDT,0.23207,3.29,5.11,25.7,,,
 2026-08-08,2026-08-08 00:31,mexc,HEI/USDT,0.2271,11.1,4.24,20.1,,,
 2026-08-08,2026-08-08 10:45,gate,HFT/USDT,0.01312,3.31,2.09,4.8,Airdrop,599.0,Coindar: Hashflow to Hold Airdrop on December 24th
-2026-08-09,2026-08-09 02:45,gate,TUT/USDT,0.134253,21.99,1891.77,94.6,,486,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
-2026-08-09,2026-08-09 02:45,gate,BLUAI/USDT,0.022044,8.39,1654.26,7.3,,,
+2026-08-09,2026-08-09 02:50,gate,TUT/USDT,0.134702,22.4,1897.01,94.8,,486,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
+2026-08-09,2026-08-09 02:50,gate,BLUAI/USDT,0.022198,9.15,1655.6,7.3,,,
 2026-08-09,2026-08-09 00:01,mexc,TUT/USDT,0.10579,48.47,1477.86,22.4,,486.0,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
 2026-08-09,2026-08-09 00:01,mexc,BLUAI/USDT,0.020281,14.56,1454.26,7.1,,,
 2026-08-09,2026-08-09 02:31,gate,PUMP/USDT,0.002486,3.33,841.36,3.6,,3.0,Coinpedia: Pump.fun (PUMP) Price Surges Without a Clear Catalyst: Whats Fueling the Rally?
 2026-08-09,2026-08-09 01:25,gate,GWEI/USDT,0.026374,3.39,520.59,9.2,,60.0,"Coinpedia: ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises?"
 2026-08-09,2026-08-09 02:45,gate,BTW/USDT,0.211775,3.57,448.84,19.2,,,
 2026-08-09,2026-08-09 00:01,mexc,BTW/USDT,0.20565,15.68,368.75,15.6,,,
-2026-08-09,2026-08-09 01:40,gate,CAP/USDT,0.03816,3.3,187.95,3.3,,,
+2026-08-09,2026-08-09 02:50,gate,CAP/USDT,0.03845,4.09,183.23,3.2,,,
 2026-08-09,2026-08-09 02:25,gate,US/USDT,0.050726,3.06,88.9,4.3,,,
 2026-08-09,2026-08-09 00:35,gate,CYS/USDT,0.9842,4.29,67.34,28.6,,,
 2026-08-09,2026-08-09 00:35,gate,HOME/USDT,0.00985,4.01,63.04,5.3,,92.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-09,2026-08-09 00:01,mexc,CYS/USDT,0.9462,13.08,62.89,30.4,,,
-2026-08-09,2026-08-09 02:45,gate,MMT/USDT,0.2038,3.35,41.42,7.8,,8,Coinpedia: Why Is Momentum (MMT) Token Price Up By 77% Today?
-2026-08-09,2026-08-09 02:45,gate,SKYAI/USDT,0.12849,9.46,29.7,16.9,,,
-2026-08-09,2026-08-09 02:45,gate,BEAT/USDT,3.218,12.66,26.49,32.5,,61,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-09,2026-08-09 02:45,gate,ZBT/USDT,0.10817,5.99,24.85,4.8,Listing,296,CoinMarketCal: ZEROBASE (ZBT) - Bitrue Listing - 17 Oct 2025
+2026-08-09,2026-08-09 02:45,gate,MMT/USDT,0.2038,3.35,41.42,7.8,,8.0,Coinpedia: Why Is Momentum (MMT) Token Price Up By 77% Today?
+2026-08-09,2026-08-09 02:50,gate,SKYAI/USDT,0.12951,10.32,30.61,17.4,,,
+2026-08-09,2026-08-09 02:50,gate,BEAT/USDT,3.2477,13.7,26.65,32.7,,61,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-09,2026-08-09 02:50,gate,ZBT/USDT,0.10885,6.65,24.92,4.8,Listing,296,CoinMarketCal: ZEROBASE (ZBT) - Bitrue Listing - 17 Oct 2025
 2026-08-09,2026-08-09 00:01,mexc,COOKIE/USDT,0.01303,33.77,9.25,3.0,,204.0,Cointelegraph: Kaito winds down crypto-backed Yaps as X bans payments for AI slop
 2026-08-09,2026-08-09 00:01,mexc,BICO/USDT,0.06241,7.27,5.33,26.9,,117.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
