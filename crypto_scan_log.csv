@@ -1412,20 +1412,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-08,2026-08-08 02:20,gate,HEI/USDT,0.23207,3.29,5.11,25.7,,,
 2026-08-08,2026-08-08 00:31,mexc,HEI/USDT,0.2271,11.1,4.24,20.1,,,
 2026-08-08,2026-08-08 10:45,gate,HFT/USDT,0.01312,3.31,2.09,4.8,Airdrop,599.0,Coindar: Hashflow to Hold Airdrop on December 24th
-2026-08-09,2026-08-09 01:55,gate,TUT/USDT,0.129832,17.97,1815.57,90.8,,486,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
-2026-08-09,2026-08-09 01:55,gate,BLUAI/USDT,0.021453,5.48,1627.65,7.2,,,
+2026-08-09,2026-08-09 02:05,gate,TUT/USDT,0.129561,17.72,1828.52,91.4,,486,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
+2026-08-09,2026-08-09 02:05,gate,BLUAI/USDT,0.021652,6.46,1632.11,7.2,,,
 2026-08-09,2026-08-09 00:01,mexc,TUT/USDT,0.10579,48.47,1477.86,22.4,,486.0,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
 2026-08-09,2026-08-09 00:01,mexc,BLUAI/USDT,0.020281,14.56,1454.26,7.1,,,
 2026-08-09,2026-08-09 01:25,gate,GWEI/USDT,0.026374,3.39,520.59,9.2,,60.0,"Coinpedia: ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises?"
 2026-08-09,2026-08-09 00:01,mexc,BTW/USDT,0.20565,15.68,368.75,15.6,,,
 2026-08-09,2026-08-09 01:40,gate,CAP/USDT,0.03816,3.3,187.95,3.3,,,
-2026-08-09,2026-08-09 01:55,gate,US/USDT,0.050978,3.57,90.88,4.4,,,
+2026-08-09,2026-08-09 02:05,gate,US/USDT,0.050834,3.27,88.74,4.3,,,
 2026-08-09,2026-08-09 00:35,gate,CYS/USDT,0.9842,4.29,67.34,28.6,,,
 2026-08-09,2026-08-09 00:35,gate,HOME/USDT,0.00985,4.01,63.04,5.3,,92.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-09,2026-08-09 00:01,mexc,CYS/USDT,0.9462,13.08,62.89,30.4,,,
 2026-08-09,2026-08-09 01:01,gate,MMT/USDT,0.2044,3.65,40.59,7.7,,8.0,Coinpedia: Why Is Momentum (MMT) Token Price Up By 77% Today?
-2026-08-09,2026-08-09 01:45,gate,SKYAI/USDT,0.12099,3.07,30.36,17.3,,,
+2026-08-09,2026-08-09 02:05,gate,SKYAI/USDT,0.1225,4.35,28.87,16.4,,,
 2026-08-09,2026-08-09 01:40,gate,ZBT/USDT,0.10553,3.4,25.84,5.0,Listing,296.0,CoinMarketCal: ZEROBASE (ZBT) - Bitrue Listing - 17 Oct 2025
-2026-08-09,2026-08-09 01:55,gate,BEAT/USDT,3.0504,6.8,25.12,30.8,,61,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-09,2026-08-09 02:05,gate,BEAT/USDT,3.0821,7.91,25.39,31.2,,61,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-09,2026-08-09 00:01,mexc,COOKIE/USDT,0.01303,33.77,9.25,3.0,,204.0,Cointelegraph: Kaito winds down crypto-backed Yaps as X bans payments for AI slop
 2026-08-09,2026-08-09 00:01,mexc,BICO/USDT,0.06241,7.27,5.33,26.9,,117.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
