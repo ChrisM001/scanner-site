@@ -1412,24 +1412,24 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-08,2026-08-08 02:20,gate,HEI/USDT,0.23207,3.29,5.11,25.7,,,
 2026-08-08,2026-08-08 00:31,mexc,HEI/USDT,0.2271,11.1,4.24,20.1,,,
 2026-08-08,2026-08-08 10:45,gate,HFT/USDT,0.01312,3.31,2.09,4.8,Airdrop,599.0,Coindar: Hashflow to Hold Airdrop on December 24th
-2026-08-09,2026-08-09 04:02,gate,TUT/USDT,0.143365,30.27,2114.18,105.7,,486,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
-2026-08-09,2026-08-09 04:02,gate,BLUAI/USDT,0.02302,13.19,1755.01,7.8,,,
+2026-08-09,2026-08-09 04:11,gate,TUT/USDT,0.145528,32.23,2130.47,106.5,,486,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
+2026-08-09,2026-08-09 04:11,gate,BLUAI/USDT,0.022997,13.07,1765.19,7.8,,,
 2026-08-09,2026-08-09 00:01,mexc,TUT/USDT,0.10579,48.47,1477.86,22.4,,486.0,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
 2026-08-09,2026-08-09 00:01,mexc,BLUAI/USDT,0.020281,14.56,1454.26,7.1,,,
-2026-08-09,2026-08-09 04:02,gate,IOTX/USDT,0.003373,26.0,1211.87,3.2,,66,Coindar: IoTeX Released QuickSilver Pro
-2026-08-09,2026-08-09 04:02,gate,PUMP/USDT,0.002487,3.37,893.74,3.9,,3,Coinpedia: Pump.fun (PUMP) Price Surges Without a Clear Catalyst: Whats Fueling the Rally?
-2026-08-09,2026-08-09 03:55,gate,UB/USDT,0.13814,5.61,752.35,3.4,,,
+2026-08-09,2026-08-09 04:11,gate,IOTX/USDT,0.003446,28.73,1240.75,3.3,,66,Coindar: IoTeX Released QuickSilver Pro
+2026-08-09,2026-08-09 04:11,gate,PUMP/USDT,0.002486,3.33,906.7,3.9,,3,Coinpedia: Pump.fun (PUMP) Price Surges Without a Clear Catalyst: Whats Fueling the Rally?
+2026-08-09,2026-08-09 04:11,gate,UB/USDT,0.14123,7.97,661.7,3.0,,,
 2026-08-09,2026-08-09 01:25,gate,GWEI/USDT,0.026374,3.39,520.59,9.2,,60.0,"Coinpedia: ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises?"
 2026-08-09,2026-08-09 04:02,gate,BTW/USDT,0.210756,3.07,375.98,16.1,,,
 2026-08-09,2026-08-09 00:01,mexc,BTW/USDT,0.20565,15.68,368.75,15.6,,,
 2026-08-09,2026-08-09 03:55,gate,CAP/USDT,0.03824,3.52,175.53,3.1,,,
-2026-08-09,2026-08-09 04:02,gate,US/USDT,0.051075,3.76,81.03,3.9,,,
+2026-08-09,2026-08-09 04:11,gate,US/USDT,0.050733,3.07,81.17,3.9,,,
 2026-08-09,2026-08-09 00:35,gate,CYS/USDT,0.9842,4.29,67.34,28.6,,,
 2026-08-09,2026-08-09 00:35,gate,HOME/USDT,0.00985,4.01,63.04,5.3,,92.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-09,2026-08-09 00:01,mexc,CYS/USDT,0.9462,13.08,62.89,30.4,,,
-2026-08-09,2026-08-09 04:02,gate,MMT/USDT,0.2184,10.75,41.45,7.8,,8,Coinpedia: Why Is Momentum (MMT) Token Price Up By 77% Today?
+2026-08-09,2026-08-09 04:11,gate,MMT/USDT,0.2208,11.97,41.78,7.9,,8,Coinpedia: Why Is Momentum (MMT) Token Price Up By 77% Today?
 2026-08-09,2026-08-09 03:50,gate,BEAT/USDT,3.0384,6.38,30.81,37.8,,61.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-09,2026-08-09 04:02,gate,SKYAI/USDT,0.12277,4.58,30.38,17.3,,,
-2026-08-09,2026-08-09 04:02,gate,ZBT/USDT,0.10638,4.23,23.48,4.6,,,
+2026-08-09,2026-08-09 04:11,gate,SKYAI/USDT,0.12449,6.05,30.44,17.3,,,
+2026-08-09,2026-08-09 04:11,gate,ZBT/USDT,0.10596,3.82,23.71,4.6,,,
 2026-08-09,2026-08-09 00:01,mexc,COOKIE/USDT,0.01303,33.77,9.25,3.0,,204.0,Cointelegraph: Kaito winds down crypto-backed Yaps as X bans payments for AI slop
 2026-08-09,2026-08-09 00:01,mexc,BICO/USDT,0.06241,7.27,5.33,26.9,,117.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
