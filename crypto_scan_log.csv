@@ -1447,17 +1447,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-09,2026-08-09 00:01,mexc,COOKIE/USDT,0.01303,33.77,9.25,3.0,,204.0,Cointelegraph: Kaito winds down crypto-backed Yaps as X bans payments for AI slop
 2026-08-09,2026-08-09 00:01,mexc,BICO/USDT,0.06241,7.27,5.33,26.9,,117.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
 2026-08-10,2026-08-10 00:10,gate,BOME/USDT,0.000885,4.53,4245.82,4.1,,12.0,Coinpedia: BOME Price Is Heating Up AgainHeres Why
-2026-08-10,2026-08-10 06:31,gate,PUMP/USDT,0.002833,6.07,2542.5,11.6,,0,"Binance News: Pump, Axiom, Collector Crypt, and FOMO Report Higher 24-Hour Revenue Than Hyperliquid"
+2026-08-10,2026-08-10 06:46,gate,PUMP/USDT,0.002836,6.18,2568.42,11.8,,0,"Binance News: Pump, Axiom, Collector Crypt, and FOMO Report Higher 24-Hour Revenue Than Hyperliquid"
 2026-08-10,2026-08-10 04:40,gate,TUT/USDT,0.213751,6.0,1679.17,267.4,,487.0,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
 2026-08-10,2026-08-10 00:01,mexc,TUT/USDT,0.19958,36.43,1669.8,80.9,,487.0,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
 2026-08-10,2026-08-10 00:01,mexc,MUBARAK/USDT,0.02549,16.28,1446.33,8.2,Listing,159.0,CoinMarketCal: Mubarak - INDODAX Listing - 05 March 2026
 2026-08-10,2026-08-10 05:05,gate,BLUAI/USDT,0.020149,10.44,504.76,3.1,,,
-2026-08-10,2026-08-10 06:31,gate,BMT/USDT,0.03956,20.06,383.64,53.6,,228,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
+2026-08-10,2026-08-10 06:46,gate,BMT/USDT,0.03776,14.6,387.97,54.2,,228,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-10,2026-08-10 05:45,gate,US/USDT,0.046099,3.03,305.98,15.8,,,
-2026-08-10,2026-08-10 06:31,gate,PENGU/USDT,0.00666,3.34,239.54,4.2,,11,Invezz: PENGU price struggles after comic debut: why are traders selling?
+2026-08-10,2026-08-10 06:46,gate,PENGU/USDT,0.006677,3.6,242.16,4.3,,11,Invezz: PENGU price struggles after comic debut: why are traders selling?
+2026-08-10,2026-08-10 06:46,gate,CAP/USDT,0.05299,34.08,226.93,4.1,,,
 2026-08-10,2026-08-10 00:01,mexc,BMT/USDT,0.03368,36.3,223.55,17.7,,228.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-10,2026-08-10 03:40,gate,IOTX/USDT,0.002965,4.14,213.0,5.9,,67.0,Coindar: IoTeX Released QuickSilver Pro
-2026-08-10,2026-08-10 06:31,gate,CAP/USDT,0.05196,31.48,212.27,3.9,,,
 2026-08-10,2026-08-10 01:45,gate,MUBARAK/USDT,0.02884,13.19,190.93,15.5,Listing,159.0,CoinMarketCal: Mubarak - INDODAX Listing - 05 March 2026
 2026-08-10,2026-08-10 00:01,mexc,BTW/USDT,0.21536,4.51,184.06,8.3,,,
 2026-08-10,2026-08-10 04:20,gate,AKE/USDT,0.004287,3.08,135.36,6.8,,291.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
@@ -1466,10 +1466,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-10,2026-08-10 00:15,gate,TSTBSC/USDT,0.022649,3.09,115.82,4.0,,,
 2026-08-10,2026-08-10 04:40,gate,BLESS/USDT,0.012594,3.31,94.21,9.7,Listing,321.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-10,2026-08-10 00:01,mexc,TST/USDT,0.0221,35.83,91.13,3.1,Delisting,381.0,"CoinMarketCal: 5ire, Ertha, and Others - Bybit Delisting - 25 Jul 2025"
-2026-08-10,2026-08-10 06:31,gate,HOME/USDT,0.0096,8.6,61.45,5.3,,94,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-10,2026-08-10 06:46,gate,HOME/USDT,0.00964,9.05,62.02,5.3,,94,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-10,2026-08-10 00:01,mexc,CYS/USDT,1.0556,8.6,35.22,19.5,,,
-2026-08-10,2026-08-10 06:31,gate,SKYAI/USDT,0.1074,9.31,23.87,14.5,,,
+2026-08-10,2026-08-10 06:46,gate,SKYAI/USDT,0.10793,9.85,23.95,14.5,,,
+2026-08-10,2026-08-10 06:46,gate,ESP/USDT,0.08281,15.5,14.17,3.0,,138,CoinMarketCal: Espresso (ESP) - Espresso Community Call - 26 March 2026
 2026-08-10,2026-08-10 00:01,mexc,COOKIE/USDT,0.01508,21.12,12.21,7.1,,,
-2026-08-10,2026-08-10 06:31,gate,ENA/USDT,0.08959,3.57,7.87,4.2,Partner,3,Coinpedia: ENA Price Holds Key Support as Ethena Ecosystem Expands With Maple USDtb Integration
+2026-08-10,2026-08-10 06:46,gate,ENA/USDT,0.08973,3.73,7.96,4.3,Partner,3,Coinpedia: ENA Price Holds Key Support as Ethena Ecosystem Expands With Maple USDtb Integration
 2026-08-10,2026-08-10 00:01,mexc,BICO/USDT,0.04809,14.33,6.37,39.2,,,
 2026-08-10,2026-08-10 00:01,mexc,BEAT/USDT,3.554,4.49,2.67,81.3,,,
