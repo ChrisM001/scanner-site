@@ -1447,13 +1447,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-09,2026-08-09 00:01,mexc,COOKIE/USDT,0.01303,33.77,9.25,3.0,,204.0,Cointelegraph: Kaito winds down crypto-backed Yaps as X bans payments for AI slop
 2026-08-09,2026-08-09 00:01,mexc,BICO/USDT,0.06241,7.27,5.33,26.9,,117.0,"FinanceWire: DatavaultAI (NASDAQ: DVLT)to List Meme Coin, RWA Token Portfolio onBiconomyExchange"
 2026-08-10,2026-08-10 00:10,gate,BOME/USDT,0.000885,4.53,4245.82,4.1,,12.0,Coinpedia: BOME Price Is Heating Up AgainHeres Why
-2026-08-10,2026-08-10 00:31,gate,PUMP/USDT,0.002761,3.37,2102.49,9.6,,4.0,Coinpedia: Pump.fun (PUMP) Price Surges Without a Clear Catalyst: Whats Fueling the Rally?
-2026-08-10,2026-08-10 00:31,gate,TUT/USDT,0.232648,15.37,1688.38,268.9,,487.0,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
+2026-08-10,2026-08-10 00:35,gate,PUMP/USDT,0.002782,4.16,2114.17,9.7,,4.0,Coinpedia: Pump.fun (PUMP) Price Surges Without a Clear Catalyst: Whats Fueling the Rally?
+2026-08-10,2026-08-10 00:35,gate,TUT/USDT,0.2129,5.58,1695.76,270.1,,487.0,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
 2026-08-10,2026-08-10 00:01,mexc,TUT/USDT,0.19958,36.43,1669.8,80.9,,487.0,CoinMarketCal: BNB and Others - BNB Chain X Spaces - 09 Apr 2025
 2026-08-10,2026-08-10 00:01,mexc,MUBARAK/USDT,0.02549,16.28,1446.33,8.2,Listing,159.0,CoinMarketCal: Mubarak - INDODAX Listing - 05 March 2026
 2026-08-10,2026-08-10 00:25,gate,BMT/USDT,0.03398,3.13,261.58,36.5,,228.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-10,2026-08-10 00:01,mexc,BMT/USDT,0.03368,36.3,223.55,17.7,,228.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-10,2026-08-10 00:01,mexc,BTW/USDT,0.21536,4.51,184.06,8.3,,,
+2026-08-10,2026-08-10 00:35,gate,MUBARAK/USDT,0.02638,3.53,160.85,13.1,Listing,159.0,CoinMarketCal: Mubarak - INDODAX Listing - 05 March 2026
 2026-08-10,2026-08-10 00:01,mexc,AKE/USDT,0.004176,4.09,129.62,3.3,,291.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-10,2026-08-10 00:01,mexc,XAN/USDT,0.021985,25.63,123.19,8.0,,,
 2026-08-10,2026-08-10 00:15,gate,TSTBSC/USDT,0.022649,3.09,115.82,4.0,,,
