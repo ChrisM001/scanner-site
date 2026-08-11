@@ -1484,7 +1484,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-10,2026-08-10 23:50,gate,SOXS/USDT,45.11,7.02,2.3,5.5,,,
 2026-08-11,2026-08-11 00:31,mexc,BLUAI/USDT,0.030438,104.25,1161.53,13.6,,,
 2026-08-11,2026-08-11 02:05,gate,BLUAI/USDT,0.031548,3.55,924.65,8.0,,,
-2026-08-11,2026-08-11 05:50,gate,UB/USDT,0.14928,7.62,750.54,3.5,,,
+2026-08-11,2026-08-11 05:55,gate,UB/USDT,0.14902,7.43,754.55,3.6,,,
 2026-08-11,2026-08-11 04:51,gate,龙虾/USDT,0.029858,3.36,589.2,8.5,,,
 2026-08-11,2026-08-11 05:15,gate,TUT/USDT,0.114468,6.37,381.15,69.7,,0.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-11,2026-08-11 04:55,gate,CAP/USDT,0.04792,4.33,311.45,6.3,,,
@@ -1498,7 +1498,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-11,2026-08-11 00:31,mexc,XAN/USDT,0.012529,4.33,57.07,4.4,,,
 2026-08-11,2026-08-11 00:31,mexc,CYS/USDT,1.2939,12.05,38.68,24.9,,,
 2026-08-11,2026-08-11 00:31,mexc,CAP/USDT,0.04609,4.32,38.29,8.5,,,
-2026-08-11,2026-08-11 05:50,gate,CYS/USDT,1.3351,5.76,34.39,19.2,,,
+2026-08-11,2026-08-11 05:55,gate,CYS/USDT,1.3404,6.18,34.42,19.2,,,
 2026-08-11,2026-08-11 04:40,gate,ENA/USDT,0.09057,3.0,8.42,4.5,Partner,4.0,Coinpedia: ENA Price Holds Key Support as Ethena Ecosystem Expands With Maple USDtb Integration
 2026-08-11,2026-08-11 05:50,gate,SKYAI/USDT,0.10311,5.8,7.39,4.6,,,
-2026-08-11,2026-08-11 05:50,gate,EPIC/USDT,0.4655,12.33,2.06,8.1,Listing,355,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
+2026-08-11,2026-08-11 05:55,gate,EPIC/USDT,0.4655,12.33,2.07,8.1,Listing,355,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
