@@ -1489,9 +1489,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-11,2026-08-11 04:51,gate,龙虾/USDT,0.029858,3.36,589.2,8.5,,,
 2026-08-11,2026-08-11 05:15,gate,TUT/USDT,0.114468,6.37,381.15,69.7,,0.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-11,2026-08-11 00:35,gate,GUA/USDT,0.0659,3.05,215.74,8.9,,,
-2026-08-11,2026-08-11 10:51,gate,CAP/USDT,0.05183,12.85,193.94,3.9,,,
+2026-08-11,2026-08-11 10:56,gate,VELVET/USDT,0.7608,75.16,206.18,4.3,,17,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
+2026-08-11,2026-08-11 10:56,gate,CAP/USDT,0.05346,16.39,196.87,4.0,,,
 2026-08-11,2026-08-11 10:46,gate,SQD/USDT,0.04621,3.08,193.56,4.0,,274.0,CoinMarketCal: SQD (SQD) - Podcast w/ RollUp - 12 Nov 2025
-2026-08-11,2026-08-11 10:51,gate,VELVET/USDT,0.72803,67.62,184.61,3.8,,17,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-08-11,2026-08-11 01:20,gate,HOME/USDT,0.0094,3.07,182.13,16.6,,94.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-11,2026-08-11 00:31,mexc,BTW/USDT,0.19713,9.56,160.76,7.7,,,
 2026-08-11,2026-08-11 00:25,gate,TSTBSC/USDT,0.022145,3.73,102.7,5.3,,,
@@ -1500,7 +1500,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-11,2026-08-11 00:31,mexc,XAN/USDT,0.012529,4.33,57.07,4.4,,,
 2026-08-11,2026-08-11 00:31,mexc,CYS/USDT,1.2939,12.05,38.68,24.9,,,
 2026-08-11,2026-08-11 00:31,mexc,CAP/USDT,0.04609,4.32,38.29,8.5,,,
-2026-08-11,2026-08-11 10:51,gate,CYS/USDT,1.4167,12.22,34.42,19.2,,,
-2026-08-11,2026-08-11 10:51,gate,ENA/USDT,0.09062,3.06,7.9,4.2,,0,Binance News: Arthur Hayes Says Ethena Could Rise 5 to 10 Times as ENA Falls Over 90%
-2026-08-11,2026-08-11 10:51,gate,SKYAI/USDT,0.10416,6.87,6.92,4.3,,,
+2026-08-11,2026-08-11 10:56,gate,CYS/USDT,1.4313,13.38,34.72,19.3,,,
+2026-08-11,2026-08-11 10:51,gate,ENA/USDT,0.09062,3.06,7.9,4.2,,0.0,Binance News: Arthur Hayes Says Ethena Could Rise 5 to 10 Times as ENA Falls Over 90%
+2026-08-11,2026-08-11 10:56,gate,SKYAI/USDT,0.10432,7.04,6.93,4.3,,,
 2026-08-11,2026-08-11 06:51,gate,EPIC/USDT,0.435,4.97,2.0,7.9,Listing,355.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
