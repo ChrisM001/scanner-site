@@ -1483,10 +1483,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-10,2026-08-10 00:01,mexc,BEAT/USDT,3.554,4.49,2.67,81.3,,,
 2026-08-10,2026-08-10 23:50,gate,SOXS/USDT,45.11,7.02,2.3,5.5,,,
 2026-08-11,2026-08-11 00:01,mexc,BLUAI/USDT,0.030118,102.1,1109.57,13.0,,,
-2026-08-11,2026-08-11 00:15,gate,TUT/USDT,0.113117,5.11,513.09,93.8,,0.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-11,2026-08-11 00:25,gate,TUT/USDT,0.11167,3.77,514.43,94.1,,0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-11,2026-08-11 00:20,gate,SQD/USDT,0.04622,3.1,180.28,3.7,,274.0,CoinMarketCal: SQD (SQD) - Podcast w/ RollUp - 12 Nov 2025
 2026-08-11,2026-08-11 00:01,mexc,BTW/USDT,0.19751,9.77,159.55,7.6,,,
-2026-08-11,2026-08-11 00:05,gate,TSTBSC/USDT,0.022007,3.08,101.95,5.3,,,
+2026-08-11,2026-08-11 00:25,gate,TSTBSC/USDT,0.022145,3.73,102.7,5.3,,,
 2026-08-11,2026-08-11 00:01,mexc,SQD/USDT,0.04506,7.1,94.47,3.3,,274.0,CoinMarketCal: SQD (SQD) - Podcast w/ RollUp - 12 Nov 2025
 2026-08-11,2026-08-11 00:10,gate,BLESS/USDT,0.014093,4.32,58.87,6.2,Listing,322.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-11,2026-08-11 00:01,mexc,XAN/USDT,0.012422,3.43,56.92,4.4,,,
