@@ -317,13 +317,13 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-08-10,2026-08-10 08:10,NASDAQ:AQB,1.28,18.69,12.2,5.12,5.7,3.0,,Benzinga: AquaBounty Technologies Stock Surges Over 54% Overnight: Why is it Moving?,premarket
 2026-08-10,2026-08-10 11:50,NASDAQ:CELZ,1.21,27.83,2.0,4.7,0.56,2.0,EARNINGS,Reuters: Creative Medical Technology Holdings Inc reports results for the quarter ended June 30 - Earnings Summary,premarket
 2026-08-10,2026-08-10 08:10,NASDAQ:ZYBT,2.398,13.88,1.7,7.71,1.93,3.0,,GlobeNewswire: Zhengye Biotechnology Holding Limited Regains Compliance with Nasdaq Bid Price Requirement,premarket
-2026-08-11,2026-08-11 08:05,NASDAQ:JWEL,3.98,156.13,12831.4,1.83,43.07,0.0,,"dpa-AFX: Morning Market Movers: JWEL, DKI, VREX, HZO See Big Swings",premarket
-2026-08-11,2026-08-11 08:05,NASDAQ:SCKT,2.65,575.99,1741.5,5.44,52.4,0.0,FDA/CLIN,Reuters: Socket Mobile Partners With 3Eye Technologies To Expand Industrial Mobility Solutions For Apple-Based Frontline Operations,premarket
-2026-08-11,2026-08-11 08:05,NASDAQ:AUUD,1.43,73.92,888.6,4.78,76.0,0.0,,Benzinga: Auddia Stock Jumps Monday: What's Happening?,premarket
-2026-08-11,2026-08-11 08:05,NASDAQ:DKI,5.18,41.41,694.1,1.19,5.89,0.0,,"dpa-AFX: Morning Market Movers: JWEL, DKI, VREX, HZO See Big Swings",premarket
-2026-08-11,2026-08-11 08:05,NASDAQ:AIFA,2.43,20.9,28.0,3.23,0.33,27.0,,"GlobeNewswire: All In FutureTech Alliance Inc. Announces Further Expansion of the LittleVault IP Matrix with Two New Marquee Knowledge IPs, Each with 10-Million-Plus Followers, as AI Course Development Accelerates",premarket
-2026-08-11,2026-08-11 08:05,NASDAQ:ZJYL,3.49,62.33,9.3,1.83,8.69,6.0,,Benzinga: Jin Medical International (ZJYL) Stock Soars Over 63% After Hours: Here's What You Need To Know,premarket
-2026-08-11,2026-08-11 08:05,NASDAQ:XHLD,2.94,46.04,6.2,7.79,6.01,0.0,EARNINGS,"Quartr: XHLD: Q2 revenue fell 34.5%, but a $7.5M equity raise bolstered cash for AI and acquisitions",premarket
-2026-08-11,2026-08-11 08:05,NASDAQ:VIVK,1.57,26.98,3.1,0.59,2.1,0.0,,GlobeNewswire: Vivakor Accelerates Crude Oil Trading Portfolio toward $2 Billion in Annualized Commercial Activity,premarket
-2026-08-11,2026-08-11 08:05,NASDAQ:INHD,6.12,22.06,0.1,2.52,0.73,6.0,,"dpa-AFX: Morning Market Movers: AMRC, INHD, AHCO, IBTA See Big Swings",premarket
-2026-08-11,2026-08-11 08:05,NASDAQ:INLF,5.48,21.06,0.1,1.05,0.27,11.0,,"GlobeNewswire: INLIF LIMITED to Hold Extraordinary General Meeting on August 17, 2026",premarket
+2026-08-11,2026-08-11 08:11,NASDAQ:JWEL,3.98,156.13,12831.4,1.83,43.07,0.0,,"dpa-AFX: Morning Market Movers: JWEL, DKI, VREX, HZO See Big Swings",premarket
+2026-08-11,2026-08-11 08:11,NASDAQ:SCKT,2.65,575.99,1741.5,5.44,52.4,0.0,FDA/CLIN,Reuters: Socket Mobile Partners With 3Eye Technologies To Expand Industrial Mobility Solutions For Apple-Based Frontline Operations,premarket
+2026-08-11,2026-08-11 08:11,NASDAQ:AUUD,1.43,73.92,888.6,4.78,76.0,0.0,,Benzinga: Auddia Stock Jumps Monday: What's Happening?,premarket
+2026-08-11,2026-08-11 08:11,NASDAQ:DKI,5.18,41.41,694.1,1.19,5.89,0.0,,"dpa-AFX: Morning Market Movers: JWEL, DKI, VREX, HZO See Big Swings",premarket
+2026-08-11,2026-08-11 08:11,NASDAQ:AIFA,2.43,20.9,28.0,3.23,0.33,27.0,,"GlobeNewswire: All In FutureTech Alliance Inc. Announces Further Expansion of the LittleVault IP Matrix with Two New Marquee Knowledge IPs, Each with 10-Million-Plus Followers, as AI Course Development Accelerates",premarket
+2026-08-11,2026-08-11 08:11,NASDAQ:ZJYL,3.49,62.33,9.3,1.83,8.69,6.0,,Benzinga: Jin Medical International (ZJYL) Stock Soars Over 63% After Hours: Here's What You Need To Know,premarket
+2026-08-11,2026-08-11 08:11,NASDAQ:XHLD,2.94,46.04,6.2,7.79,6.01,0.0,EARNINGS,"Quartr: XHLD: Q2 revenue fell 34.5%, but a $7.5M equity raise bolstered cash for AI and acquisitions",premarket
+2026-08-11,2026-08-11 08:11,NASDAQ:VIVK,1.57,26.98,3.1,0.59,2.1,0.0,,GlobeNewswire: Vivakor Accelerates Crude Oil Trading Portfolio toward $2 Billion in Annualized Commercial Activity,premarket
+2026-08-11,2026-08-11 08:11,NASDAQ:INHD,6.12,22.06,0.1,2.52,0.73,6.0,,"dpa-AFX: Morning Market Movers: AMRC, INHD, AHCO, IBTA See Big Swings",premarket
+2026-08-11,2026-08-11 08:11,NASDAQ:INLF,5.48,21.06,0.1,1.05,0.27,11.0,,"GlobeNewswire: INLIF LIMITED to Hold Extraordinary General Meeting on August 17, 2026",premarket
