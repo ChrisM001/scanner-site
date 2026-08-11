@@ -1488,10 +1488,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-11,2026-08-11 11:01,gate,UB/USDT,0.14379,3.66,899.77,4.2,,,
 2026-08-11,2026-08-11 04:51,gate,龙虾/USDT,0.029858,3.36,589.2,8.5,,,
 2026-08-11,2026-08-11 05:15,gate,TUT/USDT,0.114468,6.37,381.15,69.7,,0.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-11,2026-08-11 11:01,gate,VELVET/USDT,0.8122,87.0,235.78,4.9,,17,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
+2026-08-11,2026-08-11 11:11,gate,VELVET/USDT,0.87317,101.03,274.32,5.7,,17,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-08-11,2026-08-11 00:35,gate,GUA/USDT,0.0659,3.05,215.74,8.9,,,
 2026-08-11,2026-08-11 10:46,gate,SQD/USDT,0.04621,3.08,193.56,4.0,,274.0,CoinMarketCal: SQD (SQD) - Podcast w/ RollUp - 12 Nov 2025
-2026-08-11,2026-08-11 11:01,gate,CAP/USDT,0.0538,17.13,187.85,3.8,,,
+2026-08-11,2026-08-11 11:11,gate,CAP/USDT,0.0542,18.01,191.8,3.9,,,
 2026-08-11,2026-08-11 01:20,gate,HOME/USDT,0.0094,3.07,182.13,16.6,,94.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-11,2026-08-11 00:31,mexc,BTW/USDT,0.19713,9.56,160.76,7.7,,,
 2026-08-11,2026-08-11 00:25,gate,TSTBSC/USDT,0.022145,3.73,102.7,5.3,,,
@@ -1500,7 +1500,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-11,2026-08-11 00:31,mexc,XAN/USDT,0.012529,4.33,57.07,4.4,,,
 2026-08-11,2026-08-11 00:31,mexc,CYS/USDT,1.2939,12.05,38.68,24.9,,,
 2026-08-11,2026-08-11 00:31,mexc,CAP/USDT,0.04609,4.32,38.29,8.5,,,
-2026-08-11,2026-08-11 11:01,gate,CYS/USDT,1.441,14.15,32.76,18.2,,,
-2026-08-11,2026-08-11 11:01,gate,ENA/USDT,0.09068,3.13,7.54,4.0,,0,Binance News: Arthur Hayes Says Ethena Could Rise 5 to 10 Times as ENA Falls Over 90%
-2026-08-11,2026-08-11 11:01,gate,SKYAI/USDT,0.10377,6.47,6.68,4.1,,,
+2026-08-11,2026-08-11 11:11,gate,CYS/USDT,1.4456,14.51,33.6,18.7,,,
+2026-08-11,2026-08-11 11:01,gate,ENA/USDT,0.09068,3.13,7.54,4.0,,0.0,Binance News: Arthur Hayes Says Ethena Could Rise 5 to 10 Times as ENA Falls Over 90%
+2026-08-11,2026-08-11 11:11,gate,SKYAI/USDT,0.10256,5.23,6.72,4.1,,,
 2026-08-11,2026-08-11 06:51,gate,EPIC/USDT,0.435,4.97,2.0,7.9,Listing,355.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
