@@ -1511,12 +1511,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-11,2026-08-11 11:01,gate,ENA/USDT,0.09068,3.13,7.54,4.0,,0.0,Binance News: Arthur Hayes Says Ethena Could Rise 5 to 10 Times as ENA Falls Over 90%
 2026-08-11,2026-08-11 13:21,gate,SKYAI/USDT,0.10038,3.0,6.83,4.2,,,
 2026-08-11,2026-08-11 06:51,gate,EPIC/USDT,0.435,4.97,2.0,7.9,Listing,355.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
-2026-08-12,2026-08-12 04:05,gate,INX/USDT,0.0082,3.27,1430.71,4.8,,,
+2026-08-12,2026-08-12 04:10,gate,INX/USDT,0.00823,3.65,1430.98,4.8,,,
 2026-08-12,2026-08-12 02:44,gate,BLUAI/USDT,0.013074,3.43,1131.45,13.5,,,
 2026-08-12,2026-08-12 00:25,gate,VELVET/USDT,0.63908,4.67,851.76,21.9,,17.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
-2026-08-12,2026-08-12 04:05,gate,CAP/USDT,0.05837,6.07,292.0,6.6,,,
-2026-08-12,2026-08-12 03:45,gate,BTR/USDT,0.03161,4.67,271.8,6.1,,,
-2026-08-12,2026-08-12 04:05,gate,HOLO/USDT,0.0907,10.68,221.39,6.5,Listing,334,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
+2026-08-12,2026-08-12 04:10,gate,CAP/USDT,0.05846,6.23,293.48,6.6,,,
+2026-08-12,2026-08-12 04:10,gate,BTR/USDT,0.03134,3.77,271.68,6.1,,,
+2026-08-12,2026-08-12 04:10,gate,HOLO/USDT,0.09066,10.63,225.1,6.6,Listing,334,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
 2026-08-12,2026-08-12 00:41,gate,龙虾/USDT,0.019544,3.03,212.13,3.2,,,
 2026-08-12,2026-08-12 00:01,mexc,AKE/USDT,0.004252,6.23,157.04,4.1,,293.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-12,2026-08-12 00:01,mexc,BTW/USDT,0.20611,4.08,97.35,4.8,,,
