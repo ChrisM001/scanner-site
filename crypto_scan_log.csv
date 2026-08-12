@@ -1516,20 +1516,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-12,2026-08-12 00:25,gate,VELVET/USDT,0.63908,4.67,851.76,21.9,,17.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-08-12,2026-08-12 05:59,gate,CAP/USDT,0.05698,3.54,303.23,6.8,,,
 2026-08-12,2026-08-12 06:21,gate,HOLO/USDT,0.08499,3.71,272.47,8.0,Listing,335.0,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
+2026-08-12,2026-08-12 09:01,gate,APR/USDT,0.35498,71.56,249.09,6.2,Listing,70,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-08-12,2026-08-12 06:40,gate,BTR/USDT,0.03116,3.18,239.79,5.4,,,
-2026-08-12,2026-08-12 08:53,gate,APR/USDT,0.34956,68.94,236.97,5.9,Listing,70,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-08-12,2026-08-12 00:41,gate,龙虾/USDT,0.019544,3.03,212.13,3.2,,,
 2026-08-12,2026-08-12 07:01,gate,TUT/USDT,0.081,5.65,177.48,34.5,,1.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-12,2026-08-12 00:01,mexc,AKE/USDT,0.004252,6.23,157.04,4.1,,293.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-12,2026-08-12 00:01,mexc,BTW/USDT,0.20611,4.08,97.35,4.8,,,
-2026-08-12,2026-08-12 08:53,gate,HOME/USDT,0.0097,4.19,86.69,8.2,,96,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-12,2026-08-12 08:53,gate,BTW/USDT,0.225821,10.11,84.05,4.2,,,
-2026-08-12,2026-08-12 08:53,gate,CYS/USDT,1.4071,29.79,52.48,32.9,,,
-2026-08-12,2026-08-12 08:53,gate,BEAT/USDT,1.3161,20.47,42.15,69.9,,65,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-12,2026-08-12 09:01,gate,BTW/USDT,0.21458,4.63,89.29,4.4,,,
+2026-08-12,2026-08-12 09:01,gate,HOME/USDT,0.0097,4.19,84.12,7.9,,96,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-12,2026-08-12 09:01,gate,CYS/USDT,1.4154,30.56,50.4,31.6,,,
+2026-08-12,2026-08-12 09:01,gate,BEAT/USDT,1.3308,21.81,40.42,67.0,,65,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-12,2026-08-12 00:01,mexc,GUA/USDT,0.04685,4.25,38.61,4.3,,,
 2026-08-12,2026-08-12 00:45,gate,BMT/USDT,0.02453,4.07,38.39,10.5,,230.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-12,2026-08-12 00:01,mexc,CAP/USDT,0.05493,9.29,32.03,7.9,,,
-2026-08-12,2026-08-12 08:53,gate,BLESS/USDT,0.013478,5.64,28.48,3.1,Listing,323,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
+2026-08-12,2026-08-12 08:53,gate,BLESS/USDT,0.013478,5.64,28.48,3.1,Listing,323.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-12,2026-08-12 08:46,gate,LAB/USDT,0.12136,4.01,24.82,3.1,,,
 2026-08-12,2026-08-12 02:44,gate,SKYAI/USDT,0.08036,4.15,9.47,5.9,,,
 2026-08-12,2026-08-12 00:01,mexc,HOLO/USDT,0.08152,11.1,8.83,3.6,Listing,334.0,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
