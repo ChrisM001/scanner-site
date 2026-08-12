@@ -1516,13 +1516,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-12,2026-08-12 00:50,gate,BTR/USDT,0.03124,3.44,227.55,5.1,,,
 2026-08-12,2026-08-12 00:41,gate,龙虾/USDT,0.019544,3.03,212.13,3.2,,,
 2026-08-12,2026-08-12 00:01,mexc,AKE/USDT,0.004252,6.23,157.04,4.1,,293.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-12,2026-08-12 01:20,gate,HOLO/USDT,0.0931,13.61,116.98,3.4,Listing,334,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
+2026-08-12,2026-08-12 01:25,gate,HOLO/USDT,0.09265,13.06,119.36,3.5,Listing,334,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
 2026-08-12,2026-08-12 00:01,mexc,BTW/USDT,0.20611,4.08,97.35,4.8,,,
 2026-08-12,2026-08-12 00:31,gate,BTW/USDT,0.211508,3.13,78.59,3.9,,,
-2026-08-12,2026-08-12 01:20,gate,CYS/USDT,1.1466,5.77,41.44,25.9,,,
+2026-08-12,2026-08-12 01:25,gate,CYS/USDT,1.1464,5.75,41.5,26.0,,,
 2026-08-12,2026-08-12 00:01,mexc,GUA/USDT,0.04685,4.25,38.61,4.3,,,
 2026-08-12,2026-08-12 00:45,gate,BMT/USDT,0.02453,4.07,38.39,10.5,,230.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-12,2026-08-12 00:01,mexc,CAP/USDT,0.05493,9.29,32.03,7.9,,,
-2026-08-12,2026-08-12 01:20,gate,SKYAI/USDT,0.08146,5.57,9.48,5.9,,,
+2026-08-12,2026-08-12 01:25,gate,SKYAI/USDT,0.08151,5.64,9.5,6.0,,,
 2026-08-12,2026-08-12 00:01,mexc,HOLO/USDT,0.08152,11.1,8.83,3.6,Listing,334.0,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
 2026-08-12,2026-08-12 00:01,mexc,BEAT/USDT,1.077,10.46,2.77,93.5,,64.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
