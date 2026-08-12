@@ -1511,20 +1511,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-11,2026-08-11 11:01,gate,ENA/USDT,0.09068,3.13,7.54,4.0,,0.0,Binance News: Arthur Hayes Says Ethena Could Rise 5 to 10 Times as ENA Falls Over 90%
 2026-08-11,2026-08-11 13:21,gate,SKYAI/USDT,0.10038,3.0,6.83,4.2,,,
 2026-08-11,2026-08-11 06:51,gate,EPIC/USDT,0.435,4.97,2.0,7.9,Listing,355.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
-2026-08-12,2026-08-12 02:25,gate,BLUAI/USDT,0.013069,3.39,1129.96,13.4,,,
+2026-08-12,2026-08-12 02:44,gate,BLUAI/USDT,0.013074,3.43,1131.45,13.5,,,
 2026-08-12,2026-08-12 00:25,gate,VELVET/USDT,0.63908,4.67,851.76,21.9,,17.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
-2026-08-12,2026-08-12 02:40,gate,CAP/USDT,0.05788,5.18,296.8,6.7,,,
-2026-08-12,2026-08-12 02:40,gate,BTR/USDT,0.03282,8.68,251.75,5.6,,,
+2026-08-12,2026-08-12 02:44,gate,CAP/USDT,0.0574,4.31,298.03,6.7,,,
+2026-08-12,2026-08-12 02:44,gate,BTR/USDT,0.03213,6.39,252.95,5.7,,,
 2026-08-12,2026-08-12 00:41,gate,龙虾/USDT,0.019544,3.03,212.13,3.2,,,
-2026-08-12,2026-08-12 02:40,gate,HOLO/USDT,0.09568,16.75,162.81,4.8,Listing,334,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
+2026-08-12,2026-08-12 02:44,gate,HOLO/USDT,0.09546,16.49,163.42,4.8,Listing,334,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
 2026-08-12,2026-08-12 00:01,mexc,AKE/USDT,0.004252,6.23,157.04,4.1,,293.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-12,2026-08-12 00:01,mexc,BTW/USDT,0.20611,4.08,97.35,4.8,,,
-2026-08-12,2026-08-12 02:31,gate,HOME/USDT,0.00959,3.01,86.89,8.2,,95.0,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-12,2026-08-12 02:40,gate,BTW/USDT,0.215238,4.95,72.55,3.6,,,
-2026-08-12,2026-08-12 02:40,gate,CYS/USDT,1.272,17.33,42.67,26.7,,,
+2026-08-12,2026-08-12 02:44,gate,HOME/USDT,0.00959,3.01,87.4,8.2,,95,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-12,2026-08-12 02:44,gate,BTW/USDT,0.213739,4.22,72.79,3.6,,,
+2026-08-12,2026-08-12 02:44,gate,CYS/USDT,1.2562,15.87,42.77,26.8,,,
 2026-08-12,2026-08-12 00:01,mexc,GUA/USDT,0.04685,4.25,38.61,4.3,,,
 2026-08-12,2026-08-12 00:45,gate,BMT/USDT,0.02453,4.07,38.39,10.5,,230.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-12,2026-08-12 00:01,mexc,CAP/USDT,0.05493,9.29,32.03,7.9,,,
-2026-08-12,2026-08-12 02:40,gate,SKYAI/USDT,0.08092,4.87,9.46,5.9,,,
+2026-08-12,2026-08-12 02:44,gate,SKYAI/USDT,0.08036,4.15,9.47,5.9,,,
 2026-08-12,2026-08-12 00:01,mexc,HOLO/USDT,0.08152,11.1,8.83,3.6,Listing,334.0,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
 2026-08-12,2026-08-12 00:01,mexc,BEAT/USDT,1.077,10.46,2.77,93.5,,64.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
