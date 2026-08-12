@@ -1514,16 +1514,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-12,2026-08-12 04:25,gate,INX/USDT,0.00823,3.65,1432.32,4.8,,,
 2026-08-12,2026-08-12 05:01,gate,BLUAI/USDT,0.013083,3.5,955.07,11.4,,,
 2026-08-12,2026-08-12 00:25,gate,VELVET/USDT,0.63908,4.67,851.76,21.9,,17.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
-2026-08-12,2026-08-12 05:15,gate,CAP/USDT,0.05733,4.18,296.72,6.7,,,
-2026-08-12,2026-08-12 05:15,gate,BTR/USDT,0.03122,3.38,254.5,5.7,,,
-2026-08-12,2026-08-12 05:01,gate,HOLO/USDT,0.08524,4.01,247.66,7.2,Listing,335.0,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
+2026-08-12,2026-08-12 05:21,gate,CAP/USDT,0.05698,3.54,298.02,6.7,,,
+2026-08-12,2026-08-12 05:21,gate,HOLO/USDT,0.08584,4.75,258.85,7.6,Listing,335,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
+2026-08-12,2026-08-12 05:21,gate,BTR/USDT,0.03167,4.87,255.04,5.7,,,
 2026-08-12,2026-08-12 00:41,gate,龙虾/USDT,0.019544,3.03,212.13,3.2,,,
 2026-08-12,2026-08-12 00:01,mexc,AKE/USDT,0.004252,6.23,157.04,4.1,,293.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-12,2026-08-12 00:01,mexc,BTW/USDT,0.20611,4.08,97.35,4.8,,,
-2026-08-12,2026-08-12 05:15,gate,HOME/USDT,0.0096,3.11,85.42,8.0,,96,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-12,2026-08-12 04:31,gate,BTW/USDT,0.211343,3.05,62.36,3.1,,,
-2026-08-12,2026-08-12 05:15,gate,CYS/USDT,1.1559,6.62,47.26,29.6,,,
-2026-08-12,2026-08-12 05:10,gate,BEAT/USDT,1.1328,3.69,40.01,66.4,,64.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-12,2026-08-12 05:15,gate,HOME/USDT,0.0096,3.11,85.42,8.0,,96.0,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-12,2026-08-12 05:21,gate,BTW/USDT,0.211741,3.25,61.6,3.1,,,
+2026-08-12,2026-08-12 05:21,gate,CYS/USDT,1.2673,16.9,48.23,30.2,,,
+2026-08-12,2026-08-12 05:21,gate,BEAT/USDT,1.1407,4.41,40.14,66.6,,64,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-12,2026-08-12 00:01,mexc,GUA/USDT,0.04685,4.25,38.61,4.3,,,
 2026-08-12,2026-08-12 00:45,gate,BMT/USDT,0.02453,4.07,38.39,10.5,,230.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-12,2026-08-12 00:01,mexc,CAP/USDT,0.05493,9.29,32.03,7.9,,,
