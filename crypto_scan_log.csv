@@ -1515,15 +1515,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-12,2026-08-12 06:21,gate,BLUAI/USDT,0.013086,3.52,899.15,10.7,,,
 2026-08-12,2026-08-12 00:25,gate,VELVET/USDT,0.63908,4.67,851.76,21.9,,17.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-08-12,2026-08-12 05:59,gate,CAP/USDT,0.05698,3.54,303.23,6.8,,,
-2026-08-12,2026-08-12 06:21,gate,HOLO/USDT,0.08499,3.71,272.47,8.0,Listing,335,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
-2026-08-12,2026-08-12 06:21,gate,BTR/USDT,0.03167,4.87,238.37,5.3,,,
+2026-08-12,2026-08-12 06:21,gate,HOLO/USDT,0.08499,3.71,272.47,8.0,Listing,335.0,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
+2026-08-12,2026-08-12 06:25,gate,BTR/USDT,0.03163,4.74,238.81,5.3,,,
 2026-08-12,2026-08-12 00:41,gate,龙虾/USDT,0.019544,3.03,212.13,3.2,,,
 2026-08-12,2026-08-12 00:01,mexc,AKE/USDT,0.004252,6.23,157.04,4.1,,293.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-12,2026-08-12 00:01,mexc,BTW/USDT,0.20611,4.08,97.35,4.8,,,
 2026-08-12,2026-08-12 05:15,gate,HOME/USDT,0.0096,3.11,85.42,8.0,,96.0,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-12,2026-08-12 06:21,gate,BTW/USDT,0.215398,5.03,61.98,3.1,,,
+2026-08-12,2026-08-12 06:25,gate,BTW/USDT,0.21583,5.24,62.07,3.1,,,
 2026-08-12,2026-08-12 06:21,gate,CYS/USDT,1.1375,4.93,49.89,31.2,,,
-2026-08-12,2026-08-12 06:21,gate,BEAT/USDT,1.1896,8.89,40.33,66.9,,64,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-12,2026-08-12 06:25,gate,BEAT/USDT,1.2039,10.2,40.41,67.0,,65,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-12,2026-08-12 00:01,mexc,GUA/USDT,0.04685,4.25,38.61,4.3,,,
 2026-08-12,2026-08-12 00:45,gate,BMT/USDT,0.02453,4.07,38.39,10.5,,230.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-12,2026-08-12 00:01,mexc,CAP/USDT,0.05493,9.29,32.03,7.9,,,
