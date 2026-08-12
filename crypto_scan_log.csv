@@ -1511,7 +1511,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-11,2026-08-11 11:01,gate,ENA/USDT,0.09068,3.13,7.54,4.0,,0.0,Binance News: Arthur Hayes Says Ethena Could Rise 5 to 10 Times as ENA Falls Over 90%
 2026-08-11,2026-08-11 13:21,gate,SKYAI/USDT,0.10038,3.0,6.83,4.2,,,
 2026-08-11,2026-08-11 06:51,gate,EPIC/USDT,0.435,4.97,2.0,7.9,Listing,355.0,CoinMarketCal: Epic Chain (EPIC) - Coins.ph Listing - 21 Aug 2025
-2026-08-12,2026-08-12 04:25,gate,INX/USDT,0.00823,3.65,1432.32,4.8,,,
+2026-08-12,2026-08-12 07:16,gate,INX/USDT,0.0083,4.53,1468.66,4.9,,,
 2026-08-12,2026-08-12 06:21,gate,BLUAI/USDT,0.013086,3.52,899.15,10.7,,,
 2026-08-12,2026-08-12 00:25,gate,VELVET/USDT,0.63908,4.67,851.76,21.9,,17.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-08-12,2026-08-12 05:59,gate,CAP/USDT,0.05698,3.54,303.23,6.8,,,
@@ -1523,8 +1523,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-12,2026-08-12 00:01,mexc,BTW/USDT,0.20611,4.08,97.35,4.8,,,
 2026-08-12,2026-08-12 05:15,gate,HOME/USDT,0.0096,3.11,85.42,8.0,,96.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-12,2026-08-12 06:45,gate,BTW/USDT,0.219859,7.21,63.3,3.2,,,
-2026-08-12,2026-08-12 07:05,gate,CYS/USDT,1.3312,22.79,51.74,32.4,,,
-2026-08-12,2026-08-12 07:05,gate,BEAT/USDT,1.281,17.25,38.8,64.3,,65,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-12,2026-08-12 07:16,gate,CYS/USDT,1.2902,19.01,52.23,32.7,,,
+2026-08-12,2026-08-12 07:16,gate,BEAT/USDT,1.2644,15.73,39.08,64.8,,65,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-12,2026-08-12 00:01,mexc,GUA/USDT,0.04685,4.25,38.61,4.3,,,
 2026-08-12,2026-08-12 00:45,gate,BMT/USDT,0.02453,4.07,38.39,10.5,,230.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-12,2026-08-12 00:01,mexc,CAP/USDT,0.05493,9.29,32.03,7.9,,,
