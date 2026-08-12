@@ -1514,9 +1514,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-12,2026-08-12 04:25,gate,INX/USDT,0.00823,3.65,1432.32,4.8,,,
 2026-08-12,2026-08-12 04:15,gate,BLUAI/USDT,0.013039,3.15,980.99,11.7,,,
 2026-08-12,2026-08-12 00:25,gate,VELVET/USDT,0.63908,4.67,851.76,21.9,,17.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
-2026-08-12,2026-08-12 04:25,gate,CAP/USDT,0.05837,6.07,295.02,6.6,,,
+2026-08-12,2026-08-12 04:28,gate,CAP/USDT,0.05839,6.11,295.27,6.6,,,
 2026-08-12,2026-08-12 04:15,gate,BTR/USDT,0.03143,4.07,272.42,6.1,,,
-2026-08-12,2026-08-12 04:25,gate,HOLO/USDT,0.09253,12.91,231.83,6.8,Listing,334,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
+2026-08-12,2026-08-12 04:28,gate,HOLO/USDT,0.09284,13.29,232.63,6.8,Listing,334,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
 2026-08-12,2026-08-12 00:41,gate,龙虾/USDT,0.019544,3.03,212.13,3.2,,,
 2026-08-12,2026-08-12 00:01,mexc,AKE/USDT,0.004252,6.23,157.04,4.1,,293.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-12,2026-08-12 00:01,mexc,BTW/USDT,0.20611,4.08,97.35,4.8,,,
