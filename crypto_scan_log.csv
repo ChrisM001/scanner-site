@@ -1540,10 +1540,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-13,2026-08-13 02:31,gate,VELVET/USDT,0.73956,5.09,205.47,5.0,,18.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-08-13,2026-08-13 02:50,gate,CAP/USDT,0.0572,3.49,189.41,4.5,,,
 2026-08-13,2026-08-13 00:41,mexc,BR/USDT,0.22306,7.03,147.66,8.6,,,
-2026-08-13,2026-08-13 03:55,gate,HOME/USDT,0.00972,3.18,35.76,3.4,,96.0,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-13,2026-08-13 04:01,gate,HOME/USDT,0.00971,3.08,32.62,3.1,,96,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-13,2026-08-13 00:41,mexc,VELVET/USDT,0.7216,11.2,26.03,20.7,,18.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-08-13,2026-08-13 00:41,mexc,CYS/USDT,1.6389,7.29,23.38,18.6,,,
 2026-08-13,2026-08-13 00:41,mexc,APR/USDT,0.573,33.78,16.05,12.2,Listing,71.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
-2026-08-13,2026-08-13 03:55,gate,BMT/USDT,0.01782,6.9,12.25,3.5,,231.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
+2026-08-13,2026-08-13 04:01,gate,BMT/USDT,0.01792,7.5,11.46,3.3,,231,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
+2026-08-13,2026-08-13 04:01,gate,SKYAI/USDT,0.08171,3.81,11.34,7.4,,,
 2026-08-13,2026-08-13 00:01,mexc,ONE/USDT,0.000785,5.36,8.32,4.6,,0.0,Binance News: Harmony Suspends Cross-Chain Bridge Service After Security Incident
 2026-08-13,2026-08-13 00:41,mexc,BANK/USDT,0.03967,9.1,6.69,3.2,,394.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
