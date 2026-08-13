@@ -1538,13 +1538,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-12,2026-08-12 23:20,gate,PROM/USDT,2.699,45.19,2.27,34.6,,,
 2026-08-13,2026-08-13 00:41,mexc,BTW/USDT,0.25312,15.16,384.72,22.0,,,
 2026-08-13,2026-08-13 02:31,gate,VELVET/USDT,0.73956,5.09,205.47,5.0,,18.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
-2026-08-13,2026-08-13 05:25,gate,CAP/USDT,0.05709,3.29,181.07,4.3,,,
+2026-08-13,2026-08-13 05:31,gate,CAP/USDT,0.05762,4.25,181.27,4.3,,,
 2026-08-13,2026-08-13 00:41,mexc,BR/USDT,0.22306,7.03,147.66,8.6,,,
-2026-08-13,2026-08-13 05:15,gate,HOME/USDT,0.00973,3.29,31.77,3.0,,97.0,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-13,2026-08-13 05:31,gate,HOME/USDT,0.00979,3.93,31.99,3.0,,97,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-13,2026-08-13 00:41,mexc,VELVET/USDT,0.7216,11.2,26.03,20.7,,18.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-08-13,2026-08-13 00:41,mexc,CYS/USDT,1.6389,7.29,23.38,18.6,,,
 2026-08-13,2026-08-13 00:41,mexc,APR/USDT,0.573,33.78,16.05,12.2,Listing,71.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
-2026-08-13,2026-08-13 05:25,gate,BMT/USDT,0.01797,7.8,12.8,3.7,,,
-2026-08-13,2026-08-13 05:25,gate,SKYAI/USDT,0.0817,3.8,11.37,7.4,,,
+2026-08-13,2026-08-13 05:31,gate,BMT/USDT,0.01798,7.86,12.81,3.7,,,
+2026-08-13,2026-08-13 05:31,gate,SKYAI/USDT,0.08169,3.79,11.39,7.4,,,
 2026-08-13,2026-08-13 00:01,mexc,ONE/USDT,0.000785,5.36,8.32,4.6,,0.0,Binance News: Harmony Suspends Cross-Chain Bridge Service After Security Incident
 2026-08-13,2026-08-13 00:41,mexc,BANK/USDT,0.03967,9.1,6.69,3.2,,394.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
