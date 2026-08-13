@@ -1536,17 +1536,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-12,2026-08-12 00:01,mexc,HOLO/USDT,0.08152,11.1,8.83,3.6,Listing,334.0,CoinMarketCal: Holoworld (HOLO) - KuCoin Listing - 11 Sep 2025
 2026-08-12,2026-08-12 00:01,mexc,BEAT/USDT,1.077,10.46,2.77,93.5,,64.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-12,2026-08-12 23:20,gate,PROM/USDT,2.699,45.19,2.27,34.6,,,
-2026-08-13,2026-08-13 14:46,gate,PUMP/USDT,0.002846,3.38,859.29,4.5,,0,Coinpedia: PUMP Price Rally Picks MomentumBut Can Bulls Push Pump.fun Above $0.003?
-2026-08-13,2026-08-13 14:46,gate,AKE/USDT,0.006149,51.01,558.42,28.3,,294,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-13,2026-08-13 14:51,gate,PUMP/USDT,0.002865,4.07,870.86,4.6,,0,Coinpedia: PUMP Price Rally Picks MomentumBut Can Bulls Push Pump.fun Above $0.003?
+2026-08-13,2026-08-13 14:51,gate,AKE/USDT,0.006181,51.8,567.02,28.7,,294,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-13,2026-08-13 00:41,mexc,BTW/USDT,0.25312,15.16,384.72,22.0,,,
-2026-08-13,2026-08-13 14:46,gate,VELVET/USDT,0.72623,3.2,204.13,5.0,,0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
+2026-08-13,2026-08-13 14:46,gate,VELVET/USDT,0.72623,3.2,204.13,5.0,,0.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-08-13,2026-08-13 00:41,mexc,BR/USDT,0.22306,7.03,147.66,8.6,,,
 2026-08-13,2026-08-13 10:05,gate,CAP/USDT,0.05705,3.22,143.91,3.4,,,
-2026-08-13,2026-08-13 14:46,gate,BR/USDT,0.25358,12.14,103.91,5.1,,,
+2026-08-13,2026-08-13 14:51,gate,BR/USDT,0.24035,6.29,105.31,5.2,,,
 2026-08-13,2026-08-13 12:11,gate,US/USDT,0.03031,3.99,98.48,5.1,,,
 2026-08-13,2026-08-13 05:35,gate,ONE/USDT,0.000805,3.6,83.83,3.1,,0.0,Binance News: Harmony Suspends Cross-Chain Bridge Service After Security Incident
-2026-08-13,2026-08-13 14:46,gate,HOME/USDT,0.01072,13.8,76.45,7.3,,97,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-13,2026-08-13 14:46,gate,AVAAI/USDT,0.012574,12.03,69.63,3.4,,,
+2026-08-13,2026-08-13 14:51,gate,HOME/USDT,0.01102,16.99,77.78,7.4,,97,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-13,2026-08-13 14:51,gate,AVAAI/USDT,0.01252,11.55,69.75,3.4,,,
 2026-08-13,2026-08-13 00:41,mexc,VELVET/USDT,0.7216,11.2,26.03,20.7,,18.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-08-13,2026-08-13 00:41,mexc,CYS/USDT,1.6389,7.29,23.38,18.6,,,
 2026-08-13,2026-08-13 00:41,mexc,APR/USDT,0.573,33.78,16.05,12.2,Listing,71.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
