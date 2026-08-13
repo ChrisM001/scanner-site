@@ -1538,12 +1538,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-12,2026-08-12 23:20,gate,PROM/USDT,2.699,45.19,2.27,34.6,,,
 2026-08-13,2026-08-13 00:41,mexc,BTW/USDT,0.25312,15.16,384.72,22.0,,,
 2026-08-13,2026-08-13 06:51,gate,VELVET/USDT,0.72777,3.41,207.44,5.1,,18.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
-2026-08-13,2026-08-13 11:05,gate,AKE/USDT,0.005646,38.65,158.32,8.0,,294.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-13,2026-08-13 11:16,gate,AKE/USDT,0.005753,41.29,176.3,8.9,,294,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-13,2026-08-13 00:41,mexc,BR/USDT,0.22306,7.03,147.66,8.6,,,
 2026-08-13,2026-08-13 10:05,gate,CAP/USDT,0.05705,3.22,143.91,3.4,,,
-2026-08-13,2026-08-13 11:01,gate,BR/USDT,0.23361,3.31,118.32,5.8,,,
+2026-08-13,2026-08-13 11:16,gate,BR/USDT,0.23304,3.06,118.81,5.8,,,
 2026-08-13,2026-08-13 05:35,gate,ONE/USDT,0.000805,3.6,83.83,3.1,,0.0,Binance News: Harmony Suspends Cross-Chain Bridge Service After Security Incident
-2026-08-13,2026-08-13 11:05,gate,HOME/USDT,0.01066,13.16,50.5,4.8,,97.0,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-13,2026-08-13 11:16,gate,HOME/USDT,0.01071,13.69,51.46,4.9,,97,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-13,2026-08-13 00:41,mexc,VELVET/USDT,0.7216,11.2,26.03,20.7,,18.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-08-13,2026-08-13 00:41,mexc,CYS/USDT,1.6389,7.29,23.38,18.6,,,
 2026-08-13,2026-08-13 00:41,mexc,APR/USDT,0.573,33.78,16.05,12.2,Listing,71.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
