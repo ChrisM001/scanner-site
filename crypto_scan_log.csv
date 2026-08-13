@@ -1537,15 +1537,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-12,2026-08-12 00:01,mexc,BEAT/USDT,1.077,10.46,2.77,93.5,,64.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-12,2026-08-12 23:20,gate,PROM/USDT,2.699,45.19,2.27,34.6,,,
 2026-08-13,2026-08-13 00:41,mexc,BTW/USDT,0.25312,15.16,384.72,22.0,,,
-2026-08-13,2026-08-13 02:31,gate,VELVET/USDT,0.73956,5.09,205.47,5.0,,18.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
-2026-08-13,2026-08-13 05:55,gate,CAP/USDT,0.0583,5.48,182.45,4.3,,,
+2026-08-13,2026-08-13 06:25,gate,VELVET/USDT,0.7273,3.35,200.99,4.9,,18,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
+2026-08-13,2026-08-13 06:25,gate,CAP/USDT,0.05801,4.96,159.74,3.8,,,
 2026-08-13,2026-08-13 00:41,mexc,BR/USDT,0.22306,7.03,147.66,8.6,,,
 2026-08-13,2026-08-13 05:35,gate,ONE/USDT,0.000805,3.6,83.83,3.1,,0.0,Binance News: Harmony Suspends Cross-Chain Bridge Service After Security Incident
-2026-08-13,2026-08-13 05:55,gate,HOME/USDT,0.01006,6.79,34.29,3.3,,97,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-13,2026-08-13 06:25,gate,HOME/USDT,0.00999,6.05,34.5,3.3,,97,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-13,2026-08-13 00:41,mexc,VELVET/USDT,0.7216,11.2,26.03,20.7,,18.0,CoinMarketCal: Velvet: launches a social feed - 25 Jul 2026
 2026-08-13,2026-08-13 00:41,mexc,CYS/USDT,1.6389,7.29,23.38,18.6,,,
 2026-08-13,2026-08-13 00:41,mexc,APR/USDT,0.573,33.78,16.05,12.2,Listing,71.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
-2026-08-13,2026-08-13 05:55,gate,BMT/USDT,0.01772,6.3,12.89,3.7,,231,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
+2026-08-13,2026-08-13 06:25,gate,BMT/USDT,0.01746,4.74,12.19,3.5,,231,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-13,2026-08-13 05:40,gate,SKYAI/USDT,0.08139,3.4,11.42,7.5,,,
 2026-08-13,2026-08-13 00:01,mexc,ONE/USDT,0.000785,5.36,8.32,4.6,,0.0,Binance News: Harmony Suspends Cross-Chain Bridge Service After Security Incident
 2026-08-13,2026-08-13 00:41,mexc,BANK/USDT,0.03967,9.1,6.69,3.2,,394.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
