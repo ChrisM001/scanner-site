@@ -1556,18 +1556,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-13,2026-08-13 12:31,gate,BMT/USDT,0.01722,3.3,10.78,3.1,,232.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-13,2026-08-13 00:01,mexc,ONE/USDT,0.000785,5.36,8.32,4.6,,0.0,Binance News: Harmony Suspends Cross-Chain Bridge Service After Security Incident
 2026-08-13,2026-08-13 00:41,mexc,BANK/USDT,0.03967,9.1,6.69,3.2,,394.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-08-14,2026-08-14 07:20,gate,AKE/USDT,0.007771,14.61,1911.91,102.2,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-14,2026-08-14 07:35,gate,AKE/USDT,0.00798,17.69,1922.57,102.8,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-14,2026-08-14 00:01,mexc,AKE/USDT,0.00678,4.24,1873.89,52.5,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-14,2026-08-14 07:20,gate,VELVET/USDT,0.99797,39.78,487.32,11.7,,0.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
+2026-08-14,2026-08-14 07:35,gate,VELVET/USDT,0.92895,30.11,506.77,12.2,,0.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-08-14,2026-08-14 04:45,gate,EDEN/USDT,0.07872,10.28,192.7,6.0,,287.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-08-14,2026-08-14 02:40,gate,US/USDT,0.026869,3.81,182.33,9.9,,,
-2026-08-14,2026-08-14 07:20,gate,HOME/USDT,0.01142,14.77,131.99,13.0,,98.0,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-14,2026-08-14 07:20,gate,TUT/USDT,0.0383,8.51,107.39,22.5,,3.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-14,2026-08-14 07:35,gate,HOME/USDT,0.01155,16.08,132.69,13.1,,98.0,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-14,2026-08-14 07:35,gate,TUT/USDT,0.039243,11.18,109.05,22.8,,3.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-14,2026-08-14 04:05,gate,APR/USDT,0.51622,3.33,79.09,33.0,Listing,72.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-08-14,2026-08-14 00:26,mexc,BR/USDT,0.26797,8.46,77.47,6.2,,,
 2026-08-14,2026-08-14 03:11,gate,BR/USDT,0.27299,3.98,68.94,4.6,,,
 2026-08-14,2026-08-14 06:50,gate,AVAAI/USDT,0.015675,6.47,66.98,4.2,,,
-2026-08-14,2026-08-14 07:11,gate,BLESS/USDT,0.010666,3.8,33.4,3.7,Listing,325.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
+2026-08-14,2026-08-14 07:35,gate,BLESS/USDT,0.010589,3.05,33.78,3.7,Listing,325.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-14,2026-08-14 00:26,mexc,US/USDT,0.026654,25.24,19.58,5.6,,,
 2026-08-14,2026-08-14 00:26,mexc,EDEN/USDT,0.07266,46.43,18.58,18.0,,287.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-08-14,2026-08-14 00:26,mexc,CAP/USDT,0.05745,6.09,14.97,4.1,,,
