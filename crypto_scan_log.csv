@@ -1557,13 +1557,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-13,2026-08-13 00:01,mexc,ONE/USDT,0.000785,5.36,8.32,4.6,,0.0,Binance News: Harmony Suspends Cross-Chain Bridge Service After Security Incident
 2026-08-13,2026-08-13 00:41,mexc,BANK/USDT,0.03967,9.1,6.69,3.2,,394.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-08-14,2026-08-14 00:01,mexc,AKE/USDT,0.00678,4.24,1873.89,52.5,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-14,2026-08-14 02:34,gate,AKE/USDT,0.007226,6.57,1624.13,86.8,,295,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-14,2026-08-14 02:36,gate,AKE/USDT,0.007315,7.88,1625.12,86.9,,295,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-14,2026-08-14 02:25,gate,US/USDT,0.026718,3.22,182.02,9.9,,,
-2026-08-14,2026-08-14 02:34,gate,EDEN/USDT,0.07598,6.44,136.15,4.2,,287,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
-2026-08-14,2026-08-14 02:34,gate,HOME/USDT,0.01055,6.03,116.16,11.4,,97,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-14,2026-08-14 02:34,gate,TUT/USDT,0.038539,9.19,96.66,20.2,,3,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-14,2026-08-14 02:36,gate,EDEN/USDT,0.07622,6.78,137.91,4.3,,287,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
+2026-08-14,2026-08-14 02:36,gate,HOME/USDT,0.01057,6.23,116.25,11.5,,,
+2026-08-14,2026-08-14 02:36,gate,TUT/USDT,0.037836,7.2,96.77,20.2,,3,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-14,2026-08-14 00:26,mexc,BR/USDT,0.26797,8.46,77.47,6.2,,,
-2026-08-14,2026-08-14 02:34,gate,BR/USDT,0.27084,3.17,72.08,4.8,,,
+2026-08-14,2026-08-14 02:36,gate,BR/USDT,0.2705,3.04,72.11,4.8,,,
 2026-08-14,2026-08-14 00:26,mexc,US/USDT,0.026654,25.24,19.58,5.6,,,
 2026-08-14,2026-08-14 00:26,mexc,EDEN/USDT,0.07266,46.43,18.58,18.0,,287.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-08-14,2026-08-14 00:26,mexc,CAP/USDT,0.05745,6.09,14.97,4.1,,,
