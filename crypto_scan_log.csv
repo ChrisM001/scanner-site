@@ -1558,6 +1558,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-13,2026-08-13 00:41,mexc,BANK/USDT,0.03967,9.1,6.69,3.2,,394.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-08-14,2026-08-14 00:01,mexc,AKE/USDT,0.00678,4.24,1873.89,52.5,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-14,2026-08-14 00:10,gate,AKE/USDT,0.007072,4.3,1523.75,81.5,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-14,2026-08-14 00:15,gate,US/USDT,0.026663,3.01,177.93,9.7,,,
 2026-08-14,2026-08-14 00:01,mexc,BR/USDT,0.2619,6.0,76.66,6.1,,,
 2026-08-14,2026-08-14 00:01,mexc,US/USDT,0.026133,22.79,19.35,5.6,,,
 2026-08-14,2026-08-14 00:01,mexc,EDEN/USDT,0.07273,46.57,17.07,16.6,,287.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
