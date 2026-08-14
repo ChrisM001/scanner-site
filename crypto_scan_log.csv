@@ -1556,10 +1556,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-13,2026-08-13 12:31,gate,BMT/USDT,0.01722,3.3,10.78,3.1,,232.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-13,2026-08-13 00:01,mexc,ONE/USDT,0.000785,5.36,8.32,4.6,,0.0,Binance News: Harmony Suspends Cross-Chain Bridge Service After Security Incident
 2026-08-13,2026-08-13 00:41,mexc,BANK/USDT,0.03967,9.1,6.69,3.2,,394.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-08-14,2026-08-14 00:01,mexc,AKE/USDT,0.00678,4.24,1873.89,52.5,,295,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-14,2026-08-14 00:01,mexc,AKE/USDT,0.00678,4.24,1873.89,52.5,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-14,2026-08-14 00:10,gate,AKE/USDT,0.007072,4.3,1523.75,81.5,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-14,2026-08-14 00:01,mexc,BR/USDT,0.2619,6.0,76.66,6.1,,,
 2026-08-14,2026-08-14 00:01,mexc,US/USDT,0.026133,22.79,19.35,5.6,,,
-2026-08-14,2026-08-14 00:01,mexc,EDEN/USDT,0.07273,46.57,17.07,16.6,,287,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
+2026-08-14,2026-08-14 00:01,mexc,EDEN/USDT,0.07273,46.57,17.07,16.6,,287.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-08-14,2026-08-14 00:01,mexc,CAP/USDT,0.0564,4.15,14.43,4.0,,,
-2026-08-14,2026-08-14 00:01,mexc,FARTCOIN/USDT,0.13918,4.34,11.45,10.4,,126,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-08-14,2026-08-14 00:01,mexc,BLESS/USDT,0.010283,12.75,4.61,9.5,Listing,325,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
+2026-08-14,2026-08-14 00:01,mexc,FARTCOIN/USDT,0.13918,4.34,11.45,10.4,,126.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-08-14,2026-08-14 00:01,mexc,BLESS/USDT,0.010283,12.75,4.61,9.5,Listing,325.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
