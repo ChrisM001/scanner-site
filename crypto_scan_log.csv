@@ -1558,11 +1558,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-13,2026-08-13 00:41,mexc,BANK/USDT,0.03967,9.1,6.69,3.2,,394.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-08-14,2026-08-14 00:01,mexc,AKE/USDT,0.00678,4.24,1873.89,52.5,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-14,2026-08-14 01:15,gate,AKE/USDT,0.006995,3.16,1580.24,84.5,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-14,2026-08-14 00:55,gate,US/USDT,0.026898,3.92,179.86,9.8,,,
-2026-08-14,2026-08-14 01:20,gate,EDEN/USDT,0.08321,16.57,100.32,3.1,,287,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
+2026-08-14,2026-08-14 01:25,gate,US/USDT,0.026813,3.59,180.94,9.8,,,
+2026-08-14,2026-08-14 01:25,gate,EDEN/USDT,0.08486,18.88,101.71,3.2,,287,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-08-14,2026-08-14 00:50,gate,TUT/USDT,0.03639,3.1,93.65,19.6,,3.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-14,2026-08-14 00:26,mexc,BR/USDT,0.26797,8.46,77.47,6.2,,,
-2026-08-14,2026-08-14 01:20,gate,BR/USDT,0.2705,3.04,72.06,4.8,,,
+2026-08-14,2026-08-14 01:25,gate,BR/USDT,0.2706,3.07,72.26,4.9,,,
 2026-08-14,2026-08-14 00:26,mexc,US/USDT,0.026654,25.24,19.58,5.6,,,
 2026-08-14,2026-08-14 00:26,mexc,EDEN/USDT,0.07266,46.43,18.58,18.0,,287.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-08-14,2026-08-14 00:26,mexc,CAP/USDT,0.05745,6.09,14.97,4.1,,,
