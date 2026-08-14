@@ -1559,9 +1559,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-14,2026-08-14 00:01,mexc,AKE/USDT,0.00678,4.24,1873.89,52.5,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-14,2026-08-14 00:10,gate,AKE/USDT,0.007072,4.3,1523.75,81.5,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-14,2026-08-14 00:15,gate,US/USDT,0.026663,3.01,177.93,9.7,,,
-2026-08-14,2026-08-14 00:01,mexc,BR/USDT,0.2619,6.0,76.66,6.1,,,
-2026-08-14,2026-08-14 00:01,mexc,US/USDT,0.026133,22.79,19.35,5.6,,,
-2026-08-14,2026-08-14 00:01,mexc,EDEN/USDT,0.07273,46.57,17.07,16.6,,287.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
-2026-08-14,2026-08-14 00:01,mexc,CAP/USDT,0.0564,4.15,14.43,4.0,,,
-2026-08-14,2026-08-14 00:01,mexc,FARTCOIN/USDT,0.13918,4.34,11.45,10.4,,126.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-08-14,2026-08-14 00:01,mexc,BLESS/USDT,0.010283,12.75,4.61,9.5,Listing,325.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
+2026-08-14,2026-08-14 00:26,mexc,BR/USDT,0.26797,8.46,77.47,6.2,,,
+2026-08-14,2026-08-14 00:26,mexc,US/USDT,0.026654,25.24,19.58,5.6,,,
+2026-08-14,2026-08-14 00:26,mexc,EDEN/USDT,0.07266,46.43,18.58,18.0,,287,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
+2026-08-14,2026-08-14 00:26,mexc,CAP/USDT,0.05745,6.09,14.97,4.1,,,
+2026-08-14,2026-08-14 00:26,mexc,FARTCOIN/USDT,0.14305,7.24,12.13,11.1,,126,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-08-14,2026-08-14 00:26,mexc,BLESS/USDT,0.010299,12.92,4.75,9.8,Listing,325,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
+2026-08-14,2026-08-14 00:26,mexc,SOXS/USDT,40.2,3.34,2.14,9.2,,,
