@@ -1556,20 +1556,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-13,2026-08-13 12:31,gate,BMT/USDT,0.01722,3.3,10.78,3.1,,232.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-13,2026-08-13 00:01,mexc,ONE/USDT,0.000785,5.36,8.32,4.6,,0.0,Binance News: Harmony Suspends Cross-Chain Bridge Service After Security Incident
 2026-08-13,2026-08-13 00:41,mexc,BANK/USDT,0.03967,9.1,6.69,3.2,,394.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-08-14,2026-08-14 13:21,gate,AKE/USDT,0.011713,72.75,2478.28,132.5,,,
+2026-08-14,2026-08-14 13:41,gate,AKE/USDT,0.011753,73.33,2500.85,133.7,,,
 2026-08-14,2026-08-14 00:01,mexc,AKE/USDT,0.00678,4.24,1873.89,52.5,,295.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-14,2026-08-14 13:21,gate,VELVET/USDT,1.09426,53.26,750.86,18.0,,,
+2026-08-14,2026-08-14 13:41,gate,VELVET/USDT,0.90182,26.31,835.17,20.1,,,
 2026-08-14,2026-08-14 04:45,gate,EDEN/USDT,0.07872,10.28,192.7,6.0,,287.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-08-14,2026-08-14 02:40,gate,US/USDT,0.026869,3.81,182.33,9.9,,,
-2026-08-14,2026-08-14 13:21,gate,BTW/USDT,0.293059,6.92,174.93,10.1,,,
-2026-08-14,2026-08-14 13:21,gate,CAP/USDT,0.06858,21.08,130.15,3.2,,,
+2026-08-14,2026-08-14 13:41,gate,BTW/USDT,0.294712,7.53,175.85,10.1,,,
+2026-08-14,2026-08-14 13:41,gate,CAP/USDT,0.06976,23.16,134.58,3.3,,,
 2026-08-14,2026-08-14 13:21,gate,HOME/USDT,0.01032,3.72,118.59,11.7,,,
 2026-08-14,2026-08-14 11:21,gate,TUT/USDT,0.037188,5.36,115.75,24.2,,3.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-14,2026-08-14 00:26,mexc,BR/USDT,0.26797,8.46,77.47,6.2,,,
 2026-08-14,2026-08-14 03:11,gate,BR/USDT,0.27299,3.98,68.94,4.6,,,
 2026-08-14,2026-08-14 06:50,gate,AVAAI/USDT,0.015675,6.47,66.98,4.2,,,
 2026-08-14,2026-08-14 12:36,gate,APR/USDT,0.52442,4.97,53.11,22.2,Listing,72.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
-2026-08-14,2026-08-14 13:21,gate,H/USDT,0.11198,4.51,38.48,3.4,,,
+2026-08-14,2026-08-14 13:41,gate,H/USDT,0.11923,11.27,39.54,3.5,,,
 2026-08-14,2026-08-14 11:08,gate,BLESS/USDT,0.010841,5.5,30.06,3.3,Listing,325.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-14,2026-08-14 00:26,mexc,US/USDT,0.026654,25.24,19.58,5.6,,,
 2026-08-14,2026-08-14 00:26,mexc,EDEN/USDT,0.07266,46.43,18.58,18.0,,287.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
