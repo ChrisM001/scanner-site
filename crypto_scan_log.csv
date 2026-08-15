@@ -1580,20 +1580,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-14,2026-08-14 00:26,mexc,FARTCOIN/USDT,0.14305,7.24,12.13,11.1,,126.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-14,2026-08-14 00:26,mexc,BLESS/USDT,0.010299,12.92,4.75,9.8,Listing,325.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-14,2026-08-14 00:26,mexc,SOXS/USDT,40.2,3.34,2.14,9.2,,,
-2026-08-15,2026-08-15 08:05,gate,ROBO/USDT,0.01936,17.48,1198.26,3.8,Listing,149,CoinMarketCal: Fabric Protocol (ROBO) - Bithumb Listing - Date (18 March 2026)
+2026-08-15,2026-08-15 08:50,gate,ROBO/USDT,0.01793,8.8,1288.5,4.1,Listing,149,CoinMarketCal: Fabric Protocol (ROBO) - Bithumb Listing - Date (18 March 2026)
 2026-08-15,2026-08-15 08:05,gate,CAP/USDT,0.06697,4.1,689.67,21.1,,,
-2026-08-15,2026-08-15 08:05,gate,VELVET/USDT,1.17949,17.02,589.15,18.7,,1,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
+2026-08-15,2026-08-15 08:50,gate,VELVET/USDT,1.18992,18.05,607.89,19.3,,1,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-08-15,2026-08-15 00:25,mexc,BTW/USDT,0.31447,3.93,192.06,13.3,,,
 2026-08-15,2026-08-15 00:50,gate,EDEN/USDT,0.06124,3.36,142.06,7.7,,288.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-08-15,2026-08-15 00:20,gate,HOME/USDT,0.01011,3.06,88.92,8.9,,98.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-15,2026-08-15 00:25,mexc,CAP/USDT,0.06413,7.42,62.77,21.4,,,
 2026-08-15,2026-08-15 00:25,mexc,VELVET/USDT,1.0151,8.98,52.36,43.7,,1.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
-2026-08-15,2026-08-15 08:05,gate,TUT/USDT,0.032277,8.77,38.05,8.1,,4,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-15,2026-08-15 08:05,gate,H/USDT,0.12202,3.94,34.88,3.4,Hack,31,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
+2026-08-15,2026-08-15 08:50,gate,TUT/USDT,0.032103,8.19,38.74,8.3,,4,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-15,2026-08-15 08:50,gate,H/USDT,0.12924,10.09,37.46,3.7,Hack,31,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-15,2026-08-15 03:25,gate,APR/USDT,0.53135,4.09,29.94,14.2,Listing,73.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-08-15,2026-08-15 05:35,gate,WLFI/USDT,0.05751,3.64,26.59,7.3,,4.0,Coinpedia: World Liberty Faces Faces Fresh Scrutiny Over $100M Investment Linked to UK Money Probe
 2026-08-15,2026-08-15 00:25,mexc,US/USDT,0.016627,17.69,24.68,6.8,,,
-2026-08-15,2026-08-15 08:05,gate,CYS/USDT,1.4941,24.97,20.83,17.0,,,
+2026-08-15,2026-08-15 08:50,gate,CYS/USDT,1.4973,25.23,21.79,17.8,,,
 2026-08-15,2026-08-15 05:51,gate,BEAT/USDT,0.6892,4.66,11.72,22.8,,67.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-15,2026-08-15 08:05,gate,LINK/USDT,9.312,3.88,3.7,22.5,Whale,0,Coinpedia: Chainlink Breaks Above $9  Can Whale Accumulation Drive LINK Price Above $12?
+2026-08-15,2026-08-15 08:50,gate,LINK/USDT,9.283,3.56,3.78,23.0,Whale,0,Coinpedia: Chainlink Breaks Above $9  Can Whale Accumulation Drive LINK Price Above $12?
 2026-08-15,2026-08-15 00:25,mexc,ETHFI/USDT,0.45,4.55,2.12,7.0,,1.0,CoinMarketCal: Ether.fi: Begins programmatic ETHFI buybacks - 13 Aug 2026
