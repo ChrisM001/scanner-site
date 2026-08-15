@@ -1584,6 +1584,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-15,2026-08-15 00:10,gate,EDEN/USDT,0.06135,3.54,140.51,7.6,,288.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-08-15,2026-08-15 00:20,gate,HOME/USDT,0.01011,3.06,88.92,8.9,,98.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-15,2026-08-15 00:25,mexc,CAP/USDT,0.06413,7.42,62.77,21.4,,,
-2026-08-15,2026-08-15 00:25,mexc,VELVET/USDT,1.0151,8.98,52.36,43.7,,1,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
+2026-08-15,2026-08-15 00:25,mexc,VELVET/USDT,1.0151,8.98,52.36,43.7,,1.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-08-15,2026-08-15 00:25,mexc,US/USDT,0.016627,17.69,24.68,6.8,,,
-2026-08-15,2026-08-15 00:25,mexc,ETHFI/USDT,0.45,4.55,2.12,7.0,,1,CoinMarketCal: Ether.fi: Begins programmatic ETHFI buybacks - 13 Aug 2026
+2026-08-15,2026-08-15 00:30,gate,CYS/USDT,1.269,6.14,21.04,17.2,,,
+2026-08-15,2026-08-15 00:25,mexc,ETHFI/USDT,0.45,4.55,2.12,7.0,,1.0,CoinMarketCal: Ether.fi: Begins programmatic ETHFI buybacks - 13 Aug 2026
