@@ -1580,23 +1580,23 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-14,2026-08-14 00:26,mexc,FARTCOIN/USDT,0.14305,7.24,12.13,11.1,,126.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-14,2026-08-14 00:26,mexc,BLESS/USDT,0.010299,12.92,4.75,9.8,Listing,325.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-14,2026-08-14 00:26,mexc,SOXS/USDT,40.2,3.34,2.14,9.2,,,
-2026-08-15,2026-08-15 11:16,gate,COW/USDT,0.1499,47.11,3503.8,4.8,,87,CoinMarketCal: Aragon - Value Distribution AMA - 21 May 2026
+2026-08-15,2026-08-15 11:21,gate,COW/USDT,0.1539,51.03,3571.8,4.9,,87,CoinMarketCal: Aragon - Value Distribution AMA - 21 May 2026
 2026-08-15,2026-08-15 09:40,gate,AKE/USDT,0.01101,3.89,2554.74,141.4,,296.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-15,2026-08-15 11:16,gate,ROBO/USDT,0.01903,15.47,1470.79,4.7,Listing,149,CoinMarketCal: Fabric Protocol (ROBO) - Bithumb Listing - Date (18 March 2026)
-2026-08-15,2026-08-15 10:46,gate,CAP/USDT,0.06754,4.99,745.48,22.8,,,
-2026-08-15,2026-08-15 11:16,gate,VELVET/USDT,1.14007,13.11,558.22,17.7,,2,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
+2026-08-15,2026-08-15 11:21,gate,ROBO/USDT,0.01912,16.02,1477.09,4.7,Listing,149,CoinMarketCal: Fabric Protocol (ROBO) - Bithumb Listing - Date (18 March 2026)
+2026-08-15,2026-08-15 11:21,gate,CAP/USDT,0.06626,3.0,743.46,22.7,,,
+2026-08-15,2026-08-15 11:21,gate,VELVET/USDT,1.15345,14.43,560.12,17.8,,2,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-08-15,2026-08-15 00:25,mexc,BTW/USDT,0.31447,3.93,192.06,13.3,,,
 2026-08-15,2026-08-15 00:50,gate,EDEN/USDT,0.06124,3.36,142.06,7.7,,288.0,"CoinMarketCal: Aave (AAVE), Aptos (APT) and others - SmartCon - 04 Nov to 05 Nov 2025"
 2026-08-15,2026-08-15 00:20,gate,HOME/USDT,0.01011,3.06,88.92,8.9,,98.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-15,2026-08-15 00:25,mexc,CAP/USDT,0.06413,7.42,62.77,21.4,,,
 2026-08-15,2026-08-15 00:25,mexc,VELVET/USDT,1.0151,8.98,52.36,43.7,,1.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
-2026-08-15,2026-08-15 11:16,gate,H/USDT,0.13805,17.6,42.31,4.2,Hack,31,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
-2026-08-15,2026-08-15 11:16,gate,TUT/USDT,0.035721,20.38,32.47,6.9,,4,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-15,2026-08-15 11:21,gate,H/USDT,0.13824,17.76,42.59,4.2,Hack,31,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
+2026-08-15,2026-08-15 11:21,gate,TUT/USDT,0.035931,21.09,32.63,7.0,,4,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-15,2026-08-15 03:25,gate,APR/USDT,0.53135,4.09,29.94,14.2,Listing,73.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-08-15,2026-08-15 10:06,gate,WLFI/USDT,0.05729,3.24,25.79,7.0,,5.0,Coinpedia: World Liberty Faces Faces Fresh Scrutiny Over $100M Investment Linked to UK Money Probe
 2026-08-15,2026-08-15 00:25,mexc,US/USDT,0.016627,17.69,24.68,6.8,,,
-2026-08-15,2026-08-15 11:16,gate,CYS/USDT,1.4201,18.78,18.01,14.7,,,
+2026-08-15,2026-08-15 11:21,gate,CYS/USDT,1.4272,19.37,18.16,14.8,,,
 2026-08-15,2026-08-15 05:51,gate,BEAT/USDT,0.6892,4.66,11.72,22.8,,67.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-15,2026-08-15 11:16,gate,BMT/USDT,0.0186,21.01,11.59,3.5,,234,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
-2026-08-15,2026-08-15 11:16,gate,LINK/USDT,9.352,4.33,3.48,21.2,Whale,0,Coinpedia: Chainlink Breaks Above $9  Can Whale Accumulation Drive LINK Price Above $12?
+2026-08-15,2026-08-15 11:21,gate,BMT/USDT,0.0184,19.71,11.62,3.5,,234,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
+2026-08-15,2026-08-15 11:21,gate,LINK/USDT,9.338,4.17,3.48,21.2,,,
 2026-08-15,2026-08-15 00:25,mexc,ETHFI/USDT,0.45,4.55,2.12,7.0,,1.0,CoinMarketCal: Ether.fi: Begins programmatic ETHFI buybacks - 13 Aug 2026
