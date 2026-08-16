@@ -1604,8 +1604,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-15,2026-08-15 05:51,gate,BEAT/USDT,0.6892,4.66,11.72,22.8,,67.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-15,2026-08-15 23:50,gate,LINK/USDT,9.472,5.67,4.35,26.5,,,
 2026-08-15,2026-08-15 00:25,mexc,ETHFI/USDT,0.45,4.55,2.12,7.0,,1.0,CoinMarketCal: Ether.fi: Begins programmatic ETHFI buybacks - 13 Aug 2026
-2026-08-16,2026-08-16 00:01,mexc,HEMI/USDT,0.00707,8.3,849.34,4.0,,158,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-16,2026-08-16 00:01,mexc,BTW/USDT,0.30362,6.79,150.83,11.0,,,
-2026-08-16,2026-08-16 00:01,mexc,SPORTFUN/USDT,0.03113,43.92,122.84,3.2,,,
-2026-08-16,2026-08-16 00:01,mexc,ROBO/USDT,0.0142,6.2,84.42,8.8,Listing,150,CoinMarketCal: Fabric Protocol (ROBO) - Bithumb Listing - Date (18 March 2026)
-2026-08-16,2026-08-16 00:01,mexc,H/USDT,0.15142,8.08,6.03,5.6,Hack,32,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
+2026-08-16,2026-08-16 00:05,mexc,HEMI/USDT,0.007218,10.56,853.65,4.0,,158,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-16,2026-08-16 00:05,mexc,BTW/USDT,0.30575,7.54,151.01,11.0,,,
+2026-08-16,2026-08-16 00:05,mexc,SPORTFUN/USDT,0.0286,32.22,127.08,3.3,,,
+2026-08-16,2026-08-16 00:05,mexc,ROBO/USDT,0.01432,7.1,84.45,8.8,Listing,150,CoinMarketCal: Fabric Protocol (ROBO) - Bithumb Listing - Date (18 March 2026)
+2026-08-16,2026-08-16 00:05,mexc,H/USDT,0.15343,9.52,6.07,5.6,Hack,32,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
+2026-08-16,2026-08-16 00:05,mexc,SKYAI/USDT,0.06504,3.09,4.05,6.6,,,
