@@ -1604,19 +1604,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-15,2026-08-15 05:51,gate,BEAT/USDT,0.6892,4.66,11.72,22.8,,67.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-15,2026-08-15 23:50,gate,LINK/USDT,9.472,5.67,4.35,26.5,,,
 2026-08-15,2026-08-15 00:25,mexc,ETHFI/USDT,0.45,4.55,2.12,7.0,,1.0,CoinMarketCal: Ether.fi: Begins programmatic ETHFI buybacks - 13 Aug 2026
-2026-08-16,2026-08-16 06:15,gate,BOME/USDT,0.000873,3.14,2385.36,3.5,,18,Coinpedia: BOME Price Is Heating Up AgainHeres Why
-2026-08-16,2026-08-16 06:15,gate,HEMI/USDT,0.008004,14.26,1857.8,18.6,,158,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-16,2026-08-16 06:15,gate,BOME/USDT,0.000873,3.14,2385.36,3.5,,18.0,Coinpedia: BOME Price Is Heating Up AgainHeres Why
+2026-08-16,2026-08-16 06:20,gate,HEMI/USDT,0.008204,17.12,1870.33,18.8,,158,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-16,2026-08-16 02:10,gate,AKE/USDT,0.010537,4.0,912.31,48.9,,297.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-16,2026-08-16 01:01,mexc,HEMI/USDT,0.006996,7.16,900.61,4.2,,158.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-16,2026-08-16 06:15,gate,VELVET/USDT,0.89901,8.21,386.54,13.8,,2,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
-2026-08-16,2026-08-16 06:15,gate,CAP/USDT,0.0694,12.35,203.33,6.7,,,
+2026-08-16,2026-08-16 06:20,gate,VELVET/USDT,0.89474,7.69,387.09,13.8,,2,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
+2026-08-16,2026-08-16 06:20,gate,CAP/USDT,0.0688,11.38,204.01,6.7,,,
 2026-08-16,2026-08-16 01:25,mexc,SPORTFUN/USDT,0.02604,20.38,154.6,4.1,,,
 2026-08-16,2026-08-16 01:25,mexc,BTW/USDT,0.30678,7.91,149.52,10.9,,,
-2026-08-16,2026-08-16 06:15,gate,H/USDT,0.16667,10.36,84.98,10.5,Hack,32,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
+2026-08-16,2026-08-16 06:20,gate,H/USDT,0.16613,10.0,85.22,10.5,Hack,32,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-16,2026-08-16 01:25,mexc,ROBO/USDT,0.01414,5.75,83.99,8.7,Listing,150.0,CoinMarketCal: Fabric Protocol (ROBO) - Bithumb Listing - Date (18 March 2026)
 2026-08-16,2026-08-16 02:55,gate,US/USDT,0.018688,6.18,63.11,3.0,,,
-2026-08-16,2026-08-16 06:15,gate,APR/USDT,0.17464,7.66,28.39,15.1,Listing,74,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
+2026-08-16,2026-08-16 06:20,gate,APR/USDT,0.17237,6.26,28.46,15.1,Listing,74,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-08-16,2026-08-16 01:05,gate,TUT/USDT,0.034295,3.33,26.42,5.7,,5.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-16,2026-08-16 06:15,gate,BEAT/USDT,0.4194,11.39,21.17,43.2,,68,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-16,2026-08-16 06:20,gate,BEAT/USDT,0.4201,11.58,21.22,43.3,,68,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-16,2026-08-16 01:25,mexc,H/USDT,0.15572,11.15,6.4,5.9,Hack,32.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-16,2026-08-16 01:25,mexc,SKYAI/USDT,0.06522,3.37,4.04,6.6,,,
