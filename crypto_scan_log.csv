@@ -1626,14 +1626,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-16,2026-08-16 01:25,mexc,H/USDT,0.15572,11.15,6.4,5.9,Hack,32.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-16,2026-08-16 01:25,mexc,SKYAI/USDT,0.06522,3.37,4.04,6.6,,,
 2026-08-16,2026-08-16 22:55,gate,HFT/USDT,0.00779,16.1,2.31,5.6,,,
-2026-08-17,2026-08-17 03:01,gate,HEMI/USDT,0.006454,3.0,1366.27,25.8,,159,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-17,2026-08-17 03:01,gate,HEMI/USDT,0.006454,3.0,1366.27,25.8,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-17,2026-08-17 01:05,mexc,HEMI/USDT,0.006179,3.13,1172.37,8.2,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-17,2026-08-17 03:01,gate,PUMP/USDT,0.002814,5.51,993.72,5.4,Unlock,1,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
-2026-08-17,2026-08-17 03:01,gate,CHIP/USDT,0.02902,4.09,889.79,4.4,Listing,114,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
-2026-08-17,2026-08-17 03:01,gate,AKE/USDT,0.010239,4.45,645.7,33.0,,298,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-17,2026-08-17 03:05,gate,PUMP/USDT,0.002807,5.25,996.63,5.4,Unlock,1,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
+2026-08-17,2026-08-17 03:05,gate,CHIP/USDT,0.0292,4.73,890.2,4.4,Listing,114,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
+2026-08-17,2026-08-17 03:05,gate,AKE/USDT,0.010353,5.61,647.58,33.0,,298,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-17,2026-08-17 01:11,mexc,BTW/USDT,0.39983,17.91,331.29,27.5,,,
 2026-08-17,2026-08-17 02:59,gate,BTW/USDT,0.411834,3.3,284.89,19.4,,,
-2026-08-17,2026-08-17 03:01,gate,CAP/USDT,0.07081,5.4,107.33,3.6,,,
+2026-08-17,2026-08-17 03:05,gate,CAP/USDT,0.07103,5.73,108.25,3.7,,,
 2026-08-17,2026-08-17 00:31,gate,H/USDT,0.14326,3.12,103.27,19.3,Hack,33.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-17,2026-08-17 00:35,mexc,AIO/USDT,0.07199,3.1,94.89,6.9,,,
 2026-08-17,2026-08-17 01:11,mexc,TUT/USDT,0.03462,7.81,67.11,4.8,,6.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
