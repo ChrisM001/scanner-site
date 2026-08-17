@@ -1626,16 +1626,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-16,2026-08-16 01:25,mexc,H/USDT,0.15572,11.15,6.4,5.9,Hack,32.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-16,2026-08-16 01:25,mexc,SKYAI/USDT,0.06522,3.37,4.04,6.6,,,
 2026-08-16,2026-08-16 22:55,gate,HFT/USDT,0.00779,16.1,2.31,5.6,,,
-2026-08-17,2026-08-17 04:10,gate,HEMI/USDT,0.00656,4.69,1302.01,24.6,,159,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-17,2026-08-17 04:20,gate,HEMI/USDT,0.006476,3.35,1303.42,24.6,,159,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-17,2026-08-17 01:05,mexc,HEMI/USDT,0.006179,3.13,1172.37,8.2,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-17,2026-08-17 04:10,gate,PUMP/USDT,0.002813,5.47,1035.48,5.6,Unlock,1,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
-2026-08-17,2026-08-17 04:10,gate,CHIP/USDT,0.02884,3.44,885.64,4.4,Listing,114,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
+2026-08-17,2026-08-17 04:20,gate,PUMP/USDT,0.00282,5.74,1046.22,5.7,Unlock,1,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
+2026-08-17,2026-08-17 04:10,gate,CHIP/USDT,0.02884,3.44,885.64,4.4,Listing,114.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
 2026-08-17,2026-08-17 03:57,gate,AKE/USDT,0.010128,3.31,658.79,33.6,,298.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-17,2026-08-17 01:11,mexc,BTW/USDT,0.39983,17.91,331.29,27.5,,,
 2026-08-17,2026-08-17 03:21,gate,BTW/USDT,0.412463,3.46,290.72,19.8,,,
-2026-08-17,2026-08-17 04:10,gate,CAP/USDT,0.06998,4.17,110.86,3.7,,,
+2026-08-17,2026-08-17 04:20,gate,CAP/USDT,0.06973,3.8,111.93,3.8,,,
 2026-08-17,2026-08-17 00:31,gate,H/USDT,0.14326,3.12,103.27,19.3,Hack,33.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-17,2026-08-17 00:35,mexc,AIO/USDT,0.07199,3.1,94.89,6.9,,,
+2026-08-17,2026-08-17 04:20,gate,AIO/USDT,0.07399,3.58,90.71,7.3,,,
 2026-08-17,2026-08-17 01:11,mexc,TUT/USDT,0.03462,7.81,67.11,4.8,,6.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-17,2026-08-17 03:31,gate,CYS/USDT,0.8336,4.37,37.51,41.5,,,
 2026-08-17,2026-08-17 01:11,mexc,CYS/USDT,0.7683,7.13,30.06,33.7,,,
