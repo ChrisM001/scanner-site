@@ -353,12 +353,12 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-08-14,2026-08-14 08:10,NASDAQ:YXT,5.27,16.34,1.0,4.58,3.34,0.0,,Dow Jones Newswires: YXT.COM Group Holding 1H Rev $23.9M >YXT,premarket
 2026-08-17,2026-08-17 08:01,NASDAQ:HHS,4.2,50.53,220.1,3.91,1.74,2.0,EARNINGS,"TradingView: HARTE HANKS INC Q2 2026: Revenue $38M, EPS $(0.67)  10-Q Summary",premarket
 2026-08-17,2026-08-17 08:01,NASDAQ:CGTL,5.04,36.68,137.2,1.09,10.52,48.0,,GlobeNewswire: Creative Global Technology Holdings Limited Receives Nasdaq Notification Letter Regarding Minimum Bid Price Deficiency,premarket
-2026-08-17,2026-08-17 11:35,NASDAQ:WETO,9.67,195.01,37.3,0.86,0.77,18.0,,Dow Jones Newswires: Wetour Robotics: Announces Shr Consolidation,premarket
-2026-08-17,2026-08-17 11:35,NASDAQ:ONFO,2.39,16.88,28.2,0.56,0.24,3.0,,Benzinga: Onfolio Holdings Stock Surges Over 45% Pre-Market: Why is it Moving?,premarket
+2026-08-17,2026-08-17 11:40,NASDAQ:WETO,9.596,195.01,37.3,0.86,0.82,18.0,,Dow Jones Newswires: Wetour Robotics: Announces Shr Consolidation,premarket
+2026-08-17,2026-08-17 11:40,NASDAQ:ONFO,2.372,16.88,28.2,0.56,0.25,3.0,,Benzinga: Onfolio Holdings Stock Surges Over 45% Pre-Market: Why is it Moving?,premarket
 2026-08-17,2026-08-17 08:01,NASDAQ:MF,13.28,30.4,22.4,1.38,0.19,1105.0,,Benzinga: What's Going On With Missfresh Stock?,premarket
 2026-08-17,2026-08-17 08:01,NASDAQ:SXTC,4.59,39.39,12.5,1.32,9.18,11.0,,Dow Jones Newswires: China SXT Pharmaceuticals Announces 1-for-80 Share Consolidation,premarket
-2026-08-17,2026-08-17 11:35,NASDAQ:AKAN,5.125,55.89,12.4,0.54,0.17,2.0,,Benzinga: Akanda Stock Surges Friday: What's Driving the Action?,premarket
+2026-08-17,2026-08-17 11:40,NASDAQ:AKAN,5.15,55.89,12.4,0.54,0.18,2.0,,Benzinga: Akanda Stock Surges Friday: What's Driving the Action?,premarket
 2026-08-17,2026-08-17 08:01,NASDAQ:LBGJ,3.73,24.08,8.6,0.51,7.96,18.0,,Benzinga: Li Bang Stock Plunges 23% After Hours: Here's What's Going On,premarket
-2026-08-17,2026-08-17 11:35,NASDAQ:DFSC,3.23,12.12,2.4,2.66,0.61,0.0,OFFERING,Dow Jones Newswires: DEFSEC Technologies Announces C$5.54M Private Placement,premarket
-2026-08-17,2026-08-17 11:35,NASDAQ:ZCMD,0.965,13.59,1.6,1.15,0.1,24.0,OFFERING,PR Newswire: Zhongchao Inc. Announces $5.0 Million Registered Direct Offering,premarket
+2026-08-17,2026-08-17 11:40,NASDAQ:DFSC,3.347,12.12,2.4,2.66,0.83,0.0,OFFERING,Dow Jones Newswires: DEFSEC Technologies Announces C$5.54M Private Placement,premarket
+2026-08-17,2026-08-17 11:40,NASDAQ:ZCMD,0.96,13.59,1.6,1.15,0.11,24.0,OFFERING,PR Newswire: Zhongchao Inc. Announces $5.0 Million Registered Direct Offering,premarket
 2026-08-17,2026-08-17 08:01,NASDAQ:BOXL,8.86,30.44,0.6,0.56,1.47,2.0,EARNINGS,"TradingView: Boxlight Corp 2026: Revenue $25.92M, EPS $0.34 10-Q Summary",premarket
