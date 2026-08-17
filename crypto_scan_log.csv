@@ -1626,9 +1626,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-16,2026-08-16 01:25,mexc,H/USDT,0.15572,11.15,6.4,5.9,Hack,32.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-16,2026-08-16 01:25,mexc,SKYAI/USDT,0.06522,3.37,4.04,6.6,,,
 2026-08-16,2026-08-16 22:55,gate,HFT/USDT,0.00779,16.1,2.31,5.6,,,
-2026-08-17,2026-08-17 00:01,mexc,HEMI/USDT,0.006269,4.64,1193.75,8.3,,159,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-17,2026-08-17 00:01,mexc,BTW/USDT,0.39959,17.84,318.91,26.4,,,
-2026-08-17,2026-08-17 00:01,mexc,TUT/USDT,0.0341,6.19,65.27,4.7,,6,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-17,2026-08-17 00:01,mexc,CYS/USDT,0.7911,10.31,31.38,35.2,,,
-2026-08-17,2026-08-17 00:01,mexc,PORTAL/USDT,0.01643,23.07,18.41,13.4,,75,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
-2026-08-17,2026-08-17 00:01,mexc,APR/USDT,0.1949,9.49,3.54,6.0,Listing,75,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
+2026-08-17,2026-08-17 00:05,mexc,HEMI/USDT,0.006425,7.24,1194.65,8.3,,159,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-17,2026-08-17 00:05,mexc,BTW/USDT,0.39461,16.37,321.32,26.6,,,
+2026-08-17,2026-08-17 00:05,mexc,TUT/USDT,0.03477,8.28,65.87,4.7,,6,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-17,2026-08-17 00:05,mexc,CYS/USDT,0.7688,7.2,31.5,35.3,,,
+2026-08-17,2026-08-17 00:05,mexc,PORTAL/USDT,0.01653,23.82,18.56,13.5,,75,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
+2026-08-17,2026-08-17 00:05,mexc,H/USDT,0.14138,3.09,11.31,16.2,Hack,33,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
+2026-08-17,2026-08-17 00:05,mexc,APR/USDT,0.1949,9.49,3.56,6.1,Listing,75,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
