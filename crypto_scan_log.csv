@@ -1626,12 +1626,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-16,2026-08-16 01:25,mexc,H/USDT,0.15572,11.15,6.4,5.9,Hack,32.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-16,2026-08-16 01:25,mexc,SKYAI/USDT,0.06522,3.37,4.04,6.6,,,
 2026-08-16,2026-08-16 22:55,gate,HFT/USDT,0.00779,16.1,2.31,5.6,,,
-2026-08-17,2026-08-17 13:01,gate,GPS/USDT,0.015703,42.87,23029.47,12.2,Unlock,8,Binance News: GoPlus Security to Unlock 109.25 Million GPS Tokens on August 16
-2026-08-17,2026-08-17 13:01,gate,PUMP/USDT,0.002884,8.14,1906.7,10.4,Unlock,2,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
+2026-08-17,2026-08-17 13:06,gate,GPS/USDT,0.015455,40.62,23374.46,12.3,,,
+2026-08-17,2026-08-17 13:06,gate,PUMP/USDT,0.002879,7.95,1917.3,10.4,,,
 2026-08-17,2026-08-17 01:05,mexc,HEMI/USDT,0.006179,3.13,1172.37,8.2,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-17,2026-08-17 13:01,gate,CHIP/USDT,0.03041,9.07,937.62,4.6,Listing,114,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
-2026-08-17,2026-08-17 13:01,gate,AKE/USDT,0.010154,3.58,419.58,21.4,,298,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-17,2026-08-17 13:01,gate,HEMI/USDT,0.006468,3.22,374.44,7.1,,160,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-17,2026-08-17 13:06,gate,CHIP/USDT,0.03036,8.9,940.26,4.6,,,
+2026-08-17,2026-08-17 13:06,gate,AKE/USDT,0.010176,3.8,420.18,21.4,,,
+2026-08-17,2026-08-17 13:06,gate,HEMI/USDT,0.006518,4.02,375.05,7.1,,,
 2026-08-17,2026-08-17 01:11,mexc,BTW/USDT,0.39983,17.91,331.29,27.5,,,
 2026-08-17,2026-08-17 03:21,gate,BTW/USDT,0.412463,3.46,290.72,19.8,,,
 2026-08-17,2026-08-17 09:25,gate,CAP/USDT,0.06943,3.35,103.5,3.5,,,
@@ -1639,7 +1639,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-17,2026-08-17 00:35,mexc,AIO/USDT,0.07199,3.1,94.89,6.9,,,
 2026-08-17,2026-08-17 13:01,gate,AIO/USDT,0.07396,3.54,74.87,6.0,,,
 2026-08-17,2026-08-17 01:11,mexc,TUT/USDT,0.03462,7.81,67.11,4.8,,6.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-17,2026-08-17 13:01,gate,TUT/USDT,0.035693,3.97,42.96,9.3,,,
+2026-08-17,2026-08-17 13:06,gate,TUT/USDT,0.036005,4.88,43.1,9.3,,,
 2026-08-17,2026-08-17 03:31,gate,CYS/USDT,0.8336,4.37,37.51,41.5,,,
 2026-08-17,2026-08-17 01:11,mexc,CYS/USDT,0.7683,7.13,30.06,33.7,,,
 2026-08-17,2026-08-17 01:11,mexc,PORTAL/USDT,0.01697,27.11,19.36,14.1,,75.0,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
