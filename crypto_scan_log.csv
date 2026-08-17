@@ -1626,14 +1626,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-16,2026-08-16 01:25,mexc,H/USDT,0.15572,11.15,6.4,5.9,Hack,32.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-16,2026-08-16 01:25,mexc,SKYAI/USDT,0.06522,3.37,4.04,6.6,,,
 2026-08-16,2026-08-16 22:55,gate,HFT/USDT,0.00779,16.1,2.31,5.6,,,
-2026-08-17,2026-08-17 03:10,gate,HEMI/USDT,0.006506,3.83,1367.14,25.8,,159,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-17,2026-08-17 03:16,gate,HEMI/USDT,0.006483,3.46,1367.5,25.8,,,
 2026-08-17,2026-08-17 01:05,mexc,HEMI/USDT,0.006179,3.13,1172.37,8.2,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-17,2026-08-17 03:10,gate,PUMP/USDT,0.002813,5.47,1000.07,5.4,Unlock,1,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
-2026-08-17,2026-08-17 03:10,gate,CHIP/USDT,0.02909,4.34,890.54,4.4,Listing,114,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
-2026-08-17,2026-08-17 03:10,gate,AKE/USDT,0.010278,4.85,649.74,33.2,,298,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-17,2026-08-17 03:16,gate,PUMP/USDT,0.002794,4.76,1013.41,5.5,,,
+2026-08-17,2026-08-17 03:16,gate,CHIP/USDT,0.02898,3.95,891.03,4.4,Listing,114,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
+2026-08-17,2026-08-17 03:16,gate,AKE/USDT,0.010314,5.22,650.24,33.2,,298,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-17,2026-08-17 01:11,mexc,BTW/USDT,0.39983,17.91,331.29,27.5,,,
 2026-08-17,2026-08-17 03:10,gate,BTW/USDT,0.414339,3.93,287.65,19.6,,,
-2026-08-17,2026-08-17 03:10,gate,CAP/USDT,0.07114,5.89,108.86,3.7,,,
+2026-08-17,2026-08-17 03:16,gate,CAP/USDT,0.07105,5.76,109.37,3.7,,,
 2026-08-17,2026-08-17 00:31,gate,H/USDT,0.14326,3.12,103.27,19.3,Hack,33.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-17,2026-08-17 00:35,mexc,AIO/USDT,0.07199,3.1,94.89,6.9,,,
 2026-08-17,2026-08-17 01:11,mexc,TUT/USDT,0.03462,7.81,67.11,4.8,,6.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
