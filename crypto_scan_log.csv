@@ -1626,14 +1626,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-16,2026-08-16 01:25,mexc,H/USDT,0.15572,11.15,6.4,5.9,Hack,32.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-16,2026-08-16 01:25,mexc,SKYAI/USDT,0.06522,3.37,4.04,6.6,,,
 2026-08-16,2026-08-16 22:55,gate,HFT/USDT,0.00779,16.1,2.31,5.6,,,
-2026-08-17,2026-08-17 04:31,gate,HEMI/USDT,0.006476,3.35,1305.65,24.6,,159,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-17,2026-08-17 04:35,gate,HEMI/USDT,0.00652,4.05,1306.07,24.6,,159,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-17,2026-08-17 01:05,mexc,HEMI/USDT,0.006179,3.13,1172.37,8.2,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-17,2026-08-17 04:31,gate,PUMP/USDT,0.002824,5.89,1057.94,5.8,Unlock,1,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
-2026-08-17,2026-08-17 04:10,gate,CHIP/USDT,0.02884,3.44,885.64,4.4,Listing,114.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
-2026-08-17,2026-08-17 03:57,gate,AKE/USDT,0.010128,3.31,658.79,33.6,,298.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-17,2026-08-17 04:35,gate,PUMP/USDT,0.002833,6.22,1061.01,5.8,Unlock,1,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
+2026-08-17,2026-08-17 04:35,gate,CHIP/USDT,0.02884,3.44,889.17,4.4,Listing,114,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
+2026-08-17,2026-08-17 04:35,gate,AKE/USDT,0.010239,4.45,644.14,32.9,,298,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-17,2026-08-17 01:11,mexc,BTW/USDT,0.39983,17.91,331.29,27.5,,,
 2026-08-17,2026-08-17 03:21,gate,BTW/USDT,0.412463,3.46,290.72,19.8,,,
-2026-08-17,2026-08-17 04:31,gate,CAP/USDT,0.06956,3.54,112.51,3.8,,,
+2026-08-17,2026-08-17 04:35,gate,CAP/USDT,0.06938,3.27,112.71,3.8,,,
 2026-08-17,2026-08-17 00:31,gate,H/USDT,0.14326,3.12,103.27,19.3,Hack,33.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-17,2026-08-17 00:35,mexc,AIO/USDT,0.07199,3.1,94.89,6.9,,,
 2026-08-17,2026-08-17 04:25,gate,AIO/USDT,0.07364,3.09,91.08,7.4,,,
@@ -1641,6 +1641,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-17,2026-08-17 03:31,gate,CYS/USDT,0.8336,4.37,37.51,41.5,,,
 2026-08-17,2026-08-17 01:11,mexc,CYS/USDT,0.7683,7.13,30.06,33.7,,,
 2026-08-17,2026-08-17 01:11,mexc,PORTAL/USDT,0.01697,27.11,19.36,14.1,,75.0,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
-2026-08-17,2026-08-17 04:31,gate,TUT/USDT,0.039187,14.15,14.4,3.1,,6,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-17,2026-08-17 04:35,gate,TUT/USDT,0.039859,16.11,14.99,3.2,,6,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-17,2026-08-17 00:46,mexc,H/USDT,0.14243,3.85,11.4,16.3,Hack,33.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-17,2026-08-17 01:11,mexc,APR/USDT,0.1927,8.25,3.54,6.0,Listing,75.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
