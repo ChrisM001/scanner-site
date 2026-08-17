@@ -1628,10 +1628,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-16,2026-08-16 22:55,gate,HFT/USDT,0.00779,16.1,2.31,5.6,,,
 2026-08-17,2026-08-17 02:20,gate,HEMI/USDT,0.006534,4.28,1454.8,27.4,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-17,2026-08-17 01:05,mexc,HEMI/USDT,0.006179,3.13,1172.37,8.2,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-17,2026-08-17 02:35,gate,PUMP/USDT,0.002803,5.1,985.8,5.4,Unlock,1,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
-2026-08-17,2026-08-17 01:45,gate,AKE/USDT,0.010118,3.21,682.75,34.8,,298.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-17,2026-08-17 02:45,gate,PUMP/USDT,0.002815,5.55,1003.34,5.5,Unlock,1,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
+2026-08-17,2026-08-17 02:45,gate,CHIP/USDT,0.02877,3.19,912.06,4.5,Listing,114,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
+2026-08-17,2026-08-17 02:45,gate,AKE/USDT,0.010191,3.96,673.61,34.4,,298,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-17,2026-08-17 01:11,mexc,BTW/USDT,0.39983,17.91,331.29,27.5,,,
-2026-08-17,2026-08-17 02:35,gate,CAP/USDT,0.07122,6.01,110.47,3.7,,,
+2026-08-17,2026-08-17 02:45,gate,CAP/USDT,0.07144,6.34,111.48,3.8,,,
 2026-08-17,2026-08-17 00:31,gate,H/USDT,0.14326,3.12,103.27,19.3,Hack,33.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-17,2026-08-17 00:35,mexc,AIO/USDT,0.07199,3.1,94.89,6.9,,,
 2026-08-17,2026-08-17 01:11,mexc,TUT/USDT,0.03462,7.81,67.11,4.8,,6.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
