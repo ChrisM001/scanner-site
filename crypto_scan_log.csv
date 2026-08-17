@@ -1628,9 +1628,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-16,2026-08-16 22:55,gate,HFT/USDT,0.00779,16.1,2.31,5.6,,,
 2026-08-17,2026-08-17 05:15,gate,HEMI/USDT,0.006462,3.13,1233.05,23.3,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-17,2026-08-17 01:05,mexc,HEMI/USDT,0.006179,3.13,1172.37,8.2,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-17,2026-08-17 05:20,gate,PUMP/USDT,0.002889,8.32,1157.05,6.3,Unlock,1.0,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
-2026-08-17,2026-08-17 05:20,gate,CHIP/USDT,0.02944,5.6,882.88,4.4,Listing,114.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
-2026-08-17,2026-08-17 04:55,gate,AKE/USDT,0.010125,3.29,650.18,33.2,,298.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-17,2026-08-17 05:25,gate,PUMP/USDT,0.002875,7.8,1164.14,6.3,Unlock,1.0,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
+2026-08-17,2026-08-17 05:25,gate,CHIP/USDT,0.02978,6.81,885.01,4.4,Listing,114.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
+2026-08-17,2026-08-17 05:25,gate,AKE/USDT,0.010282,4.89,636.71,32.5,,298.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-17,2026-08-17 01:11,mexc,BTW/USDT,0.39983,17.91,331.29,27.5,,,
 2026-08-17,2026-08-17 03:21,gate,BTW/USDT,0.412463,3.46,290.72,19.8,,,
 2026-08-17,2026-08-17 05:10,gate,CAP/USDT,0.06924,3.07,110.75,3.7,,,
@@ -1640,7 +1640,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-17,2026-08-17 01:11,mexc,TUT/USDT,0.03462,7.81,67.11,4.8,,6.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-17,2026-08-17 03:31,gate,CYS/USDT,0.8336,4.37,37.51,41.5,,,
 2026-08-17,2026-08-17 01:11,mexc,CYS/USDT,0.7683,7.13,30.06,33.7,,,
-2026-08-17,2026-08-17 05:20,gate,TUT/USDT,0.045108,31.4,21.92,4.7,,6.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-17,2026-08-17 05:25,gate,TUT/USDT,0.044585,29.87,23.67,5.1,,6.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-17,2026-08-17 01:11,mexc,PORTAL/USDT,0.01697,27.11,19.36,14.1,,75.0,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
 2026-08-17,2026-08-17 00:46,mexc,H/USDT,0.14243,3.85,11.4,16.3,Hack,33.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-17,2026-08-17 01:11,mexc,APR/USDT,0.1927,8.25,3.54,6.0,Listing,75.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
