@@ -1626,12 +1626,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-16,2026-08-16 01:25,mexc,H/USDT,0.15572,11.15,6.4,5.9,Hack,32.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-16,2026-08-16 01:25,mexc,SKYAI/USDT,0.06522,3.37,4.04,6.6,,,
 2026-08-16,2026-08-16 22:55,gate,HFT/USDT,0.00779,16.1,2.31,5.6,,,
-2026-08-17,2026-08-17 06:56,gate,GPS/USDT,0.015063,37.05,6312.34,3.3,Unlock,8,Binance News: GoPlus Security to Unlock 109.25 Million GPS Tokens on August 16
-2026-08-17,2026-08-17 06:56,gate,PUMP/USDT,0.002965,11.17,1315.2,7.1,Unlock,1,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
+2026-08-17,2026-08-17 07:05,gate,GPS/USDT,0.015035,36.79,6473.09,3.4,Unlock,8,Binance News: GoPlus Security to Unlock 109.25 Million GPS Tokens on August 16
+2026-08-17,2026-08-17 07:05,gate,PUMP/USDT,0.002979,11.7,1316.97,7.2,Unlock,1,Binance News: PUMP Unlocks 4.85 Billion Tokens Worth $13.6 Million
 2026-08-17,2026-08-17 05:15,gate,HEMI/USDT,0.006462,3.13,1233.05,23.3,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-17,2026-08-17 01:05,mexc,HEMI/USDT,0.006179,3.13,1172.37,8.2,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-17,2026-08-17 06:56,gate,CHIP/USDT,0.03164,13.49,924.61,4.6,Listing,114,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
-2026-08-17,2026-08-17 06:31,gate,AKE/USDT,0.010219,4.24,609.21,31.1,,298.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-17,2026-08-17 07:05,gate,CHIP/USDT,0.03188,14.35,958.68,4.7,Listing,114,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
+2026-08-17,2026-08-17 07:05,gate,AKE/USDT,0.01028,4.86,562.79,28.7,,298,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-17,2026-08-17 01:11,mexc,BTW/USDT,0.39983,17.91,331.29,27.5,,,
 2026-08-17,2026-08-17 03:21,gate,BTW/USDT,0.412463,3.46,290.72,19.8,,,
 2026-08-17,2026-08-17 05:10,gate,CAP/USDT,0.06924,3.07,110.75,3.7,,,
@@ -1640,9 +1640,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-17,2026-08-17 05:05,gate,AIO/USDT,0.07373,3.22,91.3,7.4,,,
 2026-08-17,2026-08-17 01:11,mexc,TUT/USDT,0.03462,7.81,67.11,4.8,,6.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-17,2026-08-17 03:31,gate,CYS/USDT,0.8336,4.37,37.51,41.5,,,
-2026-08-17,2026-08-17 06:56,gate,TUT/USDT,0.040769,18.76,32.93,7.1,,6,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-17,2026-08-17 07:05,gate,TUT/USDT,0.038902,13.32,33.35,7.2,,6,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-17,2026-08-17 01:11,mexc,CYS/USDT,0.7683,7.13,30.06,33.7,,,
 2026-08-17,2026-08-17 01:11,mexc,PORTAL/USDT,0.01697,27.11,19.36,14.1,,75.0,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
 2026-08-17,2026-08-17 00:46,mexc,H/USDT,0.14243,3.85,11.4,16.3,Hack,33.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
-2026-08-17,2026-08-17 06:56,gate,SKYAI/USDT,0.07615,10.17,4.79,3.2,,,
+2026-08-17,2026-08-17 07:05,gate,SKYAI/USDT,0.0745,7.78,4.82,3.2,,,
 2026-08-17,2026-08-17 01:11,mexc,APR/USDT,0.1927,8.25,3.54,6.0,Listing,75.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
