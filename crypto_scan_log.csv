@@ -1626,11 +1626,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-16,2026-08-16 01:25,mexc,H/USDT,0.15572,11.15,6.4,5.9,Hack,32.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-16,2026-08-16 01:25,mexc,SKYAI/USDT,0.06522,3.37,4.04,6.6,,,
 2026-08-16,2026-08-16 22:55,gate,HFT/USDT,0.00779,16.1,2.31,5.6,,,
-2026-08-17,2026-08-17 00:26,mexc,HEMI/USDT,0.006326,5.59,1198.7,8.4,,159,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-17,2026-08-17 00:26,mexc,HEMI/USDT,0.006326,5.59,1198.7,8.4,,159.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-17,2026-08-17 00:26,mexc,BTW/USDT,0.39634,16.88,326.16,27.0,,,
+2026-08-17,2026-08-17 00:31,gate,H/USDT,0.14326,3.12,103.27,19.3,Hack,33.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-17,2026-08-17 00:11,mexc,AIO/USDT,0.07199,3.1,94.43,6.9,,,
-2026-08-17,2026-08-17 00:26,mexc,TUT/USDT,0.03511,9.34,67.51,4.9,,6,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-17,2026-08-17 00:26,mexc,TUT/USDT,0.03511,9.34,67.51,4.9,,6.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-17,2026-08-17 00:26,mexc,CYS/USDT,0.7729,7.78,31.68,35.5,,,
-2026-08-17,2026-08-17 00:26,mexc,PORTAL/USDT,0.01651,23.67,18.9,13.7,,75,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
-2026-08-17,2026-08-17 00:26,mexc,H/USDT,0.14336,4.53,11.38,16.3,Hack,33,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
-2026-08-17,2026-08-17 00:26,mexc,APR/USDT,0.1954,9.77,3.59,6.1,Listing,75,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
+2026-08-17,2026-08-17 00:26,mexc,PORTAL/USDT,0.01651,23.67,18.9,13.7,,75.0,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
+2026-08-17,2026-08-17 00:26,mexc,H/USDT,0.14336,4.53,11.38,16.3,Hack,33.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
+2026-08-17,2026-08-17 00:26,mexc,APR/USDT,0.1954,9.77,3.59,6.1,Listing,75.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
