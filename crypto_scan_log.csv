@@ -1648,6 +1648,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-17,2026-08-17 23:40,gate,SKYAI/USDT,0.07524,8.85,4.53,3.0,,,
 2026-08-17,2026-08-17 01:11,mexc,APR/USDT,0.1927,8.25,3.54,6.0,Listing,75.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-08-17,2026-08-17 17:41,gate,HFT/USDT,0.00781,4.97,2.58,6.7,,,
+2026-08-18,2026-08-18 00:45,gate,AKE/USDT,0.009145,3.06,534.8,24.7,,299.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-18,2026-08-18 00:02,mexc,BTW/USDT,0.35729,3.78,368.46,34.6,,,
 2026-08-18,2026-08-18 00:05,mexc,TUT/USDT,0.0468,5.28,339.58,27.7,,7.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-18,2026-08-18 00:20,gate,VELVET/USDT,0.59197,3.01,280.18,11.9,,4.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
@@ -1656,6 +1657,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-18,2026-08-18 00:40,gate,HOME/USDT,0.00687,3.78,69.4,6.9,,101.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-18,2026-08-18 00:05,mexc,ANSEM/USDT,0.2795,6.15,42.04,3.8,,,
 2026-08-18,2026-08-18 00:05,mexc,CAP/USDT,0.0705,5.71,16.62,6.5,,,
-2026-08-18,2026-08-18 00:40,gate,BEAT/USDT,0.2957,16.05,15.43,34.8,,70.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-18,2026-08-18 00:45,gate,BEAT/USDT,0.3136,23.08,15.77,35.6,,70.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-18,2026-08-18 00:05,mexc,SKYAI/USDT,0.07504,4.43,5.73,9.6,,,
 2026-08-18,2026-08-18 00:05,mexc,H/USDT,0.12231,5.08,3.93,6.5,Hack,34.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
