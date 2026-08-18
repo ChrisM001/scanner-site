@@ -1648,7 +1648,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-17,2026-08-17 23:40,gate,SKYAI/USDT,0.07524,8.85,4.53,3.0,,,
 2026-08-17,2026-08-17 01:11,mexc,APR/USDT,0.1927,8.25,3.54,6.0,Listing,75.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-08-17,2026-08-17 17:41,gate,HFT/USDT,0.00781,4.97,2.58,6.7,,,
-2026-08-18,2026-08-18 02:40,gate,XPIN/USDT,0.001525,3.32,10194.57,3.2,Listing,361,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
+2026-08-18,2026-08-18 02:55,gate,XPIN/USDT,0.001532,3.82,10268.77,3.2,Listing,361,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
 2026-08-18,2026-08-18 02:25,gate,GPS/USDT,0.017728,6.46,3031.77,29.1,Unlock,8.0,Binance News: GoPlus Security to Unlock 109.25 Million GPS Tokens on August 16
 2026-08-18,2026-08-18 00:45,gate,AKE/USDT,0.009145,3.06,534.8,24.7,,299.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-18,2026-08-18 00:02,mexc,BTW/USDT,0.35729,3.78,368.46,34.6,,,
@@ -1657,11 +1657,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-18,2026-08-18 00:05,mexc,GPS/USDT,0.016507,4.54,215.47,32.0,Unlock,8.0,Binance News: GoPlus Security to Unlock 109.25 Million GPS Tokens on August 16
 2026-08-18,2026-08-18 00:55,gate,TUT/USDT,0.04861,4.85,109.99,24.8,,7.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-18,2026-08-18 02:15,gate,LAB/USDT,0.08405,3.0,81.11,5.0,,,
-2026-08-18,2026-08-18 01:46,gate,HOME/USDT,0.00683,3.17,68.91,6.9,,101.0,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-18,2026-08-18 02:55,gate,HOME/USDT,0.00682,3.02,70.72,7.1,,101,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-18,2026-08-18 00:05,mexc,ANSEM/USDT,0.2795,6.15,42.04,3.8,,,
-2026-08-18,2026-08-18 02:40,gate,BEAT/USDT,0.2837,11.34,18.32,41.3,,70,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-18,2026-08-18 02:55,gate,BEAT/USDT,0.2847,11.73,18.61,42.0,,70,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-18,2026-08-18 00:05,mexc,CAP/USDT,0.0705,5.71,16.62,6.5,,,
-2026-08-18,2026-08-18 02:40,gate,CYS/USDT,0.4793,4.2,15.4,17.8,,,
+2026-08-18,2026-08-18 02:55,gate,CYS/USDT,0.498,8.26,15.54,18.0,,,
 2026-08-18,2026-08-18 00:05,mexc,SKYAI/USDT,0.07504,4.43,5.73,9.6,,,
 2026-08-18,2026-08-18 00:05,mexc,H/USDT,0.12231,5.08,3.93,6.5,Hack,34.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
-2026-08-18,2026-08-18 02:40,gate,SOXS/USDT,39.65,4.18,2.71,7.6,,,
+2026-08-18,2026-08-18 02:55,gate,SOXS/USDT,40.19,5.6,2.73,7.7,,,
