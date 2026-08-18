@@ -1657,9 +1657,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-18,2026-08-18 02:15,gate,LAB/USDT,0.08405,3.0,81.11,5.0,,,
 2026-08-18,2026-08-18 01:46,gate,HOME/USDT,0.00683,3.17,68.91,6.9,,101.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-18,2026-08-18 00:05,mexc,ANSEM/USDT,0.2795,6.15,42.04,3.8,,,
-2026-08-18,2026-08-18 02:15,gate,BEAT/USDT,0.2873,12.76,17.28,39.0,,70,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-18,2026-08-18 02:20,gate,BEAT/USDT,0.2833,11.19,17.38,39.2,,70,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-18,2026-08-18 00:05,mexc,CAP/USDT,0.0705,5.71,16.62,6.5,,,
-2026-08-18,2026-08-18 02:01,gate,CYS/USDT,0.4843,5.28,15.16,17.5,,,
+2026-08-18,2026-08-18 02:20,gate,CYS/USDT,0.4853,5.5,15.35,17.8,,,
 2026-08-18,2026-08-18 00:05,mexc,SKYAI/USDT,0.07504,4.43,5.73,9.6,,,
 2026-08-18,2026-08-18 00:05,mexc,H/USDT,0.12231,5.08,3.93,6.5,Hack,34.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
-2026-08-18,2026-08-18 02:15,gate,SOXS/USDT,39.55,3.91,2.66,7.5,,,
+2026-08-18,2026-08-18 02:20,gate,SOXS/USDT,39.45,3.65,2.68,7.5,,,
