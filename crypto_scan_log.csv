@@ -1649,7 +1649,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-17,2026-08-17 01:11,mexc,APR/USDT,0.1927,8.25,3.54,6.0,Listing,75.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-08-17,2026-08-17 17:41,gate,HFT/USDT,0.00781,4.97,2.58,6.7,,,
 2026-08-18,2026-08-18 03:31,gate,XPIN/USDT,0.001528,3.53,10304.66,3.3,Listing,361.0,CoinMarketCal: XPIN Network - Gate Listing - 22 Aug 2025
-2026-08-18,2026-08-18 05:51,gate,GPS/USDT,0.017159,3.04,3230.31,31.1,Unlock,9,Binance News: GoPlus Security to Unlock 109.25 Million GPS Tokens on August 16
+2026-08-18,2026-08-18 05:51,gate,GPS/USDT,0.017159,3.04,3230.31,31.1,Unlock,9.0,Binance News: GoPlus Security to Unlock 109.25 Million GPS Tokens on August 16
 2026-08-18,2026-08-18 00:45,gate,AKE/USDT,0.009145,3.06,534.8,24.7,,299.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-18,2026-08-18 00:02,mexc,BTW/USDT,0.35729,3.78,368.46,34.6,,,
 2026-08-18,2026-08-18 00:05,mexc,TUT/USDT,0.0468,5.28,339.58,27.7,,7.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
@@ -1660,9 +1660,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-18,2026-08-18 02:55,gate,HOME/USDT,0.00682,3.02,70.72,7.1,,101.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-18,2026-08-18 03:26,gate,H/USDT,0.12746,3.12,44.61,9.8,Hack,34.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-18,2026-08-18 00:05,mexc,ANSEM/USDT,0.2795,6.15,42.04,3.8,,,
-2026-08-18,2026-08-18 05:51,gate,BEAT/USDT,0.2709,6.32,19.25,43.5,,70,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-18,2026-08-18 06:01,gate,BEAT/USDT,0.2689,5.53,18.8,42.4,,70,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-18,2026-08-18 00:05,mexc,CAP/USDT,0.0705,5.71,16.62,6.5,,,
-2026-08-18,2026-08-18 05:51,gate,CYS/USDT,0.522,13.48,14.08,16.3,,,
+2026-08-18,2026-08-18 06:01,gate,CYS/USDT,0.5057,9.93,13.45,15.6,,,
 2026-08-18,2026-08-18 00:05,mexc,SKYAI/USDT,0.07504,4.43,5.73,9.6,,,
 2026-08-18,2026-08-18 00:05,mexc,H/USDT,0.12231,5.08,3.93,6.5,Hack,34.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
-2026-08-18,2026-08-18 05:51,gate,SOXS/USDT,40.05,5.23,2.44,6.8,,,
+2026-08-18,2026-08-18 06:01,gate,SOXS/USDT,40.44,6.25,2.32,6.5,,,
