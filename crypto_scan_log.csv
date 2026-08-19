@@ -1673,9 +1673,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-18,2026-08-18 23:40,gate,SOXS/USDT,45.13,18.58,4.09,11.5,,,
 2026-08-18,2026-08-18 00:05,mexc,H/USDT,0.12231,5.08,3.93,6.5,Hack,34.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-19,2026-08-19 00:40,mexc,TRIA/USDT,0.010194,18.63,633.94,3.3,,,
-2026-08-19,2026-08-19 10:05,gate,BTW/USDT,0.696825,60.68,599.5,46.4,,,
+2026-08-19,2026-08-19 10:11,gate,BTW/USDT,0.656807,51.45,613.69,47.5,,,
 2026-08-19,2026-08-19 03:55,gate,AKE/USDT,0.009301,3.18,408.31,18.3,,300.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-19,2026-08-19 10:05,gate,HEMI/USDT,0.008124,13.88,333.99,7.0,,161,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-19,2026-08-19 10:11,gate,HEMI/USDT,0.008158,14.35,335.1,7.1,,161,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-19,2026-08-19 09:31,gate,VELVET/USDT,0.685,3.06,253.82,12.1,,5.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-08-19,2026-08-19 00:40,mexc,BTW/USDT,0.44207,13.63,221.85,22.5,,,
 2026-08-19,2026-08-19 00:40,mexc,PUMPFUN/USDT,0.003066,9.38,98.1,26.8,,,
@@ -1684,7 +1684,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-19,2026-08-19 06:57,gate,HOME/USDT,0.00628,3.97,41.95,4.2,,103.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-19,2026-08-19 01:20,gate,BEAT/USDT,0.2371,3.31,12.13,28.5,,71.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-19,2026-08-19 00:16,mexc,SOXS/USDT,46.0,3.18,7.3,45.7,,,
-2026-08-19,2026-08-19 10:05,gate,SKYAI/USDT,0.06226,14.11,6.7,4.5,,,
+2026-08-19,2026-08-19 10:11,gate,SKYAI/USDT,0.06231,14.2,6.72,4.5,,,
 2026-08-19,2026-08-19 09:36,gate,APR/USDT,0.20578,3.05,5.19,3.1,Listing,77.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
-2026-08-19,2026-08-19 09:49,gate,CYS/USDT,0.5396,4.17,4.43,5.3,,,
-2026-08-19,2026-08-19 10:05,gate,UNITREE/USDT,118.581,24.32,2.47,49.3,,,
+2026-08-19,2026-08-19 10:11,gate,CYS/USDT,0.5359,3.46,4.47,5.3,,,
+2026-08-19,2026-08-19 10:11,gate,UNITREE/USDT,118.143,23.86,2.48,49.5,,,
