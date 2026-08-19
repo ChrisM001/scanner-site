@@ -1674,15 +1674,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-18,2026-08-18 00:05,mexc,H/USDT,0.12231,5.08,3.93,6.5,Hack,34.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-19,2026-08-19 00:40,mexc,TRIA/USDT,0.010194,18.63,633.94,3.3,,,
 2026-08-19,2026-08-19 03:55,gate,AKE/USDT,0.009301,3.18,408.31,18.3,,300.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-19,2026-08-19 06:57,gate,BTW/USDT,0.602955,39.03,370.96,28.7,,,
+2026-08-19,2026-08-19 07:05,gate,BTW/USDT,0.602501,38.93,372.3,28.8,,,
 2026-08-19,2026-08-19 00:40,mexc,BTW/USDT,0.44207,13.63,221.85,22.5,,,
-2026-08-19,2026-08-19 06:57,gate,HEMI/USDT,0.008795,23.28,177.68,3.7,,161,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-19,2026-08-19 07:05,gate,HEMI/USDT,0.008899,24.74,190.55,4.0,,161,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-19,2026-08-19 00:40,mexc,PUMPFUN/USDT,0.003066,9.38,98.1,26.8,,,
 2026-08-19,2026-08-19 00:40,mexc,GPS/USDT,0.01858,6.32,95.08,21.0,Unlock,9.0,Binance News: GoPlus Security to Unlock 109.25 Million GPS Tokens on August 16
 2026-08-19,2026-08-19 00:40,mexc,PRL/USDT,0.4667,6.14,76.85,5.0,,,
-2026-08-19,2026-08-19 06:57,gate,HOME/USDT,0.00628,3.97,41.95,4.2,,103,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-19,2026-08-19 06:57,gate,HOME/USDT,0.00628,3.97,41.95,4.2,,103.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-19,2026-08-19 01:20,gate,BEAT/USDT,0.2371,3.31,12.13,28.5,,71.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-19,2026-08-19 00:16,mexc,SOXS/USDT,46.0,3.18,7.3,45.7,,,
-2026-08-19,2026-08-19 06:55,gate,SKYAI/USDT,0.05653,3.61,5.77,3.9,,,
-2026-08-19,2026-08-19 06:57,gate,APR/USDT,0.20573,3.02,5.19,3.1,Listing,77,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
+2026-08-19,2026-08-19 07:05,gate,SKYAI/USDT,0.05652,3.59,5.76,3.9,,,
+2026-08-19,2026-08-19 06:57,gate,APR/USDT,0.20573,3.02,5.19,3.1,Listing,77.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-08-19,2026-08-19 06:10,gate,CYS/USDT,0.5367,3.61,4.7,5.6,,,
