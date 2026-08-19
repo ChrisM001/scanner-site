@@ -1674,15 +1674,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-18,2026-08-18 00:05,mexc,H/USDT,0.12231,5.08,3.93,6.5,Hack,34.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-19,2026-08-19 00:40,mexc,TRIA/USDT,0.010194,18.63,633.94,3.3,,,
 2026-08-19,2026-08-19 03:55,gate,AKE/USDT,0.009301,3.18,408.31,18.3,,300.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-19,2026-08-19 07:16,gate,BTW/USDT,0.616925,42.26,388.0,30.1,,,
+2026-08-19,2026-08-19 07:20,gate,BTW/USDT,0.614975,41.81,391.69,30.3,,,
 2026-08-19,2026-08-19 00:40,mexc,BTW/USDT,0.44207,13.63,221.85,22.5,,,
-2026-08-19,2026-08-19 07:16,gate,HEMI/USDT,0.008848,24.03,203.56,4.3,,161,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-19,2026-08-19 07:20,gate,HEMI/USDT,0.008682,21.7,211.13,4.4,,161,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-19,2026-08-19 00:40,mexc,PUMPFUN/USDT,0.003066,9.38,98.1,26.8,,,
 2026-08-19,2026-08-19 00:40,mexc,GPS/USDT,0.01858,6.32,95.08,21.0,Unlock,9.0,Binance News: GoPlus Security to Unlock 109.25 Million GPS Tokens on August 16
 2026-08-19,2026-08-19 00:40,mexc,PRL/USDT,0.4667,6.14,76.85,5.0,,,
 2026-08-19,2026-08-19 06:57,gate,HOME/USDT,0.00628,3.97,41.95,4.2,,103.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-19,2026-08-19 01:20,gate,BEAT/USDT,0.2371,3.31,12.13,28.5,,71.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-19,2026-08-19 00:16,mexc,SOXS/USDT,46.0,3.18,7.3,45.7,,,
-2026-08-19,2026-08-19 07:16,gate,SKYAI/USDT,0.05953,9.11,5.97,4.0,,,
-2026-08-19,2026-08-19 07:16,gate,APR/USDT,0.20675,3.54,5.11,3.1,Listing,77,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
+2026-08-19,2026-08-19 07:20,gate,SKYAI/USDT,0.05874,7.66,6.02,4.1,,,
+2026-08-19,2026-08-19 07:16,gate,APR/USDT,0.20675,3.54,5.11,3.1,Listing,77.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-08-19,2026-08-19 07:16,gate,CYS/USDT,0.5342,3.13,4.47,5.3,,,
