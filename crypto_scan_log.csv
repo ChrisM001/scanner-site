@@ -1705,14 +1705,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-19,2026-08-19 23:56,gate,SOL/USDT,85.34,10.79,2.3,402.2,,,
 2026-08-19,2026-08-19 23:56,gate,LIT/USDT,2.601,10.31,2.12,5.2,,,
 2026-08-19,2026-08-19 23:56,gate,SUI/USDT,0.7055,8.32,2.11,17.5,,,
-2026-08-20,2026-08-20 00:06,mexc,PEPE/USDT,3e-06,7.41,11931909.82,127.8,,2,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
+2026-08-20,2026-08-20 00:06,mexc,PEPE/USDT,3e-06,7.41,11931909.82,127.8,,2.0,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
 2026-08-20,2026-08-20 00:06,mexc,1000BONK/USDT,0.002476,3.77,8294.69,3.6,,,
-2026-08-20,2026-08-20 00:06,mexc,KAS/USDT,0.02697,3.53,2776.44,4.0,,14,"Coinpedia: Kaspa Price Holds Key Demand Zone as Hashrate, Active Addresses Show Fresh Signs of Strength"
-2026-08-20,2026-08-20 00:06,mexc,SHIB/USDT,5e-06,4.18,481.89,7.6,,0,U.Today: Shiba Inu Posts 26.4% Surge in Active Addresses Despite Prolonged Volatility
-2026-08-20,2026-08-20 00:06,mexc,DOGE/USDT,0.07515,3.68,196.15,143.4,,0,Dow Jones Newswires: Crypto Catches Fire as Trading Volumes Surge  Market Talk
+2026-08-20,2026-08-20 00:06,mexc,KAS/USDT,0.02697,3.53,2776.44,4.0,,14.0,"Coinpedia: Kaspa Price Holds Key Demand Zone as Hashrate, Active Addresses Show Fresh Signs of Strength"
+2026-08-20,2026-08-20 00:06,mexc,SHIB/USDT,5e-06,4.18,481.89,7.6,,0.0,U.Today: Shiba Inu Posts 26.4% Surge in Active Addresses Despite Prolonged Volatility
+2026-08-20,2026-08-20 00:06,mexc,DOGE/USDT,0.07515,3.68,196.15,143.4,,0.0,Dow Jones Newswires: Crypto Catches Fire as Trading Volumes Surge  Market Talk
 2026-08-20,2026-08-20 00:06,mexc,MAGMA/USDT,0.23649,32.04,94.19,3.0,,,
 2026-08-20,2026-08-20 00:06,mexc,1000RATS/USDT,0.0422,4.32,61.92,3.6,,,
-2026-08-20,2026-08-20 00:06,mexc,GALA/USDT,0.001424,3.48,30.53,3.9,,0,"Binance News: New Address Sells KTA and GALA for 1,902 ETH, Tokens Fall"
+2026-08-20,2026-08-20 00:06,mexc,GALA/USDT,0.001424,3.48,30.53,3.9,,0.0,"Binance News: New Address Sells KTA and GALA for 1,902 ETH, Tokens Fall"
 2026-08-20,2026-08-20 00:06,mexc,BR/USDT,0.23116,9.27,28.72,3.1,,,
 2026-08-20,2026-08-20 00:06,mexc,RE/USDT,0.5384,17.52,20.38,9.7,,,
 2026-08-20,2026-08-20 00:06,mexc,ENA/USDT,0.09374,7.14,12.5,21.6,,,
@@ -1720,6 +1720,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-20,2026-08-20 00:06,mexc,WIF/USDT,0.1467,5.01,9.53,4.3,,,
 2026-08-20,2026-08-20 00:06,mexc,FET/USDT,0.1313,3.87,9.35,8.6,,,
 2026-08-20,2026-08-20 00:06,mexc,XLM/USDT,0.17109,4.36,9.28,18.8,,,
+2026-08-20,2026-08-20 00:10,gate,SKYAI/USDT,0.06838,3.29,6.42,4.4,,,
 2026-08-20,2026-08-20 00:06,mexc,AVNT/USDT,0.0902,3.79,5.71,4.8,,,
 2026-08-20,2026-08-20 00:06,mexc,XRP/USDT,1.1075,3.75,2.29,563.2,,,
 2026-08-20,2026-08-20 00:06,mexc,SPX/USDT,0.3683,6.53,2.11,3.0,,,
