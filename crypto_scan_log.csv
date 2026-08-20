@@ -1708,16 +1708,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-20,2026-08-20 00:06,mexc,PEPE/USDT,3e-06,7.41,11931909.82,127.8,,2.0,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
 2026-08-20,2026-08-20 00:06,mexc,1000BONK/USDT,0.002476,3.77,8294.69,3.6,,,
 2026-08-20,2026-08-20 00:06,mexc,KAS/USDT,0.02697,3.53,2776.44,4.0,,14.0,"Coinpedia: Kaspa Price Holds Key Demand Zone as Hashrate, Active Addresses Show Fresh Signs of Strength"
-2026-08-20,2026-08-20 04:25,gate,PUMP/USDT,0.00321,6.96,1814.05,10.9,,0,Coinpedia: Crypto Market Update: Can Chainlink (LINK) and Pump.fun (PUMP) Prices Extend Their Recent Breakouts?
-2026-08-20,2026-08-20 04:25,gate,BTW/USDT,0.437781,12.43,825.36,83.5,,,
-2026-08-20,2026-08-20 04:25,gate,HEMI/USDT,0.009011,3.1,757.84,18.9,,162,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-20,2026-08-20 04:31,gate,PUMP/USDT,0.003218,7.23,1817.36,11.0,,0,Coinpedia: Crypto Market Update: Can Chainlink (LINK) and Pump.fun (PUMP) Prices Extend Their Recent Breakouts?
+2026-08-20,2026-08-20 04:31,gate,BTW/USDT,0.432621,11.11,826.77,83.6,,,
+2026-08-20,2026-08-20 04:25,gate,HEMI/USDT,0.009011,3.1,757.84,18.9,,162.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-20,2026-08-20 00:06,mexc,SHIB/USDT,5e-06,4.18,481.89,7.6,,0.0,U.Today: Shiba Inu Posts 26.4% Surge in Active Addresses Despite Prolonged Volatility
-2026-08-20,2026-08-20 04:25,gate,GPS/USDT,0.012107,3.91,382.48,7.8,Unlock,11,Binance News: GoPlus Security to Unlock 109.25 Million GPS Tokens on August 16
+2026-08-20,2026-08-20 04:31,gate,GPS/USDT,0.012138,4.18,382.85,7.8,Unlock,11,Binance News: GoPlus Security to Unlock 109.25 Million GPS Tokens on August 16
 2026-08-20,2026-08-20 01:15,gate,AKE/USDT,0.008899,3.05,228.91,9.9,,301.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-20,2026-08-20 00:06,mexc,DOGE/USDT,0.07515,3.68,196.15,143.4,,0.0,Dow Jones Newswires: Crypto Catches Fire as Trading Volumes Surge  Market Talk
 2026-08-20,2026-08-20 01:01,gate,VELVET/USDT,0.71633,3.17,129.23,6.4,,6.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-08-20,2026-08-20 00:06,mexc,MAGMA/USDT,0.23649,32.04,94.19,3.0,,,
-2026-08-20,2026-08-20 04:25,gate,CAP/USDT,0.07079,4.23,84.82,3.2,,,
+2026-08-20,2026-08-20 04:31,gate,CAP/USDT,0.07012,3.24,85.49,3.2,,,
 2026-08-20,2026-08-20 00:06,mexc,1000RATS/USDT,0.0422,4.32,61.92,3.6,,,
 2026-08-20,2026-08-20 00:06,mexc,GALA/USDT,0.001424,3.48,30.53,3.9,,0.0,"Binance News: New Address Sells KTA and GALA for 1,902 ETH, Tokens Fall"
 2026-08-20,2026-08-20 00:06,mexc,BR/USDT,0.23116,9.27,28.72,3.1,,,
@@ -1727,9 +1727,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-20,2026-08-20 00:06,mexc,WIF/USDT,0.1467,5.01,9.53,4.3,,,
 2026-08-20,2026-08-20 00:06,mexc,FET/USDT,0.1313,3.87,9.35,8.6,,,
 2026-08-20,2026-08-20 00:06,mexc,XLM/USDT,0.17109,4.36,9.28,18.8,,,
-2026-08-20,2026-08-20 04:25,gate,SKYAI/USDT,0.07194,8.67,8.27,5.7,,,
+2026-08-20,2026-08-20 04:31,gate,SKYAI/USDT,0.07223,9.11,8.32,5.7,,,
 2026-08-20,2026-08-20 00:06,mexc,AVNT/USDT,0.0902,3.79,5.71,4.8,,,
-2026-08-20,2026-08-20 04:25,gate,CYS/USDT,0.6078,4.06,5.26,6.4,,,
+2026-08-20,2026-08-20 04:31,gate,CYS/USDT,0.6072,3.95,5.27,6.4,,,
 2026-08-20,2026-08-20 00:06,mexc,XRP/USDT,1.1075,3.75,2.29,563.2,,,
-2026-08-20,2026-08-20 04:25,gate,LIT/USDT,2.729,4.8,2.2,5.6,,231,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
+2026-08-20,2026-08-20 04:31,gate,LIT/USDT,2.735,5.03,2.21,5.7,,231,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-20,2026-08-20 00:06,mexc,SPX/USDT,0.3683,6.53,2.11,3.0,,,
