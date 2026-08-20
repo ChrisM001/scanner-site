@@ -388,7 +388,7 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-08-20,2026-08-20 08:10,NASDAQ:SKK,4.83,14.76,2574.2,1.35,1.7,0.0,DEAL,Reuters: Skk Holdings Awarded Six New Horizontal Directional Drilling And Utility Works Contracts In Singapore Valued At Up To Us$26.6 Million (S$34.1 Million),premarket
 2026-08-20,2026-08-20 08:10,NASDAQ:ZSTK,2.29,24.45,1857.5,17.49,0.28,0.0,,Benzinga: ZeroStack (ZSTK) Stock Skyrockets Wednesday: What's Driving the Action?,premarket
 2026-08-20,2026-08-20 08:10,NASDAQ:VRAX,3.24,17.39,429.6,0.79,7.52,12.0,,"ACCESS Newswire: Virax Biolabs and Transcode Therapeutics Interviews to Air Nationally on the RedChip Small Stocks, Big Money(TM) Show on CNBC and Bloomberg TV",premarket
-2026-08-20,2026-08-20 08:31,NASDAQ:EHGO,1.29,50.28,358.1,2.81,0.21,0.0,OFFERING,GlobeNewswire: EShallGo Inc. Announces Pricing of $1.75 million Registered Direct Offering,premarket
+2026-08-20,2026-08-20 08:35,NASDAQ:EHGO,1.26,50.28,358.1,2.81,0.24,0.0,OFFERING,GlobeNewswire: EShallGo Inc. Announces Pricing of $1.75 million Registered Direct Offering,premarket
 2026-08-20,2026-08-20 08:10,NASDAQ:FEMY,3.01,36.36,116.6,7.58,6.0,0.0,FDA/CLIN,Benzinga: Femasys Secures FDA Pathway for Non-Surgical Contraceptive,premarket
 2026-08-20,2026-08-20 08:10,NASDAQ:ZNB,2.68,19.28,71.7,0.97,14.41,20.0,OFFERING,Binance News: Zeta Network Group Announces $10 Million Private Placement Subscribed With 156.65 Bitcoin,premarket
 2026-08-20,2026-08-20 08:10,NASDAQ:MSS,2.03,28.98,44.4,0.55,9.09,1.0,,Benzinga: Maison Solutions (MSS) Stock Soars Nearly 41% After Hours: Here's Why,premarket
@@ -396,5 +396,5 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-08-20,2026-08-20 08:10,NASDAQ:YJ,5.94,237.36,22.8,2.55,68.8,6.0,EARNINGS,"PR Newswire: Yunji to Report First Half 2026 Financial Results on August 20, 2026",premarket
 2026-08-20,2026-08-20 08:10,NASDAQ:TGL,2.99,12.36,10.6,1.82,3.16,0.0,,GlobeNewswire: Treasure Global Expands Global Investor Access as Its Common Stock Become Available Through Binance Stocks Trading,premarket
 2026-08-20,2026-08-20 08:10,NASDAQ:KWM,3.0,13.64,9.2,1.81,0.23,0.0,OFFERING,"Benzinga: K Wave Media To Commence ~$1M Offering Of 526,314 Shares At $1.90 Per Share",premarket
-2026-08-20,2026-08-20 08:31,NASDAQ:PWCM,1.831,13.97,6.7,1.67,0.16,5.0,EARNINGS,"TradingView: POWERCOMPUTE, INC. Q2 2026: Revenue $2.12M, EPS $(5.26)  10-Q Summary",premarket
-2026-08-20,2026-08-20 08:31,NASDAQ:BIVI,1.53,34.8,2.6,7.19,0.2,5.0,,"ACCESS Newswire: First Phosphate and BioVie Interviews to Air Nationally on the RedChip Small Stocks, Big Money(TM) Show on CNBC and Bloomberg TV",premarket
+2026-08-20,2026-08-20 08:35,NASDAQ:PWCM,1.89,13.97,6.7,1.67,0.17,5.0,EARNINGS,"TradingView: POWERCOMPUTE, INC. Q2 2026: Revenue $2.12M, EPS $(5.26)  10-Q Summary",premarket
+2026-08-20,2026-08-20 08:35,NASDAQ:BIVI,1.56,34.8,2.6,7.19,0.25,5.0,,"ACCESS Newswire: First Phosphate and BioVie Interviews to Air Nationally on the RedChip Small Stocks, Big Money(TM) Show on CNBC and Bloomberg TV",premarket
