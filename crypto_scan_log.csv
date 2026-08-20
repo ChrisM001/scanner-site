@@ -1705,47 +1705,47 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-19,2026-08-19 23:56,gate,SOL/USDT,85.34,10.79,2.3,402.2,,,
 2026-08-19,2026-08-19 23:56,gate,LIT/USDT,2.601,10.31,2.12,5.2,,,
 2026-08-19,2026-08-19 23:56,gate,SUI/USDT,0.7055,8.32,2.11,17.5,,,
-2026-08-20,2026-08-20 10:46,gate,PEPE/USDT,3e-06,7.62,32577690.46,40.5,,3,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
+2026-08-20,2026-08-20 10:51,gate,PEPE/USDT,3e-06,7.79,32606946.17,40.6,,3,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
 2026-08-20,2026-08-20 00:06,mexc,PEPE/USDT,3e-06,7.41,11931909.82,127.8,,2.0,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
-2026-08-20,2026-08-20 10:46,gate,SHIB/USDT,5e-06,3.97,10157.55,5.1,,0,U.Today: Shiba Inu Posts 26.4% Surge in Active Addresses Despite Prolonged Volatility
-2026-08-20,2026-08-20 10:46,gate,BOME/USDT,0.001229,40.2,8488.87,14.3,,22,Coinpedia: BOME Price Is Heating Up AgainHeres Why
+2026-08-20,2026-08-20 10:51,gate,SHIB/USDT,5e-06,3.91,10170.1,5.1,,0,U.Today: Shiba Inu Posts 26.4% Surge in Active Addresses Despite Prolonged Volatility
+2026-08-20,2026-08-20 10:51,gate,BOME/USDT,0.001243,41.77,8562.65,14.4,,22,Coinpedia: BOME Price Is Heating Up AgainHeres Why
 2026-08-20,2026-08-20 00:06,mexc,1000BONK/USDT,0.002476,3.77,8294.69,3.6,,,
 2026-08-20,2026-08-20 00:06,mexc,KAS/USDT,0.02697,3.53,2776.44,4.0,,14.0,"Coinpedia: Kaspa Price Holds Key Demand Zone as Hashrate, Active Addresses Show Fresh Signs of Strength"
-2026-08-20,2026-08-20 10:46,gate,PUMP/USDT,0.00333,10.96,1994.22,12.0,,0,Coinpedia: Crypto Market Update: Can Chainlink (LINK) and Pump.fun (PUMP) Prices Extend Their Recent Breakouts?
+2026-08-20,2026-08-20 10:51,gate,PUMP/USDT,0.003328,10.9,1996.54,12.1,,0,Coinpedia: Crypto Market Update: Can Chainlink (LINK) and Pump.fun (PUMP) Prices Extend Their Recent Breakouts?
 2026-08-20,2026-08-20 10:46,gate,BTW/USDT,0.401651,3.15,713.39,72.2,,,
-2026-08-20,2026-08-20 10:46,gate,HEMI/USDT,0.009113,4.27,589.89,14.7,,162,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-20,2026-08-20 10:51,gate,HEMI/USDT,0.009007,3.05,590.4,14.7,,162,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-20,2026-08-20 00:06,mexc,SHIB/USDT,5e-06,4.18,481.89,7.6,,0.0,U.Today: Shiba Inu Posts 26.4% Surge in Active Addresses Despite Prolonged Volatility
 2026-08-20,2026-08-20 08:36,gate,GPS/USDT,0.01207,3.6,263.56,5.4,Unlock,11.0,Binance News: GoPlus Security to Unlock 109.25 Million GPS Tokens on August 16
 2026-08-20,2026-08-20 09:46,gate,AKE/USDT,0.008923,3.33,200.93,8.7,,301.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-20,2026-08-20 00:06,mexc,DOGE/USDT,0.07515,3.68,196.15,143.4,,0.0,Dow Jones Newswires: Crypto Catches Fire as Trading Volumes Surge  Market Talk
-2026-08-20,2026-08-20 10:46,gate,PENGU/USDT,0.006775,4.83,187.9,3.8,,22,Invezz: PENGU price struggles after comic debut: why are traders selling?
+2026-08-20,2026-08-20 10:51,gate,PENGU/USDT,0.006796,5.15,188.67,3.9,,22,Invezz: PENGU price struggles after comic debut: why are traders selling?
 2026-08-20,2026-08-20 10:46,gate,MAGMA/USDT,0.2485,6.35,178.77,3.4,,,
 2026-08-20,2026-08-20 01:01,gate,VELVET/USDT,0.71633,3.17,129.23,6.4,,6.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-08-20,2026-08-20 00:06,mexc,MAGMA/USDT,0.23649,32.04,94.19,3.0,,,
-2026-08-20,2026-08-20 10:46,gate,CAP/USDT,0.07084,4.3,84.9,3.2,,,
-2026-08-20,2026-08-20 10:46,gate,ASTER/USDT,0.6624,5.9,70.9,3.7,,,
+2026-08-20,2026-08-20 10:51,gate,CAP/USDT,0.07064,4.0,85.23,3.2,,,
+2026-08-20,2026-08-20 10:51,gate,ASTER/USDT,0.6627,5.95,71.05,3.7,,,
 2026-08-20,2026-08-20 00:06,mexc,1000RATS/USDT,0.0422,4.32,61.92,3.6,,,
-2026-08-20,2026-08-20 10:46,gate,HOME/USDT,0.00627,3.81,39.71,4.0,,,
+2026-08-20,2026-08-20 10:51,gate,HOME/USDT,0.00628,3.97,39.85,4.0,,,
 2026-08-20,2026-08-20 08:11,gate,RE/USDT,0.55282,3.07,33.4,6.6,Listing,51.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-08-20,2026-08-20 00:06,mexc,GALA/USDT,0.001424,3.48,30.53,3.9,,0.0,"Binance News: New Address Sells KTA and GALA for 1,902 ETH, Tokens Fall"
-2026-08-20,2026-08-20 10:46,gate,XRP/USDT,1.1609,4.99,29.29,167.6,,,
+2026-08-20,2026-08-20 10:51,gate,XRP/USDT,1.1594,4.86,29.42,168.4,,,
 2026-08-20,2026-08-20 00:06,mexc,BR/USDT,0.23116,9.27,28.72,3.1,,,
 2026-08-20,2026-08-20 10:21,gate,DOGE/USDT,0.07768,3.53,25.95,84.3,,,
-2026-08-20,2026-08-20 10:46,gate,VIRTUAL/USDT,0.6415,5.68,25.74,3.5,,,
-2026-08-20,2026-08-20 10:46,gate,XLM/USDT,0.17866,4.92,20.64,4.7,,,
+2026-08-20,2026-08-20 10:51,gate,VIRTUAL/USDT,0.6405,5.52,25.94,3.5,,,
+2026-08-20,2026-08-20 10:51,gate,XLM/USDT,0.17797,4.51,20.72,4.8,,,
 2026-08-20,2026-08-20 00:06,mexc,RE/USDT,0.5384,17.52,20.38,9.7,,,
-2026-08-20,2026-08-20 10:46,gate,ENA/USDT,0.0995,6.63,14.37,6.6,,,
+2026-08-20,2026-08-20 10:51,gate,ENA/USDT,0.09925,6.37,14.45,6.6,,,
 2026-08-20,2026-08-20 05:35,gate,H/USDT,0.0907,3.68,13.8,3.3,Hack,36.0,Cointelegraph: Humanity Protocol to prioritize operational security following $36M hack
 2026-08-20,2026-08-20 00:06,mexc,ENA/USDT,0.09374,7.14,12.5,21.6,,,
 2026-08-20,2026-08-20 00:06,mexc,SEI/USDT,0.04132,3.71,9.68,3.9,,,
 2026-08-20,2026-08-20 00:06,mexc,WIF/USDT,0.1467,5.01,9.53,4.3,,,
 2026-08-20,2026-08-20 00:06,mexc,FET/USDT,0.1313,3.87,9.35,8.6,,,
 2026-08-20,2026-08-20 00:06,mexc,XLM/USDT,0.17109,4.36,9.28,18.8,,,
-2026-08-20,2026-08-20 10:46,gate,SKYAI/USDT,0.0757,14.35,7.54,5.2,,,
+2026-08-20,2026-08-20 10:51,gate,SKYAI/USDT,0.07563,14.24,7.56,5.2,,,
 2026-08-20,2026-08-20 00:06,mexc,AVNT/USDT,0.0902,3.79,5.71,4.8,,,
 2026-08-20,2026-08-20 05:01,gate,CYS/USDT,0.6025,3.15,5.28,6.4,,,
-2026-08-20,2026-08-20 10:46,gate,LIT/USDT,2.788,7.07,3.02,7.7,,,
-2026-08-20,2026-08-20 10:46,gate,SUI/USDT,0.7279,3.1,2.69,22.9,,,
-2026-08-20,2026-08-20 10:46,gate,WIF/USDT,0.1558,6.42,2.31,4.6,,,
+2026-08-20,2026-08-20 10:51,gate,LIT/USDT,2.791,7.18,3.03,7.8,,,
+2026-08-20,2026-08-20 10:51,gate,SUI/USDT,0.7274,3.03,2.7,22.9,,,
+2026-08-20,2026-08-20 10:51,gate,WIF/USDT,0.1561,6.63,2.32,4.7,,,
 2026-08-20,2026-08-20 00:06,mexc,XRP/USDT,1.1075,3.75,2.29,563.2,,,
 2026-08-20,2026-08-20 00:06,mexc,SPX/USDT,0.3683,6.53,2.11,3.0,,,
