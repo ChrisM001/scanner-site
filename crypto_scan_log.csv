@@ -1758,12 +1758,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-20,2026-08-20 23:51,gate,FARTCOIN/USDT,0.1685,8.94,2.02,7.6,,,
 2026-08-20,2026-08-20 21:35,gate,AVAX/USDT,7.203,6.24,2.01,13.3,,,
 2026-08-20,2026-08-20 23:51,gate,DOT/USDT,0.847,7.35,2.0,5.6,,,
-2026-08-21,2026-08-21 04:55,gate,PEPE/USDT,3e-06,3.18,26696773.76,35.2,,3.0,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
+2026-08-21,2026-08-21 05:01,gate,PEPE/USDT,3e-06,3.53,26182320.79,34.5,,3.0,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
 2026-08-21,2026-08-21 02:40,gate,BOME/USDT,0.001205,3.15,12141.44,33.2,,23.0,Coinpedia: BOME Price Is Heating Up AgainHeres Why
-2026-08-21,2026-08-21 04:55,gate,ONG/USDT,0.12887,47.1,533.02,24.9,,139.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-21,2026-08-21 05:01,gate,ONG/USDT,0.13207,50.75,538.69,25.1,,139.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-21,2026-08-21 00:01,mexc,BTW/USDT,0.4329,10.14,482.15,88.3,,,
-2026-08-21,2026-08-21 04:55,gate,PENGU/USDT,0.007446,3.82,341.03,7.7,,22.0,Invezz: PENGU price struggles after comic debut: why are traders selling?
-2026-08-21,2026-08-21 04:55,gate,HEMI/USDT,0.011211,29.19,333.35,8.5,,163.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-21,2026-08-21 05:01,gate,PENGU/USDT,0.007443,3.78,337.25,7.6,,22.0,Invezz: PENGU price struggles after comic debut: why are traders selling?
+2026-08-21,2026-08-21 05:01,gate,HEMI/USDT,0.011202,29.09,314.76,8.0,,163.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-21,2026-08-21 04:05,gate,BTW/USDT,0.461103,6.22,270.09,30.7,,,
 2026-08-21,2026-08-21 00:01,mexc,CATE/USDT,0.02456,46.76,243.17,3.3,,,
 2026-08-21,2026-08-21 00:01,mexc,ONG/USDT,0.08491,12.27,224.99,16.3,,139.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
@@ -1772,11 +1772,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-21,2026-08-21 00:01,mexc,PEOPLE/USDT,0.010563,12.25,67.83,4.1,,3.0,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
 2026-08-21,2026-08-21 00:01,mexc,TUT/USDT,0.03295,5.27,61.79,5.5,,10.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-21,2026-08-21 04:01,gate,PEOPLE/USDT,0.010868,3.39,48.6,5.9,,3.0,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
-2026-08-21,2026-08-21 04:55,gate,XRP/USDT,1.3156,3.79,41.1,255.0,,0.0,U.Today: XRP Outperforms Every Token Within Top 100
-2026-08-21,2026-08-21 04:55,gate,ENA/USDT,0.12632,8.27,29.39,14.0,,1.0,"Cointelegraph: FalconX, Ethena bring USDe backing assets into $1B institutional credit facility"
+2026-08-21,2026-08-21 05:01,gate,XRP/USDT,1.3117,3.49,40.73,252.7,,0.0,U.Today: XRP Outperforms Every Token Within Top 100
+2026-08-21,2026-08-21 05:01,gate,ENA/USDT,0.12619,8.16,29.36,14.0,,1.0,"Cointelegraph: FalconX, Ethena bring USDe backing assets into $1B institutional credit facility"
 2026-08-21,2026-08-21 00:01,mexc,ENA/USDT,0.11741,15.0,23.42,42.9,,1.0,"Cointelegraph: FalconX, Ethena bring USDe backing assets into $1B institutional credit facility"
 2026-08-21,2026-08-21 00:01,mexc,FARTCOIN/USDT,0.16949,3.99,20.37,20.2,,133.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-08-21,2026-08-21 04:55,gate,ADA/USDT,0.2082,4.62,17.5,33.8,,1.0,Coinpedia: Cardano Tests $0.175 as On-Chain Activity Continues to WeakenCan ADA Price Reclaim $0.20
+2026-08-21,2026-08-21 05:01,gate,ADA/USDT,0.2078,4.42,17.26,33.3,,1.0,Coinpedia: Cardano Tests $0.175 as On-Chain Activity Continues to WeakenCan ADA Price Reclaim $0.20
 2026-08-21,2026-08-21 03:50,gate,RE/USDT,0.52591,3.13,16.37,3.5,Listing,52.0,CoinMarketCal: RE - XT.COM Listing - 29 June 2026
 2026-08-21,2026-08-21 00:01,mexc,WIF/USDT,0.1645,3.45,14.44,6.7,,,
 2026-08-21,2026-08-21 00:01,mexc,FET/USDT,0.1434,4.21,11.22,10.5,,,
