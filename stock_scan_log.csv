@@ -399,9 +399,9 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-08-20,2026-08-20 11:11,NASDAQ:PWCM,1.87,13.97,6.7,1.67,1.17,,,(News-Abruf gedrosselt),premarket
 2026-08-20,2026-08-20 11:11,NASDAQ:BIVI,1.56,34.8,2.6,7.19,1.05,,,(News-Abruf gedrosselt),premarket
 2026-08-21,2026-08-21 08:10,NASDAQ:SGLY,4.62,54.7,27.1,0.9,24.43,0.0,,Benzinga: Why Is Singularity Future Tech Stock Soaring Today?,premarket
-2026-08-21,2026-08-21 11:35,NASDAQ:HUIZ,1.62,110.27,26.3,8.6,0.27,1.0,,Dow Jones Newswires: Huize 1H EPS CNY0.02 Vs. EPS CNY0.00 >HUIZ,premarket
-2026-08-21,2026-08-21 11:35,NASDAQ:BTCT,1.39,84.06,10.1,8.62,2.02,1.0,,"Benzinga: BTC Digital Stock Soars Over 111% After-Hours, BitMine Shares Trending as Bitcoin and Ethereum Regain Their Mojo",premarket
-2026-08-21,2026-08-21 11:35,NASDAQ:PWCM,1.41,11.52,7.0,1.67,0.12,0.0,,Reuters: Powercompute Announces July 2026 Production And Operational Update,premarket
-2026-08-21,2026-08-21 08:10,NASDAQ:CDTG,3.57,18.6,2.6,3.01,0.96,23.0,EARNINGS,GlobeNewswire: CDT Environmental Technology Announces Results of Extraordinary General Meeting,premarket
-2026-08-21,2026-08-21 11:35,NASDAQ:BIVI,1.92,15.3,2.4,7.19,0.14,6.0,,"ACCESS Newswire: First Phosphate and BioVie Interviews to Air Nationally on the RedChip Small Stocks, Big Money(TM) Show on CNBC and Bloomberg TV",premarket
+2026-08-21,2026-08-21 11:40,NASDAQ:HUIZ,1.61,110.27,26.3,8.6,0.27,1.0,,Dow Jones Newswires: Huize 1H EPS CNY0.02 Vs. EPS CNY0.00 >HUIZ,premarket
+2026-08-21,2026-08-21 11:40,NASDAQ:BTCT,1.4,84.06,10.1,8.62,2.04,1.0,,"Benzinga: BTC Digital Stock Soars Over 111% After-Hours, BitMine Shares Trending as Bitcoin and Ethereum Regain Their Mojo",premarket
+2026-08-21,2026-08-21 11:40,NASDAQ:PWCM,1.39,11.52,7.0,1.67,0.13,0.0,,Reuters: Powercompute Announces July 2026 Production And Operational Update,premarket
+2026-08-21,2026-08-21 11:40,NASDAQ:CDTG,1.84,18.6,2.6,3.01,0.12,23.0,EARNINGS,GlobeNewswire: CDT Environmental Technology Announces Results of Extraordinary General Meeting,premarket
+2026-08-21,2026-08-21 11:40,NASDAQ:BIVI,1.91,15.3,2.4,7.19,0.15,6.0,,"ACCESS Newswire: First Phosphate and BioVie Interviews to Air Nationally on the RedChip Small Stocks, Big Money(TM) Show on CNBC and Bloomberg TV",premarket
 2026-08-21,2026-08-21 08:10,NASDAQ:CELZ,1.28,14.29,0.3,6.54,3.45,0.0,FDA/CLIN,"Reuters: Creative Medical Technology Holdings Successfully Completes Enrollment And Treatment Across Entire FDA-Cleared Adapt Trial, Including Opioid Cohort, Advancing Celz-201 / Olastrocel Toward Rmat Evaluation And Phase 3 Planning",premarket
