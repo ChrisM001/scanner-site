@@ -398,10 +398,10 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-08-20,2026-08-20 08:10,NASDAQ:KWM,3.0,13.64,9.2,1.81,0.23,0.0,OFFERING,"Benzinga: K Wave Media To Commence ~$1M Offering Of 526,314 Shares At $1.90 Per Share",premarket
 2026-08-20,2026-08-20 11:11,NASDAQ:PWCM,1.87,13.97,6.7,1.67,1.17,,,(News-Abruf gedrosselt),premarket
 2026-08-20,2026-08-20 11:11,NASDAQ:BIVI,1.56,34.8,2.6,7.19,1.05,,,(News-Abruf gedrosselt),premarket
-2026-08-21,2026-08-21 11:45,NASDAQ:SGLY,2.88,54.7,27.1,0.9,0.11,0.0,,Benzinga: Why Is Singularity Future Tech Stock Soaring Today?,premarket
-2026-08-21,2026-08-21 11:45,NASDAQ:HUIZ,1.61,110.27,26.3,8.6,0.28,1.0,,Dow Jones Newswires: Huize 1H EPS CNY0.02 Vs. EPS CNY0.00 >HUIZ,premarket
-2026-08-21,2026-08-21 11:45,NASDAQ:BTCT,1.385,84.06,10.1,8.62,2.08,1.0,,"Benzinga: BTC Digital Stock Soars Over 111% After-Hours, BitMine Shares Trending as Bitcoin and Ethereum Regain Their Mojo",premarket
-2026-08-21,2026-08-21 11:45,NASDAQ:PWCM,1.38,11.52,7.0,1.67,0.13,0.0,,Reuters: Powercompute Announces July 2026 Production And Operational Update,premarket
-2026-08-21,2026-08-21 11:45,NASDAQ:CDTG,1.862,18.6,2.6,3.01,0.24,23.0,EARNINGS,GlobeNewswire: CDT Environmental Technology Announces Results of Extraordinary General Meeting,premarket
-2026-08-21,2026-08-21 11:45,NASDAQ:BIVI,1.93,15.3,2.4,7.19,0.15,6.0,,"ACCESS Newswire: First Phosphate and BioVie Interviews to Air Nationally on the RedChip Small Stocks, Big Money(TM) Show on CNBC and Bloomberg TV",premarket
+2026-08-21,2026-08-21 11:50,NASDAQ:SGLY,2.9,54.7,27.1,0.9,0.11,0.0,,Benzinga: Why Is Singularity Future Tech Stock Soaring Today?,premarket
+2026-08-21,2026-08-21 11:50,NASDAQ:HUIZ,1.61,110.27,26.3,8.6,0.3,1.0,,Dow Jones Newswires: Huize 1H EPS CNY0.02 Vs. EPS CNY0.00 >HUIZ,premarket
+2026-08-21,2026-08-21 11:50,NASDAQ:BTCT,1.39,84.06,10.1,8.62,2.15,1.0,,"Benzinga: BTC Digital Stock Soars Over 111% After-Hours, BitMine Shares Trending as Bitcoin and Ethereum Regain Their Mojo",premarket
+2026-08-21,2026-08-21 11:50,NASDAQ:PWCM,1.37,11.52,7.0,1.67,0.13,0.0,,Reuters: Powercompute Announces July 2026 Production And Operational Update,premarket
+2026-08-21,2026-08-21 11:50,NASDAQ:CDTG,1.87,18.6,2.6,3.01,0.27,23.0,EARNINGS,GlobeNewswire: CDT Environmental Technology Announces Results of Extraordinary General Meeting,premarket
+2026-08-21,2026-08-21 11:50,NASDAQ:BIVI,1.937,15.3,2.4,7.19,0.16,6.0,,"ACCESS Newswire: First Phosphate and BioVie Interviews to Air Nationally on the RedChip Small Stocks, Big Money(TM) Show on CNBC and Bloomberg TV",premarket
 2026-08-21,2026-08-21 08:10,NASDAQ:CELZ,1.28,14.29,0.3,6.54,3.45,0.0,FDA/CLIN,"Reuters: Creative Medical Technology Holdings Successfully Completes Enrollment And Treatment Across Entire FDA-Cleared Adapt Trial, Including Opioid Cohort, Advancing Celz-201 / Olastrocel Toward Rmat Evaluation And Phase 3 Planning",premarket
