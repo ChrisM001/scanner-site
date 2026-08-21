@@ -1758,45 +1758,45 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-20,2026-08-20 23:51,gate,FARTCOIN/USDT,0.1685,8.94,2.02,7.6,,,
 2026-08-20,2026-08-20 21:35,gate,AVAX/USDT,7.203,6.24,2.01,13.3,,,
 2026-08-20,2026-08-20 23:51,gate,DOT/USDT,0.847,7.35,2.0,5.6,,,
-2026-08-21,2026-08-21 09:21,gate,PEPE/USDT,3e-06,7.33,24418351.24,32.2,,3,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
-2026-08-21,2026-08-21 09:21,gate,BOME/USDT,0.001321,13.04,13344.05,36.5,,23,Coinpedia: BOME Price Is Heating Up AgainHeres Why
-2026-08-21,2026-08-21 09:21,gate,SHIB/USDT,5e-06,4.22,11573.29,6.0,ETF,0,U.Today: Shiba Inu to Regain $0.000005: 207 Billion SHIB Netflow Sparks Recovery
+2026-08-21,2026-08-21 09:26,gate,PEPE/USDT,3e-06,7.43,24592867.02,32.4,,3,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
+2026-08-21,2026-08-21 09:26,gate,BOME/USDT,0.001285,9.94,13391.21,36.6,,23,Coinpedia: BOME Price Is Heating Up AgainHeres Why
+2026-08-21,2026-08-21 09:26,gate,SHIB/USDT,5e-06,4.26,11671.02,6.0,ETF,0,U.Today: Shiba Inu to Regain $0.000005: 207 Billion SHIB Netflow Sparks Recovery
 2026-08-21,2026-08-21 09:01,gate,ONG/USDT,0.0923,5.35,766.93,35.8,,139.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-21,2026-08-21 00:01,mexc,BTW/USDT,0.4329,10.14,482.15,88.3,,,
 2026-08-21,2026-08-21 09:11,gate,PENGU/USDT,0.007465,4.09,376.13,8.5,,23.0,Invezz: PENGU price struggles after comic debut: why are traders selling?
-2026-08-21,2026-08-21 09:21,gate,HEMI/USDT,0.011027,27.07,324.97,8.3,,163,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-21,2026-08-21 09:26,gate,HEMI/USDT,0.011209,29.17,326.17,8.3,,163,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-21,2026-08-21 00:01,mexc,CATE/USDT,0.02456,46.76,243.17,3.3,,,
 2026-08-21,2026-08-21 00:01,mexc,ONG/USDT,0.08491,12.27,224.99,16.3,,139.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-21,2026-08-21 00:01,mexc,PUMPFUN/USDT,0.003866,5.62,203.17,58.7,,,
-2026-08-21,2026-08-21 09:21,gate,BTW/USDT,0.455573,4.95,200.32,22.8,,,
-2026-08-21,2026-08-21 09:21,gate,VELVET/USDT,0.70179,4.94,81.86,4.2,,7,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
-2026-08-21,2026-08-21 09:21,gate,ASTER/USDT,0.7078,6.64,72.83,4.6,,28,CoinMarketCal: Aster: launches Strategy Vault - Q3 2026
-2026-08-21,2026-08-21 09:21,gate,PEOPLE/USDT,0.011476,9.17,70.94,8.7,,3,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
+2026-08-21,2026-08-21 09:26,gate,BTW/USDT,0.463734,6.83,200.72,22.9,,,
+2026-08-21,2026-08-21 09:26,gate,VELVET/USDT,0.70828,5.91,82.26,4.2,,7,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
+2026-08-21,2026-08-21 09:26,gate,ASTER/USDT,0.713,7.43,73.65,4.7,,28,CoinMarketCal: Aster: launches Strategy Vault - Q3 2026
+2026-08-21,2026-08-21 09:26,gate,PEOPLE/USDT,0.011618,10.52,71.6,8.8,,3,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
 2026-08-21,2026-08-21 00:01,mexc,PEOPLE/USDT,0.010563,12.25,67.83,4.1,,3.0,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
 2026-08-21,2026-08-21 00:01,mexc,TUT/USDT,0.03295,5.27,61.79,5.5,,10.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-21,2026-08-21 09:21,gate,ENA/USDT,0.13236,13.45,51.26,24.4,,,
-2026-08-21,2026-08-21 09:21,gate,XRP/USDT,1.364,7.61,45.02,279.4,,,
-2026-08-21,2026-08-21 09:21,gate,GALA/USDT,0.001777,10.79,43.16,3.1,,,
+2026-08-21,2026-08-21 09:26,gate,ENA/USDT,0.13286,13.88,51.9,24.7,,,
+2026-08-21,2026-08-21 09:26,gate,XRP/USDT,1.3696,8.06,45.16,280.3,,,
+2026-08-21,2026-08-21 09:26,gate,GALA/USDT,0.001791,11.66,43.75,3.1,,,
 2026-08-21,2026-08-21 09:06,gate,HOME/USDT,0.00634,3.09,32.66,3.3,,,
-2026-08-21,2026-08-21 09:21,gate,XLM/USDT,0.18934,4.29,30.72,7.4,,,
-2026-08-21,2026-08-21 09:21,gate,DOGE/USDT,0.08313,3.38,29.84,102.7,,,
+2026-08-21,2026-08-21 09:26,gate,XLM/USDT,0.1898,4.54,30.8,7.4,,,
+2026-08-21,2026-08-21 09:26,gate,DOGE/USDT,0.08315,3.41,29.93,103.1,,,
 2026-08-21,2026-08-21 09:06,gate,VIRTUAL/USDT,0.6641,3.12,24.08,3.4,,,
 2026-08-21,2026-08-21 00:01,mexc,ENA/USDT,0.11741,15.0,23.42,42.9,,1.0,"Cointelegraph: FalconX, Ethena bring USDe backing assets into $1B institutional credit facility"
 2026-08-21,2026-08-21 00:01,mexc,FARTCOIN/USDT,0.16949,3.99,20.37,20.2,,133.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-08-21,2026-08-21 09:21,gate,ADA/USDT,0.2096,5.33,19.9,38.4,,,
-2026-08-21,2026-08-21 08:51,gate,WLFI/USDT,0.06187,3.36,16.86,6.0,,,
+2026-08-21,2026-08-21 09:26,gate,ADA/USDT,0.21,5.53,19.96,38.5,,,
+2026-08-21,2026-08-21 09:26,gate,WLFI/USDT,0.06221,3.93,17.09,6.1,,,
 2026-08-21,2026-08-21 05:55,gate,RE/USDT,0.53159,4.25,15.06,3.2,,,
 2026-08-21,2026-08-21 00:01,mexc,WIF/USDT,0.1645,3.45,14.44,6.7,,,
 2026-08-21,2026-08-21 00:01,mexc,FET/USDT,0.1434,4.21,11.22,10.5,,,
 2026-08-21,2026-08-21 00:01,mexc,ONT/USDT,0.04901,15.12,10.13,3.1,,,
 2026-08-21,2026-08-21 03:55,gate,SKYAI/USDT,0.07739,3.74,4.85,3.4,,,
-2026-08-21,2026-08-21 09:21,gate,WIF/USDT,0.1729,5.36,3.13,6.9,,,
-2026-08-21,2026-08-21 09:21,gate,SUI/USDT,0.7784,6.14,2.95,26.2,,,
+2026-08-21,2026-08-21 09:26,gate,WIF/USDT,0.174,6.03,3.13,6.9,,,
+2026-08-21,2026-08-21 09:26,gate,SUI/USDT,0.7784,6.14,2.97,26.3,,,
 2026-08-21,2026-08-21 09:01,gate,LIT/USDT,2.75,3.0,2.54,7.0,,,
-2026-08-21,2026-08-21 09:21,gate,ONDO/USDT,0.3685,3.63,2.45,15.5,,,
+2026-08-21,2026-08-21 09:26,gate,ONDO/USDT,0.369,3.77,2.46,15.6,,,
 2026-08-21,2026-08-21 09:11,gate,FARTCOIN/USDT,0.17555,3.68,2.42,9.4,,,
 2026-08-21,2026-08-21 09:01,gate,AVAX/USDT,7.574,3.9,2.26,15.5,,,
 2026-08-21,2026-08-21 09:11,gate,DOT/USDT,0.882,4.01,2.21,6.4,,,
+2026-08-21,2026-08-21 09:26,gate,SOL/USDT,90.89,3.72,2.21,399.4,,,
 2026-08-21,2026-08-21 09:11,gate,GRAM/USDT,1.4393,3.02,2.2,3.5,,,
-2026-08-21,2026-08-21 09:21,gate,SOL/USDT,91.18,4.05,2.19,397.1,,,
-2026-08-21,2026-08-21 09:21,gate,FET/USDT,0.1569,9.72,2.14,4.8,,,
+2026-08-21,2026-08-21 09:26,gate,FET/USDT,0.1583,10.7,2.16,4.8,,,
