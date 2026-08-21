@@ -1758,41 +1758,41 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-20,2026-08-20 23:51,gate,FARTCOIN/USDT,0.1685,8.94,2.02,7.6,,,
 2026-08-20,2026-08-20 21:35,gate,AVAX/USDT,7.203,6.24,2.01,13.3,,,
 2026-08-20,2026-08-20 23:51,gate,DOT/USDT,0.847,7.35,2.0,5.6,,,
-2026-08-21,2026-08-21 08:16,gate,PEPE/USDT,4e-06,9.24,25413241.41,33.5,,3,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
-2026-08-21,2026-08-21 08:16,gate,BOME/USDT,0.001473,26.08,12029.48,32.9,,23,Coinpedia: BOME Price Is Heating Up AgainHeres Why
-2026-08-21,2026-08-21 08:16,gate,SHIB/USDT,5e-06,5.38,9793.54,5.1,ETF,0,U.Today: Shiba Inu to Regain $0.000005: 207 Billion SHIB Netflow Sparks Recovery
-2026-08-21,2026-08-21 08:16,gate,ONG/USDT,0.09588,9.44,689.83,32.2,,139,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-21,2026-08-21 08:21,gate,PEPE/USDT,3e-06,8.67,25524353.54,33.7,,3,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
+2026-08-21,2026-08-21 08:21,gate,BOME/USDT,0.00149,27.49,12115.78,33.1,,23,Coinpedia: BOME Price Is Heating Up AgainHeres Why
+2026-08-21,2026-08-21 08:21,gate,SHIB/USDT,5e-06,5.5,9828.59,5.1,ETF,0,U.Today: Shiba Inu to Regain $0.000005: 207 Billion SHIB Netflow Sparks Recovery
+2026-08-21,2026-08-21 08:21,gate,ONG/USDT,0.09099,3.86,702.53,32.8,,139,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-21,2026-08-21 00:01,mexc,BTW/USDT,0.4329,10.14,482.15,88.3,,,
-2026-08-21,2026-08-21 08:16,gate,PENGU/USDT,0.007616,6.19,367.78,8.3,,23,Invezz: PENGU price struggles after comic debut: why are traders selling?
-2026-08-21,2026-08-21 08:16,gate,HEMI/USDT,0.01107,27.56,328.03,8.3,,163,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-21,2026-08-21 08:21,gate,PENGU/USDT,0.007634,6.44,368.8,8.3,,23,Invezz: PENGU price struggles after comic debut: why are traders selling?
+2026-08-21,2026-08-21 08:21,gate,HEMI/USDT,0.011043,27.25,328.98,8.4,,163,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-21,2026-08-21 00:01,mexc,CATE/USDT,0.02456,46.76,243.17,3.3,,,
 2026-08-21,2026-08-21 00:01,mexc,ONG/USDT,0.08491,12.27,224.99,16.3,,139.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-21,2026-08-21 00:01,mexc,PUMPFUN/USDT,0.003866,5.62,203.17,58.7,,,
-2026-08-21,2026-08-21 08:16,gate,BTW/USDT,0.482219,11.09,197.97,22.5,,,
+2026-08-21,2026-08-21 08:21,gate,BTW/USDT,0.481992,11.04,198.36,22.6,,,
 2026-08-21,2026-08-21 06:21,gate,VELVET/USDT,0.69266,3.58,75.36,3.8,,7.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-08-21,2026-08-21 00:01,mexc,PEOPLE/USDT,0.010563,12.25,67.83,4.1,,3.0,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
 2026-08-21,2026-08-21 00:01,mexc,TUT/USDT,0.03295,5.27,61.79,5.5,,10.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-21,2026-08-21 08:16,gate,ASTER/USDT,0.7272,9.57,58.27,3.7,,28,CoinMarketCal: Aster: launches Strategy Vault - Q3 2026
-2026-08-21,2026-08-21 08:16,gate,PEOPLE/USDT,0.011715,11.44,55.84,6.8,,,
-2026-08-21,2026-08-21 08:16,gate,XRP/USDT,1.3517,6.64,42.07,261.1,,,
-2026-08-21,2026-08-21 08:16,gate,ENA/USDT,0.13297,13.97,40.79,19.4,,,
+2026-08-21,2026-08-21 08:21,gate,ASTER/USDT,0.7301,10.0,59.5,3.8,,28,CoinMarketCal: Aster: launches Strategy Vault - Q3 2026
+2026-08-21,2026-08-21 08:21,gate,PEOPLE/USDT,0.011793,12.19,56.16,6.9,,,
+2026-08-21,2026-08-21 08:21,gate,XRP/USDT,1.345,6.11,42.36,262.8,,,
+2026-08-21,2026-08-21 08:21,gate,ENA/USDT,0.13529,15.96,41.08,19.5,,,
 2026-08-21,2026-08-21 07:56,gate,HOME/USDT,0.00634,3.09,33.7,3.4,,,
-2026-08-21,2026-08-21 08:16,gate,XLM/USDT,0.1906,4.98,30.18,7.3,,,
-2026-08-21,2026-08-21 08:16,gate,DOGE/USDT,0.08431,4.85,28.3,97.4,,,
-2026-08-21,2026-08-21 08:16,gate,VIRTUAL/USDT,0.6696,3.98,26.62,3.8,,,
+2026-08-21,2026-08-21 08:21,gate,XLM/USDT,0.1912,5.32,30.42,7.3,,,
+2026-08-21,2026-08-21 08:21,gate,DOGE/USDT,0.08421,4.73,28.46,98.0,,,
+2026-08-21,2026-08-21 08:21,gate,VIRTUAL/USDT,0.6723,4.39,26.7,3.8,,,
 2026-08-21,2026-08-21 00:01,mexc,ENA/USDT,0.11741,15.0,23.42,42.9,,1.0,"Cointelegraph: FalconX, Ethena bring USDe backing assets into $1B institutional credit facility"
 2026-08-21,2026-08-21 00:01,mexc,FARTCOIN/USDT,0.16949,3.99,20.37,20.2,,133.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-08-21,2026-08-21 08:16,gate,ADA/USDT,0.2135,7.29,18.45,35.6,,,
+2026-08-21,2026-08-21 08:21,gate,ADA/USDT,0.2125,6.78,18.53,35.7,,,
 2026-08-21,2026-08-21 05:55,gate,RE/USDT,0.53159,4.25,15.06,3.2,,,
 2026-08-21,2026-08-21 00:01,mexc,WIF/USDT,0.1645,3.45,14.44,6.7,,,
 2026-08-21,2026-08-21 00:01,mexc,FET/USDT,0.1434,4.21,11.22,10.5,,,
 2026-08-21,2026-08-21 00:01,mexc,ONT/USDT,0.04901,15.12,10.13,3.1,,,
 2026-08-21,2026-08-21 03:55,gate,SKYAI/USDT,0.07739,3.74,4.85,3.4,,,
-2026-08-21,2026-08-21 08:16,gate,WIF/USDT,0.1749,6.58,2.97,6.5,,,
-2026-08-21,2026-08-21 08:16,gate,SUI/USDT,0.781,6.49,2.76,24.5,,,
-2026-08-21,2026-08-21 08:16,gate,LIT/USDT,2.766,3.6,2.61,7.2,,,
-2026-08-21,2026-08-21 08:16,gate,ONDO/USDT,0.3738,5.12,2.32,14.7,,,
-2026-08-21,2026-08-21 08:16,gate,FARTCOIN/USDT,0.1752,3.47,2.29,8.9,,,
-2026-08-21,2026-08-21 08:16,gate,AVAX/USDT,7.526,3.24,2.2,15.1,,,
-2026-08-21,2026-08-21 08:16,gate,GRAM/USDT,1.4915,6.76,2.1,3.3,,,
+2026-08-21,2026-08-21 08:21,gate,WIF/USDT,0.175,6.64,2.98,6.6,,,
+2026-08-21,2026-08-21 08:21,gate,SUI/USDT,0.7854,7.09,2.79,24.7,,,
+2026-08-21,2026-08-21 08:21,gate,LIT/USDT,2.763,3.48,2.61,7.2,,,
+2026-08-21,2026-08-21 08:21,gate,ONDO/USDT,0.3751,5.48,2.33,14.8,,,
+2026-08-21,2026-08-21 08:21,gate,FARTCOIN/USDT,0.17652,4.25,2.3,9.0,,,
+2026-08-21,2026-08-21 08:21,gate,AVAX/USDT,7.53,3.29,2.21,15.2,,,
+2026-08-21,2026-08-21 08:21,gate,GRAM/USDT,1.4902,6.66,2.11,3.3,,,
 2026-08-21,2026-08-21 07:56,gate,SOL/USDT,90.37,3.13,2.05,370.7,,,
