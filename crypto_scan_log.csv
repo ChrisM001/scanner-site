@@ -1758,33 +1758,33 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-20,2026-08-20 23:51,gate,FARTCOIN/USDT,0.1685,8.94,2.02,7.6,,,
 2026-08-20,2026-08-20 21:35,gate,AVAX/USDT,7.203,6.24,2.01,13.3,,,
 2026-08-20,2026-08-20 23:51,gate,DOT/USDT,0.847,7.35,2.0,5.6,,,
-2026-08-21,2026-08-21 06:16,gate,PEPE/USDT,3e-06,7.08,27265223.74,36.0,,3,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
-2026-08-21,2026-08-21 06:16,gate,BOME/USDT,0.001228,5.11,12400.71,33.9,,23,Coinpedia: BOME Price Is Heating Up AgainHeres Why
-2026-08-21,2026-08-21 06:16,gate,ONG/USDT,0.12832,46.47,588.3,27.4,,139,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-21,2026-08-21 06:21,gate,PEPE/USDT,3e-06,7.18,27432063.24,36.2,,3,"Invezz: PEPE holds key support, but weak momentum could trigger another 10% slide"
+2026-08-21,2026-08-21 06:21,gate,BOME/USDT,0.001241,6.2,12430.53,34.0,,23,Coinpedia: BOME Price Is Heating Up AgainHeres Why
+2026-08-21,2026-08-21 06:21,gate,ONG/USDT,0.1247,42.34,592.41,27.6,,139,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-21,2026-08-21 00:01,mexc,BTW/USDT,0.4329,10.14,482.15,88.3,,,
-2026-08-21,2026-08-21 06:16,gate,PENGU/USDT,0.007499,4.56,354.23,8.0,,22,Invezz: PENGU price struggles after comic debut: why are traders selling?
-2026-08-21,2026-08-21 06:16,gate,HEMI/USDT,0.011094,27.84,320.84,8.2,,163,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-21,2026-08-21 06:21,gate,PENGU/USDT,0.007472,4.18,355.17,8.0,,22,Invezz: PENGU price struggles after comic debut: why are traders selling?
+2026-08-21,2026-08-21 06:21,gate,HEMI/USDT,0.011132,28.28,321.83,8.2,,163,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-21,2026-08-21 05:46,gate,BTW/USDT,0.452109,4.15,277.03,31.5,,,
 2026-08-21,2026-08-21 00:01,mexc,CATE/USDT,0.02456,46.76,243.17,3.3,,,
 2026-08-21,2026-08-21 00:01,mexc,ONG/USDT,0.08491,12.27,224.99,16.3,,139.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-21,2026-08-21 00:01,mexc,PUMPFUN/USDT,0.003866,5.62,203.17,58.7,,,
-2026-08-21,2026-08-21 02:05,gate,VELVET/USDT,0.69026,3.22,84.38,4.3,,7.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
+2026-08-21,2026-08-21 06:21,gate,VELVET/USDT,0.69266,3.58,75.36,3.8,,7,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-08-21,2026-08-21 00:01,mexc,PEOPLE/USDT,0.010563,12.25,67.83,4.1,,3.0,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
 2026-08-21,2026-08-21 00:01,mexc,TUT/USDT,0.03295,5.27,61.79,5.5,,10.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-21,2026-08-21 06:16,gate,PEOPLE/USDT,0.010866,3.37,51.35,6.3,,3,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
-2026-08-21,2026-08-21 06:16,gate,XRP/USDT,1.3133,3.61,41.74,259.0,,0,U.Today: XRP Outperforms Every Token Within Top 100
-2026-08-21,2026-08-21 06:16,gate,ENA/USDT,0.12936,10.88,33.27,15.8,,1,"Cointelegraph: FalconX, Ethena bring USDe backing assets into $1B institutional credit facility"
-2026-08-21,2026-08-21 06:16,gate,XLM/USDT,0.18754,3.3,28.62,6.9,,,
-2026-08-21,2026-08-21 06:16,gate,DOGE/USDT,0.083,3.22,28.59,98.4,,,
+2026-08-21,2026-08-21 06:21,gate,PEOPLE/USDT,0.011015,4.79,51.48,6.3,,3,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
+2026-08-21,2026-08-21 06:21,gate,XRP/USDT,1.3114,3.46,41.83,259.6,,0,U.Today: XRP Outperforms Every Token Within Top 100
+2026-08-21,2026-08-21 06:21,gate,ENA/USDT,0.12957,11.06,33.55,16.0,,,
+2026-08-21,2026-08-21 06:21,gate,XLM/USDT,0.18754,3.3,28.85,7.0,,,
+2026-08-21,2026-08-21 06:21,gate,DOGE/USDT,0.08352,3.87,28.7,98.8,,,
 2026-08-21,2026-08-21 00:01,mexc,ENA/USDT,0.11741,15.0,23.42,42.9,,1.0,"Cointelegraph: FalconX, Ethena bring USDe backing assets into $1B institutional credit facility"
 2026-08-21,2026-08-21 00:01,mexc,FARTCOIN/USDT,0.16949,3.99,20.37,20.2,,133.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-08-21,2026-08-21 06:16,gate,ADA/USDT,0.2098,5.43,17.61,34.0,,,
+2026-08-21,2026-08-21 06:21,gate,ADA/USDT,0.2096,5.33,17.67,34.1,,,
 2026-08-21,2026-08-21 05:55,gate,RE/USDT,0.53159,4.25,15.06,3.2,,,
 2026-08-21,2026-08-21 00:01,mexc,WIF/USDT,0.1645,3.45,14.44,6.7,,,
 2026-08-21,2026-08-21 00:01,mexc,FET/USDT,0.1434,4.21,11.22,10.5,,,
 2026-08-21,2026-08-21 00:01,mexc,ONT/USDT,0.04901,15.12,10.13,3.1,,,
 2026-08-21,2026-08-21 03:55,gate,SKYAI/USDT,0.07739,3.74,4.85,3.4,,,
-2026-08-21,2026-08-21 06:06,gate,WIF/USDT,0.1703,3.78,2.94,6.5,,,
-2026-08-21,2026-08-21 06:16,gate,LIT/USDT,2.76,3.37,2.78,7.7,,,
-2026-08-21,2026-08-21 06:16,gate,SUI/USDT,0.7734,5.45,2.68,23.7,,,
+2026-08-21,2026-08-21 06:21,gate,WIF/USDT,0.1694,3.23,2.97,6.5,,,
+2026-08-21,2026-08-21 06:21,gate,LIT/USDT,2.776,3.97,2.79,7.7,,,
+2026-08-21,2026-08-21 06:21,gate,SUI/USDT,0.7767,5.9,2.7,23.9,,,
 2026-08-21,2026-08-21 06:16,gate,ONDO/USDT,0.3667,3.12,2.26,14.3,,,
