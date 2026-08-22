@@ -1817,15 +1817,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-21,2026-08-21 23:36,gate,PI/USDT,0.0974,6.8,2.27,4.7,,,
 2026-08-21,2026-08-21 23:36,gate,TIA/USDT,0.3945,14.81,2.22,3.2,,,
 2026-08-21,2026-08-21 23:36,gate,NEAR/USDT,1.9737,11.78,2.18,10.6,,,
-2026-08-22,2026-08-22 01:11,gate,BONK/USDT,3e-06,3.15,3950207.23,4.9,ATH,2,Brave New Coin: BONK Price Faces Daily Resistance After Trading 96% Under Its Record High
+2026-08-22,2026-08-22 01:11,gate,BONK/USDT,3e-06,3.15,3950207.23,4.9,ATH,2.0,Brave New Coin: BONK Price Faces Daily Resistance After Trading 96% Under Its Record High
 2026-08-22,2026-08-22 01:05,gate,FLOKI/USDT,3e-05,3.05,58642.49,3.3,,49.0,Coindar: FLOKI to Hold AMA on Telegram on July 6th
 2026-08-22,2026-08-22 01:05,gate,SHIB/USDT,6e-06,3.76,30735.48,17.6,,0.0,U.Today: Shiba Inu: Shytoshi Kusama's Potential X Comeback Sparks Fresh Speculation
-2026-08-22,2026-08-22 01:11,gate,PUMP/USDT,0.004188,3.08,2815.28,20.2,,0,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
-2026-08-22,2026-08-22 01:11,gate,HEMI/USDT,0.010627,4.49,619.15,18.7,,164,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-22,2026-08-22 01:11,gate,PUMP/USDT,0.004188,3.08,2815.28,20.2,,0.0,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
+2026-08-22,2026-08-22 01:15,gate,HEMI/USDT,0.01054,3.64,619.67,18.7,,164,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-22,2026-08-22 00:15,gate,ONG/USDT,0.08962,3.7,229.5,29.7,,140.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
-2026-08-22,2026-08-22 01:11,gate,牛来/USDT,0.0632,6.43,149.06,14.1,,,
+2026-08-22,2026-08-22 01:15,gate,牛来/USDT,0.0618,4.08,149.32,14.1,,,
 2026-08-22,2026-08-22 01:05,gate,LAB/USDT,0.09035,3.15,86.77,4.0,,,
-2026-08-22,2026-08-22 01:11,gate,BEAT/USDT,0.1745,7.45,15.44,41.4,,74,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-22,2026-08-22 01:11,gate,FARTCOIN/USDT,0.20578,4.72,4.18,18.2,,134,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-08-22,2026-08-22 01:11,gate,WIF/USDT,0.2073,3.96,3.4,8.4,,8,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
-2026-08-22,2026-08-22 01:11,gate,DOT/USDT,0.977,3.94,2.99,9.5,ETF,11,"CryptoProwl: Grayscale Drops Plans For Cardano, Polkadot and Hedera ETFs"
+2026-08-22,2026-08-22 01:15,gate,BEAT/USDT,0.1689,4.0,15.56,41.7,,74,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-22,2026-08-22 01:15,gate,FARTCOIN/USDT,0.20553,4.59,4.21,18.4,,134,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-08-22,2026-08-22 01:15,gate,WIF/USDT,0.2084,4.51,3.42,8.5,,8,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
+2026-08-22,2026-08-22 01:15,gate,DOT/USDT,0.97,3.19,3.04,9.6,ETF,11,"CryptoProwl: Grayscale Drops Plans For Cardano, Polkadot and Hedera ETFs"
