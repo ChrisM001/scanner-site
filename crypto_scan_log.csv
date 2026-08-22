@@ -1818,24 +1818,24 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-21,2026-08-21 23:36,gate,TIA/USDT,0.3945,14.81,2.22,3.2,,,
 2026-08-21,2026-08-21 23:36,gate,NEAR/USDT,1.9737,11.78,2.18,10.6,,,
 2026-08-22,2026-08-22 07:31,gate,PEPE/USDT,4e-06,3.09,65402429.31,99.3,,0.0,"Benzinga: If You Invested $1,000 in Pepe Coin When Elon Musk Shared a Pepe Meme, Heres How Much Youd Have Today"
-2026-08-22,2026-08-22 08:35,gate,BONK/USDT,3e-06,3.99,5634683.85,7.0,ATH,2,Brave New Coin: BONK Price Faces Daily Resistance After Trading 96% Under Its Record High
+2026-08-22,2026-08-22 08:41,gate,BONK/USDT,3e-06,4.89,5638891.85,7.0,ATH,2,Brave New Coin: BONK Price Faces Daily Resistance After Trading 96% Under Its Record High
 2026-08-22,2026-08-22 04:56,gate,FLOKI/USDT,3.1e-05,4.74,68539.36,3.8,,49.0,Coindar: FLOKI to Hold AMA on Telegram on July 6th
 2026-08-22,2026-08-22 04:56,gate,SHIB/USDT,6e-06,4.39,35129.34,20.2,,0.0,U.Today: Shiba Inu: Shytoshi Kusama's Potential X Comeback Sparks Fresh Speculation
 2026-08-22,2026-08-22 04:56,gate,BOME/USDT,0.001289,5.44,6199.16,21.3,,24.0,Coinpedia: BOME Price Is Heating Up AgainHeres Why
-2026-08-22,2026-08-22 08:35,gate,PUMP/USDT,0.004407,8.47,4236.2,30.4,,0,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
+2026-08-22,2026-08-22 08:41,gate,PUMP/USDT,0.004391,8.07,4258.3,30.5,,0,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
 2026-08-22,2026-08-22 04:56,gate,PENGU/USDT,0.009252,3.75,622.69,17.3,,23.0,Invezz: PENGU price struggles after comic debut: why are traders selling?
 2026-08-22,2026-08-22 05:21,gate,HEMI/USDT,0.010594,4.17,534.45,16.1,,164.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-22,2026-08-22 01:20,gate,ONG/USDT,0.08902,3.01,209.74,27.1,,140.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-22,2026-08-22 03:56,gate,BB/USDT,0.01133,3.19,181.99,4.3,Hack,0.0,"The Block: BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit"
-2026-08-22,2026-08-22 08:35,gate,AKE/USDT,0.008826,6.92,168.54,6.9,,303,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-22,2026-08-22 08:35,gate,MELANIA/USDT,0.11137,21.5,143.84,4.9,,,
+2026-08-22,2026-08-22 08:41,gate,AKE/USDT,0.008757,6.08,169.83,7.0,,303,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-22,2026-08-22 08:41,gate,MELANIA/USDT,0.11029,20.33,146.18,5.0,,,
 2026-08-22,2026-08-22 07:31,gate,牛来/USDT,0.06285,5.84,134.57,12.7,,,
 2026-08-22,2026-08-22 04:56,gate,ASTER/USDT,0.7449,5.0,111.78,10.2,,,
-2026-08-22,2026-08-22 08:35,gate,ENA/USDT,0.15062,5.98,102.05,66.5,,0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
-2026-08-22,2026-08-22 08:35,gate,POL/USDT,0.11506,21.1,101.73,3.2,,4,Coinpedia: Polygon (POL) Price Surges: Can Bulls Break the $0.10 Resistance?
+2026-08-22,2026-08-22 08:41,gate,POL/USDT,0.11599,22.08,103.21,3.2,,4,Coinpedia: Polygon (POL) Price Surges: Can Bulls Break the $0.10 Resistance?
+2026-08-22,2026-08-22 08:41,gate,ENA/USDT,0.15189,6.87,102.17,66.6,,0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
 2026-08-22,2026-08-22 04:56,gate,LAB/USDT,0.09248,5.58,94.15,4.3,,,
-2026-08-22,2026-08-22 08:35,gate,BTW/USDT,0.519531,7.39,86.37,10.3,,,
-2026-08-22,2026-08-22 08:35,gate,XRP/USDT,1.5043,3.43,75.39,526.8,,0,Coinpedia: XRP Price USD Surges 21% as Breakout Ignites Fresh Rally  Can XRP Hit $2 Next?
+2026-08-22,2026-08-22 08:41,gate,BTW/USDT,0.520282,7.54,86.82,10.4,,,
+2026-08-22,2026-08-22 08:35,gate,XRP/USDT,1.5043,3.43,75.39,526.8,,0.0,Coinpedia: XRP Price USD Surges 21% as Breakout Ignites Fresh Rally  Can XRP Hit $2 Next?
 2026-08-22,2026-08-22 04:56,gate,PEOPLE/USDT,0.011846,4.2,66.95,10.5,,,
 2026-08-22,2026-08-22 05:16,gate,WLFI/USDT,0.06448,3.1,58.29,22.5,,0.0,CoinMarketCal: World Liberty Financial: RWA campaign phase ends - 31 Dec 2026
 2026-08-22,2026-08-22 08:15,gate,XLM/USDT,0.20809,3.09,49.47,13.0,,,
@@ -1843,12 +1843,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-22,2026-08-22 04:56,gate,SAND/USDT,0.05173,5.31,35.26,5.3,,,
 2026-08-22,2026-08-22 04:56,gate,CFX/USDT,0.05236,4.2,33.19,3.7,,,
 2026-08-22,2026-08-22 04:56,gate,VIRTUAL/USDT,0.7653,5.5,30.57,4.7,,,
-2026-08-22,2026-08-22 08:35,gate,MUBARAK/USDT,0.02563,24.12,28.23,5.0,,,
+2026-08-22,2026-08-22 08:41,gate,MUBARAK/USDT,0.02573,24.6,28.3,5.0,,12,Binance News: BSC Meme Token MUBARAK Surges More Than 100% After Aster Lists Perpetual Contract
 2026-08-22,2026-08-22 04:56,gate,ADA/USDT,0.2541,10.86,26.43,53.8,,,
-2026-08-22,2026-08-22 08:35,gate,ZAMA/USDT,0.05559,6.74,25.65,7.0,,,
+2026-08-22,2026-08-22 08:41,gate,ZAMA/USDT,0.05531,6.2,26.0,7.0,,,
 2026-08-22,2026-08-22 03:56,gate,TUT/USDT,0.042501,4.0,23.03,5.4,,,
-2026-08-22,2026-08-22 08:35,gate,BEAT/USDT,0.1692,4.19,18.82,50.4,,,
-2026-08-22,2026-08-22 08:35,gate,MOVE/USDT,0.00864,17.23,17.18,3.1,,,
+2026-08-22,2026-08-22 08:41,gate,BEAT/USDT,0.1729,6.47,18.88,50.6,,,
+2026-08-22,2026-08-22 08:41,gate,MOVE/USDT,0.00862,16.96,17.26,3.1,,,
 2026-08-22,2026-08-22 08:25,gate,RE/USDT,0.54866,4.59,15.23,3.1,,,
 2026-08-22,2026-08-22 07:05,gate,STX/USDT,0.1956,3.11,13.63,3.3,,,
 2026-08-22,2026-08-22 05:55,gate,ZRO/USDT,1.027,3.01,12.01,5.8,,,
@@ -1864,7 +1864,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-22,2026-08-22 04:56,gate,PI/USDT,0.1092,11.77,3.14,6.7,,,
 2026-08-22,2026-08-22 04:56,gate,SOL/USDT,99.99,6.71,3.02,573.7,,,
 2026-08-22,2026-08-22 04:56,gate,LINK/USDT,12.558,4.71,2.81,24.6,,,
-2026-08-22,2026-08-22 08:35,gate,TRUMP/USDT,2.719,45.71,2.7,148.0,,,
+2026-08-22,2026-08-22 08:41,gate,TRUMP/USDT,2.746,47.16,2.71,148.8,,,
 2026-08-22,2026-08-22 02:46,gate,LIT/USDT,3.226,3.03,2.69,8.0,,,
 2026-08-22,2026-08-22 04:56,gate,NEAR/USDT,2.145,9.1,2.67,13.5,,,
 2026-08-22,2026-08-22 04:56,gate,ARB/USDT,0.10881,10.88,2.66,6.0,,,
