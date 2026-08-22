@@ -1817,19 +1817,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-21,2026-08-21 23:36,gate,PI/USDT,0.0974,6.8,2.27,4.7,,,
 2026-08-21,2026-08-21 23:36,gate,TIA/USDT,0.3945,14.81,2.22,3.2,,,
 2026-08-21,2026-08-21 23:36,gate,NEAR/USDT,1.9737,11.78,2.18,10.6,,,
-2026-08-22,2026-08-22 02:05,gate,PEPE/USDT,4e-06,3.11,46396608.12,70.5,,0.0,"Benzinga: If You Invested $1,000 in Pepe Coin When Elon Musk Shared a Pepe Meme, Heres How Much Youd Have Today"
-2026-08-22,2026-08-22 02:05,gate,BONK/USDT,3e-06,5.31,4350989.42,5.4,ATH,2.0,Brave New Coin: BONK Price Faces Daily Resistance After Trading 96% Under Its Record High
+2026-08-22,2026-08-22 02:10,gate,PEPE/USDT,4e-06,3.13,46531902.65,70.7,,0.0,"Benzinga: If You Invested $1,000 in Pepe Coin When Elon Musk Shared a Pepe Meme, Heres How Much Youd Have Today"
+2026-08-22,2026-08-22 02:10,gate,BONK/USDT,3e-06,4.79,4374976.46,5.4,ATH,2.0,Brave New Coin: BONK Price Faces Daily Resistance After Trading 96% Under Its Record High
 2026-08-22,2026-08-22 01:26,gate,FLOKI/USDT,3e-05,3.12,59375.41,3.3,,49.0,Coindar: FLOKI to Hold AMA on Telegram on July 6th
 2026-08-22,2026-08-22 01:41,gate,SHIB/USDT,6e-06,3.3,31750.18,18.2,,0.0,U.Today: Shiba Inu: Shytoshi Kusama's Potential X Comeback Sparks Fresh Speculation
-2026-08-22,2026-08-22 02:05,gate,PUMP/USDT,0.00424,4.36,2757.22,19.8,,0.0,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
+2026-08-22,2026-08-22 02:10,gate,PUMP/USDT,0.004259,4.82,2766.55,19.8,,0.0,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
 2026-08-22,2026-08-22 02:01,gate,HEMI/USDT,0.010518,3.42,604.74,18.2,,164.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-22,2026-08-22 01:20,gate,ONG/USDT,0.08902,3.01,209.74,27.1,,140.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-22,2026-08-22 02:01,gate,牛来/USDT,0.06176,4.01,145.82,13.8,,,
 2026-08-22,2026-08-22 02:05,gate,ENA/USDT,0.14657,3.13,92.07,60.0,,0.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
 2026-08-22,2026-08-22 01:05,gate,LAB/USDT,0.09035,3.15,86.77,4.0,,,
-2026-08-22,2026-08-22 01:46,gate,XRP/USDT,1.4997,3.11,43.32,302.7,,0.0,Benzinga: XRP Surges 40% off the Lows: Short Squeeze or Something Bigger?
+2026-08-22,2026-08-22 02:10,gate,PEOPLE/USDT,0.011711,3.02,64.77,10.2,,4.0,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
+2026-08-22,2026-08-22 02:10,gate,XRP/USDT,1.5023,3.29,43.79,306.0,,0.0,Benzinga: XRP Surges 40% off the Lows: Short Squeeze or Something Bigger?
 2026-08-22,2026-08-22 02:01,gate,BEAT/USDT,0.1687,3.88,15.16,40.6,,74.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-22,2026-08-22 02:05,gate,FARTCOIN/USDT,0.20569,4.67,4.29,18.7,,134.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-08-22,2026-08-22 02:05,gate,WIF/USDT,0.2117,6.17,3.59,8.9,,8.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
+2026-08-22,2026-08-22 02:10,gate,FARTCOIN/USDT,0.20321,3.41,4.31,18.8,,134.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-08-22,2026-08-22 02:10,gate,WIF/USDT,0.2106,5.62,3.61,8.9,,8.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
 2026-08-22,2026-08-22 01:46,gate,SUI/USDT,0.8699,3.08,3.39,32.7,,0.0,CoinMarketCal: Sui: Basecamp launches agentic finance products - 07 Oct 2026 to 08 Oct 2026
-2026-08-22,2026-08-22 02:05,gate,DOT/USDT,0.983,4.57,3.17,10.0,ETF,11.0,"CryptoProwl: Grayscale Drops Plans For Cardano, Polkadot and Hedera ETFs"
+2026-08-22,2026-08-22 02:10,gate,DOT/USDT,0.981,4.36,3.2,10.1,ETF,11.0,"CryptoProwl: Grayscale Drops Plans For Cardano, Polkadot and Hedera ETFs"
