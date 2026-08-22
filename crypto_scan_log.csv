@@ -1818,24 +1818,27 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-21,2026-08-21 23:36,gate,TIA/USDT,0.3945,14.81,2.22,3.2,,,
 2026-08-21,2026-08-21 23:36,gate,NEAR/USDT,1.9737,11.78,2.18,10.6,,,
 2026-08-22,2026-08-22 02:26,gate,PEPE/USDT,4e-06,4.03,47077718.07,71.5,,0.0,"Benzinga: If You Invested $1,000 in Pepe Coin When Elon Musk Shared a Pepe Meme, Heres How Much Youd Have Today"
-2026-08-22,2026-08-22 02:35,gate,BONK/USDT,3e-06,3.99,4453274.62,5.5,ATH,2,Brave New Coin: BONK Price Faces Daily Resistance After Trading 96% Under Its Record High
+2026-08-22,2026-08-22 02:41,gate,BONK/USDT,3e-06,4.66,4474713.9,5.5,ATH,2,Brave New Coin: BONK Price Faces Daily Resistance After Trading 96% Under Its Record High
 2026-08-22,2026-08-22 02:31,gate,FLOKI/USDT,3e-05,3.09,61193.38,3.4,,49.0,Coindar: FLOKI to Hold AMA on Telegram on July 6th
 2026-08-22,2026-08-22 01:41,gate,SHIB/USDT,6e-06,3.3,31750.18,18.2,,0.0,U.Today: Shiba Inu: Shytoshi Kusama's Potential X Comeback Sparks Fresh Speculation
-2026-08-22,2026-08-22 02:35,gate,PUMP/USDT,0.004193,3.2,2827.37,20.3,,0,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
+2026-08-22,2026-08-22 02:41,gate,PUMP/USDT,0.00421,3.62,2843.78,20.4,,0,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
 2026-08-22,2026-08-22 02:16,gate,HEMI/USDT,0.0105,3.24,605.92,18.3,,164.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-22,2026-08-22 01:20,gate,ONG/USDT,0.08902,3.01,209.74,27.1,,140.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-22,2026-08-22 02:01,gate,牛来/USDT,0.06176,4.01,145.82,13.8,,,
-2026-08-22,2026-08-22 02:35,gate,ENA/USDT,0.14643,3.03,92.79,60.5,,0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
-2026-08-22,2026-08-22 01:05,gate,LAB/USDT,0.09035,3.15,86.77,4.0,,,
+2026-08-22,2026-08-22 02:41,gate,ASTER/USDT,0.7312,3.07,97.46,8.9,,29,CoinMarketCal: Aster: launches Strategy Vault - Q3 2026
+2026-08-22,2026-08-22 02:41,gate,ENA/USDT,0.14727,3.62,92.94,60.6,,0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
+2026-08-22,2026-08-22 02:41,gate,LAB/USDT,0.09065,3.49,89.23,4.1,,,
 2026-08-22,2026-08-22 02:10,gate,PEOPLE/USDT,0.011711,3.02,64.77,10.2,,4.0,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
-2026-08-22,2026-08-22 02:35,gate,XRP/USDT,1.5251,4.86,45.04,314.7,,0,Benzinga: XRP Surges 40% off the Lows: Short Squeeze or Something Bigger?
-2026-08-22,2026-08-22 02:35,gate,XLM/USDT,0.2082,3.14,32.58,8.6,,3,Invezz: Can XLM hold $0.14 as bearish traders tighten their grip on Stellar?
+2026-08-22,2026-08-22 02:41,gate,XRP/USDT,1.5352,5.56,45.24,316.1,,0,Benzinga: XRP Surges 40% off the Lows: Short Squeeze or Something Bigger?
+2026-08-22,2026-08-22 02:41,gate,XLM/USDT,0.21004,4.05,32.83,8.6,,3,Invezz: Can XLM hold $0.14 as bearish traders tighten their grip on Stellar?
+2026-08-22,2026-08-22 02:41,gate,ADA/USDT,0.2361,3.01,23.48,47.8,,0,CoinMarketCal: Cardano: Constitutional Committee vote expires - 01 Sep 2026
 2026-08-22,2026-08-22 02:01,gate,BEAT/USDT,0.1687,3.88,15.16,40.6,,74.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-22,2026-08-22 02:35,gate,FARTCOIN/USDT,0.20359,3.6,4.37,19.0,,134,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-08-22,2026-08-22 02:35,gate,WIF/USDT,0.2123,6.47,3.7,9.2,,8,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
-2026-08-22,2026-08-22 02:35,gate,SUI/USDT,0.8753,3.72,3.46,33.3,,0,CoinMarketCal: Sui: Basecamp launches agentic finance products - 07 Oct 2026 to 08 Oct 2026
-2026-08-22,2026-08-22 02:35,gate,DOT/USDT,0.991,5.43,3.41,10.8,,,
-2026-08-22,2026-08-22 02:31,gate,ONDO/USDT,0.4099,3.25,2.99,20.3,,,
-2026-08-22,2026-08-22 02:35,gate,PI/USDT,0.102,4.4,2.55,5.4,,,
-2026-08-22,2026-08-22 02:35,gate,NEAR/USDT,2.0728,5.43,2.36,11.9,,,
-2026-08-22,2026-08-22 02:35,gate,TIA/USDT,0.4123,4.46,2.23,3.3,,,
+2026-08-22,2026-08-22 02:41,gate,FARTCOIN/USDT,0.20453,4.08,4.38,19.1,,,
+2026-08-22,2026-08-22 02:41,gate,WIF/USDT,0.2144,7.52,3.71,9.2,,,
+2026-08-22,2026-08-22 02:41,gate,SUI/USDT,0.8904,5.51,3.5,33.7,,,
+2026-08-22,2026-08-22 02:41,gate,DOT/USDT,0.995,5.85,3.43,10.9,,,
+2026-08-22,2026-08-22 02:41,gate,ONDO/USDT,0.4105,3.4,3.02,20.5,,,
+2026-08-22,2026-08-22 02:41,gate,LIT/USDT,3.227,3.07,2.69,8.0,,,
+2026-08-22,2026-08-22 02:41,gate,PI/USDT,0.1022,4.61,2.56,5.5,,,
+2026-08-22,2026-08-22 02:41,gate,NEAR/USDT,2.0758,5.58,2.4,12.1,,,
+2026-08-22,2026-08-22 02:41,gate,TIA/USDT,0.4161,5.42,2.24,3.3,,,
