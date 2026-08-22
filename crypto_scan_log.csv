@@ -1818,48 +1818,48 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-21,2026-08-21 23:36,gate,TIA/USDT,0.3945,14.81,2.22,3.2,,,
 2026-08-21,2026-08-21 23:36,gate,NEAR/USDT,1.9737,11.78,2.18,10.6,,,
 2026-08-22,2026-08-22 04:56,gate,PEPE/USDT,4e-06,8.16,53419621.24,81.1,,0.0,"Benzinga: If You Invested $1,000 in Pepe Coin When Elon Musk Shared a Pepe Meme, Heres How Much Youd Have Today"
-2026-08-22,2026-08-22 06:55,gate,BONK/USDT,3e-06,3.76,5882343.78,7.3,ATH,2,Brave New Coin: BONK Price Faces Daily Resistance After Trading 96% Under Its Record High
+2026-08-22,2026-08-22 07:01,gate,BONK/USDT,3e-06,4.47,5664637.74,7.0,ATH,2,Brave New Coin: BONK Price Faces Daily Resistance After Trading 96% Under Its Record High
 2026-08-22,2026-08-22 04:56,gate,FLOKI/USDT,3.1e-05,4.74,68539.36,3.8,,49.0,Coindar: FLOKI to Hold AMA on Telegram on July 6th
 2026-08-22,2026-08-22 04:56,gate,SHIB/USDT,6e-06,4.39,35129.34,20.2,,0.0,U.Today: Shiba Inu: Shytoshi Kusama's Potential X Comeback Sparks Fresh Speculation
 2026-08-22,2026-08-22 04:56,gate,BOME/USDT,0.001289,5.44,6199.16,21.3,,24.0,Coinpedia: BOME Price Is Heating Up AgainHeres Why
-2026-08-22,2026-08-22 06:55,gate,PUMP/USDT,0.00464,14.2,3855.84,27.6,,0,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
+2026-08-22,2026-08-22 07:01,gate,PUMP/USDT,0.00464,14.2,3796.13,27.2,,0,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
 2026-08-22,2026-08-22 04:56,gate,PENGU/USDT,0.009252,3.75,622.69,17.3,,23.0,Invezz: PENGU price struggles after comic debut: why are traders selling?
 2026-08-22,2026-08-22 05:21,gate,HEMI/USDT,0.010594,4.17,534.45,16.1,,164.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-22,2026-08-22 01:20,gate,ONG/USDT,0.08902,3.01,209.74,27.1,,140.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-22,2026-08-22 03:56,gate,BB/USDT,0.01133,3.19,181.99,4.3,Hack,0.0,"The Block: BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit"
-2026-08-22,2026-08-22 06:55,gate,AKE/USDT,0.008654,4.83,168.51,6.9,,303,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-22,2026-08-22 07:01,gate,AKE/USDT,0.008739,5.87,163.7,6.7,,303,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-22,2026-08-22 05:31,gate,牛来/USDT,0.06142,3.44,143.17,13.5,,,
-2026-08-22,2026-08-22 06:55,gate,MELANIA/USDT,0.12109,32.11,126.96,4.3,,,
+2026-08-22,2026-08-22 07:01,gate,MELANIA/USDT,0.11895,29.77,127.41,4.3,,,
 2026-08-22,2026-08-22 04:56,gate,ASTER/USDT,0.7449,5.0,111.78,10.2,,,
-2026-08-22,2026-08-22 06:55,gate,ENA/USDT,0.15335,7.9,106.87,69.6,,0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
-2026-08-22,2026-08-22 06:55,gate,BTW/USDT,0.51184,5.8,105.37,12.6,,,
-2026-08-22,2026-08-22 06:55,gate,POL/USDT,0.11162,17.48,97.35,3.0,,3,Coinpedia: Polygon (POL) Price Surges: Can Bulls Break the $0.10 Resistance?
+2026-08-22,2026-08-22 07:01,gate,ENA/USDT,0.15253,7.32,103.18,67.2,,0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
+2026-08-22,2026-08-22 06:55,gate,POL/USDT,0.11162,17.48,97.35,3.0,,3.0,Coinpedia: Polygon (POL) Price Surges: Can Bulls Break the $0.10 Resistance?
 2026-08-22,2026-08-22 04:56,gate,LAB/USDT,0.09248,5.58,94.15,4.3,,,
-2026-08-22,2026-08-22 06:55,gate,XRP/USDT,1.5653,7.63,73.23,511.7,,0,Benzinga: XRP Surges 40% off the Lows: Short Squeeze or Something Bigger?
+2026-08-22,2026-08-22 07:01,gate,BTW/USDT,0.502905,3.95,89.95,10.8,,,
+2026-08-22,2026-08-22 07:01,gate,XRP/USDT,1.5744,8.25,72.42,506.0,,0,Benzinga: XRP Surges 40% off the Lows: Short Squeeze or Something Bigger?
 2026-08-22,2026-08-22 04:56,gate,PEOPLE/USDT,0.011846,4.2,66.95,10.5,,,
 2026-08-22,2026-08-22 05:16,gate,WLFI/USDT,0.06448,3.1,58.29,22.5,,0.0,CoinMarketCal: World Liberty Financial: RWA campaign phase ends - 31 Dec 2026
-2026-08-22,2026-08-22 06:55,gate,XLM/USDT,0.20984,3.95,50.46,13.3,,,
+2026-08-22,2026-08-22 07:01,gate,XLM/USDT,0.21081,4.43,48.86,12.9,,3,Invezz: Can XLM hold $0.14 as bearish traders tighten their grip on Stellar?
 2026-08-22,2026-08-22 04:56,gate,DOGE/USDT,0.09847,7.58,42.67,160.5,,,
 2026-08-22,2026-08-22 04:56,gate,SAND/USDT,0.05173,5.31,35.26,5.3,,,
 2026-08-22,2026-08-22 04:56,gate,CFX/USDT,0.05236,4.2,33.19,3.7,,,
 2026-08-22,2026-08-22 04:56,gate,VIRTUAL/USDT,0.7653,5.5,30.57,4.7,,,
-2026-08-22,2026-08-22 06:55,gate,MUBARAK/USDT,0.02631,27.41,27.3,4.8,,,
+2026-08-22,2026-08-22 07:01,gate,MUBARAK/USDT,0.02658,28.72,26.93,4.7,,,
 2026-08-22,2026-08-22 04:56,gate,ADA/USDT,0.2541,10.86,26.43,53.8,,,
 2026-08-22,2026-08-22 03:56,gate,TUT/USDT,0.042501,4.0,23.03,5.4,,,
 2026-08-22,2026-08-22 05:35,gate,BEAT/USDT,0.1706,5.05,17.71,47.5,,,
-2026-08-22,2026-08-22 06:55,gate,RE/USDT,0.55179,5.18,15.79,3.2,,,
-2026-08-22,2026-08-22 06:55,gate,STX/USDT,0.1968,3.74,13.69,3.3,,,
-2026-08-22,2026-08-22 06:55,gate,ZAMA/USDT,0.05823,11.81,12.54,3.4,,,
+2026-08-22,2026-08-22 07:01,gate,RE/USDT,0.55115,5.06,14.99,3.0,,,
+2026-08-22,2026-08-22 07:01,gate,STX/USDT,0.1969,3.8,13.63,3.3,,,
+2026-08-22,2026-08-22 07:01,gate,ZAMA/USDT,0.05811,11.58,12.17,3.3,,,
 2026-08-22,2026-08-22 05:55,gate,ZRO/USDT,1.027,3.01,12.01,5.8,,,
 2026-08-22,2026-08-22 05:50,gate,DOT/USDT,0.969,3.09,5.24,16.6,,,
-2026-08-22,2026-08-22 06:55,gate,WIF/USDT,0.206,3.31,4.8,11.9,,,
+2026-08-22,2026-08-22 07:01,gate,WIF/USDT,0.2056,3.11,4.68,11.6,,,
 2026-08-22,2026-08-22 04:56,gate,FARTCOIN/USDT,0.21174,7.75,4.67,20.4,,,
 2026-08-22,2026-08-22 04:56,gate,SUI/USDT,0.9459,12.09,4.21,40.5,,,
-2026-08-22,2026-08-22 06:55,gate,TRB/USDT,18.76,3.82,4.16,17.9,,,
+2026-08-22,2026-08-22 07:01,gate,TRB/USDT,18.77,3.87,4.13,17.8,,,
 2026-08-22,2026-08-22 04:56,gate,FET/USDT,0.1825,6.54,3.93,9.8,,,
 2026-08-22,2026-08-22 04:56,gate,GRAM/USDT,1.5571,4.27,3.41,5.9,,,
-2026-08-22,2026-08-22 06:55,gate,WLD/USDT,0.4167,3.86,3.25,44.6,,,
 2026-08-22,2026-08-22 04:56,gate,ONDO/USDT,0.4253,7.13,3.24,22.0,,,
+2026-08-22,2026-08-22 07:01,gate,WLD/USDT,0.418,4.19,3.18,43.7,,,
 2026-08-22,2026-08-22 04:56,gate,PI/USDT,0.1092,11.77,3.14,6.7,,,
 2026-08-22,2026-08-22 04:56,gate,SOL/USDT,99.99,6.71,3.02,573.7,,,
 2026-08-22,2026-08-22 04:56,gate,LINK/USDT,12.558,4.71,2.81,24.6,,,
@@ -1867,6 +1867,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-22,2026-08-22 04:56,gate,NEAR/USDT,2.145,9.1,2.67,13.5,,,
 2026-08-22,2026-08-22 04:56,gate,ARB/USDT,0.10881,10.88,2.66,6.0,,,
 2026-08-22,2026-08-22 04:56,gate,AVAX/USDT,8.282,5.66,2.57,18.6,,,
-2026-08-22,2026-08-22 06:55,gate,TRUMP/USDT,2.996,60.56,2.47,135.5,,,
+2026-08-22,2026-08-22 07:01,gate,TRUMP/USDT,2.974,59.38,2.47,135.8,,,
 2026-08-22,2026-08-22 04:56,gate,TIA/USDT,0.4223,6.99,2.46,3.6,,,
 2026-08-22,2026-08-22 04:56,gate,UNI/USDT,4.436,7.28,2.23,24.1,,,
