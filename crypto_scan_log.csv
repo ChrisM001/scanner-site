@@ -1873,10 +1873,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-22,2026-08-22 21:05,gate,LIT/USDT,3.257,4.02,2.27,6.8,,,
 2026-08-23,2026-08-23 17:21,gate,BONK/USDT,3e-06,3.1,2299807.05,3.1,ATH,3.0,Brave New Coin: BONK Price Faces Daily Resistance After Trading 96% Under Its Record High
 2026-08-23,2026-08-23 02:01,mexc,1000BONK/USDT,0.003298,5.19,27269.94,13.8,,,
-2026-08-23,2026-08-23 19:48,gate,PUMP/USDT,0.005142,3.67,4619.46,39.9,,,
+2026-08-23,2026-08-23 19:55,gate,PUMP/USDT,0.005125,3.33,4622.72,40.0,,,
 2026-08-23,2026-08-23 18:11,gate,BOME/USDT,0.001214,3.01,1237.25,4.6,,,
 2026-08-23,2026-08-23 02:01,mexc,CATE/USDT,0.088,48.78,538.39,13.3,,,
-2026-08-23,2026-08-23 19:48,gate,PENGU/USDT,0.009931,18.24,435.27,14.0,,,
+2026-08-23,2026-08-23 19:55,gate,PENGU/USDT,0.009951,18.48,441.66,14.2,,,
 2026-08-23,2026-08-23 02:01,mexc,TUT/USDT,0.05719,28.83,411.09,44.0,,12.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-23,2026-08-23 01:51,mexc,DOGE/USDT,0.0933,3.26,292.91,263.8,,1.0,"U.Today: DOGE/BTC Getting 'Interesting,' Top Trader Claims"
 2026-08-23,2026-08-23 02:01,mexc,PUMPFUN/USDT,0.004928,5.54,292.31,96.5,,,
@@ -1887,9 +1887,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 14:31,gate,SQD/USDT,0.0315,3.48,73.78,3.2,,286.0,CoinMarketCal: SQD (SQD) - Podcast w/ RollUp - 12 Nov 2025
 2026-08-23,2026-08-23 05:01,gate,BTW/USDT,0.468041,4.3,71.56,8.8,,,
 2026-08-23,2026-08-23 16:40,gate,牛来/USDT,0.04616,4.43,67.19,5.9,,,
-2026-08-23,2026-08-23 19:48,gate,XPL/USDT,0.10332,10.36,64.15,4.4,,,
+2026-08-23,2026-08-23 19:55,gate,XPL/USDT,0.1029,9.91,64.23,4.4,,,
 2026-08-23,2026-08-23 02:01,mexc,STX/USDT,0.2196,12.04,62.29,9.8,,7.0,CoinMarketCal: Stacks: Genesis Bond enrollment opens - 10 Sep 2026
-2026-08-23,2026-08-23 19:48,gate,ENA/USDT,0.16574,4.79,53.69,40.8,,,
+2026-08-23,2026-08-23 19:55,gate,ENA/USDT,0.16499,4.31,53.8,40.8,,,
 2026-08-23,2026-08-23 02:01,mexc,ENA/USDT,0.1577,4.29,41.35,117.9,,1.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
 2026-08-23,2026-08-23 01:36,mexc,PYTH/USDT,0.05209,3.02,33.23,3.1,,,
 2026-08-23,2026-08-23 02:45,gate,HOME/USDT,0.00625,3.65,33.09,3.4,,106.0,CoinMarketCal: HOME - Announcement - 18 May 2026
@@ -1901,7 +1901,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 02:01,mexc,LAB/USDT,0.07413,3.57,15.06,3.7,,,
 2026-08-23,2026-08-23 01:05,gate,MOVE/USDT,0.00896,14.58,13.18,3.7,Partner,65.0,Binance News: Movement Integrates With NEAR Intents to Enable Cross-Chain Stablecoin Yield Deposits
 2026-08-23,2026-08-23 19:48,gate,UAI/USDT,0.28087,14.81,10.37,4.4,,,
-2026-08-23,2026-08-23 19:48,gate,ZRO/USDT,1.213,4.84,9.6,6.3,,,
+2026-08-23,2026-08-23 19:55,gate,ZRO/USDT,1.203,3.98,9.61,6.3,,,
 2026-08-23,2026-08-23 19:48,gate,STX/USDT,0.2346,6.98,9.4,3.6,,,
 2026-08-23,2026-08-23 09:50,gate,BEAT/USDT,0.1427,3.18,6.99,19.3,,76.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-23,2026-08-23 02:01,mexc,XRP/USDT,1.4905,3.52,5.25,1969.5,,,
@@ -1909,7 +1909,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 02:01,mexc,ZRO/USDT,1.1645,14.51,4.27,9.7,,,
 2026-08-23,2026-08-23 00:45,gate,SOL/USDT,96.67,3.09,2.7,539.4,Upgrade,0.0,The Block: Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal
 2026-08-23,2026-08-23 19:41,gate,SUI/USDT,0.8392,3.07,2.6,28.6,,,
-2026-08-23,2026-08-23 19:48,gate,FARTCOIN/USDT,0.1855,4.14,2.47,12.4,,,
+2026-08-23,2026-08-23 19:55,gate,FARTCOIN/USDT,0.18469,3.69,2.48,12.4,,,
 2026-08-23,2026-08-23 01:36,mexc,SPX/USDT,0.4523,3.02,2.43,4.3,,,
 2026-08-23,2026-08-23 19:48,gate,ONDO/USDT,0.3816,5.07,2.24,16.6,,,
-2026-08-23,2026-08-23 19:48,gate,UNI/USDT,4.562,6.19,2.04,23.5,,,
+2026-08-23,2026-08-23 19:55,gate,UNI/USDT,4.558,6.1,2.04,23.5,,,
