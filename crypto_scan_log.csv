@@ -1876,12 +1876,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 02:01,mexc,TUT/USDT,0.05719,28.83,411.09,44.0,,12.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-23,2026-08-23 01:51,mexc,DOGE/USDT,0.0933,3.26,292.91,263.8,,1.0,"U.Today: DOGE/BTC Getting 'Interesting,' Top Trader Claims"
 2026-08-23,2026-08-23 02:01,mexc,PUMPFUN/USDT,0.004928,5.54,292.31,96.5,,,
-2026-08-23,2026-08-23 05:15,gate,TAC/USDT,0.001737,5.59,172.82,4.5,,,
+2026-08-23,2026-08-23 05:55,gate,TAC/USDT,0.001715,4.26,173.81,4.5,,,
 2026-08-23,2026-08-23 02:01,mexc,BTW/USDT,0.4596,6.33,150.98,31.7,,,
 2026-08-23,2026-08-23 03:15,gate,HEMI/USDT,0.010398,4.25,113.52,3.5,,165.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-23,2026-08-23 05:50,gate,TUT/USDT,0.06361,4.35,86.77,20.6,,12,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-23,2026-08-23 05:55,gate,TUT/USDT,0.063059,3.44,87.19,20.7,,12,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-23,2026-08-23 05:55,gate,牛来/USDT,0.04579,3.6,71.58,6.3,,,
 2026-08-23,2026-08-23 05:01,gate,BTW/USDT,0.468041,4.3,71.56,8.8,,,
-2026-08-23,2026-08-23 05:50,gate,牛来/USDT,0.04579,3.6,71.37,6.3,,,
 2026-08-23,2026-08-23 02:01,mexc,STX/USDT,0.2196,12.04,62.29,9.8,,7.0,CoinMarketCal: Stacks: Genesis Bond enrollment opens - 10 Sep 2026
 2026-08-23,2026-08-23 00:55,gate,XRP/USDT,1.5063,3.07,59.49,501.1,,0.0,Beincrypto: $830 Million in an Hour: XRP and TRUMP Drive New Record in South Korea
 2026-08-23,2026-08-23 02:01,mexc,ENA/USDT,0.1577,4.29,41.35,117.9,,1.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
