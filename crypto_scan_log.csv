@@ -1876,14 +1876,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 00:11,mexc,TUT/USDT,0.06128,38.04,388.13,41.5,,12.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-23,2026-08-23 00:11,mexc,PUMPFUN/USDT,0.004962,6.27,302.16,99.7,,,
 2026-08-23,2026-08-23 00:05,mexc,BTW/USDT,0.44703,3.42,154.42,32.5,,,
-2026-08-23,2026-08-23 01:05,gate,牛来/USDT,0.04581,3.64,81.03,7.2,,,
+2026-08-23,2026-08-23 01:10,gate,牛来/USDT,0.0469,6.11,81.41,7.2,,,
 2026-08-23,2026-08-23 00:11,mexc,STX/USDT,0.2217,13.11,63.33,10.0,,7.0,CoinMarketCal: Stacks: Genesis Bond enrollment opens - 10 Sep 2026
 2026-08-23,2026-08-23 00:55,gate,XRP/USDT,1.5063,3.07,59.49,501.1,,0.0,Beincrypto: $830 Million in an Hour: XRP and TRUMP Drive New Record in South Korea
 2026-08-23,2026-08-23 00:01,gate,TUT/USDT,0.062843,3.09,55.2,13.1,,12.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-23,2026-08-23 00:11,mexc,ENA/USDT,0.15931,5.36,42.06,120.0,,1.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
 2026-08-23,2026-08-23 00:05,mexc,ONG/USDT,0.06991,4.12,17.41,3.0,,141.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-23,2026-08-23 00:11,mexc,LAB/USDT,0.07462,4.26,15.45,3.8,,,
-2026-08-23,2026-08-23 01:05,gate,MOVE/USDT,0.00896,14.58,13.18,3.7,Partner,65,Binance News: Movement Integrates With NEAR Intents to Enable Cross-Chain Stablecoin Yield Deposits
-2026-08-23,2026-08-23 01:05,gate,FARTCOIN/USDT,0.1836,3.08,4.82,24.2,,135,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-08-23,2026-08-23 01:05,gate,MOVE/USDT,0.00896,14.58,13.18,3.7,Partner,65.0,Binance News: Movement Integrates With NEAR Intents to Enable Cross-Chain Stablecoin Yield Deposits
+2026-08-23,2026-08-23 01:10,gate,FARTCOIN/USDT,0.18359,3.07,4.82,24.2,,135,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-23,2026-08-23 00:11,mexc,ZRO/USDT,1.136,11.71,3.76,8.5,,0.0,Binance News: LayerZero to End Off-Chain Support for 15 Networks Within 30 Days
 2026-08-23,2026-08-23 00:45,gate,SOL/USDT,96.67,3.09,2.7,539.4,Upgrade,0.0,The Block: Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal
