@@ -1872,7 +1872,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-22,2026-08-22 04:56,gate,TIA/USDT,0.4223,6.99,2.46,3.6,,,
 2026-08-22,2026-08-22 21:05,gate,LIT/USDT,3.257,4.02,2.27,6.8,,,
 2026-08-23,2026-08-23 02:01,mexc,1000BONK/USDT,0.003298,5.19,27269.94,13.8,,,
-2026-08-23,2026-08-23 08:05,gate,PUMP/USDT,0.005129,3.41,5155.77,44.6,,1,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
+2026-08-23,2026-08-23 08:05,gate,PUMP/USDT,0.005129,3.41,5155.77,44.6,,1.0,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
 2026-08-23,2026-08-23 02:01,mexc,CATE/USDT,0.088,48.78,538.39,13.3,,,
 2026-08-23,2026-08-23 02:01,mexc,TUT/USDT,0.05719,28.83,411.09,44.0,,12.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-23,2026-08-23 01:51,mexc,DOGE/USDT,0.0933,3.26,292.91,263.8,,1.0,"U.Today: DOGE/BTC Getting 'Interesting,' Top Trader Claims"
@@ -1880,9 +1880,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 07:11,gate,TAC/USDT,0.001714,4.19,174.63,4.6,,,
 2026-08-23,2026-08-23 02:01,mexc,BTW/USDT,0.4596,6.33,150.98,31.7,,,
 2026-08-23,2026-08-23 03:15,gate,HEMI/USDT,0.010398,4.25,113.52,3.5,,165.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-23,2026-08-23 08:05,gate,TUT/USDT,0.066561,9.19,94.74,22.5,,12,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-23,2026-08-23 08:15,gate,TUT/USDT,0.067052,9.99,95.6,22.7,,12,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-23,2026-08-23 05:01,gate,BTW/USDT,0.468041,4.3,71.56,8.8,,,
-2026-08-23,2026-08-23 08:05,gate,牛来/USDT,0.04701,6.36,69.84,6.2,,,
+2026-08-23,2026-08-23 08:15,gate,牛来/USDT,0.04632,4.8,70.58,6.2,,,
 2026-08-23,2026-08-23 02:01,mexc,STX/USDT,0.2196,12.04,62.29,9.8,,7.0,CoinMarketCal: Stacks: Genesis Bond enrollment opens - 10 Sep 2026
 2026-08-23,2026-08-23 00:55,gate,XRP/USDT,1.5063,3.07,59.49,501.1,,0.0,Beincrypto: $830 Million in an Hour: XRP and TRUMP Drive New Record in South Korea
 2026-08-23,2026-08-23 02:01,mexc,ENA/USDT,0.1577,4.29,41.35,117.9,,1.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
@@ -1892,7 +1892,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 02:01,mexc,LAB/USDT,0.07413,3.57,15.06,3.7,,,
 2026-08-23,2026-08-23 01:05,gate,MOVE/USDT,0.00896,14.58,13.18,3.7,Partner,65.0,Binance News: Movement Integrates With NEAR Intents to Enable Cross-Chain Stablecoin Yield Deposits
 2026-08-23,2026-08-23 07:35,gate,BEAT/USDT,0.1443,4.34,7.54,20.8,,76.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-23,2026-08-23 08:05,gate,ZRO/USDT,1.227,6.05,5.64,3.7,,1,Binance News: LayerZero to End Off-Chain Support for 15 Networks Within 30 Days
+2026-08-23,2026-08-23 08:15,gate,ZRO/USDT,1.222,5.62,5.69,3.7,,1,Binance News: LayerZero to End Off-Chain Support for 15 Networks Within 30 Days
 2026-08-23,2026-08-23 02:01,mexc,XRP/USDT,1.4905,3.52,5.25,1969.5,,,
 2026-08-23,2026-08-23 01:40,gate,FARTCOIN/USDT,0.18346,3.0,4.86,24.4,,135.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-23,2026-08-23 06:55,gate,SKYAI/USDT,0.07001,3.23,4.76,3.4,,,
