@@ -1880,7 +1880,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 07:11,gate,TAC/USDT,0.001714,4.19,174.63,4.6,,,
 2026-08-23,2026-08-23 02:01,mexc,BTW/USDT,0.4596,6.33,150.98,31.7,,,
 2026-08-23,2026-08-23 03:15,gate,HEMI/USDT,0.010398,4.25,113.52,3.5,,165.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-23,2026-08-23 07:45,gate,TUT/USDT,0.064511,5.82,93.75,22.3,,12.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-23,2026-08-23 08:01,gate,TUT/USDT,0.066099,8.43,94.18,22.4,,12.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-23,2026-08-23 05:01,gate,BTW/USDT,0.468041,4.3,71.56,8.8,,,
 2026-08-23,2026-08-23 07:15,gate,牛来/USDT,0.04559,3.14,69.88,6.2,,,
 2026-08-23,2026-08-23 02:01,mexc,STX/USDT,0.2196,12.04,62.29,9.8,,7.0,CoinMarketCal: Stacks: Genesis Bond enrollment opens - 10 Sep 2026
@@ -1892,7 +1892,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 02:01,mexc,LAB/USDT,0.07413,3.57,15.06,3.7,,,
 2026-08-23,2026-08-23 01:05,gate,MOVE/USDT,0.00896,14.58,13.18,3.7,Partner,65.0,Binance News: Movement Integrates With NEAR Intents to Enable Cross-Chain Stablecoin Yield Deposits
 2026-08-23,2026-08-23 07:35,gate,BEAT/USDT,0.1443,4.34,7.54,20.8,,76.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-23,2026-08-23 07:45,gate,ZRO/USDT,1.223,5.7,5.55,3.6,,1.0,Binance News: LayerZero to End Off-Chain Support for 15 Networks Within 30 Days
+2026-08-23,2026-08-23 08:01,gate,ZRO/USDT,1.223,5.7,5.6,3.7,,1.0,Binance News: LayerZero to End Off-Chain Support for 15 Networks Within 30 Days
 2026-08-23,2026-08-23 02:01,mexc,XRP/USDT,1.4905,3.52,5.25,1969.5,,,
 2026-08-23,2026-08-23 01:40,gate,FARTCOIN/USDT,0.18346,3.0,4.86,24.4,,135.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-23,2026-08-23 06:55,gate,SKYAI/USDT,0.07001,3.23,4.76,3.4,,,
