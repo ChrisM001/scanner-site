@@ -1873,7 +1873,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-22,2026-08-22 21:05,gate,LIT/USDT,3.257,4.02,2.27,6.8,,,
 2026-08-23,2026-08-23 13:50,gate,BONK/USDT,3e-06,3.35,2275227.78,3.1,ATH,3.0,Brave New Coin: BONK Price Faces Daily Resistance After Trading 96% Under Its Record High
 2026-08-23,2026-08-23 02:01,mexc,1000BONK/USDT,0.003298,5.19,27269.94,13.8,,,
-2026-08-23,2026-08-23 15:20,gate,PUMP/USDT,0.005261,6.07,4955.16,42.9,,2,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
+2026-08-23,2026-08-23 15:25,gate,PUMP/USDT,0.005283,6.51,4960.53,42.9,,2,Coinpedia: Can Pump.fun (PUMP) Price Breaks $0.005 After Finally Escaping Its Downtrend?
 2026-08-23,2026-08-23 13:21,gate,BOME/USDT,0.001222,3.6,1196.86,4.4,,26.0,Coinpedia: BOME Price Is Heating Up AgainHeres Why
 2026-08-23,2026-08-23 02:01,mexc,CATE/USDT,0.088,48.78,538.39,13.3,,,
 2026-08-23,2026-08-23 02:01,mexc,TUT/USDT,0.05719,28.83,411.09,44.0,,12.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
@@ -1885,26 +1885,27 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 03:15,gate,HEMI/USDT,0.010398,4.25,113.52,3.5,,165.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-23,2026-08-23 14:31,gate,SQD/USDT,0.0315,3.48,73.78,3.2,,286.0,CoinMarketCal: SQD (SQD) - Podcast w/ RollUp - 12 Nov 2025
 2026-08-23,2026-08-23 05:01,gate,BTW/USDT,0.468041,4.3,71.56,8.8,,,
-2026-08-23,2026-08-23 15:20,gate,牛来/USDT,0.04801,8.62,66.91,5.9,,,
+2026-08-23,2026-08-23 15:25,gate,牛来/USDT,0.048,8.6,66.93,5.9,,,
 2026-08-23,2026-08-23 02:01,mexc,STX/USDT,0.2196,12.04,62.29,9.8,,7.0,CoinMarketCal: Stacks: Genesis Bond enrollment opens - 10 Sep 2026
-2026-08-23,2026-08-23 15:20,gate,ENA/USDT,0.1722,8.87,49.5,37.6,,2,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
+2026-08-23,2026-08-23 15:25,gate,ENA/USDT,0.17413,10.09,49.83,37.8,,2,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
 2026-08-23,2026-08-23 02:01,mexc,ENA/USDT,0.1577,4.29,41.35,117.9,,1.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
 2026-08-23,2026-08-23 01:36,mexc,PYTH/USDT,0.05209,3.02,33.23,3.1,,,
 2026-08-23,2026-08-23 02:45,gate,HOME/USDT,0.00625,3.65,33.09,3.4,,106.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-23,2026-08-23 15:05,gate,XRP/USDT,1.5126,3.5,30.49,256.8,,0.0,U.Today: Ripple CEO: US Has Never Been Closer to Clear Crypto Rules
 2026-08-23,2026-08-23 10:56,gate,ONG/USDT,0.07256,3.04,20.96,3.1,,141.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
-2026-08-23,2026-08-23 15:20,gate,VIRTUAL/USDT,0.7109,3.25,20.06,3.4,,6,CoinMarketCal: Virtuals Protocol: Beefy launches autocompounding vaults - 17 Aug 2026
+2026-08-23,2026-08-23 15:25,gate,VIRTUAL/USDT,0.7153,3.89,20.2,3.4,,6,CoinMarketCal: Virtuals Protocol: Beefy launches autocompounding vaults - 17 Aug 2026
 2026-08-23,2026-08-23 14:35,gate,XLM/USDT,0.20189,3.22,18.05,5.4,,1.0,U.Today: Chasing XRP: Stellar (XLM) Targets Next Breakout Milestone After 22% Weekly Jump
 2026-08-23,2026-08-23 00:05,mexc,ONG/USDT,0.06991,4.12,17.41,3.0,,141.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-23,2026-08-23 02:01,mexc,LAB/USDT,0.07413,3.57,15.06,3.7,,,
 2026-08-23,2026-08-23 01:05,gate,MOVE/USDT,0.00896,14.58,13.18,3.7,Partner,65.0,Binance News: Movement Integrates With NEAR Intents to Enable Cross-Chain Stablecoin Yield Deposits
-2026-08-23,2026-08-23 15:20,gate,STX/USDT,0.2293,4.56,10.05,3.9,,8,CoinMarketCal: Stacks: Genesis Bond enrollment opens - 10 Sep 2026
-2026-08-23,2026-08-23 15:20,gate,ZRO/USDT,1.25,8.04,9.06,5.9,,1,Binance News: LayerZero to End Off-Chain Support for 15 Networks Within 30 Days
+2026-08-23,2026-08-23 15:25,gate,STX/USDT,0.2314,5.52,10.08,3.9,,8,CoinMarketCal: Stacks: Genesis Bond enrollment opens - 10 Sep 2026
+2026-08-23,2026-08-23 15:25,gate,ZRO/USDT,1.263,9.16,9.07,5.9,,1,Binance News: LayerZero to End Off-Chain Support for 15 Networks Within 30 Days
+2026-08-23,2026-08-23 15:25,gate,UAI/USDT,0.29118,19.03,7.11,3.0,,,
 2026-08-23,2026-08-23 09:50,gate,BEAT/USDT,0.1427,3.18,6.99,19.3,,76.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-23,2026-08-23 02:01,mexc,XRP/USDT,1.4905,3.52,5.25,1969.5,,,
 2026-08-23,2026-08-23 06:55,gate,SKYAI/USDT,0.07001,3.23,4.76,3.4,,,
 2026-08-23,2026-08-23 02:01,mexc,ZRO/USDT,1.1645,14.51,4.27,9.7,,,
-2026-08-23,2026-08-23 15:20,gate,FARTCOIN/USDT,0.18697,4.97,3.93,19.8,,136,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-08-23,2026-08-23 15:25,gate,FARTCOIN/USDT,0.18916,6.2,3.94,19.8,,136,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-23,2026-08-23 00:45,gate,SOL/USDT,96.67,3.09,2.7,539.4,Upgrade,0.0,The Block: Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal
 2026-08-23,2026-08-23 01:36,mexc,SPX/USDT,0.4523,3.02,2.43,4.3,,,
-2026-08-23,2026-08-23 15:20,gate,ONDO/USDT,0.3836,5.62,2.02,15.0,ETF,2,Binance News: Ondo Finance Executive Says Tokenized Assets Follow Early ETF Adoption Pattern
+2026-08-23,2026-08-23 15:25,gate,ONDO/USDT,0.3852,6.06,2.04,15.1,,,
