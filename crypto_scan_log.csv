@@ -1884,6 +1884,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 00:05,mexc,ONG/USDT,0.06991,4.12,17.41,3.0,,141.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-23,2026-08-23 00:11,mexc,LAB/USDT,0.07462,4.26,15.45,3.8,,,
 2026-08-23,2026-08-23 01:05,gate,MOVE/USDT,0.00896,14.58,13.18,3.7,Partner,65.0,Binance News: Movement Integrates With NEAR Intents to Enable Cross-Chain Stablecoin Yield Deposits
-2026-08-23,2026-08-23 01:20,gate,FARTCOIN/USDT,0.18357,3.06,4.84,24.3,,135,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-08-23,2026-08-23 01:31,gate,FARTCOIN/USDT,0.18355,3.05,4.85,24.3,,135.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-23,2026-08-23 00:11,mexc,ZRO/USDT,1.136,11.71,3.76,8.5,,0.0,Binance News: LayerZero to End Off-Chain Support for 15 Networks Within 30 Days
 2026-08-23,2026-08-23 00:45,gate,SOL/USDT,96.67,3.09,2.7,539.4,Upgrade,0.0,The Block: Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal
