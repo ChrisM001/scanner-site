@@ -1872,13 +1872,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-22,2026-08-22 04:56,gate,TIA/USDT,0.4223,6.99,2.46,3.6,,,
 2026-08-22,2026-08-22 21:05,gate,LIT/USDT,3.257,4.02,2.27,6.8,,,
 2026-08-23,2026-08-23 00:05,mexc,1000BONK/USDT,0.003237,3.25,28811.5,14.5,,,
-2026-08-23,2026-08-23 00:05,mexc,CATE/USDT,0.081016,36.97,498.34,12.3,,,
-2026-08-23,2026-08-23 00:05,mexc,TUT/USDT,0.06002,35.21,386.52,41.3,,12,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-23,2026-08-23 00:05,mexc,PUMPFUN/USDT,0.004978,6.61,301.12,99.4,,,
+2026-08-23,2026-08-23 00:11,mexc,CATE/USDT,0.083032,40.38,501.71,12.4,,,
+2026-08-23,2026-08-23 00:11,mexc,TUT/USDT,0.06128,38.04,388.13,41.5,,12,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-23,2026-08-23 00:11,mexc,PUMPFUN/USDT,0.004962,6.27,302.16,99.7,,,
 2026-08-23,2026-08-23 00:05,mexc,BTW/USDT,0.44703,3.42,154.42,32.5,,,
-2026-08-23,2026-08-23 00:05,mexc,STX/USDT,0.2223,13.41,63.02,9.9,,7,CoinMarketCal: Stacks: Genesis Bond enrollment opens - 10 Sep 2026
+2026-08-23,2026-08-23 00:11,mexc,STX/USDT,0.2217,13.11,63.33,10.0,,7,CoinMarketCal: Stacks: Genesis Bond enrollment opens - 10 Sep 2026
 2026-08-23,2026-08-23 00:01,gate,TUT/USDT,0.062843,3.09,55.2,13.1,,12.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-23,2026-08-23 00:05,mexc,ENA/USDT,0.15915,5.25,41.94,119.6,,1,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
-2026-08-23,2026-08-23 00:05,mexc,ONG/USDT,0.06991,4.12,17.41,3.0,,141,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
-2026-08-23,2026-08-23 00:05,mexc,LAB/USDT,0.07516,5.01,15.41,3.8,,,
-2026-08-23,2026-08-23 00:05,mexc,ZRO/USDT,1.1351,11.62,3.72,8.4,,,
+2026-08-23,2026-08-23 00:11,mexc,ENA/USDT,0.15931,5.36,42.06,120.0,,1,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
+2026-08-23,2026-08-23 00:05,mexc,ONG/USDT,0.06991,4.12,17.41,3.0,,141.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-23,2026-08-23 00:11,mexc,LAB/USDT,0.07462,4.26,15.45,3.8,,,
+2026-08-23,2026-08-23 00:11,mexc,ZRO/USDT,1.136,11.71,3.76,8.5,,0,Binance News: LayerZero to End Off-Chain Support for 15 Networks Within 30 Days
