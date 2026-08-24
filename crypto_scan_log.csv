@@ -1924,3 +1924,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-24,2026-08-24 01:41,mexc,MORPHO/USDT,2.7589,3.92,7.76,4.6,,4.0,Coinpedia: MORPHO Price Jumps 4% as Markets App Adds Early Exits
 2026-08-24,2026-08-24 02:15,gate,BEAT/USDT,0.1379,3.45,4.82,13.3,,76.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-24,2026-08-24 01:41,mexc,NEAR/USDT,2.057,5.43,2.56,38.5,Upgrade,5.0,CoinMarketCal: NEAR Protocol: Gas Keys go live on mainnet - 18 Aug 2026
+2026-08-24,2026-08-24 02:35,gate,LIT/USDT,3.723,4.11,2.28,7.6,,235.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
