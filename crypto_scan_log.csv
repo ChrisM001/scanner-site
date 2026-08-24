@@ -1918,17 +1918,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-24,2026-08-24 01:31,mexc,TUT/USDT,0.05862,3.29,425.93,53.2,,13.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-24,2026-08-24 10:04,gate,VELVET/USDT,0.88944,32.54,190.85,9.8,,10.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-08-24,2026-08-24 01:41,mexc,SPK/USDT,0.02257,9.99,158.38,8.0,,,
-2026-08-24,2026-08-24 20:06,gate,AKE/USDT,0.008815,3.89,120.27,4.3,,,
+2026-08-24,2026-08-24 20:11,gate,AKE/USDT,0.008829,4.05,120.83,4.3,,,
 2026-08-24,2026-08-24 11:35,gate,TUT/USDT,0.074298,16.63,111.43,27.6,,13.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-24,2026-08-24 01:41,mexc,BTW/USDT,0.42305,3.26,72.55,15.6,,,
-2026-08-24,2026-08-24 19:51,gate,BTW/USDT,0.444297,3.73,57.11,7.1,,,
+2026-08-24,2026-08-24 20:11,gate,BTW/USDT,0.441393,3.05,56.47,7.1,,,
 2026-08-24,2026-08-24 06:26,gate,ENA/USDT,0.1667,3.2,51.51,45.4,,2.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
-2026-08-24,2026-08-24 20:06,gate,VIRTUAL/USDT,0.7722,5.46,47.89,8.5,,,
-2026-08-24,2026-08-24 20:06,gate,UAI/USDT,0.35465,26.81,28.87,12.7,,,
+2026-08-24,2026-08-24 20:11,gate,VIRTUAL/USDT,0.775,5.85,48.07,8.5,,,
+2026-08-24,2026-08-24 20:11,gate,UAI/USDT,0.35514,26.98,28.91,12.7,,,
 2026-08-24,2026-08-24 15:21,gate,ASTER/USDT,0.6963,3.28,28.25,3.4,,31.0,CoinMarketCal: Aster: launches Strategy Vault - Q3 2026
 2026-08-24,2026-08-24 01:41,mexc,MONAD/USDT,0.03016,3.21,27.61,3.1,,11.0,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
 2026-08-24,2026-08-24 01:41,mexc,PENGU/USDT,0.009629,6.68,27.15,26.9,,25.0,Invezz: PENGU price struggles after comic debut: why are traders selling?
-2026-08-24,2026-08-24 20:06,gate,STORJ/USDT,0.04955,9.96,18.15,7.1,,,
+2026-08-24,2026-08-24 20:11,gate,STORJ/USDT,0.04963,10.14,18.25,7.2,,,
 2026-08-24,2026-08-24 01:41,mexc,BASECAT/USDT,0.03429,6.82,11.9,3.0,,,
 2026-08-24,2026-08-24 01:41,mexc,MORPHO/USDT,2.7589,3.92,7.76,4.6,,4.0,Coinpedia: MORPHO Price Jumps 4% as Markets App Adds Early Exits
 2026-08-24,2026-08-24 11:56,gate,STX/USDT,0.2422,3.64,7.21,3.3,,0.0,Coinpedia: STX Price Surges 13% as Stacks Breaks Key Trendline Is $0.40 the Next Target?
