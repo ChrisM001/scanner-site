@@ -1915,11 +1915,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 01:36,mexc,SPX/USDT,0.4523,3.02,2.43,4.3,,,
 2026-08-23,2026-08-23 23:35,gate,ONDO/USDT,0.3842,5.78,2.15,16.0,,,
 2026-08-23,2026-08-23 23:35,gate,UNI/USDT,4.536,5.59,2.08,24.0,,,
-2026-08-24,2026-08-24 00:41,mexc,TUT/USDT,0.06182,8.93,432.66,54.0,,13,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-24,2026-08-24 00:41,mexc,SPK/USDT,0.02391,16.52,138.85,7.0,,,
-2026-08-24,2026-08-24 00:41,mexc,BTW/USDT,0.43366,5.85,72.57,15.6,,,
-2026-08-24,2026-08-24 00:41,mexc,MONAD/USDT,0.03037,3.93,27.23,3.0,,11,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
-2026-08-24,2026-08-24 00:41,mexc,PENGU/USDT,0.009787,8.43,25.87,25.6,,25,Invezz: PENGU price struggles after comic debut: why are traders selling?
-2026-08-24,2026-08-24 00:41,mexc,BASECAT/USDT,0.03526,9.84,11.86,3.0,,,
-2026-08-24,2026-08-24 00:41,mexc,MORPHO/USDT,2.8213,6.27,6.98,4.2,,4,Coinpedia: MORPHO Price Jumps 4% as Markets App Adds Early Exits
-2026-08-24,2026-08-24 00:41,mexc,NEAR/USDT,2.064,5.79,2.46,37.1,Upgrade,5,CoinMarketCal: NEAR Protocol: Gas Keys go live on mainnet - 18 Aug 2026
+2026-08-24,2026-08-24 00:46,mexc,TUT/USDT,0.06154,8.44,433.14,54.1,,13,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-24,2026-08-24 00:46,mexc,SPK/USDT,0.02291,11.64,144.6,7.3,,,
+2026-08-24,2026-08-24 00:46,mexc,BTW/USDT,0.43322,5.74,72.68,15.6,,,
+2026-08-24,2026-08-24 00:41,mexc,MONAD/USDT,0.03037,3.93,27.23,3.0,,11.0,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
+2026-08-24,2026-08-24 00:46,mexc,PENGU/USDT,0.009658,7.0,26.04,25.8,,25,Invezz: PENGU price struggles after comic debut: why are traders selling?
+2026-08-24,2026-08-24 00:46,mexc,BASECAT/USDT,0.03495,8.87,11.88,3.0,,,
+2026-08-24,2026-08-24 00:46,mexc,MORPHO/USDT,2.7816,4.78,7.16,4.3,,4,Coinpedia: MORPHO Price Jumps 4% as Markets App Adds Early Exits
+2026-08-24,2026-08-24 00:46,mexc,NEAR/USDT,2.037,4.4,2.5,37.6,Upgrade,5,CoinMarketCal: NEAR Protocol: Gas Keys go live on mainnet - 18 Aug 2026
