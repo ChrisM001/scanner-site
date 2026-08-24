@@ -405,9 +405,9 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-08-21,2026-08-21 12:31,NASDAQ:CDTG,1.67,18.6,2.6,3.01,0.35,23.0,EARNINGS,GlobeNewswire: CDT Environmental Technology Announces Results of Extraordinary General Meeting,premarket
 2026-08-21,2026-08-21 12:31,NASDAQ:BIVI,2.08,15.3,2.4,7.19,2.92,6.0,,"ACCESS Newswire: First Phosphate and BioVie Interviews to Air Nationally on the RedChip Small Stocks, Big Money(TM) Show on CNBC and Bloomberg TV",premarket
 2026-08-21,2026-08-21 08:10,NASDAQ:CELZ,1.28,14.29,0.3,6.54,3.45,0.0,FDA/CLIN,"Reuters: Creative Medical Technology Holdings Successfully Completes Enrollment And Treatment Across Entire FDA-Cleared Adapt Trial, Including Opioid Cohort, Advancing Celz-201 / Olastrocel Toward Rmat Evaluation And Phase 3 Planning",premarket
-2026-08-24,2026-08-24 12:10,NASDAQ:JUNS,5.36,59.57,769.7,0.49,0.12,2,OFFERING,Dow Jones Newswires: Jupiter Neurosciences: Announces Pricing of $2.0M Registered Direct Offering,premarket
+2026-08-24,2026-08-24 12:30,NASDAQ:JUNS,5.46,59.57,769.7,0.49,0.12,0,OFFERING,TradingView: Jupiter Neurosciences Prices $2.0 Million Registered Direct Offering at $6.50 Per Share,premarket
 2026-08-24,2026-08-24 08:01,NASDAQ:ADXN,5.84,28.45,274.4,0.99,3.97,47.0,,Dow Jones Newswires: Addex Announces Publication of Research Highlighting Therapeutic Potential of mGlu7 Modulation in Regulating Sleep and Wakefulness,premarket
-2026-08-24,2026-08-24 12:10,NASDAQ:SUGP,1.54,38.02,28.9,0.59,10.71,0,,TradingView: Weekly Recap: Nasdaq compliance restored and Macao exclusive rights,premarket
-2026-08-24,2026-08-24 12:10,NASDAQ:BRNX,4.1,16.56,1.4,0.68,0.13,,,,premarket
-2026-08-24,2026-08-24 12:10,NASDAQ:BIVI,1.82,15.86,0.8,8.05,0.1,1,,"ACCESS Newswire: New to The Street Broadcasts Today Across Bloomberg Television U.S., Latin America and MENA at 6:30 PM ET",premarket
+2026-08-24,2026-08-24 12:30,NASDAQ:SUGP,1.48,38.02,28.9,0.59,11.01,0,,TradingView: Weekly Recap: Nasdaq compliance restored and Macao exclusive rights,premarket
+2026-08-24,2026-08-24 12:30,NASDAQ:BRNX,4.075,16.56,1.4,0.68,0.14,,,,premarket
+2026-08-24,2026-08-24 12:30,NASDAQ:BIVI,1.85,15.86,0.8,8.05,0.11,1,,"ACCESS Newswire: New to The Street Broadcasts Today Across Bloomberg Television U.S., Latin America and MENA at 6:30 PM ET",premarket
 2026-08-24,2026-08-24 08:01,NASDAQ:IPST,11.6,10.28,0.1,0.68,0.14,5.0,,Benzinga: Why Is IP Strategy Stock Falling Today?,premarket
