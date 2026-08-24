@@ -1917,6 +1917,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-23,2026-08-23 23:35,gate,UNI/USDT,4.536,5.59,2.08,24.0,,,
 2026-08-24,2026-08-24 01:31,mexc,TUT/USDT,0.05862,3.29,425.93,53.2,,13.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-24,2026-08-24 01:41,mexc,SPK/USDT,0.02257,9.99,158.38,8.0,,,
+2026-08-24,2026-08-24 03:50,gate,TUT/USDT,0.065635,3.03,101.76,25.2,,13.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-24,2026-08-24 01:41,mexc,BTW/USDT,0.42305,3.26,72.55,15.6,,,
 2026-08-24,2026-08-24 02:45,gate,ASTER/USDT,0.6961,3.25,27.87,3.3,,31.0,CoinMarketCal: Aster: launches Strategy Vault - Q3 2026
 2026-08-24,2026-08-24 01:41,mexc,MONAD/USDT,0.03016,3.21,27.61,3.1,,11.0,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
