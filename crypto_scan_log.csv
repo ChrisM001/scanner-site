@@ -1918,15 +1918,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-24,2026-08-24 01:31,mexc,TUT/USDT,0.05862,3.29,425.93,53.2,,13.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-24,2026-08-24 01:41,mexc,SPK/USDT,0.02257,9.99,158.38,8.0,,,
 2026-08-24,2026-08-24 05:26,gate,AKE/USDT,0.00876,3.24,111.04,4.0,,305.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-24,2026-08-24 06:20,gate,TUT/USDT,0.073,14.6,100.33,24.8,,13,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-24,2026-08-24 06:26,gate,TUT/USDT,0.073762,15.79,100.66,24.9,,13,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-24,2026-08-24 01:41,mexc,BTW/USDT,0.42305,3.26,72.55,15.6,,,
-2026-08-24,2026-08-24 05:50,gate,ENA/USDT,0.1666,3.14,51.73,45.6,,2.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
+2026-08-24,2026-08-24 06:26,gate,ENA/USDT,0.1667,3.2,51.51,45.4,,2,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
 2026-08-24,2026-08-24 02:45,gate,ASTER/USDT,0.6961,3.25,27.87,3.3,,31.0,CoinMarketCal: Aster: launches Strategy Vault - Q3 2026
 2026-08-24,2026-08-24 01:41,mexc,MONAD/USDT,0.03016,3.21,27.61,3.1,,11.0,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
 2026-08-24,2026-08-24 01:41,mexc,PENGU/USDT,0.009629,6.68,27.15,26.9,,25.0,Invezz: PENGU price struggles after comic debut: why are traders selling?
-2026-08-24,2026-08-24 06:20,gate,UAI/USDT,0.32036,14.55,13.22,5.8,,,
+2026-08-24,2026-08-24 06:26,gate,UAI/USDT,0.32326,15.58,13.36,5.9,,,
 2026-08-24,2026-08-24 01:41,mexc,BASECAT/USDT,0.03429,6.82,11.9,3.0,,,
 2026-08-24,2026-08-24 01:41,mexc,MORPHO/USDT,2.7589,3.92,7.76,4.6,,4.0,Coinpedia: MORPHO Price Jumps 4% as Markets App Adds Early Exits
 2026-08-24,2026-08-24 02:15,gate,BEAT/USDT,0.1379,3.45,4.82,13.3,,76.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-24,2026-08-24 06:20,gate,LIT/USDT,3.686,3.08,3.25,10.9,,235,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
+2026-08-24,2026-08-24 06:26,gate,LIT/USDT,3.694,3.3,3.26,10.9,,235,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-24,2026-08-24 01:41,mexc,NEAR/USDT,2.057,5.43,2.56,38.5,Upgrade,5.0,CoinMarketCal: NEAR Protocol: Gas Keys go live on mainnet - 18 Aug 2026
