@@ -1923,9 +1923,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-24,2026-08-24 01:41,mexc,BTW/USDT,0.42305,3.26,72.55,15.6,,,
 2026-08-24,2026-08-24 14:11,gate,BTW/USDT,0.44203,3.2,53.16,6.7,,,
 2026-08-24,2026-08-24 06:26,gate,ENA/USDT,0.1667,3.2,51.51,45.4,,2.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
-2026-08-24,2026-08-24 14:42,gate,VIRTUAL/USDT,0.7894,7.81,30.66,5.4,,7,CoinMarketCal: Virtuals Protocol: Beefy launches autocompounding vaults - 17 Aug 2026
-2026-08-24,2026-08-24 14:35,gate,ASTER/USDT,0.6953,3.13,28.19,3.4,,31.0,CoinMarketCal: Aster: launches Strategy Vault - Q3 2026
-2026-08-24,2026-08-24 14:42,gate,UAI/USDT,0.37762,35.02,27.99,12.3,,,
+2026-08-24,2026-08-24 15:21,gate,VIRTUAL/USDT,0.8157,11.4,34.47,6.1,,7,CoinMarketCal: Virtuals Protocol: Beefy launches autocompounding vaults - 17 Aug 2026
+2026-08-24,2026-08-24 15:21,gate,ASTER/USDT,0.6963,3.28,28.25,3.4,,31,CoinMarketCal: Aster: launches Strategy Vault - Q3 2026
+2026-08-24,2026-08-24 15:21,gate,UAI/USDT,0.36009,28.75,28.09,12.4,,,
 2026-08-24,2026-08-24 01:41,mexc,MONAD/USDT,0.03016,3.21,27.61,3.1,,11.0,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
 2026-08-24,2026-08-24 01:41,mexc,PENGU/USDT,0.009629,6.68,27.15,26.9,,25.0,Invezz: PENGU price struggles after comic debut: why are traders selling?
 2026-08-24,2026-08-24 01:41,mexc,BASECAT/USDT,0.03429,6.82,11.9,3.0,,,
