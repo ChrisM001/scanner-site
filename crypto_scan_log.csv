@@ -1943,14 +1943,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 11:02,gate,TAC/USDT,0.002496,10.88,143.37,4.3,,,
 2026-08-25,2026-08-25 10:01,gate,AKE/USDT,0.008869,3.24,142.58,4.8,,306.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-25,2026-08-25 00:21,mexc,CATE/USDT,0.068576,83.55,134.85,3.6,,,
-2026-08-25,2026-08-25 11:02,gate,NES/USDT,0.1481,14.19,115.52,3.4,,,
+2026-08-25,2026-08-25 11:11,gate,NES/USDT,0.1498,15.5,115.86,3.4,,,
 2026-08-25,2026-08-25 00:16,mexc,BTW/USDT,0.45344,3.28,83.0,18.5,,,
-2026-08-25,2026-08-25 10:51,gate,TUT/USDT,0.048959,3.51,77.65,19.8,,14.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-25,2026-08-25 11:02,gate,牛来/USDT,0.03566,4.15,75.76,6.0,,,
+2026-08-25,2026-08-25 11:11,gate,牛来/USDT,0.03618,5.67,76.17,6.0,,,
+2026-08-25,2026-08-25 11:11,gate,TUT/USDT,0.048879,3.34,66.32,16.9,,14,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-25,2026-08-25 09:56,gate,BTW/USDT,0.465669,3.09,56.42,7.2,,,
 2026-08-25,2026-08-25 06:25,gate,VIRTUAL/USDT,0.819,3.32,47.48,9.7,,0.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-25,2026-08-25 00:21,mexc,AERO/USDT,0.5368,3.78,40.66,3.3,,0.0,CoinMarketCal: Aerodrome Finance: Coinbase Tokenized Stocks Go Live on Base - 24 Aug 2026
-2026-08-25,2026-08-25 11:02,gate,ONG/USDT,0.10144,24.22,39.84,6.5,,143,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-25,2026-08-25 11:11,gate,ONG/USDT,0.10197,24.87,40.32,6.6,,143,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-25,2026-08-25 05:01,gate,SUPER/USDT,0.1251,4.77,33.7,3.1,Partner,323.0,CoinMarketCal: SuperVerse (SUPER) - SuperVerse Collab Page - 05 Oct 2025
 2026-08-25,2026-08-25 00:21,mexc,MONAD/USDT,0.03113,5.27,32.81,4.2,,12.0,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
 2026-08-25,2026-08-25 05:56,gate,UAI/USDT,0.36608,4.25,28.5,13.8,,,
@@ -1963,7 +1963,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 00:21,mexc,STORJ/USDT,0.05201,18.31,9.62,5.1,,28.0,The Block: STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
 2026-08-25,2026-08-25 08:56,gate,STX/USDT,0.27,17.24,5.97,3.0,,0.0,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
 2026-08-25,2026-08-25 00:21,mexc,PORTAL/USDT,0.01721,3.17,3.87,5.8,,83.0,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
-2026-08-25,2026-08-25 11:02,gate,WIF/USDT,0.2096,4.07,3.04,8.9,,11,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
+2026-08-25,2026-08-25 11:11,gate,WIF/USDT,0.2092,3.87,3.04,8.9,,11,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
 2026-08-25,2026-08-25 03:46,gate,LIT/USDT,3.515,3.38,2.85,10.6,,236.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-25,2026-08-25 06:01,gate,SOL/USDT,101.95,3.04,2.35,503.7,,0.0,"Binance News: Crypto Liquidations Reach $221 Million in One Hour, Mostly Short Positions"
 2026-08-25,2026-08-25 07:43,gate,FARTCOIN/USDT,0.18616,3.56,2.03,11.1,,137.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
