@@ -1935,24 +1935,24 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-24,2026-08-24 11:35,gate,BEAT/USDT,0.1414,6.08,4.58,12.7,,77.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-24,2026-08-24 06:26,gate,LIT/USDT,3.694,3.3,3.26,10.9,,235.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-24,2026-08-24 01:41,mexc,NEAR/USDT,2.057,5.43,2.56,38.5,Upgrade,5.0,CoinMarketCal: NEAR Protocol: Gas Keys go live on mainnet - 18 Aug 2026
-2026-08-25,2026-08-25 05:56,gate,PEPE/USDT,4e-06,4.8,16228423.72,30.1,,2,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
-2026-08-25,2026-08-25 05:56,gate,SHIB/USDT,6e-06,3.88,8860.24,5.4,Burn,0,U.Today: Shiba Inu Burn Rate Rockets 441% After Major Price Breakout
-2026-08-25,2026-08-25 05:56,gate,PUMP/USDT,0.004894,3.21,1494.58,15.6,,1,"Binance News: Machi Big Brother Huang Licheng Opens 10x Leveraged PUMP Long, Holds About $100 Million in Positions"
+2026-08-25,2026-08-25 06:01,gate,PEPE/USDT,4e-06,4.4,15987901.84,29.7,,2,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
+2026-08-25,2026-08-25 06:01,gate,SHIB/USDT,6e-06,3.69,8630.91,5.3,Burn,0,U.Today: Shiba Inu Burn Rate Rockets 441% After Major Price Breakout
+2026-08-25,2026-08-25 05:56,gate,PUMP/USDT,0.004894,3.21,1494.58,15.6,,1.0,"Binance News: Machi Big Brother Huang Licheng Opens 10x Leveraged PUMP Long, Holds About $100 Million in Positions"
 2026-08-25,2026-08-25 00:21,mexc,TUT/USDT,0.04761,3.92,408.53,59.0,,14.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-25,2026-08-25 05:56,gate,PENGU/USDT,0.010561,7.56,321.64,14.0,,0,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
+2026-08-25,2026-08-25 06:01,gate,PENGU/USDT,0.010477,6.7,305.81,13.3,,1,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
 2026-08-25,2026-08-25 00:21,mexc,CATE/USDT,0.068576,83.55,134.85,3.6,,,
 2026-08-25,2026-08-25 04:25,gate,NES/USDT,0.1342,3.47,111.56,3.3,,,
 2026-08-25,2026-08-25 00:16,mexc,BTW/USDT,0.45344,3.28,83.0,18.5,,,
-2026-08-25,2026-08-25 05:56,gate,牛来/USDT,0.03941,15.1,69.99,5.5,,,
+2026-08-25,2026-08-25 06:01,gate,牛来/USDT,0.03921,14.52,64.89,5.1,,,
 2026-08-25,2026-08-25 04:46,gate,BTW/USDT,0.465907,3.14,56.29,7.2,,,
-2026-08-25,2026-08-25 05:56,gate,VIRTUAL/USDT,0.8207,3.53,47.58,9.7,,0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
+2026-08-25,2026-08-25 06:01,gate,VIRTUAL/USDT,0.8198,3.42,47.2,9.7,,0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-25,2026-08-25 00:21,mexc,AERO/USDT,0.5368,3.78,40.66,3.3,,0.0,CoinMarketCal: Aerodrome Finance: Coinbase Tokenized Stocks Go Live on Base - 24 Aug 2026
 2026-08-25,2026-08-25 05:01,gate,SUPER/USDT,0.1251,4.77,33.7,3.1,Partner,323.0,CoinMarketCal: SuperVerse (SUPER) - SuperVerse Collab Page - 05 Oct 2025
 2026-08-25,2026-08-25 00:21,mexc,MONAD/USDT,0.03113,5.27,32.81,4.2,,12.0,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
 2026-08-25,2026-08-25 05:56,gate,UAI/USDT,0.36608,4.25,28.5,13.8,,,
 2026-08-25,2026-08-25 05:46,gate,ENA/USDT,0.1573,3.06,24.85,24.0,,3.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
-2026-08-25,2026-08-25 05:56,gate,ONG/USDT,0.0849,3.97,24.06,4.0,,143,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
-2026-08-25,2026-08-25 05:56,gate,DOGE/USDT,0.09284,3.11,23.36,105.0,,,
+2026-08-25,2026-08-25 06:01,gate,ONG/USDT,0.08473,3.76,23.92,3.9,,143,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-25,2026-08-25 06:01,gate,DOGE/USDT,0.09277,3.03,23.03,103.5,,0,"Binance News: Crypto Liquidations Reach $221 Million in One Hour, Mostly Short Positions"
 2026-08-25,2026-08-25 05:41,gate,XRP/USDT,1.5261,3.07,21.46,206.3,,,
 2026-08-25,2026-08-25 00:16,mexc,PENGU/USDT,0.009865,3.2,19.74,20.8,,0.0,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
 2026-08-25,2026-08-25 05:56,gate,XLM/USDT,0.19976,3.21,13.17,4.3,,,
@@ -1960,5 +1960,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 00:21,mexc,STORJ/USDT,0.05201,18.31,9.62,5.1,,28.0,The Block: STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
 2026-08-25,2026-08-25 00:21,mexc,PORTAL/USDT,0.01721,3.17,3.87,5.8,,83.0,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
 2026-08-25,2026-08-25 03:46,gate,LIT/USDT,3.515,3.38,2.85,10.6,,236.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
-2026-08-25,2026-08-25 05:56,gate,SOL/USDT,102.12,3.21,2.4,513.3,,,
-2026-08-25,2026-08-25 05:56,gate,WIF/USDT,0.2306,14.5,2.33,6.8,,,
+2026-08-25,2026-08-25 06:01,gate,SOL/USDT,101.95,3.04,2.35,503.7,,0,"Binance News: Crypto Liquidations Reach $221 Million in One Hour, Mostly Short Positions"
+2026-08-25,2026-08-25 06:01,gate,WIF/USDT,0.2305,14.45,2.34,6.8,,,
