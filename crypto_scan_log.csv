@@ -1940,17 +1940,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 09:36,gate,PUMP/USDT,0.004889,3.1,1431.24,14.9,,2.0,"Binance News: Machi Big Brother Huang Licheng Opens 10x Leveraged PUMP Long, Holds About $100 Million in Positions"
 2026-08-25,2026-08-25 00:21,mexc,TUT/USDT,0.04761,3.92,408.53,59.0,,14.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-25,2026-08-25 07:11,gate,PENGU/USDT,0.01014,3.27,305.21,13.3,,1.0,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
-2026-08-25,2026-08-25 09:56,gate,AKE/USDT,0.008957,4.26,145.09,4.9,,306,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-25,2026-08-25 09:56,gate,TAC/USDT,0.002358,4.75,138.43,4.1,,,
+2026-08-25,2026-08-25 10:01,gate,AKE/USDT,0.008869,3.24,142.58,4.8,,306,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-25,2026-08-25 10:01,gate,TAC/USDT,0.002356,4.66,138.28,4.1,,,
 2026-08-25,2026-08-25 00:21,mexc,CATE/USDT,0.068576,83.55,134.85,3.6,,,
-2026-08-25,2026-08-25 09:56,gate,NES/USDT,0.144,11.03,116.36,3.4,,,
+2026-08-25,2026-08-25 10:01,gate,NES/USDT,0.1437,10.79,116.33,3.4,,,
 2026-08-25,2026-08-25 08:11,gate,TUT/USDT,0.049025,3.65,89.5,22.8,,14.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-25,2026-08-25 00:16,mexc,BTW/USDT,0.45344,3.28,83.0,18.5,,,
-2026-08-25,2026-08-25 09:56,gate,牛来/USDT,0.0395,15.36,76.68,6.1,,,
+2026-08-25,2026-08-25 10:01,gate,牛来/USDT,0.04,16.82,73.13,5.8,,,
 2026-08-25,2026-08-25 09:56,gate,BTW/USDT,0.465669,3.09,56.42,7.2,,,
 2026-08-25,2026-08-25 06:25,gate,VIRTUAL/USDT,0.819,3.32,47.48,9.7,,0.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-25,2026-08-25 00:21,mexc,AERO/USDT,0.5368,3.78,40.66,3.3,,0.0,CoinMarketCal: Aerodrome Finance: Coinbase Tokenized Stocks Go Live on Base - 24 Aug 2026
-2026-08-25,2026-08-25 09:56,gate,ONG/USDT,0.09781,19.78,37.2,6.1,,,
+2026-08-25,2026-08-25 10:01,gate,ONG/USDT,0.09767,19.61,36.44,6.0,,143,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-25,2026-08-25 05:01,gate,SUPER/USDT,0.1251,4.77,33.7,3.1,Partner,323.0,CoinMarketCal: SuperVerse (SUPER) - SuperVerse Collab Page - 05 Oct 2025
 2026-08-25,2026-08-25 00:21,mexc,MONAD/USDT,0.03113,5.27,32.81,4.2,,12.0,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
 2026-08-25,2026-08-25 05:56,gate,UAI/USDT,0.36608,4.25,28.5,13.8,,,
@@ -1963,7 +1963,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 00:21,mexc,STORJ/USDT,0.05201,18.31,9.62,5.1,,28.0,The Block: STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
 2026-08-25,2026-08-25 08:56,gate,STX/USDT,0.27,17.24,5.97,3.0,,0.0,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
 2026-08-25,2026-08-25 00:21,mexc,PORTAL/USDT,0.01721,3.17,3.87,5.8,,83.0,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
-2026-08-25,2026-08-25 09:56,gate,WIF/USDT,0.2106,4.57,3.07,9.0,,,
+2026-08-25,2026-08-25 10:01,gate,WIF/USDT,0.2104,4.47,3.02,8.8,,11,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
 2026-08-25,2026-08-25 03:46,gate,LIT/USDT,3.515,3.38,2.85,10.6,,236.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-25,2026-08-25 06:01,gate,SOL/USDT,101.95,3.04,2.35,503.7,,0.0,"Binance News: Crypto Liquidations Reach $221 Million in One Hour, Mostly Short Positions"
 2026-08-25,2026-08-25 07:43,gate,FARTCOIN/USDT,0.18616,3.56,2.03,11.1,,137.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
