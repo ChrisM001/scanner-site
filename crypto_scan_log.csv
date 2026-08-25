@@ -1935,9 +1935,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-24,2026-08-24 11:35,gate,BEAT/USDT,0.1414,6.08,4.58,12.7,,77.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-24,2026-08-24 06:26,gate,LIT/USDT,3.694,3.3,3.26,10.9,,235.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-24,2026-08-24 01:41,mexc,NEAR/USDT,2.057,5.43,2.56,38.5,Upgrade,5.0,CoinMarketCal: NEAR Protocol: Gas Keys go live on mainnet - 18 Aug 2026
-2026-08-25,2026-08-25 00:05,mexc,TUT/USDT,0.04792,4.6,407.49,58.9,,14,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-25,2026-08-25 00:05,mexc,CATE/USDT,0.07012,87.69,132.07,3.5,,,
-2026-08-25,2026-08-25 00:05,mexc,AERO/USDT,0.5452,5.41,40.05,3.2,,0,CoinMarketCal: Aerodrome Finance: Coinbase Tokenized Stocks Go Live on Base - 24 Aug 2026
-2026-08-25,2026-08-25 00:05,mexc,MONAD/USDT,0.03116,5.37,32.51,4.2,,12,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
-2026-08-25,2026-08-25 00:05,mexc,PENGU/USDT,0.009852,3.06,19.3,20.4,,0,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
-2026-08-25,2026-08-25 00:05,mexc,STORJ/USDT,0.05486,24.79,9.25,4.9,,28,The Block: STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
+2026-08-25,2026-08-25 00:16,mexc,TUT/USDT,0.04779,4.32,408.34,59.0,,14,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-25,2026-08-25 00:16,mexc,CATE/USDT,0.06984,86.94,134.05,3.5,,,
+2026-08-25,2026-08-25 00:16,mexc,BTW/USDT,0.45344,3.28,83.0,18.5,,,
+2026-08-25,2026-08-25 00:16,mexc,AERO/USDT,0.5395,4.31,40.51,3.3,,0,CoinMarketCal: Aerodrome Finance: Coinbase Tokenized Stocks Go Live on Base - 24 Aug 2026
+2026-08-25,2026-08-25 00:16,mexc,MONAD/USDT,0.03119,5.47,32.65,4.2,,12,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
+2026-08-25,2026-08-25 00:16,mexc,PENGU/USDT,0.009865,3.2,19.74,20.8,,0,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
+2026-08-25,2026-08-25 00:16,mexc,STORJ/USDT,0.05184,17.92,9.53,5.1,,28,The Block: STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
