@@ -1940,13 +1940,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 09:36,gate,PUMP/USDT,0.004889,3.1,1431.24,14.9,,2.0,"Binance News: Machi Big Brother Huang Licheng Opens 10x Leveraged PUMP Long, Holds About $100 Million in Positions"
 2026-08-25,2026-08-25 00:21,mexc,TUT/USDT,0.04761,3.92,408.53,59.0,,14.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-25,2026-08-25 07:11,gate,PENGU/USDT,0.01014,3.27,305.21,13.3,,1.0,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
-2026-08-25,2026-08-25 16:06,gate,TAC/USDT,0.002648,17.64,187.25,5.6,,,
-2026-08-25,2026-08-25 16:02,gate,AKE/USDT,0.009033,5.15,177.39,6.0,,,
+2026-08-25,2026-08-25 16:09,gate,TAC/USDT,0.002627,16.7,188.32,5.6,,,
+2026-08-25,2026-08-25 16:09,gate,AKE/USDT,0.00893,3.95,181.0,6.2,,,
 2026-08-25,2026-08-25 00:21,mexc,CATE/USDT,0.068576,83.55,134.85,3.6,,,
 2026-08-25,2026-08-25 14:46,gate,NES/USDT,0.1442,11.18,120.09,3.6,,,
 2026-08-25,2026-08-25 00:16,mexc,BTW/USDT,0.45344,3.28,83.0,18.5,,,
-2026-08-25,2026-08-25 16:06,gate,牛来/USDT,0.0363,6.02,76.59,6.0,,,
-2026-08-25,2026-08-25 16:06,gate,ONG/USDT,0.09892,21.14,61.34,10.1,,,
+2026-08-25,2026-08-25 16:09,gate,牛来/USDT,0.03606,5.32,76.68,6.1,,,
+2026-08-25,2026-08-25 16:09,gate,ONG/USDT,0.09787,19.85,61.57,10.1,,,
 2026-08-25,2026-08-25 09:56,gate,BTW/USDT,0.465669,3.09,56.42,7.2,,,
 2026-08-25,2026-08-25 06:25,gate,VIRTUAL/USDT,0.819,3.32,47.48,9.7,,0.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-25,2026-08-25 00:21,mexc,AERO/USDT,0.5368,3.78,40.66,3.3,,0.0,CoinMarketCal: Aerodrome Finance: Coinbase Tokenized Stocks Go Live on Base - 24 Aug 2026
@@ -1962,7 +1962,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 15:51,gate,WLFI/USDT,0.05933,3.2,12.7,5.7,,,
 2026-08-25,2026-08-25 05:41,gate,ADA/USDT,0.228,3.03,10.54,23.4,,,
 2026-08-25,2026-08-25 00:21,mexc,STORJ/USDT,0.05201,18.31,9.62,5.1,,28.0,The Block: STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
-2026-08-25,2026-08-25 16:06,gate,ZRO/USDT,1.281,17.63,6.97,6.0,,,
+2026-08-25,2026-08-25 16:09,gate,ZRO/USDT,1.28,17.54,7.01,6.1,,,
 2026-08-25,2026-08-25 08:56,gate,STX/USDT,0.27,17.24,5.97,3.0,,0.0,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
 2026-08-25,2026-08-25 00:21,mexc,PORTAL/USDT,0.01721,3.17,3.87,5.8,,83.0,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
 2026-08-25,2026-08-25 12:01,gate,WIF/USDT,0.2085,3.53,2.97,8.7,,11.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
