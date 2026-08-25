@@ -1935,14 +1935,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-24,2026-08-24 11:35,gate,BEAT/USDT,0.1414,6.08,4.58,12.7,,77.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-24,2026-08-24 06:26,gate,LIT/USDT,3.694,3.3,3.26,10.9,,235.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-24,2026-08-24 01:41,mexc,NEAR/USDT,2.057,5.43,2.56,38.5,Upgrade,5.0,CoinMarketCal: NEAR Protocol: Gas Keys go live on mainnet - 18 Aug 2026
-2026-08-25,2026-08-25 02:45,gate,PEPE/USDT,4e-06,4.03,14313933.08,26.6,,2.0,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
+2026-08-25,2026-08-25 02:50,gate,PEPE/USDT,4e-06,3.17,14534850.7,27.0,,2,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
 2026-08-25,2026-08-25 02:40,gate,SHIB/USDT,6e-06,3.16,7586.48,4.6,Burn,0.0,U.Today: Shiba Inu Burn Rate Rockets 441% After Major Price Breakout
 2026-08-25,2026-08-25 00:21,mexc,TUT/USDT,0.04761,3.92,408.53,59.0,,14.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-25,2026-08-25 02:35,gate,PENGU/USDT,0.010115,3.01,333.01,14.5,,0.0,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
 2026-08-25,2026-08-25 00:21,mexc,CATE/USDT,0.068576,83.55,134.85,3.6,,,
 2026-08-25,2026-08-25 00:16,mexc,BTW/USDT,0.45344,3.28,83.0,18.5,,,
-2026-08-25,2026-08-25 02:32,gate,牛来/USDT,0.0353,3.1,68.4,5.4,,,
-2026-08-25,2026-08-25 02:45,gate,VIRTUAL/USDT,0.8286,4.53,44.18,9.1,,0.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
+2026-08-25,2026-08-25 02:50,gate,牛来/USDT,0.03656,6.78,69.0,5.4,,,
+2026-08-25,2026-08-25 02:50,gate,VIRTUAL/USDT,0.8188,3.29,44.36,9.1,,0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-25,2026-08-25 00:21,mexc,AERO/USDT,0.5368,3.78,40.66,3.3,,0.0,CoinMarketCal: Aerodrome Finance: Coinbase Tokenized Stocks Go Live on Base - 24 Aug 2026
 2026-08-25,2026-08-25 00:21,mexc,MONAD/USDT,0.03113,5.27,32.81,4.2,,12.0,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
 2026-08-25,2026-08-25 02:40,gate,ENA/USDT,0.1577,3.32,28.28,27.3,,3.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
