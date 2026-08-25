@@ -1935,14 +1935,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-24,2026-08-24 11:35,gate,BEAT/USDT,0.1414,6.08,4.58,12.7,,77.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-24,2026-08-24 06:26,gate,LIT/USDT,3.694,3.3,3.26,10.9,,235.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-24,2026-08-24 01:41,mexc,NEAR/USDT,2.057,5.43,2.56,38.5,Upgrade,5.0,CoinMarketCal: NEAR Protocol: Gas Keys go live on mainnet - 18 Aug 2026
+2026-08-25,2026-08-25 02:20,gate,PEPE/USDT,4e-06,3.09,13406489.23,24.9,,2,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
 2026-08-25,2026-08-25 00:21,mexc,TUT/USDT,0.04761,3.92,408.53,59.0,,14.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-25,2026-08-25 01:31,gate,PENGU/USDT,0.010122,3.09,331.88,14.4,,0.0,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
 2026-08-25,2026-08-25 00:21,mexc,CATE/USDT,0.068576,83.55,134.85,3.6,,,
 2026-08-25,2026-08-25 00:16,mexc,BTW/USDT,0.45344,3.28,83.0,18.5,,,
-2026-08-25,2026-08-25 01:35,gate,牛来/USDT,0.03666,7.07,69.73,5.5,,,
+2026-08-25,2026-08-25 02:20,gate,牛来/USDT,0.03565,4.12,67.5,5.3,,,
 2026-08-25,2026-08-25 00:21,mexc,AERO/USDT,0.5368,3.78,40.66,3.3,,0.0,CoinMarketCal: Aerodrome Finance: Coinbase Tokenized Stocks Go Live on Base - 24 Aug 2026
 2026-08-25,2026-08-25 00:21,mexc,MONAD/USDT,0.03113,5.27,32.81,4.2,,12.0,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
+2026-08-25,2026-08-25 02:20,gate,XRP/USDT,1.5263,3.08,20.85,200.4,,0,U.Today: Analyst Names Key Level for XRP Bulls
 2026-08-25,2026-08-25 00:16,mexc,PENGU/USDT,0.009865,3.2,19.74,20.8,,0.0,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
 2026-08-25,2026-08-25 00:21,mexc,STORJ/USDT,0.05201,18.31,9.62,5.1,,28.0,The Block: STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
 2026-08-25,2026-08-25 00:21,mexc,PORTAL/USDT,0.01721,3.17,3.87,5.8,,83.0,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
-2026-08-25,2026-08-25 01:31,gate,SOL/USDT,102.2,3.29,2.12,454.6,,0.0,The Block: Crypto exchange volumes double in five days as market activity rebounds
+2026-08-25,2026-08-25 02:20,gate,SOL/USDT,101.92,3.01,2.21,474.5,,0,The Block: Crypto exchange volumes double in five days as market activity rebounds
