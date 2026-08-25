@@ -1935,14 +1935,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-24,2026-08-24 11:35,gate,BEAT/USDT,0.1414,6.08,4.58,12.7,,77.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-24,2026-08-24 06:26,gate,LIT/USDT,3.694,3.3,3.26,10.9,,235.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-24,2026-08-24 01:41,mexc,NEAR/USDT,2.057,5.43,2.56,38.5,Upgrade,5.0,CoinMarketCal: NEAR Protocol: Gas Keys go live on mainnet - 18 Aug 2026
-2026-08-25,2026-08-25 04:23,gate,PEPE/USDT,4e-06,4.21,15721298.22,29.2,,2,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
-2026-08-25,2026-08-25 04:23,gate,SHIB/USDT,6e-06,4.88,8347.37,5.1,Burn,0,U.Today: Shiba Inu Burn Rate Rockets 441% After Major Price Breakout
+2026-08-25,2026-08-25 04:25,gate,PEPE/USDT,4e-06,4.35,15782332.65,29.3,,2,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
+2026-08-25,2026-08-25 04:25,gate,SHIB/USDT,6e-06,4.5,8399.4,5.1,Burn,0,U.Today: Shiba Inu Burn Rate Rockets 441% After Major Price Breakout
 2026-08-25,2026-08-25 00:21,mexc,TUT/USDT,0.04761,3.92,408.53,59.0,,14.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-25,2026-08-25 04:23,gate,PENGU/USDT,0.010425,6.17,313.63,13.6,,0,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
+2026-08-25,2026-08-25 04:25,gate,PENGU/USDT,0.010354,5.45,314.15,13.6,,0,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
 2026-08-25,2026-08-25 00:21,mexc,CATE/USDT,0.068576,83.55,134.85,3.6,,,
-2026-08-25,2026-08-25 04:16,gate,NES/USDT,0.1344,3.62,111.24,3.3,,,
+2026-08-25,2026-08-25 04:25,gate,NES/USDT,0.1342,3.47,111.56,3.3,,,
 2026-08-25,2026-08-25 00:16,mexc,BTW/USDT,0.45344,3.28,83.0,18.5,,,
-2026-08-25,2026-08-25 04:23,gate,牛来/USDT,0.03716,8.53,68.29,5.4,,,
+2026-08-25,2026-08-25 04:25,gate,牛来/USDT,0.03673,7.27,68.37,5.4,,,
 2026-08-25,2026-08-25 04:16,gate,BTW/USDT,0.465963,3.16,55.74,7.1,,,
 2026-08-25,2026-08-25 03:40,gate,VIRTUAL/USDT,0.8197,3.41,45.38,9.3,,0.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-25,2026-08-25 00:21,mexc,AERO/USDT,0.5368,3.78,40.66,3.3,,0.0,CoinMarketCal: Aerodrome Finance: Coinbase Tokenized Stocks Go Live on Base - 24 Aug 2026
@@ -1950,7 +1950,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 02:40,gate,ENA/USDT,0.1577,3.32,28.28,27.3,,3.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
 2026-08-25,2026-08-25 03:20,gate,DOGE/USDT,0.09277,3.03,22.25,100.0,,0.0,NewsBTC: CleanCore Dumps Dogecoin Treasury To Fund $100M AI Pivot
 2026-08-25,2026-08-25 03:40,gate,XRP/USDT,1.5272,3.14,21.5,206.7,,0.0,U.Today: Analyst Names Key Level for XRP Bulls
-2026-08-25,2026-08-25 04:23,gate,ONG/USDT,0.08956,9.67,20.82,3.4,,143,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-25,2026-08-25 04:25,gate,ONG/USDT,0.08958,9.7,20.91,3.4,,143,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-25,2026-08-25 00:16,mexc,PENGU/USDT,0.009865,3.2,19.74,20.8,,0.0,Invezz: Can PENGU break $0.01 after a 17% surge and $400M volume spike?
 2026-08-25,2026-08-25 02:40,gate,XLM/USDT,0.1998,3.23,14.09,4.6,,2.0,U.Today: Chasing XRP: Stellar (XLM) Targets Next Breakout Milestone After 22% Weekly Jump
 2026-08-25,2026-08-25 03:10,gate,ADA/USDT,0.2281,3.07,10.05,22.3,,0.0,Coinpedia: Cardano (ADA) Price Rally: Why ADA Is Rising and How High Can It Go?
@@ -1958,4 +1958,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 00:21,mexc,PORTAL/USDT,0.01721,3.17,3.87,5.8,,83.0,Coinpedia: PORTAL Price Jumps 300% as Portal Studio Targets AI Agent Chaos
 2026-08-25,2026-08-25 03:46,gate,LIT/USDT,3.515,3.38,2.85,10.6,,236.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-25,2026-08-25 02:31,gate,SOL/USDT,101.98,3.07,2.24,480.7,,0.0,The Block: Crypto exchange volumes double in five days as market activity rebounds
-2026-08-25,2026-08-25 04:23,gate,WIF/USDT,0.2236,11.02,2.07,6.0,,11,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
+2026-08-25,2026-08-25 04:25,gate,WIF/USDT,0.2241,11.27,2.08,6.1,,11,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
