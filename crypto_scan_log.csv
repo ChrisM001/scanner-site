@@ -1943,13 +1943,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 12:11,gate,TAC/USDT,0.002344,4.13,157.62,4.7,,,
 2026-08-25,2026-08-25 10:01,gate,AKE/USDT,0.008869,3.24,142.58,4.8,,306.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-25,2026-08-25 00:21,mexc,CATE/USDT,0.068576,83.55,134.85,3.6,,,
-2026-08-25,2026-08-25 12:21,gate,NES/USDT,0.1486,14.57,119.13,3.5,,,
+2026-08-25,2026-08-25 12:26,gate,NES/USDT,0.1496,15.34,119.26,3.5,,,
 2026-08-25,2026-08-25 00:16,mexc,BTW/USDT,0.45344,3.28,83.0,18.5,,,
-2026-08-25,2026-08-25 12:06,gate,牛来/USDT,0.03619,5.7,77.75,6.1,,,
+2026-08-25,2026-08-25 12:26,gate,牛来/USDT,0.03539,3.36,78.63,6.2,,,
 2026-08-25,2026-08-25 11:11,gate,TUT/USDT,0.048879,3.34,66.32,16.9,,14.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-25,2026-08-25 09:56,gate,BTW/USDT,0.465669,3.09,56.42,7.2,,,
 2026-08-25,2026-08-25 06:25,gate,VIRTUAL/USDT,0.819,3.32,47.48,9.7,,0.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
-2026-08-25,2026-08-25 12:21,gate,ONG/USDT,0.09819,20.24,45.44,7.5,,,
+2026-08-25,2026-08-25 12:26,gate,ONG/USDT,0.09839,20.49,45.66,7.5,,,
 2026-08-25,2026-08-25 00:21,mexc,AERO/USDT,0.5368,3.78,40.66,3.3,,0.0,CoinMarketCal: Aerodrome Finance: Coinbase Tokenized Stocks Go Live on Base - 24 Aug 2026
 2026-08-25,2026-08-25 05:01,gate,SUPER/USDT,0.1251,4.77,33.7,3.1,Partner,323.0,CoinMarketCal: SuperVerse (SUPER) - SuperVerse Collab Page - 05 Oct 2025
 2026-08-25,2026-08-25 00:21,mexc,MONAD/USDT,0.03113,5.27,32.81,4.2,,12.0,"Chainwire: CoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language"
