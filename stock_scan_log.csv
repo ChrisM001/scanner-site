@@ -411,13 +411,21 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-08-24,2026-08-24 12:40,NASDAQ:BRNX,4.09,16.56,1.4,0.68,0.14,,,,premarket
 2026-08-24,2026-08-24 12:40,NASDAQ:BIVI,1.84,15.86,0.8,8.05,0.12,1.0,,"ACCESS Newswire: New to The Street Broadcasts Today Across Bloomberg Television U.S., Latin America and MENA at 6:30 PM ET",premarket
 2026-08-24,2026-08-24 08:01,NASDAQ:IPST,11.6,10.28,0.1,0.68,0.14,5.0,,Benzinga: Why Is IP Strategy Stock Falling Today?,premarket
-2026-08-25,2026-08-25 12:06,NASDAQ:LUCY,1.02,45.2,1182.1,7.97,1.55,0,,London Stock Exchange: RCS - Tekcapital plc - Innovative Eyewear Inc Expansion into 150 Stores,premarket
-2026-08-25,2026-08-25 12:06,NASDAQ:DAIC,3.12,153.59,112.2,1.34,18.56,0,,Benzinga: CID HoldCo (DAIC) Stock Jumps 126% After Hours: What's Going On?,premarket
+2026-08-25,2026-08-25 12:06,NASDAQ:LUCY,1.02,45.2,1182.1,7.97,1.55,0.0,,London Stock Exchange: RCS - Tekcapital plc - Innovative Eyewear Inc Expansion into 150 Stores,premarket
+2026-08-25,2026-08-25 12:06,NASDAQ:DAIC,3.12,153.59,112.2,1.34,18.56,0.0,,Benzinga: CID HoldCo (DAIC) Stock Jumps 126% After Hours: What's Going On?,premarket
 2026-08-25,2026-08-25 08:10,NASDAQ:XPON,7.78,126.2,60.2,0.89,20.19,0.0,,Benzinga: Expion (XPON) Stock Skyrockets Monday: What's Driving the Action?,premarket
-2026-08-25,2026-08-25 12:06,NASDAQ:OLOX,1.66,12.92,49.3,1.19,0.24,1,,Benzinga: What's Going On With Olenox Industries Stock Monday?,premarket
-2026-08-25,2026-08-25 12:06,NASDAQ:DXST,2.52,19.44,29.6,1.22,0.11,3,,TradingView: Decent 10% Owner Purchased Shares Worth Over $800K,premarket
-2026-08-25,2026-08-25 12:06,AMEX:PMI,5.73,41.12,22.1,1.28,0.44,0,,Benzinga: Why Is Picard Medical Stock Gaining Monday?,premarket
+2026-08-25,2026-08-25 12:06,NASDAQ:OLOX,1.66,12.92,49.3,1.19,0.24,1.0,,Benzinga: What's Going On With Olenox Industries Stock Monday?,premarket
+2026-08-25,2026-08-25 12:06,NASDAQ:DXST,2.52,19.44,29.6,1.22,0.11,3.0,,TradingView: Decent 10% Owner Purchased Shares Worth Over $800K,premarket
+2026-08-25,2026-08-25 12:06,AMEX:PMI,5.73,41.12,22.1,1.28,0.44,0.0,,Benzinga: Why Is Picard Medical Stock Gaining Monday?,premarket
 2026-08-25,2026-08-25 08:10,NASDAQ:GOAI,2.59,14.35,9.6,15.42,0.16,4.0,,"TradingView: Eva extends CEO David Boulette with five-year employment deal, including equity and severance terms",premarket
 2026-08-25,2026-08-25 08:10,NASDAQ:PUSA,3.9,13.7,6.5,16.48,0.42,4.0,DEAL,Reuters: US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones,premarket
-2026-08-25,2026-08-25 12:06,NASDAQ:BTCT,2.13,42.98,5.9,8.62,6.67,0,,"Reuters: BTC Digital Signs Three-Party MOU To Advance AI Data Center Project In Hai Phong, Vietnam",premarket
+2026-08-25,2026-08-25 12:06,NASDAQ:BTCT,2.13,42.98,5.9,8.62,6.67,0.0,,"Reuters: BTC Digital Signs Three-Party MOU To Advance AI Data Center Project In Hai Phong, Vietnam",premarket
 2026-08-25,2026-08-25 12:06,NASDAQ:BRNX,4.86,12.6,0.4,0.68,0.2,,,,premarket
+2026-08-26,2026-08-26 08:01,NASDAQ:SWVL,2.31,57.14,14797.9,5.33,43.58,0,DEAL,Benzinga: Swvl Secures $13 Million Investment to Fund US Expansion,premarket
+2026-08-26,2026-08-26 08:01,NASDAQ:WVVIP,15.17,464.53,294.1,3.97,1.74,7,EARNINGS,"Zacks: Willamette Valley Vineyards Stock Dips Post Q2 Earnings, Net Loss Widens",premarket
+2026-08-26,2026-08-26 08:01,NASDAQ:DFNS,16.3,48.09,29.9,1.28,3.1,0,,Benzinga: What's Going On With T3 Defense Stock Tuesday?,premarket
+2026-08-26,2026-08-26 08:01,NASDAQ:AMIX,7.62,41.71,16.6,0.95,5.35,1,,Benzinga: Autonomix Medical (AMIX) Stock Surges 117% After Hours: Heres Why,premarket
+2026-08-26,2026-08-26 08:01,NASDAQ:DAIC,3.62,110.12,13.0,1.34,34.37,1,,Benzinga: CID HoldCo (DAIC) Stock Jumps 126% After Hours: What's Going On?,premarket
+2026-08-26,2026-08-26 08:01,AMEX:PMI,6.0,14.42,11.4,1.28,0.7,1,,Benzinga: Why Is Picard Medical Stock Gaining Monday?,premarket
+2026-08-26,2026-08-26 08:01,NASDAQ:BRNX,4.91,18.18,1.4,0.68,0.23,,,,premarket
+2026-08-26,2026-08-26 08:01,NASDAQ:BTCT,2.07,18.97,0.6,8.62,8.25,0,,Benzinga: Why BTC Digital Stock Is Surging On Tuesday,premarket
