@@ -1974,10 +1974,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 03:46,gate,LIT/USDT,3.515,3.38,2.85,10.6,,236.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-25,2026-08-25 06:01,gate,SOL/USDT,101.95,3.04,2.35,503.7,,0.0,"Binance News: Crypto Liquidations Reach $221 Million in One Hour, Mostly Short Positions"
 2026-08-25,2026-08-25 23:55,gate,FARTCOIN/USDT,0.18551,3.2,2.07,11.3,,,
-2026-08-26,2026-08-26 01:05,gate,VELVET/USDT,0.1309,4.59,143.47,8.9,,12.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
-2026-08-26,2026-08-26 01:18,gate,牛来/USDT,0.03912,9.89,67.6,5.1,,,
-2026-08-26,2026-08-26 01:18,gate,ONG/USDT,0.09983,5.04,56.92,11.5,,144,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-26,2026-08-26 01:25,gate,VELVET/USDT,0.12893,3.02,144.87,9.0,,12,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
+2026-08-26,2026-08-26 01:25,gate,牛来/USDT,0.03971,11.54,68.48,5.2,,,
+2026-08-26,2026-08-26 01:25,gate,ONG/USDT,0.10041,5.65,57.18,11.6,,144,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-26,2026-08-26 00:01,mexc,BMT/USDT,0.02306,42.78,44.76,7.3,,244.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
-2026-08-26,2026-08-26 01:18,gate,HOME/USDT,0.00632,3.27,30.99,3.2,,109,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-26,2026-08-26 01:18,gate,TUT/USDT,0.047943,7.06,27.92,7.2,,15,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-26,2026-08-26 01:18,gate,STX/USDT,0.2693,3.86,5.55,3.3,,0,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
+2026-08-26,2026-08-26 01:25,gate,HOME/USDT,0.00632,3.27,31.16,3.2,,109,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-26,2026-08-26 01:25,gate,TUT/USDT,0.047814,6.77,27.97,7.2,,15,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-26,2026-08-26 01:25,gate,STX/USDT,0.2705,4.32,5.6,3.4,,0,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
