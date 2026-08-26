@@ -1974,21 +1974,21 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 03:46,gate,LIT/USDT,3.515,3.38,2.85,10.6,,236.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-25,2026-08-25 06:01,gate,SOL/USDT,101.95,3.04,2.35,503.7,,0.0,"Binance News: Crypto Liquidations Reach $221 Million in One Hour, Mostly Short Positions"
 2026-08-25,2026-08-25 23:55,gate,FARTCOIN/USDT,0.18551,3.2,2.07,11.3,,,
-2026-08-26,2026-08-26 05:05,gate,PUMP/USDT,0.004727,5.02,1196.2,12.9,,2,"Binance News: Machi Big Brother Huang Licheng Opens 10x Leveraged PUMP Long, Holds About $100 Million in Positions"
+2026-08-26,2026-08-26 05:20,gate,PUMP/USDT,0.004718,4.82,1205.84,13.0,,2,"Binance News: Machi Big Brother Huang Licheng Opens 10x Leveraged PUMP Long, Holds About $100 Million in Positions"
 2026-08-26,2026-08-26 01:25,gate,VELVET/USDT,0.12893,3.02,144.87,9.0,,12.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
-2026-08-26,2026-08-26 05:05,gate,TAC/USDT,0.003228,22.13,104.22,5.5,,,
-2026-08-26,2026-08-26 05:05,gate,牛来/USDT,0.03685,3.51,67.65,5.1,,,
-2026-08-26,2026-08-26 05:05,gate,ONG/USDT,0.10087,6.13,55.13,11.2,,144,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-26,2026-08-26 05:20,gate,TAC/USDT,0.003131,18.46,107.03,5.6,,,
+2026-08-26,2026-08-26 05:20,gate,牛来/USDT,0.03687,3.57,67.86,5.1,,,
+2026-08-26,2026-08-26 05:20,gate,ONG/USDT,0.09978,4.99,55.38,11.2,,144,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-26,2026-08-26 00:01,mexc,BMT/USDT,0.02306,42.78,44.76,7.3,,244.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-26,2026-08-26 02:01,gate,HOME/USDT,0.00634,3.59,31.27,3.2,,109.0,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-26,2026-08-26 05:05,gate,TUT/USDT,0.047212,5.43,25.93,6.7,,15,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-26,2026-08-26 05:20,gate,TUT/USDT,0.046897,4.72,26.11,6.7,,15,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-26,2026-08-26 02:55,gate,VIRTUAL/USDT,0.7672,3.86,23.63,5.2,,1.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-26,2026-08-26 03:35,gate,BMT/USDT,0.02493,8.25,22.81,7.9,,244.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
-2026-08-26,2026-08-26 05:05,gate,PEOPLE/USDT,0.008181,4.64,22.43,4.3,,8,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
+2026-08-26,2026-08-26 05:05,gate,PEOPLE/USDT,0.008181,4.64,22.43,4.3,,8.0,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
 2026-08-26,2026-08-26 04:31,gate,UAI/USDT,0.29288,3.06,12.66,6.4,,,
 2026-08-26,2026-08-26 04:51,gate,ZRO/USDT,1.233,3.09,7.42,8.3,,0.0,The Block: ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain
-2026-08-26,2026-08-26 05:05,gate,STX/USDT,0.2756,6.29,6.37,3.8,,1,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
-2026-08-26,2026-08-26 05:05,gate,SKYAI/USDT,0.05391,11.22,5.41,4.0,,,
+2026-08-26,2026-08-26 05:20,gate,STX/USDT,0.2738,5.59,6.46,3.9,,1,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
+2026-08-26,2026-08-26 05:20,gate,SKYAI/USDT,0.05412,11.66,5.63,4.2,,,
 2026-08-26,2026-08-26 04:25,gate,WIF/USDT,0.2011,3.08,2.48,8.0,,12.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
-2026-08-26,2026-08-26 05:05,gate,BEAT/USDT,0.1318,6.2,2.42,6.8,,,
-2026-08-26,2026-08-26 05:05,gate,FARTCOIN/USDT,0.20252,9.02,2.28,12.8,,,
+2026-08-26,2026-08-26 05:20,gate,BEAT/USDT,0.1307,5.32,2.48,6.9,,78,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-26,2026-08-26 05:20,gate,FARTCOIN/USDT,0.20235,8.93,2.31,13.0,,,
