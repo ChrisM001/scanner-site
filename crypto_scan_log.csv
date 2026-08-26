@@ -1974,23 +1974,23 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 03:46,gate,LIT/USDT,3.515,3.38,2.85,10.6,,236.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-25,2026-08-25 06:01,gate,SOL/USDT,101.95,3.04,2.35,503.7,,0.0,"Binance News: Crypto Liquidations Reach $221 Million in One Hour, Mostly Short Positions"
 2026-08-25,2026-08-25 23:55,gate,FARTCOIN/USDT,0.18551,3.2,2.07,11.3,,,
-2026-08-26,2026-08-26 08:26,gate,PUMP/USDT,0.004819,7.07,1200.49,12.9,,2,"Binance News: Machi Big Brother Huang Licheng Opens 10x Leveraged PUMP Long, Holds About $100 Million in Positions"
-2026-08-26,2026-08-26 08:26,gate,BTR/USDT,0.08916,161.54,712.46,26.1,,,
+2026-08-26,2026-08-26 08:31,gate,PUMP/USDT,0.004845,7.64,1203.32,12.9,,2,"Binance News: Machi Big Brother Huang Licheng Opens 10x Leveraged PUMP Long, Holds About $100 Million in Positions"
+2026-08-26,2026-08-26 08:31,gate,BTR/USDT,0.08826,158.9,723.34,26.5,,,
 2026-08-26,2026-08-26 08:21,gate,AKE/USDT,0.009094,5.73,168.07,5.5,,307.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-26,2026-08-26 01:25,gate,VELVET/USDT,0.12893,3.02,144.87,9.0,,12.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
-2026-08-26,2026-08-26 08:26,gate,TAC/USDT,0.003336,26.22,94.83,5.0,,,
-2026-08-26,2026-08-26 08:26,gate,牛来/USDT,0.04079,14.58,63.36,4.8,,,
-2026-08-26,2026-08-26 08:26,gate,ONG/USDT,0.10626,11.81,49.51,10.0,,144,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-26,2026-08-26 08:31,gate,TAC/USDT,0.003386,28.11,95.35,5.0,,,
+2026-08-26,2026-08-26 08:31,gate,牛来/USDT,0.0407,14.33,63.46,4.8,,,
+2026-08-26,2026-08-26 08:31,gate,ONG/USDT,0.1047,10.16,49.65,10.1,,144,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-26,2026-08-26 00:01,mexc,BMT/USDT,0.02306,42.78,44.76,7.3,,244.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
-2026-08-26,2026-08-26 08:26,gate,BMT/USDT,0.02462,6.9,34.64,11.9,,244,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
+2026-08-26,2026-08-26 08:31,gate,BMT/USDT,0.02508,8.9,34.78,12.0,,244,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-26,2026-08-26 02:01,gate,HOME/USDT,0.00634,3.59,31.27,3.2,,109.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-26,2026-08-26 05:55,gate,PEOPLE/USDT,0.00809,3.48,23.07,4.4,,8.0,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
 2026-08-26,2026-08-26 06:06,gate,VIRTUAL/USDT,0.7611,3.03,21.28,4.7,,1.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
-2026-08-26,2026-08-26 08:26,gate,TUT/USDT,0.046505,3.85,19.14,4.9,,15,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-26,2026-08-26 08:31,gate,TUT/USDT,0.046785,4.47,19.15,4.9,,15,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-26,2026-08-26 04:31,gate,UAI/USDT,0.29288,3.06,12.66,6.4,,,
 2026-08-26,2026-08-26 04:51,gate,ZRO/USDT,1.233,3.09,7.42,8.3,,0.0,The Block: ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain
-2026-08-26,2026-08-26 08:26,gate,SKYAI/USDT,0.05001,3.18,5.76,4.3,,,
+2026-08-26,2026-08-26 08:31,gate,SKYAI/USDT,0.05009,3.34,5.77,4.3,,,
 2026-08-26,2026-08-26 06:51,gate,STX/USDT,0.2763,6.56,5.64,3.4,,1.0,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
-2026-08-26,2026-08-26 08:26,gate,BEAT/USDT,0.1279,3.06,2.55,7.1,,,
+2026-08-26,2026-08-26 08:31,gate,BEAT/USDT,0.128,3.14,2.56,7.1,,,
 2026-08-26,2026-08-26 04:25,gate,WIF/USDT,0.2011,3.08,2.48,8.0,,12.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
-2026-08-26,2026-08-26 08:26,gate,FARTCOIN/USDT,0.20656,11.2,2.27,12.8,,,
+2026-08-26,2026-08-26 08:31,gate,FARTCOIN/USDT,0.20688,11.37,2.28,12.8,,,
