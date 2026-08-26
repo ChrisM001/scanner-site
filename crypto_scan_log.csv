@@ -1975,14 +1975,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 06:01,gate,SOL/USDT,101.95,3.04,2.35,503.7,,0.0,"Binance News: Crypto Liquidations Reach $221 Million in One Hour, Mostly Short Positions"
 2026-08-25,2026-08-25 23:55,gate,FARTCOIN/USDT,0.18551,3.2,2.07,11.3,,,
 2026-08-26,2026-08-26 01:25,gate,VELVET/USDT,0.12893,3.02,144.87,9.0,,12.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
-2026-08-26,2026-08-26 02:05,gate,牛来/USDT,0.03946,10.84,68.42,5.2,,,
-2026-08-26,2026-08-26 02:05,gate,ONG/USDT,0.1027,8.06,57.9,11.7,,144,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-26,2026-08-26 02:15,gate,牛来/USDT,0.03951,10.98,68.65,5.2,,,
+2026-08-26,2026-08-26 02:15,gate,ONG/USDT,0.10052,5.77,58.05,11.8,,144,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-26,2026-08-26 00:01,mexc,BMT/USDT,0.02306,42.78,44.76,7.3,,244.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-26,2026-08-26 02:01,gate,HOME/USDT,0.00634,3.59,31.27,3.2,,109.0,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-26,2026-08-26 02:05,gate,TUT/USDT,0.047469,6.0,27.88,7.2,,15,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-26,2026-08-26 02:05,gate,PEOPLE/USDT,0.008119,3.85,21.68,4.2,,8,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
-2026-08-26,2026-08-26 02:05,gate,BMT/USDT,0.02428,5.43,16.68,5.7,,244,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
-2026-08-26,2026-08-26 02:05,gate,STX/USDT,0.2746,5.9,5.69,3.4,,0,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
+2026-08-26,2026-08-26 02:15,gate,TUT/USDT,0.047265,5.54,27.95,7.2,,15,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-26,2026-08-26 02:15,gate,PEOPLE/USDT,0.008089,3.47,21.73,4.2,,8,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
+2026-08-26,2026-08-26 02:05,gate,BMT/USDT,0.02428,5.43,16.68,5.7,,244.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
+2026-08-26,2026-08-26 02:15,gate,STX/USDT,0.2786,7.44,5.78,3.5,,0,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
 2026-08-26,2026-08-26 02:01,gate,WIF/USDT,0.201,3.02,2.83,9.1,,12.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
 2026-08-26,2026-08-26 02:01,gate,BEAT/USDT,0.1284,3.46,2.31,6.4,,,
-2026-08-26,2026-08-26 02:05,gate,FARTCOIN/USDT,0.19789,6.53,2.02,11.4,,138,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
+2026-08-26,2026-08-26 02:15,gate,FARTCOIN/USDT,0.19857,6.9,2.04,11.5,,138,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
