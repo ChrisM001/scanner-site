@@ -1974,23 +1974,23 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 03:46,gate,LIT/USDT,3.515,3.38,2.85,10.6,,236.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-25,2026-08-25 06:01,gate,SOL/USDT,101.95,3.04,2.35,503.7,,0.0,"Binance News: Crypto Liquidations Reach $221 Million in One Hour, Mostly Short Positions"
 2026-08-25,2026-08-25 23:55,gate,FARTCOIN/USDT,0.18551,3.2,2.07,11.3,,,
-2026-08-26,2026-08-26 11:16,gate,BTR/USDT,0.11381,233.85,1240.02,45.4,,,
-2026-08-26,2026-08-26 11:16,gate,PUMP/USDT,0.004827,7.24,1166.66,12.6,,,
+2026-08-26,2026-08-26 11:21,gate,BTR/USDT,0.11974,251.25,1261.66,46.2,,,
+2026-08-26,2026-08-26 11:21,gate,PUMP/USDT,0.004814,6.95,1169.31,12.6,,,
 2026-08-26,2026-08-26 08:21,gate,AKE/USDT,0.009094,5.73,168.07,5.5,,307.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-26,2026-08-26 01:25,gate,VELVET/USDT,0.12893,3.02,144.87,9.0,,12.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
-2026-08-26,2026-08-26 11:16,gate,TAC/USDT,0.004191,58.57,128.56,6.7,,,
-2026-08-26,2026-08-26 11:16,gate,牛来/USDT,0.03992,12.13,63.21,4.8,,,
+2026-08-26,2026-08-26 11:21,gate,TAC/USDT,0.004233,60.16,129.86,6.8,,,
+2026-08-26,2026-08-26 11:21,gate,牛来/USDT,0.04042,13.54,63.72,4.8,,,
 2026-08-26,2026-08-26 09:51,gate,ONG/USDT,0.10123,6.51,47.65,9.7,,144.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-26,2026-08-26 00:01,mexc,BMT/USDT,0.02306,42.78,44.76,7.3,,244.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
-2026-08-26,2026-08-26 11:16,gate,BMT/USDT,0.02525,9.64,41.54,14.3,,,
+2026-08-26,2026-08-26 11:21,gate,BMT/USDT,0.02512,9.08,41.61,14.3,,,
 2026-08-26,2026-08-26 02:01,gate,HOME/USDT,0.00634,3.59,31.27,3.2,,109.0,CoinMarketCal: HOME - Announcement - 18 May 2026
 2026-08-26,2026-08-26 11:11,gate,VIRTUAL/USDT,0.7613,3.06,21.07,4.7,,,
 2026-08-26,2026-08-26 10:51,gate,PEOPLE/USDT,0.008059,3.08,20.25,3.9,,,
 2026-08-26,2026-08-26 11:16,gate,TUT/USDT,0.046305,3.4,16.35,4.2,,,
 2026-08-26,2026-08-26 04:31,gate,UAI/USDT,0.29288,3.06,12.66,6.4,,,
 2026-08-26,2026-08-26 04:51,gate,ZRO/USDT,1.233,3.09,7.42,8.3,,0.0,The Block: ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain
-2026-08-26,2026-08-26 11:16,gate,SKYAI/USDT,0.05073,4.66,6.14,4.5,,,
+2026-08-26,2026-08-26 11:21,gate,SKYAI/USDT,0.05083,4.87,6.15,4.6,,,
 2026-08-26,2026-08-26 06:51,gate,STX/USDT,0.2763,6.56,5.64,3.4,,1.0,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
 2026-08-26,2026-08-26 11:11,gate,BEAT/USDT,0.1281,3.22,2.58,7.2,,,
 2026-08-26,2026-08-26 04:25,gate,WIF/USDT,0.2011,3.08,2.48,8.0,,12.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
-2026-08-26,2026-08-26 11:16,gate,FARTCOIN/USDT,0.21054,13.34,2.37,13.4,,,
+2026-08-26,2026-08-26 11:21,gate,FARTCOIN/USDT,0.2114,13.8,2.46,13.9,,,
