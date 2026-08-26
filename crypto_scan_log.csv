@@ -1974,18 +1974,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 03:46,gate,LIT/USDT,3.515,3.38,2.85,10.6,,236.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-25,2026-08-25 06:01,gate,SOL/USDT,101.95,3.04,2.35,503.7,,0.0,"Binance News: Crypto Liquidations Reach $221 Million in One Hour, Mostly Short Positions"
 2026-08-25,2026-08-25 23:55,gate,FARTCOIN/USDT,0.18551,3.2,2.07,11.3,,,
-2026-08-26,2026-08-26 04:16,gate,PUMP/USDT,0.004704,4.51,1185.71,12.8,,2,"Binance News: Machi Big Brother Huang Licheng Opens 10x Leveraged PUMP Long, Holds About $100 Million in Positions"
+2026-08-26,2026-08-26 04:25,gate,PUMP/USDT,0.004708,4.6,1191.53,12.8,,2,"Binance News: Machi Big Brother Huang Licheng Opens 10x Leveraged PUMP Long, Holds About $100 Million in Positions"
 2026-08-26,2026-08-26 01:25,gate,VELVET/USDT,0.12893,3.02,144.87,9.0,,12.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
-2026-08-26,2026-08-26 04:16,gate,牛来/USDT,0.03793,6.54,68.25,5.1,,,
-2026-08-26,2026-08-26 04:16,gate,ONG/USDT,0.1028,8.16,56.36,11.4,,144,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-26,2026-08-26 04:25,gate,牛来/USDT,0.03831,7.61,68.62,5.2,,,
+2026-08-26,2026-08-26 04:25,gate,ONG/USDT,0.10144,6.73,56.52,11.5,,144,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-26,2026-08-26 00:01,mexc,BMT/USDT,0.02306,42.78,44.76,7.3,,244.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-26,2026-08-26 02:01,gate,HOME/USDT,0.00634,3.59,31.27,3.2,,109.0,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-26,2026-08-26 04:16,gate,TUT/USDT,0.047179,5.35,27.0,6.9,,15,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-26,2026-08-26 04:25,gate,TUT/USDT,0.047424,5.9,27.07,7.0,,15,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-26,2026-08-26 02:55,gate,VIRTUAL/USDT,0.7672,3.86,23.63,5.2,,1.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-26,2026-08-26 03:35,gate,BMT/USDT,0.02493,8.25,22.81,7.9,,244.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
-2026-08-26,2026-08-26 04:16,gate,PEOPLE/USDT,0.008247,5.49,22.39,4.3,,8,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
-2026-08-26,2026-08-26 04:16,gate,STX/USDT,0.2792,7.67,6.44,3.9,,1,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
-2026-08-26,2026-08-26 04:16,gate,SKYAI/USDT,0.05385,11.1,5.19,3.8,,,
-2026-08-26,2026-08-26 04:05,gate,WIF/USDT,0.2014,3.23,2.46,7.9,,12.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
-2026-08-26,2026-08-26 04:16,gate,BEAT/USDT,0.1282,3.3,2.35,6.6,,78,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-26,2026-08-26 04:16,gate,FARTCOIN/USDT,0.20372,9.67,2.21,12.5,,,
+2026-08-26,2026-08-26 04:25,gate,PEOPLE/USDT,0.008238,5.37,22.47,4.3,,8,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
+2026-08-26,2026-08-26 04:25,gate,STX/USDT,0.2801,8.02,6.49,3.9,,1,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
+2026-08-26,2026-08-26 04:25,gate,SKYAI/USDT,0.0532,9.76,5.27,3.9,,,
+2026-08-26,2026-08-26 04:25,gate,WIF/USDT,0.2011,3.08,2.48,8.0,,12,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
+2026-08-26,2026-08-26 04:16,gate,BEAT/USDT,0.1282,3.3,2.35,6.6,,78.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-26,2026-08-26 04:25,gate,FARTCOIN/USDT,0.20664,11.24,2.24,12.7,,,
