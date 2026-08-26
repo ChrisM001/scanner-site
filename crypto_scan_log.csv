@@ -1974,19 +1974,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-25,2026-08-25 03:46,gate,LIT/USDT,3.515,3.38,2.85,10.6,,236.0,"Chainwire: Phemex Launches 30,000 USDT Incentive Program for LIT and MAGMA Trading Pairs"
 2026-08-25,2026-08-25 06:01,gate,SOL/USDT,101.95,3.04,2.35,503.7,,0.0,"Binance News: Crypto Liquidations Reach $221 Million in One Hour, Mostly Short Positions"
 2026-08-25,2026-08-25 23:55,gate,FARTCOIN/USDT,0.18551,3.2,2.07,11.3,,,
-2026-08-26,2026-08-26 04:31,gate,PUMP/USDT,0.004747,5.47,1194.27,12.8,,2,"Binance News: Machi Big Brother Huang Licheng Opens 10x Leveraged PUMP Long, Holds About $100 Million in Positions"
+2026-08-26,2026-08-26 04:35,gate,PUMP/USDT,0.004754,5.62,1200.37,12.9,,2,"Binance News: Machi Big Brother Huang Licheng Opens 10x Leveraged PUMP Long, Holds About $100 Million in Positions"
 2026-08-26,2026-08-26 01:25,gate,VELVET/USDT,0.12893,3.02,144.87,9.0,,12.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
-2026-08-26,2026-08-26 04:31,gate,牛来/USDT,0.03801,6.77,68.74,5.2,,,
-2026-08-26,2026-08-26 04:31,gate,ONG/USDT,0.10119,6.47,56.54,11.5,,144,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
+2026-08-26,2026-08-26 04:35,gate,牛来/USDT,0.03716,4.38,68.9,5.2,,,
+2026-08-26,2026-08-26 04:35,gate,ONG/USDT,0.10162,6.92,56.58,11.5,,144,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-26,2026-08-26 00:01,mexc,BMT/USDT,0.02306,42.78,44.76,7.3,,244.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
 2026-08-26,2026-08-26 02:01,gate,HOME/USDT,0.00634,3.59,31.27,3.2,,109.0,CoinMarketCal: HOME - Announcement - 18 May 2026
-2026-08-26,2026-08-26 04:31,gate,TUT/USDT,0.047534,6.15,27.08,7.0,,15,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-26,2026-08-26 04:35,gate,TUT/USDT,0.047713,6.55,27.11,7.0,,15,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-26,2026-08-26 02:55,gate,VIRTUAL/USDT,0.7672,3.86,23.63,5.2,,1.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-26,2026-08-26 03:35,gate,BMT/USDT,0.02493,8.25,22.81,7.9,,244.0,Cointelegraph: Crypto downturn reveals gap between VC valuations and market cap
-2026-08-26,2026-08-26 04:31,gate,PEOPLE/USDT,0.008239,5.39,22.49,4.3,,8,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
+2026-08-26,2026-08-26 04:35,gate,PEOPLE/USDT,0.008274,5.83,22.54,4.3,,8,Dow Jones Newswires: People Price Target Raised to $52.00/Share From $48.00 by Citigroup
 2026-08-26,2026-08-26 04:31,gate,UAI/USDT,0.29288,3.06,12.66,6.4,,,
-2026-08-26,2026-08-26 04:31,gate,STX/USDT,0.2777,7.1,6.55,3.9,,1,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
-2026-08-26,2026-08-26 04:31,gate,SKYAI/USDT,0.05365,10.69,5.32,3.9,,,
+2026-08-26,2026-08-26 04:35,gate,STX/USDT,0.2767,6.71,6.64,4.0,,1,"Benzinga: Trump Coin, Pudgy Penguins, Pepe Among Top Gainers Last Week, But This One Coin Ran Up Over 100%: What You Should Know"
+2026-08-26,2026-08-26 04:35,gate,SKYAI/USDT,0.0537,10.79,5.37,4.0,,,
 2026-08-26,2026-08-26 04:25,gate,WIF/USDT,0.2011,3.08,2.48,8.0,,12.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
 2026-08-26,2026-08-26 04:31,gate,BEAT/USDT,0.1283,3.38,2.38,6.7,,,
-2026-08-26,2026-08-26 04:31,gate,FARTCOIN/USDT,0.20736,11.63,2.26,12.7,,,
+2026-08-26,2026-08-26 04:35,gate,FARTCOIN/USDT,0.20572,10.75,2.27,12.8,,138,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
