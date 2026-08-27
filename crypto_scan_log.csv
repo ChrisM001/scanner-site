@@ -1999,11 +1999,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-26,2026-08-26 04:25,gate,WIF/USDT,0.2011,3.08,2.48,8.0,,12.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
 2026-08-27,2026-08-27 00:16,mexc,PEPE/USDT,4e-06,3.67,6275961.76,88.8,,4.0,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
 2026-08-27,2026-08-27 00:16,mexc,FLOKI/USDT,2.7e-05,6.1,157978.43,3.4,,1.0,CryptoProwl: Crypto Rally Extends To Memecoins
-2026-08-27,2026-08-27 00:20,gate,AKE/USDT,0.008111,6.11,474.16,14.2,,308.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-27,2026-08-27 00:25,gate,AKE/USDT,0.008366,9.44,482.97,14.5,,308,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-27,2026-08-27 00:11,mexc,SHIB/USDT,5e-06,3.04,414.8,5.8,,0.0,"Benzinga: SHIB Joins XRP, Bitcoin on Japan's First New Crypto Exchange in 4 Years"
+2026-08-27,2026-08-27 00:25,gate,龙虾/USDT,0.032896,3.47,410.4,8.8,,,
 2026-08-27,2026-08-27 00:01,gate,BTR/USDT,0.13894,3.97,218.0,110.0,,,
 2026-08-27,2026-08-27 00:16,mexc,ONG/USDT,0.19188,18.57,85.3,42.2,,145.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-27,2026-08-27 00:16,mexc,PUMPFUN/USDT,0.004895,3.79,84.72,31.4,,,
+2026-08-27,2026-08-27 00:25,gate,牛来/USDT,0.04783,4.36,77.85,5.8,,,
 2026-08-27,2026-08-27 00:16,mexc,DOGE/USDT,0.08709,3.1,72.64,73.9,,1.0,"Benzinga: Can Dogecoin Hold Key Support? If Yes, Traders See a Clear Path to $0.10"
 2026-08-27,2026-08-27 00:16,mexc,FARTCOIN/USDT,0.21452,11.45,19.08,25.0,,139.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-27,2026-08-27 00:16,mexc,PENGU/USDT,0.009467,7.17,10.56,11.4,,0.0,Benzinga: Pudgy Penguins Freezes Out Dogecoin and Pepe: Here's Why PENGU Took Flight
