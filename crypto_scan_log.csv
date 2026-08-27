@@ -2000,17 +2000,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 15:06,gate,PEPE/USDT,4e-06,3.3,12375579.12,22.5,,,
 2026-08-27,2026-08-27 00:41,mexc,PEPE/USDT,4e-06,3.6,6314909.98,89.4,,4.0,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
 2026-08-27,2026-08-27 00:41,mexc,FLOKI/USDT,2.7e-05,5.74,159327.75,3.4,,1.0,CryptoProwl: Crypto Rally Extends To Memecoins
-2026-08-27,2026-08-27 07:50,gate,AKE/USDT,0.007996,4.6,529.58,15.9,,308.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-27,2026-08-27 17:01,gate,AKE/USDT,0.00832,8.84,463.39,13.9,,,
 2026-08-27,2026-08-27 00:11,mexc,SHIB/USDT,5e-06,3.04,414.8,5.8,,0.0,"Benzinga: SHIB Joins XRP, Bitcoin on Japan's First New Crypto Exchange in 4 Years"
-2026-08-27,2026-08-27 16:41,gate,BTR/USDT,0.15822,18.4,212.6,107.2,,,
 2026-08-27,2026-08-27 09:55,gate,TAC/USDT,0.005782,24.5,205.79,19.6,,,
+2026-08-27,2026-08-27 17:01,gate,BTR/USDT,0.15783,18.11,205.1,103.5,,,
 2026-08-27,2026-08-27 14:56,gate,龙虾/USDT,0.033997,6.94,149.79,3.2,,,
-2026-08-27,2026-08-27 16:41,gate,牛来/USDT,0.05497,19.94,108.68,8.0,,,
+2026-08-27,2026-08-27 17:01,gate,牛来/USDT,0.05487,19.73,107.23,7.9,,,
 2026-08-27,2026-08-27 00:41,mexc,ONG/USDT,0.18012,11.3,87.57,43.4,,145.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-27,2026-08-27 00:41,mexc,PUMPFUN/USDT,0.004867,3.2,85.76,31.8,,,
 2026-08-27,2026-08-27 00:16,mexc,DOGE/USDT,0.08709,3.1,72.64,73.9,,1.0,"Benzinga: Can Dogecoin Hold Key Support? If Yes, Traders See a Clear Path to $0.10"
-2026-08-27,2026-08-27 16:41,gate,ENA/USDT,0.1676,13.79,34.12,36.0,,,
-2026-08-27,2026-08-27 16:41,gate,TUT/USDT,0.057559,14.34,29.19,7.5,,,
+2026-08-27,2026-08-27 17:01,gate,ENA/USDT,0.1671,13.45,34.13,36.0,,,
+2026-08-27,2026-08-27 17:01,gate,TUT/USDT,0.057708,14.64,28.82,7.5,,,
 2026-08-27,2026-08-27 08:51,gate,BLESS/USDT,0.010862,15.28,25.51,3.0,Listing,338.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-27,2026-08-27 00:41,mexc,FARTCOIN/USDT,0.21421,11.28,19.29,25.3,,139.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-27,2026-08-27 09:31,gate,VIRTUAL/USDT,0.7773,3.42,19.22,4.4,,2.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
@@ -2028,6 +2028,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 00:11,mexc,ZRO/USDT,1.162,3.12,2.67,12.4,,,
 2026-08-27,2026-08-27 00:41,mexc,CYS/USDT,0.8203,8.34,2.59,3.4,,,
 2026-08-27,2026-08-27 08:36,gate,BEAT/USDT,0.1276,3.07,2.52,7.0,,80.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-27,2026-08-27 16:41,gate,SOL/USDT,108.68,6.52,2.35,538.6,,,
+2026-08-27,2026-08-27 17:01,gate,SOL/USDT,108.74,6.58,2.35,538.0,,,
 2026-08-27,2026-08-27 00:41,mexc,PROM/USDT,4.314,8.36,2.23,6.8,,,
 2026-08-27,2026-08-27 00:41,mexc,SPX/USDT,0.6179,16.23,2.2,5.3,,,
