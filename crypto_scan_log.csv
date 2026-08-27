@@ -2002,16 +2002,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 00:41,mexc,FLOKI/USDT,2.7e-05,5.74,159327.75,3.4,,1.0,CryptoProwl: Crypto Rally Extends To Memecoins
 2026-08-27,2026-08-27 07:50,gate,AKE/USDT,0.007996,4.6,529.58,15.9,,308.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-27,2026-08-27 00:11,mexc,SHIB/USDT,5e-06,3.04,414.8,5.8,,0.0,"Benzinga: SHIB Joins XRP, Bitcoin on Japan's First New Crypto Exchange in 4 Years"
-2026-08-27,2026-08-27 14:02,gate,BTR/USDT,0.1575,17.86,222.13,112.0,,,
+2026-08-27,2026-08-27 14:06,gate,BTR/USDT,0.16015,19.85,222.8,112.4,,,
 2026-08-27,2026-08-27 09:55,gate,TAC/USDT,0.005782,24.5,205.79,19.6,,,
-2026-08-27,2026-08-27 14:02,gate,龙虾/USDT,0.0337,6.0,147.63,3.1,,,
-2026-08-27,2026-08-27 14:02,gate,牛来/USDT,0.05396,17.74,107.68,8.0,,,
+2026-08-27,2026-08-27 14:06,gate,龙虾/USDT,0.033807,6.34,147.83,3.2,,,
+2026-08-27,2026-08-27 14:06,gate,牛来/USDT,0.05428,18.44,108.1,8.0,,,
 2026-08-27,2026-08-27 00:41,mexc,ONG/USDT,0.18012,11.3,87.57,43.4,,145.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-27,2026-08-27 00:41,mexc,PUMPFUN/USDT,0.004867,3.2,85.76,31.8,,,
 2026-08-27,2026-08-27 00:16,mexc,DOGE/USDT,0.08709,3.1,72.64,73.9,,1.0,"Benzinga: Can Dogecoin Hold Key Support? If Yes, Traders See a Clear Path to $0.10"
-2026-08-27,2026-08-27 14:02,gate,ENA/USDT,0.15722,6.74,27.09,28.6,,,
+2026-08-27,2026-08-27 14:06,gate,ENA/USDT,0.15972,8.44,28.43,30.0,,,
 2026-08-27,2026-08-27 08:51,gate,BLESS/USDT,0.010862,15.28,25.51,3.0,Listing,338.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
-2026-08-27,2026-08-27 14:02,gate,TUT/USDT,0.063382,25.91,24.49,6.3,,,
+2026-08-27,2026-08-27 14:06,gate,TUT/USDT,0.063397,25.94,24.64,6.4,,,
 2026-08-27,2026-08-27 00:41,mexc,FARTCOIN/USDT,0.21421,11.28,19.29,25.3,,139.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-27,2026-08-27 09:31,gate,VIRTUAL/USDT,0.7773,3.42,19.22,4.4,,2.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-27,2026-08-27 10:46,gate,BMT/USDT,0.02263,5.75,11.17,4.2,,0.0,Binance News: Binance to Launch Bubblemaps (BMT) Trading Tournament With 400 BNB Prize Pool
@@ -2029,4 +2029,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 08:36,gate,BEAT/USDT,0.1276,3.07,2.52,7.0,,80.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-27,2026-08-27 00:41,mexc,PROM/USDT,4.314,8.36,2.23,6.8,,,
 2026-08-27,2026-08-27 00:41,mexc,SPX/USDT,0.6179,16.23,2.2,5.3,,,
-2026-08-27,2026-08-27 13:56,gate,SOL/USDT,105.53,3.43,2.03,463.3,,,
+2026-08-27,2026-08-27 14:06,gate,SOL/USDT,106.15,4.04,2.02,462.5,,,
