@@ -2002,14 +2002,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 07:50,gate,AKE/USDT,0.007996,4.6,529.58,15.9,,308.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-27,2026-08-27 00:11,mexc,SHIB/USDT,5e-06,3.04,414.8,5.8,,0.0,"Benzinga: SHIB Joins XRP, Bitcoin on Japan's First New Crypto Exchange in 4 Years"
 2026-08-27,2026-08-27 00:25,gate,龙虾/USDT,0.032896,3.47,410.4,8.8,,,
-2026-08-27,2026-08-27 08:11,gate,BTR/USDT,0.16856,26.14,248.02,125.1,,,
-2026-08-27,2026-08-27 08:11,gate,TAC/USDT,0.007072,52.28,178.82,17.0,,,
+2026-08-27,2026-08-27 08:31,gate,BTR/USDT,0.16021,19.89,250.74,126.5,,,
+2026-08-27,2026-08-27 08:31,gate,TAC/USDT,0.006893,48.43,185.45,17.7,,,
+2026-08-27,2026-08-27 08:31,gate,牛来/USDT,0.0621,35.5,92.32,6.8,,,
 2026-08-27,2026-08-27 00:41,mexc,ONG/USDT,0.18012,11.3,87.57,43.4,,145.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
-2026-08-27,2026-08-27 08:11,gate,牛来/USDT,0.05701,24.39,87.38,6.5,,,
 2026-08-27,2026-08-27 00:41,mexc,PUMPFUN/USDT,0.004867,3.2,85.76,31.8,,,
 2026-08-27,2026-08-27 00:16,mexc,DOGE/USDT,0.08709,3.1,72.64,73.9,,1.0,"Benzinga: Can Dogecoin Hold Key Support? If Yes, Traders See a Clear Path to $0.10"
-2026-08-27,2026-08-27 08:11,gate,ENA/USDT,0.15255,3.57,20.36,21.5,,5,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
-2026-08-27,2026-08-27 08:11,gate,TUT/USDT,0.058056,15.33,19.66,5.1,,16,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-27,2026-08-27 08:31,gate,ENA/USDT,0.15443,4.85,21.04,22.2,,5,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
+2026-08-27,2026-08-27 08:31,gate,TUT/USDT,0.056598,12.43,20.0,5.2,,16,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-27,2026-08-27 00:41,mexc,FARTCOIN/USDT,0.21421,11.28,19.29,25.3,,139.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-27,2026-08-27 00:41,mexc,PENGU/USDT,0.009477,7.29,10.88,11.8,,0.0,Benzinga: Pudgy Penguins Freezes Out Dogecoin and Pepe: Here's Why PENGU Took Flight
 2026-08-27,2026-08-27 00:41,mexc,VIRTUAL/USDT,0.7536,3.88,10.67,3.7,,2.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
