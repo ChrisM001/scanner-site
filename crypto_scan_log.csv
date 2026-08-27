@@ -1997,21 +1997,21 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-26,2026-08-26 23:40,gate,FARTCOIN/USDT,0.21643,16.51,2.97,16.8,,,
 2026-08-26,2026-08-26 11:11,gate,BEAT/USDT,0.1281,3.22,2.58,7.2,,,
 2026-08-26,2026-08-26 04:25,gate,WIF/USDT,0.2011,3.08,2.48,8.0,,12.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
-2026-08-27,2026-08-27 10:11,gate,PEPE/USDT,4e-06,3.09,12979153.77,23.6,,5.0,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
+2026-08-27,2026-08-27 10:21,gate,PEPE/USDT,4e-06,3.3,13195551.17,24.0,,5,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
 2026-08-27,2026-08-27 00:41,mexc,PEPE/USDT,4e-06,3.6,6314909.98,89.4,,4.0,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
 2026-08-27,2026-08-27 00:41,mexc,FLOKI/USDT,2.7e-05,5.74,159327.75,3.4,,1.0,CryptoProwl: Crypto Rally Extends To Memecoins
 2026-08-27,2026-08-27 07:50,gate,AKE/USDT,0.007996,4.6,529.58,15.9,,308.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-27,2026-08-27 00:11,mexc,SHIB/USDT,5e-06,3.04,414.8,5.8,,0.0,"Benzinga: SHIB Joins XRP, Bitcoin on Japan's First New Crypto Exchange in 4 Years"
 2026-08-27,2026-08-27 00:25,gate,龙虾/USDT,0.032896,3.47,410.4,8.8,,,
-2026-08-27,2026-08-27 10:16,gate,BTR/USDT,0.15132,13.24,245.06,123.6,,,
+2026-08-27,2026-08-27 10:21,gate,BTR/USDT,0.15054,12.65,245.82,124.0,,,
 2026-08-27,2026-08-27 09:55,gate,TAC/USDT,0.005782,24.5,205.79,19.6,,,
-2026-08-27,2026-08-27 10:16,gate,牛来/USDT,0.0626,36.59,107.41,7.9,,,
+2026-08-27,2026-08-27 10:21,gate,牛来/USDT,0.06222,35.76,108.56,8.0,,,
 2026-08-27,2026-08-27 00:41,mexc,ONG/USDT,0.18012,11.3,87.57,43.4,,145.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-27,2026-08-27 00:41,mexc,PUMPFUN/USDT,0.004867,3.2,85.76,31.8,,,
 2026-08-27,2026-08-27 00:16,mexc,DOGE/USDT,0.08709,3.1,72.64,73.9,,1.0,"Benzinga: Can Dogecoin Hold Key Support? If Yes, Traders See a Clear Path to $0.10"
 2026-08-27,2026-08-27 08:51,gate,BLESS/USDT,0.010862,15.28,25.51,3.0,Listing,338.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
-2026-08-27,2026-08-27 10:16,gate,TUT/USDT,0.053494,6.27,23.25,6.0,,16,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-27,2026-08-27 10:16,gate,ENA/USDT,0.15477,5.08,22.8,24.1,,0,Binance News: Machi Adds ENA Long Position as Crypto Market Rebounds
+2026-08-27,2026-08-27 10:21,gate,TUT/USDT,0.053329,5.94,23.29,6.0,,16,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-27,2026-08-27 10:21,gate,ENA/USDT,0.15456,4.94,22.88,24.2,,0,Binance News: Machi Adds ENA Long Position as Crypto Market Rebounds
 2026-08-27,2026-08-27 00:41,mexc,FARTCOIN/USDT,0.21421,11.28,19.29,25.3,,139.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-27,2026-08-27 09:31,gate,VIRTUAL/USDT,0.7773,3.42,19.22,4.4,,2.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-27,2026-08-27 00:41,mexc,PENGU/USDT,0.009477,7.29,10.88,11.8,,0.0,Benzinga: Pudgy Penguins Freezes Out Dogecoin and Pepe: Here's Why PENGU Took Flight
