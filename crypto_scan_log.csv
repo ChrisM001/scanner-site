@@ -2002,15 +2002,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 06:45,gate,AKE/USDT,0.007906,3.43,535.23,16.1,,308.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-27,2026-08-27 00:11,mexc,SHIB/USDT,5e-06,3.04,414.8,5.8,,0.0,"Benzinga: SHIB Joins XRP, Bitcoin on Japan's First New Crypto Exchange in 4 Years"
 2026-08-27,2026-08-27 00:25,gate,龙虾/USDT,0.032896,3.47,410.4,8.8,,,
-2026-08-27,2026-08-27 06:50,gate,BTR/USDT,0.16254,21.63,270.07,136.2,,,
-2026-08-27,2026-08-27 06:50,gate,TAC/USDT,0.00576,24.03,157.96,15.0,,,
+2026-08-27,2026-08-27 07:05,gate,BTR/USDT,0.1583,18.46,255.56,128.9,,,
+2026-08-27,2026-08-27 07:05,gate,TAC/USDT,0.005704,22.83,156.85,14.9,,,
 2026-08-27,2026-08-27 00:41,mexc,ONG/USDT,0.18012,11.3,87.57,43.4,,145.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-27,2026-08-27 00:41,mexc,PUMPFUN/USDT,0.004867,3.2,85.76,31.8,,,
-2026-08-27,2026-08-27 06:50,gate,牛来/USDT,0.054,17.83,77.49,5.7,,,
+2026-08-27,2026-08-27 07:05,gate,牛来/USDT,0.053,15.64,77.26,5.7,,,
 2026-08-27,2026-08-27 00:16,mexc,DOGE/USDT,0.08709,3.1,72.64,73.9,,1.0,"Benzinga: Can Dogecoin Hold Key Support? If Yes, Traders See a Clear Path to $0.10"
-2026-08-27,2026-08-27 06:50,gate,ENA/USDT,0.15287,3.79,19.75,20.9,,5,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
+2026-08-27,2026-08-27 07:05,gate,ENA/USDT,0.15186,3.1,19.66,20.8,,5,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
 2026-08-27,2026-08-27 00:41,mexc,FARTCOIN/USDT,0.21421,11.28,19.29,25.3,,139.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
-2026-08-27,2026-08-27 06:50,gate,TUT/USDT,0.054524,8.31,19.17,5.0,,16,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-27,2026-08-27 07:05,gate,TUT/USDT,0.055044,9.34,18.65,4.8,,16,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-27,2026-08-27 00:41,mexc,PENGU/USDT,0.009477,7.29,10.88,11.8,,0.0,Benzinga: Pudgy Penguins Freezes Out Dogecoin and Pepe: Here's Why PENGU Took Flight
 2026-08-27,2026-08-27 00:41,mexc,VIRTUAL/USDT,0.7536,3.88,10.67,3.7,,2.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-27,2026-08-27 00:41,mexc,ENA/USDT,0.14713,5.68,8.47,30.5,,5.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
@@ -2022,5 +2022,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 00:41,mexc,EDEN/USDT,0.06555,11.3,3.72,10.4,,,
 2026-08-27,2026-08-27 00:11,mexc,ZRO/USDT,1.162,3.12,2.67,12.4,,,
 2026-08-27,2026-08-27 00:41,mexc,CYS/USDT,0.8203,8.34,2.59,3.4,,,
+2026-08-27,2026-08-27 07:05,gate,BEAT/USDT,0.128,3.39,2.44,6.7,,80,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-27,2026-08-27 00:41,mexc,PROM/USDT,4.314,8.36,2.23,6.8,,,
 2026-08-27,2026-08-27 00:41,mexc,SPX/USDT,0.6179,16.23,2.2,5.3,,,
