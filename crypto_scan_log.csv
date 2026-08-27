@@ -2003,13 +2003,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 18:51,gate,AKE/USDT,0.008057,5.4,704.13,21.1,,,
 2026-08-27,2026-08-27 00:11,mexc,SHIB/USDT,5e-06,3.04,414.8,5.8,,0.0,"Benzinga: SHIB Joins XRP, Bitcoin on Japan's First New Crypto Exchange in 4 Years"
 2026-08-27,2026-08-27 09:55,gate,TAC/USDT,0.005782,24.5,205.79,19.6,,,
-2026-08-27,2026-08-27 19:11,gate,BTR/USDT,0.15743,17.81,196.6,99.2,,,
+2026-08-27,2026-08-27 19:21,gate,BTR/USDT,0.15693,17.44,196.71,99.2,,,
 2026-08-27,2026-08-27 14:56,gate,龙虾/USDT,0.033997,6.94,149.79,3.2,,,
-2026-08-27,2026-08-27 19:11,gate,牛来/USDT,0.04799,4.71,110.38,8.2,,,
+2026-08-27,2026-08-27 19:21,gate,牛来/USDT,0.04845,5.72,110.57,8.2,,,
 2026-08-27,2026-08-27 00:41,mexc,ONG/USDT,0.18012,11.3,87.57,43.4,,145.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-27,2026-08-27 00:41,mexc,PUMPFUN/USDT,0.004867,3.2,85.76,31.8,,,
 2026-08-27,2026-08-27 00:16,mexc,DOGE/USDT,0.08709,3.1,72.64,73.9,,1.0,"Benzinga: Can Dogecoin Hold Key Support? If Yes, Traders See a Clear Path to $0.10"
-2026-08-27,2026-08-27 19:11,gate,ENA/USDT,0.16867,14.52,35.28,37.2,,,
+2026-08-27,2026-08-27 19:21,gate,ENA/USDT,0.1675,13.72,35.5,37.5,,,
 2026-08-27,2026-08-27 19:11,gate,TUT/USDT,0.052009,3.32,30.97,8.0,,,
 2026-08-27,2026-08-27 08:51,gate,BLESS/USDT,0.010862,15.28,25.51,3.0,Listing,338.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-27,2026-08-27 00:41,mexc,FARTCOIN/USDT,0.21421,11.28,19.29,25.3,,139.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
@@ -2027,8 +2027,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 00:41,mexc,EDEN/USDT,0.06555,11.3,3.72,10.4,,,
 2026-08-27,2026-08-27 00:11,mexc,ZRO/USDT,1.162,3.12,2.67,12.4,,,
 2026-08-27,2026-08-27 00:41,mexc,CYS/USDT,0.8203,8.34,2.59,3.4,,,
-2026-08-27,2026-08-27 19:11,gate,SOL/USDT,108.65,6.49,2.56,586.1,,,
+2026-08-27,2026-08-27 19:21,gate,SOL/USDT,108.88,6.71,2.58,589.9,,,
 2026-08-27,2026-08-27 08:36,gate,BEAT/USDT,0.1276,3.07,2.52,7.0,,80.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-27,2026-08-27 00:41,mexc,PROM/USDT,4.314,8.36,2.23,6.8,,,
 2026-08-27,2026-08-27 00:41,mexc,SPX/USDT,0.6179,16.23,2.2,5.3,,,
-2026-08-27,2026-08-27 19:11,gate,WIF/USDT,0.2228,5.0,2.08,6.8,,,
+2026-08-27,2026-08-27 19:21,gate,WIF/USDT,0.2215,4.38,2.09,6.9,,,
