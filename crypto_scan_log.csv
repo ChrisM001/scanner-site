@@ -2003,17 +2003,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 07:50,gate,AKE/USDT,0.007996,4.6,529.58,15.9,,308.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-27,2026-08-27 00:11,mexc,SHIB/USDT,5e-06,3.04,414.8,5.8,,0.0,"Benzinga: SHIB Joins XRP, Bitcoin on Japan's First New Crypto Exchange in 4 Years"
 2026-08-27,2026-08-27 00:25,gate,龙虾/USDT,0.032896,3.47,410.4,8.8,,,
-2026-08-27,2026-08-27 10:25,gate,BTR/USDT,0.15198,13.73,246.14,124.1,,,
+2026-08-27,2026-08-27 10:31,gate,BTR/USDT,0.15155,13.41,246.86,124.5,,,
 2026-08-27,2026-08-27 09:55,gate,TAC/USDT,0.005782,24.5,205.79,19.6,,,
-2026-08-27,2026-08-27 10:25,gate,牛来/USDT,0.06309,37.66,109.55,8.1,,,
+2026-08-27,2026-08-27 10:31,gate,牛来/USDT,0.06163,34.48,110.34,8.2,,,
 2026-08-27,2026-08-27 00:41,mexc,ONG/USDT,0.18012,11.3,87.57,43.4,,145.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-27,2026-08-27 00:41,mexc,PUMPFUN/USDT,0.004867,3.2,85.76,31.8,,,
 2026-08-27,2026-08-27 00:16,mexc,DOGE/USDT,0.08709,3.1,72.64,73.9,,1.0,"Benzinga: Can Dogecoin Hold Key Support? If Yes, Traders See a Clear Path to $0.10"
 2026-08-27,2026-08-27 08:51,gate,BLESS/USDT,0.010862,15.28,25.51,3.0,Listing,338.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
-2026-08-27,2026-08-27 10:25,gate,TUT/USDT,0.05335,5.98,23.47,6.1,,16,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
-2026-08-27,2026-08-27 10:25,gate,ENA/USDT,0.15354,4.24,23.02,24.3,,0,Binance News: Machi Adds ENA Long Position as Crypto Market Rebounds
+2026-08-27,2026-08-27 10:31,gate,TUT/USDT,0.053433,6.14,23.54,6.1,,16,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-27,2026-08-27 10:31,gate,ENA/USDT,0.15276,3.71,23.4,24.7,,0,Binance News: Machi Adds ENA Long Position as Crypto Market Rebounds
 2026-08-27,2026-08-27 00:41,mexc,FARTCOIN/USDT,0.21421,11.28,19.29,25.3,,139.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-27,2026-08-27 09:31,gate,VIRTUAL/USDT,0.7773,3.42,19.22,4.4,,2.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
+2026-08-27,2026-08-27 10:31,gate,BMT/USDT,0.02205,3.04,11.04,4.2,,0,Binance News: Binance to Launch Bubblemaps (BMT) Trading Tournament With 400 BNB Prize Pool
 2026-08-27,2026-08-27 00:41,mexc,PENGU/USDT,0.009477,7.29,10.88,11.8,,0.0,Benzinga: Pudgy Penguins Freezes Out Dogecoin and Pepe: Here's Why PENGU Took Flight
 2026-08-27,2026-08-27 00:41,mexc,VIRTUAL/USDT,0.7536,3.88,10.67,3.7,,2.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-08-27,2026-08-27 00:41,mexc,ENA/USDT,0.14713,5.68,8.47,30.5,,5.0,Coinpedia: Ethena Price Analysis: ENA Nears $0.14 Resistance as OI Climbs Above $550M
