@@ -2002,15 +2002,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 00:41,mexc,FLOKI/USDT,2.7e-05,5.74,159327.75,3.4,,1.0,CryptoProwl: Crypto Rally Extends To Memecoins
 2026-08-27,2026-08-27 17:11,gate,AKE/USDT,0.008907,16.53,509.12,15.3,,,
 2026-08-27,2026-08-27 00:11,mexc,SHIB/USDT,5e-06,3.04,414.8,5.8,,0.0,"Benzinga: SHIB Joins XRP, Bitcoin on Japan's First New Crypto Exchange in 4 Years"
-2026-08-27,2026-08-27 17:31,gate,BTR/USDT,0.16345,22.32,207.08,104.4,,,
+2026-08-27,2026-08-27 17:36,gate,BTR/USDT,0.15594,16.7,208.14,105.0,,,
 2026-08-27,2026-08-27 09:55,gate,TAC/USDT,0.005782,24.5,205.79,19.6,,,
 2026-08-27,2026-08-27 14:56,gate,龙虾/USDT,0.033997,6.94,149.79,3.2,,,
-2026-08-27,2026-08-27 17:31,gate,牛来/USDT,0.05317,16.02,108.16,8.0,,,
+2026-08-27,2026-08-27 17:36,gate,牛来/USDT,0.0527,14.99,108.21,8.0,,,
 2026-08-27,2026-08-27 00:41,mexc,ONG/USDT,0.18012,11.3,87.57,43.4,,145.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-27,2026-08-27 00:41,mexc,PUMPFUN/USDT,0.004867,3.2,85.76,31.8,,,
 2026-08-27,2026-08-27 00:16,mexc,DOGE/USDT,0.08709,3.1,72.64,73.9,,1.0,"Benzinga: Can Dogecoin Hold Key Support? If Yes, Traders See a Clear Path to $0.10"
-2026-08-27,2026-08-27 17:31,gate,ENA/USDT,0.16981,15.29,34.92,36.9,,,
-2026-08-27,2026-08-27 17:31,gate,TUT/USDT,0.055496,10.24,29.31,7.6,,,
+2026-08-27,2026-08-27 17:36,gate,ENA/USDT,0.1694,15.01,35.02,37.0,,,
+2026-08-27,2026-08-27 17:36,gate,TUT/USDT,0.05535,9.95,29.38,7.6,,,
 2026-08-27,2026-08-27 08:51,gate,BLESS/USDT,0.010862,15.28,25.51,3.0,Listing,338.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-27,2026-08-27 00:41,mexc,FARTCOIN/USDT,0.21421,11.28,19.29,25.3,,139.0,Cointelegraph: Trader loses $3M as leveraged Fartcoin position unwinds on Hyperliquid
 2026-08-27,2026-08-27 09:31,gate,VIRTUAL/USDT,0.7773,3.42,19.22,4.4,,2.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
@@ -2028,6 +2028,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 00:11,mexc,ZRO/USDT,1.162,3.12,2.67,12.4,,,
 2026-08-27,2026-08-27 00:41,mexc,CYS/USDT,0.8203,8.34,2.59,3.4,,,
 2026-08-27,2026-08-27 08:36,gate,BEAT/USDT,0.1276,3.07,2.52,7.0,,80.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-27,2026-08-27 17:31,gate,SOL/USDT,108.03,5.88,2.43,555.9,,,
+2026-08-27,2026-08-27 17:36,gate,SOL/USDT,108.07,5.92,2.45,560.3,,,
 2026-08-27,2026-08-27 00:41,mexc,PROM/USDT,4.314,8.36,2.23,6.8,,,
 2026-08-27,2026-08-27 00:41,mexc,SPX/USDT,0.6179,16.23,2.2,5.3,,,
