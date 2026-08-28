@@ -2033,12 +2033,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 00:41,mexc,PROM/USDT,4.314,8.36,2.23,6.8,,,
 2026-08-27,2026-08-27 00:41,mexc,SPX/USDT,0.6179,16.23,2.2,5.3,,,
 2026-08-27,2026-08-27 23:25,gate,WIF/USDT,0.2186,3.02,2.04,6.7,,,
-2026-08-28,2026-08-28 11:21,gate,AKE/USDT,0.007976,16.39,598.51,17.2,,309,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-28,2026-08-28 11:21,gate,龙虾/USDT,0.055525,65.45,448.83,9.8,,,
-2026-08-28,2026-08-28 11:21,gate,HEMI/USDT,0.01141,8.31,299.46,10.0,,171,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-28,2026-08-28 11:26,gate,AKE/USDT,0.007955,16.09,598.79,17.2,,309,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-28,2026-08-28 11:26,gate,龙虾/USDT,0.056013,66.9,452.32,9.9,,,
+2026-08-28,2026-08-28 11:26,gate,HEMI/USDT,0.011186,6.18,300.9,10.0,,171,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-28,2026-08-28 11:26,gate,牛来/USDT,0.05836,13.7,79.18,5.9,,,
 2026-08-28,2026-08-28 00:01,mexc,TAC/USDT,0.003276,3.53,79.11,14.3,,,
-2026-08-28,2026-08-28 11:21,gate,牛来/USDT,0.05796,12.92,79.01,5.9,,,
-2026-08-28,2026-08-28 11:21,gate,LIGHT/USDT,0.228,22.91,57.64,3.1,,,
+2026-08-28,2026-08-28 11:26,gate,LIGHT/USDT,0.2299,23.94,58.11,3.1,,,
 2026-08-28,2026-08-28 00:01,mexc,BTR/USDT,0.17484,8.71,55.13,19.0,,,
 2026-08-28,2026-08-28 02:40,gate,BLESS/USDT,0.012466,3.86,37.25,4.4,Listing,339.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-28,2026-08-28 02:35,gate,ENA/USDT,0.17565,3.26,35.55,42.0,Unlock,0.0,CoinMarketCal: Ethena: Removes future VC investor unlocks - 27 Aug 2026
@@ -2047,5 +2047,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-28,2026-08-28 00:01,mexc,ENA/USDT,0.17009,4.8,13.59,52.5,Unlock,0.0,CoinMarketCal: Ethena: Removes future VC investor unlocks - 27 Aug 2026
 2026-08-28,2026-08-28 01:40,gate,WLFI/USDT,0.06132,3.35,11.29,5.5,Approval,4.0,Invezz: TRUMP and WLFI tokens plunge as Trumps approval rating sinks to a new low
 2026-08-28,2026-08-28 00:01,mexc,BLESS/USDT,0.012053,10.07,3.12,7.1,Listing,339.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
-2026-08-28,2026-08-28 11:21,gate,BEAT/USDT,0.1251,3.3,2.69,7.2,,81,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-28,2026-08-28 11:21,gate,BEAT/USDT,0.1251,3.3,2.69,7.2,,81.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-28,2026-08-28 00:01,mexc,BICO/USDT,0.02623,3.55,2.6,25.9,Partner,15.0,Coindar: Biconomy Partners With SyFu
