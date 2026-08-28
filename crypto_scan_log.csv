@@ -2033,9 +2033,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 00:41,mexc,PROM/USDT,4.314,8.36,2.23,6.8,,,
 2026-08-27,2026-08-27 00:41,mexc,SPX/USDT,0.6179,16.23,2.2,5.3,,,
 2026-08-27,2026-08-27 23:25,gate,WIF/USDT,0.2186,3.02,2.04,6.7,,,
+2026-08-28,2026-08-28 00:05,gate,牛来/USDT,0.05357,4.36,110.47,8.2,,,
 2026-08-28,2026-08-28 00:01,mexc,TAC/USDT,0.003276,3.53,79.11,14.3,,,
 2026-08-28,2026-08-28 00:01,mexc,BTR/USDT,0.17484,8.71,55.13,19.0,,,
-2026-08-28,2026-08-28 00:01,mexc,BMT/USDT,0.02711,25.91,15.97,3.8,,0,Binance News: Binance to Launch Bubblemaps (BMT) Trading Tournament With 400 BNB Prize Pool
-2026-08-28,2026-08-28 00:01,mexc,ENA/USDT,0.17009,4.8,13.59,52.5,Unlock,0,CoinMarketCal: Ethena: Removes future VC investor unlocks - 27 Aug 2026
-2026-08-28,2026-08-28 00:01,mexc,BLESS/USDT,0.012053,10.07,3.12,7.1,Listing,339,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
-2026-08-28,2026-08-28 00:01,mexc,BICO/USDT,0.02623,3.55,2.6,25.9,Partner,15,Coindar: Biconomy Partners With SyFu
+2026-08-28,2026-08-28 00:01,mexc,BMT/USDT,0.02711,25.91,15.97,3.8,,0.0,Binance News: Binance to Launch Bubblemaps (BMT) Trading Tournament With 400 BNB Prize Pool
+2026-08-28,2026-08-28 00:01,mexc,ENA/USDT,0.17009,4.8,13.59,52.5,Unlock,0.0,CoinMarketCal: Ethena: Removes future VC investor unlocks - 27 Aug 2026
+2026-08-28,2026-08-28 00:01,mexc,BLESS/USDT,0.012053,10.07,3.12,7.1,Listing,339.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
+2026-08-28,2026-08-28 00:01,mexc,BICO/USDT,0.02623,3.55,2.6,25.9,Partner,15.0,Coindar: Biconomy Partners With SyFu
