@@ -2033,9 +2033,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 00:41,mexc,PROM/USDT,4.314,8.36,2.23,6.8,,,
 2026-08-27,2026-08-27 00:41,mexc,SPX/USDT,0.6179,16.23,2.2,5.3,,,
 2026-08-27,2026-08-27 23:25,gate,WIF/USDT,0.2186,3.02,2.04,6.7,,,
-2026-08-28,2026-08-28 08:01,gate,AKE/USDT,0.008214,19.86,586.33,16.8,,309,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-28,2026-08-28 08:01,gate,HEMI/USDT,0.011228,6.58,227.48,7.6,,170,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-28,2026-08-28 08:01,gate,龙虾/USDT,0.046366,38.16,146.03,3.2,,,
+2026-08-28,2026-08-28 08:05,gate,AKE/USDT,0.008283,20.87,587.54,16.9,,309,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-28,2026-08-28 08:05,gate,HEMI/USDT,0.011217,6.47,229.25,7.6,,170,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-28,2026-08-28 08:05,gate,龙虾/USDT,0.046871,39.66,149.58,3.3,,,
 2026-08-28,2026-08-28 08:01,gate,牛来/USDT,0.05365,4.52,84.24,6.3,,,
 2026-08-28,2026-08-28 00:01,mexc,TAC/USDT,0.003276,3.53,79.11,14.3,,,
 2026-08-28,2026-08-28 00:01,mexc,BTR/USDT,0.17484,8.71,55.13,19.0,,,
