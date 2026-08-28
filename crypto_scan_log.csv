@@ -2033,11 +2033,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 00:41,mexc,PROM/USDT,4.314,8.36,2.23,6.8,,,
 2026-08-27,2026-08-27 00:41,mexc,SPX/USDT,0.6179,16.23,2.2,5.3,,,
 2026-08-27,2026-08-27 23:25,gate,WIF/USDT,0.2186,3.02,2.04,6.7,,,
-2026-08-28,2026-08-28 09:01,gate,AKE/USDT,0.00816,19.07,586.4,16.8,,309,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-28,2026-08-28 09:01,gate,龙虾/USDT,0.053412,59.15,259.99,5.7,,,
-2026-08-28,2026-08-28 09:01,gate,HEMI/USDT,0.010861,3.09,255.82,8.5,,170,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-28,2026-08-28 09:11,gate,AKE/USDT,0.008327,21.51,588.18,16.9,,309,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-28,2026-08-28 09:11,gate,龙虾/USDT,0.054211,61.53,270.98,5.9,,,
+2026-08-28,2026-08-28 09:11,gate,HEMI/USDT,0.011317,7.42,258.35,8.6,,170,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-28,2026-08-28 09:11,gate,牛来/USDT,0.05713,11.3,79.71,5.9,,,
 2026-08-28,2026-08-28 00:01,mexc,TAC/USDT,0.003276,3.53,79.11,14.3,,,
-2026-08-28,2026-08-28 09:01,gate,牛来/USDT,0.05521,7.56,78.58,5.8,,,
 2026-08-28,2026-08-28 00:01,mexc,BTR/USDT,0.17484,8.71,55.13,19.0,,,
 2026-08-28,2026-08-28 02:40,gate,BLESS/USDT,0.012466,3.86,37.25,4.4,Listing,339.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-28,2026-08-28 02:35,gate,ENA/USDT,0.17565,3.26,35.55,42.0,Unlock,0.0,CoinMarketCal: Ethena: Removes future VC investor unlocks - 27 Aug 2026
@@ -2047,4 +2047,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-28,2026-08-28 01:40,gate,WLFI/USDT,0.06132,3.35,11.29,5.5,Approval,4.0,Invezz: TRUMP and WLFI tokens plunge as Trumps approval rating sinks to a new low
 2026-08-28,2026-08-28 00:01,mexc,BLESS/USDT,0.012053,10.07,3.12,7.1,Listing,339.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-28,2026-08-28 00:01,mexc,BICO/USDT,0.02623,3.55,2.6,25.9,Partner,15.0,Coindar: Biconomy Partners With SyFu
-2026-08-28,2026-08-28 09:01,gate,BEAT/USDT,0.1257,3.8,2.58,6.9,,81,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-28,2026-08-28 09:01,gate,BEAT/USDT,0.1257,3.8,2.58,6.9,,81.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
