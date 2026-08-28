@@ -2033,15 +2033,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-27,2026-08-27 00:41,mexc,PROM/USDT,4.314,8.36,2.23,6.8,,,
 2026-08-27,2026-08-27 00:41,mexc,SPX/USDT,0.6179,16.23,2.2,5.3,,,
 2026-08-27,2026-08-27 23:25,gate,WIF/USDT,0.2186,3.02,2.04,6.7,,,
-2026-08-28,2026-08-28 01:35,gate,AKE/USDT,0.007062,3.05,532.03,15.3,,309,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-28,2026-08-28 01:35,gate,AKE/USDT,0.007062,3.05,532.03,15.3,,309.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-28,2026-08-28 01:10,gate,HEMI/USDT,0.010865,3.13,120.12,4.0,,170.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-28,2026-08-28 01:35,gate,牛来/USDT,0.05413,5.45,114.88,8.5,,,
+2026-08-28,2026-08-28 01:40,gate,牛来/USDT,0.05497,7.09,115.08,8.5,,,
 2026-08-28,2026-08-28 00:01,mexc,TAC/USDT,0.003276,3.53,79.11,14.3,,,
 2026-08-28,2026-08-28 00:01,mexc,BTR/USDT,0.17484,8.71,55.13,19.0,,,
-2026-08-28,2026-08-28 01:35,gate,ENA/USDT,0.18932,11.3,32.23,38.0,Unlock,0,CoinMarketCal: Ethena: Removes future VC investor unlocks - 27 Aug 2026
+2026-08-28,2026-08-28 01:40,gate,ENA/USDT,0.18795,10.49,32.97,38.9,Unlock,0,CoinMarketCal: Ethena: Removes future VC investor unlocks - 27 Aug 2026
 2026-08-28,2026-08-28 01:05,gate,ONG/USDT,0.12683,3.96,27.37,10.6,,146.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-28,2026-08-28 00:01,mexc,BMT/USDT,0.02711,25.91,15.97,3.8,,0.0,Binance News: Binance to Launch Bubblemaps (BMT) Trading Tournament With 400 BNB Prize Pool
 2026-08-28,2026-08-28 00:01,mexc,ENA/USDT,0.17009,4.8,13.59,52.5,Unlock,0.0,CoinMarketCal: Ethena: Removes future VC investor unlocks - 27 Aug 2026
-2026-08-28,2026-08-28 01:35,gate,WLFI/USDT,0.06167,3.94,11.19,5.5,Approval,4,Invezz: TRUMP and WLFI tokens plunge as Trumps approval rating sinks to a new low
+2026-08-28,2026-08-28 01:40,gate,WLFI/USDT,0.06132,3.35,11.29,5.5,Approval,4,Invezz: TRUMP and WLFI tokens plunge as Trumps approval rating sinks to a new low
 2026-08-28,2026-08-28 00:01,mexc,BLESS/USDT,0.012053,10.07,3.12,7.1,Listing,339.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-28,2026-08-28 00:01,mexc,BICO/USDT,0.02623,3.55,2.6,25.9,Partner,15.0,Coindar: Biconomy Partners With SyFu
