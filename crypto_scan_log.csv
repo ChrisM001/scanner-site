@@ -2053,17 +2053,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-28,2026-08-28 00:01,mexc,BLESS/USDT,0.012053,10.07,3.12,7.1,Listing,339.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-08-28,2026-08-28 00:01,mexc,BICO/USDT,0.02623,3.55,2.6,25.9,Partner,15.0,Coindar: Biconomy Partners With SyFu
 2026-08-29,2026-08-29 00:20,mexc,AKE/USDT,0.01074,34.08,957.1,16.3,,310.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-29,2026-08-29 04:31,gate,AKE/USDT,0.011572,3.7,898.61,24.9,,310,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-08-29,2026-08-29 04:31,gate,AKE/USDT,0.011572,3.7,898.61,24.9,,310.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-08-29,2026-08-29 01:55,gate,龙虾/USDT,0.064275,3.63,782.97,23.4,,,
 2026-08-29,2026-08-29 00:01,mexc,LONGXIA/USDT,0.0622,4.08,568.23,3.0,,,
-2026-08-29,2026-08-29 04:31,gate,HEMI/USDT,0.012216,7.79,351.28,13.3,,171,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-29,2026-08-29 04:20,gate,MAGMA/USDT,0.53783,3.04,99.83,6.1,,,
+2026-08-29,2026-08-29 04:40,gate,HEMI/USDT,0.012313,8.65,351.92,13.4,,171,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-29,2026-08-29 04:40,gate,MAGMA/USDT,0.54121,3.69,100.96,6.2,,,
 2026-08-29,2026-08-29 00:20,mexc,MAGMA/USDT,0.5351,16.67,55.0,9.0,,,
 2026-08-29,2026-08-29 03:40,gate,HOME/USDT,0.00625,3.14,32.62,3.3,,112.0,CoinMarketCal: HOME - Announcement - 18 May 2026
+2026-08-29,2026-08-29 04:40,gate,BTR/USDT,0.16527,4.58,27.48,25.8,,,
 2026-08-29,2026-08-29 02:50,gate,BLESS/USDT,0.011651,3.08,27.2,3.3,Listing,340.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
-2026-08-29,2026-08-29 04:31,gate,BTR/USDT,0.16336,3.37,27.18,25.5,,,
-2026-08-29,2026-08-29 04:31,gate,TUT/USDT,0.0405,5.01,19.71,5.2,,18,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
+2026-08-29,2026-08-29 04:40,gate,TUT/USDT,0.040843,5.9,19.81,5.2,,18,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-29,2026-08-29 00:20,mexc,ONG/USDT,0.11634,7.33,6.31,3.9,,147.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
-2026-08-29,2026-08-29 04:31,gate,BEAT/USDT,0.1351,3.68,3.8,10.0,,81,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-29,2026-08-29 04:31,gate,CYS/USDT,0.6163,6.24,3.35,4.2,,,
+2026-08-29,2026-08-29 04:40,gate,BEAT/USDT,0.1346,3.3,3.83,10.1,,81,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-29,2026-08-29 04:40,gate,CYS/USDT,0.6176,6.46,3.35,4.3,,,
 2026-08-29,2026-08-29 00:20,mexc,DEXE/USDT,2.415,10.07,3.32,5.7,,34.0,Coinpedia: DEXE Price Rebounds After Massive Sell-OffCan Bulls Sustain the Recovery?
