@@ -2075,11 +2075,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-29,2026-08-29 00:20,mexc,ONG/USDT,0.11634,7.33,6.31,3.9,,147.0,Coinpedia: Ontology Gas (ONG) Price Tests a Pivotal ResistanceIs a 150% Rebound Setup in Play?
 2026-08-29,2026-08-29 00:20,mexc,DEXE/USDT,2.415,10.07,3.32,5.7,,34.0,Coinpedia: DEXE Price Rebounds After Massive Sell-OffCan Bulls Sustain the Recovery?
 2026-08-29,2026-08-29 08:45,gate,CYS/USDT,0.6207,7.0,2.68,3.4,,,
-2026-08-30,2026-08-30 12:31,gate,ZKC/USDT,0.06409,62.05,2172.76,6.3,Unlock,169,CoinMarketCal: Boundless (ZKC) - 2nd Token Batch Unlock - Date (15 March 2026)
-2026-08-30,2026-08-30 12:31,gate,牛来/USDT,0.1046,90.35,500.69,35.7,,,
-2026-08-30,2026-08-30 12:31,gate,ZKP/USDT,0.05762,14.96,369.01,3.3,Listing,242,CoinMarketCal: zkPass (ZKP) - DigiFinex Listing - 31 December 2025
+2026-08-30,2026-08-30 12:35,gate,ZKC/USDT,0.06329,60.03,2187.63,6.3,Unlock,169,CoinMarketCal: Boundless (ZKC) - 2nd Token Batch Unlock - Date (15 March 2026)
+2026-08-30,2026-08-30 12:35,gate,牛来/USDT,0.10579,92.52,505.5,36.0,,,
+2026-08-30,2026-08-30 12:35,gate,ZKP/USDT,0.05746,14.64,370.21,3.3,Listing,242,CoinMarketCal: zkPass (ZKP) - DigiFinex Listing - 31 December 2025
 2026-08-30,2026-08-30 12:21,gate,AKE/USDT,0.00848,4.74,322.59,8.8,,311.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-08-30,2026-08-30 12:25,gate,4/USDT,0.018534,3.4,216.14,12.0,Listing,227.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
+2026-08-30,2026-08-30 12:35,gate,4/USDT,0.018487,3.14,217.19,12.0,Listing,227,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
 2026-08-30,2026-08-30 00:01,mexc,4/USDT,0.01801,6.31,63.71,6.9,Listing,226.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
 2026-08-30,2026-08-30 03:55,gate,O/USDT,0.5506,3.46,61.86,3.1,,,
 2026-08-30,2026-08-30 00:50,gate,BTR/USDT,0.20207,3.07,53.92,62.6,,,
@@ -2088,8 +2088,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-30,2026-08-30 05:55,gate,TUT/USDT,0.036911,3.19,28.14,7.5,,19.0,"Coinpedia: Tutorial (TUT) Price Falls After 1,100% Rally: Can Bulls Push Back Toward $0.20?"
 2026-08-30,2026-08-30 00:01,mexc,BTR/USDT,0.1975,18.15,21.78,9.7,,,
 2026-08-30,2026-08-30 00:01,mexc,BTW/USDT,0.45629,14.03,18.82,4.2,,,
-2026-08-30,2026-08-30 12:31,gate,HNT/USDT,0.6755,60.34,6.15,22.3,,29,CoinMarketCal: Helium: Delegated veHNT positions stop earning rewards at expiry - 01 Aug 2026
-2026-08-30,2026-08-30 12:31,gate,DGAI/USDT,0.7066,3.36,5.76,3.2,,,
+2026-08-30,2026-08-30 12:35,gate,HNT/USDT,0.6753,60.29,6.16,22.4,,29,CoinMarketCal: Helium: Delegated veHNT positions stop earning rewards at expiry - 01 Aug 2026
+2026-08-30,2026-08-30 12:35,gate,DGAI/USDT,0.707,3.42,5.87,3.3,,,
 2026-08-30,2026-08-30 11:25,gate,BEAT/USDT,0.1409,3.3,4.16,11.1,,83.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-08-30,2026-08-30 12:31,gate,CYS/USDT,0.8139,10.95,2.43,3.1,,,
+2026-08-30,2026-08-30 12:35,gate,CYS/USDT,0.8092,10.31,2.44,3.1,,,
 2026-08-30,2026-08-30 00:01,mexc,PROM/USDT,6.965,26.98,2.31,9.6,,117.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
