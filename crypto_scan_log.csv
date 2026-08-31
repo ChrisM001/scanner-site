@@ -2099,8 +2099,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-30,2026-08-30 22:20,gate,UNI/USDT,5.28,12.92,2.91,35.1,,,
 2026-08-30,2026-08-30 22:20,gate,CYS/USDT,0.8469,15.44,2.78,3.5,,,
 2026-08-30,2026-08-30 00:01,mexc,PROM/USDT,6.965,26.98,2.31,9.6,,117.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
-2026-08-31,2026-08-31 01:01,mexc,SKR/USDT,0.0245,51.7,1133.21,19.5,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
+2026-08-31,2026-08-31 01:15,mexc,SKR/USDT,0.02374,46.99,1169.46,20.1,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
 2026-08-31,2026-08-31 00:45,gate,牛来/USDT,0.10463,3.29,680.43,87.0,,,
 2026-08-31,2026-08-31 00:51,gate,ZKP/USDT,0.0559,9.01,173.42,3.0,Listing,242.0,CoinMarketCal: zkPass (ZKP) - DigiFinex Listing - 31 December 2025
-2026-08-31,2026-08-31 01:01,mexc,CYS/USDT,0.8539,7.8,3.05,4.2,,,
+2026-08-31,2026-08-31 01:15,mexc,HEMI/USDT,0.014445,36.18,143.77,3.0,,173,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-31,2026-08-31 01:15,mexc,CYS/USDT,0.846,6.8,3.07,4.2,,,
 2026-08-31,2026-08-31 00:10,gate,HNT/USDT,0.794,3.12,2.14,37.8,,29.0,CoinMarketCal: Helium: Delegated veHNT positions stop earning rewards at expiry - 01 Aug 2026
