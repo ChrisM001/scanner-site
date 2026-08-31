@@ -2099,14 +2099,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-30,2026-08-30 22:20,gate,UNI/USDT,5.28,12.92,2.91,35.1,,,
 2026-08-30,2026-08-30 22:20,gate,CYS/USDT,0.8469,15.44,2.78,3.5,,,
 2026-08-30,2026-08-30 00:01,mexc,PROM/USDT,6.965,26.98,2.31,9.6,,117.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
-2026-08-31,2026-08-31 04:31,gate,SKR/USDT,0.031078,28.93,3970.82,29.8,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-08-31,2026-08-31 04:31,gate,ZORA/USDT,0.00997,29.15,1432.82,3.1,,,
+2026-08-31,2026-08-31 05:10,gate,SKR/USDT,0.02546,5.62,4392.73,32.9,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
+2026-08-31,2026-08-31 05:10,gate,ZORA/USDT,0.01089,41.06,1730.14,3.7,,,
 2026-08-31,2026-08-31 01:15,mexc,SKR/USDT,0.02374,46.99,1169.46,20.1,Listing,823.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-08-31,2026-08-31 04:31,gate,牛来/USDT,0.12408,22.49,680.62,87.0,,,
+2026-08-31,2026-08-31 05:10,gate,牛来/USDT,0.13158,29.89,690.37,88.3,,,
 2026-08-31,2026-08-31 03:35,gate,ZKC/USDT,0.06366,7.59,315.1,11.6,Unlock,170.0,CoinMarketCal: Boundless (ZKC) - 2nd Token Batch Unlock - Date (15 March 2026)
 2026-08-31,2026-08-31 00:51,gate,ZKP/USDT,0.0559,9.01,173.42,3.0,Listing,242.0,CoinMarketCal: zkPass (ZKP) - DigiFinex Listing - 31 December 2025
 2026-08-31,2026-08-31 01:15,mexc,HEMI/USDT,0.014445,36.18,143.77,3.0,,173.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-31,2026-08-31 04:31,gate,HEMI/USDT,0.015575,13.2,90.84,3.6,,173,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-31,2026-08-31 04:31,gate,HEMI/USDT,0.015575,13.2,90.84,3.6,,173.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-31,2026-08-31 02:16,gate,BTR/USDT,0.16664,3.14,24.22,31.3,,,
 2026-08-31,2026-08-31 01:15,mexc,CYS/USDT,0.846,6.8,3.07,4.2,,,
 2026-08-31,2026-08-31 00:10,gate,HNT/USDT,0.794,3.12,2.14,37.8,,29.0,CoinMarketCal: Helium: Delegated veHNT positions stop earning rewards at expiry - 01 Aug 2026
