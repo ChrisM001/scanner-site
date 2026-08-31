@@ -2099,14 +2099,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-30,2026-08-30 22:20,gate,UNI/USDT,5.28,12.92,2.91,35.1,,,
 2026-08-30,2026-08-30 22:20,gate,CYS/USDT,0.8469,15.44,2.78,3.5,,,
 2026-08-30,2026-08-30 00:01,mexc,PROM/USDT,6.965,26.98,2.31,9.6,,117.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
-2026-08-31,2026-08-31 05:20,gate,SKR/USDT,0.026505,9.96,4437.01,33.3,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-08-31,2026-08-31 05:20,gate,ZORA/USDT,0.01061,37.44,1854.3,4.0,,,
+2026-08-31,2026-08-31 06:01,gate,SKR/USDT,0.027947,15.94,4697.5,35.2,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
+2026-08-31,2026-08-31 06:01,gate,ZORA/USDT,0.01031,33.55,2137.95,4.6,,,
 2026-08-31,2026-08-31 01:15,mexc,SKR/USDT,0.02374,46.99,1169.46,20.1,Listing,823.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-08-31,2026-08-31 05:20,gate,牛来/USDT,0.12876,27.11,695.06,88.9,,,
+2026-08-31,2026-08-31 06:01,gate,牛来/USDT,0.12342,21.84,696.22,89.0,,,
 2026-08-31,2026-08-31 03:35,gate,ZKC/USDT,0.06366,7.59,315.1,11.6,Unlock,170.0,CoinMarketCal: Boundless (ZKC) - 2nd Token Batch Unlock - Date (15 March 2026)
 2026-08-31,2026-08-31 00:51,gate,ZKP/USDT,0.0559,9.01,173.42,3.0,Listing,242.0,CoinMarketCal: zkPass (ZKP) - DigiFinex Listing - 31 December 2025
 2026-08-31,2026-08-31 01:15,mexc,HEMI/USDT,0.014445,36.18,143.77,3.0,,173.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-31,2026-08-31 05:20,gate,HEMI/USDT,0.014212,3.29,103.2,4.1,,173,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-31,2026-08-31 06:01,gate,HEMI/USDT,0.015466,12.41,109.26,4.4,,173,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-31,2026-08-31 02:16,gate,BTR/USDT,0.16664,3.14,24.22,31.3,,,
 2026-08-31,2026-08-31 01:15,mexc,CYS/USDT,0.846,6.8,3.07,4.2,,,
+2026-08-31,2026-08-31 06:01,gate,BEAT/USDT,0.1276,3.07,2.37,6.3,,83,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-08-31,2026-08-31 00:10,gate,HNT/USDT,0.794,3.12,2.14,37.8,,29.0,CoinMarketCal: Helium: Delegated veHNT positions stop earning rewards at expiry - 01 Aug 2026
