@@ -2099,6 +2099,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-30,2026-08-30 22:20,gate,UNI/USDT,5.28,12.92,2.91,35.1,,,
 2026-08-30,2026-08-30 22:20,gate,CYS/USDT,0.8469,15.44,2.78,3.5,,,
 2026-08-30,2026-08-30 00:01,mexc,PROM/USDT,6.965,26.98,2.31,9.6,,117.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
-2026-08-31,2026-08-31 00:01,mexc,SKR/USDT,0.02406,48.97,1005.69,17.3,Listing,823.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-08-31,2026-08-31 00:01,mexc,CYS/USDT,0.8381,5.8,3.07,4.2,,,
+2026-08-31,2026-08-31 00:35,mexc,SKR/USDT,0.02217,37.27,1103.07,19.0,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
+2026-08-31,2026-08-31 00:35,mexc,CYS/USDT,0.8428,6.4,3.11,4.3,,,
 2026-08-31,2026-08-31 00:10,gate,HNT/USDT,0.794,3.12,2.14,37.8,,29.0,CoinMarketCal: Helium: Delegated veHNT positions stop earning rewards at expiry - 01 Aug 2026
