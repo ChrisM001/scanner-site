@@ -2099,10 +2099,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-30,2026-08-30 22:20,gate,UNI/USDT,5.28,12.92,2.91,35.1,,,
 2026-08-30,2026-08-30 22:20,gate,CYS/USDT,0.8469,15.44,2.78,3.5,,,
 2026-08-30,2026-08-30 00:01,mexc,PROM/USDT,6.965,26.98,2.31,9.6,,117.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
-2026-08-31,2026-08-31 02:16,gate,SKR/USDT,0.030668,27.23,3098.18,23.2,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
+2026-08-31,2026-08-31 02:20,gate,SKR/USDT,0.030822,27.87,3142.01,23.6,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
 2026-08-31,2026-08-31 01:15,mexc,SKR/USDT,0.02374,46.99,1169.46,20.1,Listing,823.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-08-31,2026-08-31 02:16,gate,牛来/USDT,0.10879,7.39,662.23,84.7,,,
-2026-08-31,2026-08-31 02:16,gate,ZKC/USDT,0.06182,4.48,304.92,11.2,Unlock,170,CoinMarketCal: Boundless (ZKC) - 2nd Token Batch Unlock - Date (15 March 2026)
+2026-08-31,2026-08-31 02:20,gate,牛来/USDT,0.11034,8.92,663.0,84.8,,,
+2026-08-31,2026-08-31 02:20,gate,ZKC/USDT,0.06202,4.82,305.41,11.2,Unlock,170,CoinMarketCal: Boundless (ZKC) - 2nd Token Batch Unlock - Date (15 March 2026)
 2026-08-31,2026-08-31 00:51,gate,ZKP/USDT,0.0559,9.01,173.42,3.0,Listing,242.0,CoinMarketCal: zkPass (ZKP) - DigiFinex Listing - 31 December 2025
 2026-08-31,2026-08-31 01:15,mexc,HEMI/USDT,0.014445,36.18,143.77,3.0,,173.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-31,2026-08-31 02:16,gate,BTR/USDT,0.16664,3.14,24.22,31.3,,,
