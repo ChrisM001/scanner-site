@@ -2099,20 +2099,21 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-30,2026-08-30 22:20,gate,UNI/USDT,5.28,12.92,2.91,35.1,,,
 2026-08-30,2026-08-30 22:20,gate,CYS/USDT,0.8469,15.44,2.78,3.5,,,
 2026-08-30,2026-08-30 00:01,mexc,PROM/USDT,6.965,26.98,2.31,9.6,,117.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
-2026-08-31,2026-08-31 08:46,gate,PEPE/USDT,4e-06,3.97,14426458.92,27.5,,8,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
+2026-08-31,2026-08-31 08:56,gate,PEPE/USDT,4e-06,3.97,14448975.26,27.5,,8,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
 2026-08-31,2026-08-31 08:11,gate,SKR/USDT,0.026142,8.45,5213.52,39.1,Listing,823.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-08-31,2026-08-31 08:46,gate,ZORA/USDT,0.01065,37.95,3058.47,6.5,,,
+2026-08-31,2026-08-31 08:56,gate,ZORA/USDT,0.01016,31.61,3144.04,6.7,,,
 2026-08-31,2026-08-31 01:15,mexc,SKR/USDT,0.02374,46.99,1169.46,20.1,Listing,823.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-08-31,2026-08-31 08:46,gate,牛来/USDT,0.1142,12.73,687.65,87.9,,,
+2026-08-31,2026-08-31 08:56,gate,牛来/USDT,0.11385,12.39,688.55,88.1,,,
 2026-08-31,2026-08-31 03:35,gate,ZKC/USDT,0.06366,7.59,315.1,11.6,Unlock,170.0,CoinMarketCal: Boundless (ZKC) - 2nd Token Batch Unlock - Date (15 March 2026)
 2026-08-31,2026-08-31 00:51,gate,ZKP/USDT,0.0559,9.01,173.42,3.0,Listing,242.0,CoinMarketCal: zkPass (ZKP) - DigiFinex Listing - 31 December 2025
 2026-08-31,2026-08-31 01:15,mexc,HEMI/USDT,0.014445,36.18,143.77,3.0,,173.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-31,2026-08-31 08:46,gate,HEMI/USDT,0.016608,20.71,135.09,5.4,,173,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-31,2026-08-31 08:56,gate,HEMI/USDT,0.01665,21.01,136.68,5.5,,173,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-31,2026-08-31 07:35,gate,LAB/USDT,0.07672,3.08,108.2,4.0,,,
-2026-08-31,2026-08-31 08:46,gate,FLOCK/USDT,0.04413,30.83,36.49,3.2,Partner,216,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
+2026-08-31,2026-08-31 08:56,gate,FLOCK/USDT,0.04191,24.25,37.63,3.3,Partner,216,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
 2026-08-31,2026-08-31 02:16,gate,BTR/USDT,0.16664,3.14,24.22,31.3,,,
-2026-08-31,2026-08-31 08:46,gate,UAI/USDT,0.40181,3.74,13.74,5.8,,,
-2026-08-31,2026-08-31 08:46,gate,DGAI/USDT,0.6933,4.05,12.99,7.1,,,
+2026-08-31,2026-08-31 08:56,gate,UAI/USDT,0.40297,4.04,13.76,5.8,,,
+2026-08-31,2026-08-31 08:56,gate,DGAI/USDT,0.6972,4.64,13.01,7.1,,,
 2026-08-31,2026-08-31 01:15,mexc,CYS/USDT,0.846,6.8,3.07,4.2,,,
 2026-08-31,2026-08-31 06:20,gate,BEAT/USDT,0.1277,3.15,2.41,6.4,,83.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-08-31,2026-08-31 08:56,gate,CYS/USDT,1.0193,20.36,2.36,3.0,,,
 2026-08-31,2026-08-31 00:10,gate,HNT/USDT,0.794,3.12,2.14,37.8,,29.0,CoinMarketCal: Helium: Delegated veHNT positions stop earning rewards at expiry - 01 Aug 2026
