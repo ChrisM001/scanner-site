@@ -2099,21 +2099,21 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-30,2026-08-30 22:20,gate,UNI/USDT,5.28,12.92,2.91,35.1,,,
 2026-08-30,2026-08-30 22:20,gate,CYS/USDT,0.8469,15.44,2.78,3.5,,,
 2026-08-30,2026-08-30 00:01,mexc,PROM/USDT,6.965,26.98,2.31,9.6,,117.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
-2026-08-31,2026-08-31 12:26,gate,PEPE/USDT,4e-06,5.5,15124272.64,28.8,,9,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
-2026-08-31,2026-08-31 12:26,gate,SKR/USDT,0.026096,8.26,6690.34,50.2,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-08-31,2026-08-31 12:26,gate,ZORA/USDT,0.0094,21.76,4178.92,8.9,,,
+2026-08-31,2026-08-31 12:31,gate,PEPE/USDT,4e-06,5.85,15164912.03,28.9,,9,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
+2026-08-31,2026-08-31 12:31,gate,SKR/USDT,0.025905,7.47,6727.79,50.4,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
+2026-08-31,2026-08-31 12:31,gate,ZORA/USDT,0.00945,22.41,4195.38,8.9,,,
 2026-08-31,2026-08-31 01:15,mexc,SKR/USDT,0.02374,46.99,1169.46,20.1,Listing,823.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-08-31,2026-08-31 12:26,gate,牛来/USDT,0.10795,6.56,603.99,77.2,,,
+2026-08-31,2026-08-31 12:31,gate,牛来/USDT,0.10582,4.46,605.22,77.4,,,
 2026-08-31,2026-08-31 03:35,gate,ZKC/USDT,0.06366,7.59,315.1,11.6,Unlock,170.0,CoinMarketCal: Boundless (ZKC) - 2nd Token Batch Unlock - Date (15 March 2026)
 2026-08-31,2026-08-31 00:51,gate,ZKP/USDT,0.0559,9.01,173.42,3.0,Listing,242.0,CoinMarketCal: zkPass (ZKP) - DigiFinex Listing - 31 December 2025
-2026-08-31,2026-08-31 12:26,gate,HEMI/USDT,0.015198,10.46,166.63,6.6,,174,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-31,2026-08-31 12:31,gate,HEMI/USDT,0.015151,10.12,166.93,6.7,,174,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-31,2026-08-31 01:15,mexc,HEMI/USDT,0.014445,36.18,143.77,3.0,,173.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-31,2026-08-31 07:35,gate,LAB/USDT,0.07672,3.08,108.2,4.0,,,
-2026-08-31,2026-08-31 12:26,gate,FLOCK/USDT,0.03925,16.37,54.15,4.8,Partner,216,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
-2026-08-31,2026-08-31 12:26,gate,0G/USDT,0.2104,28.53,29.6,3.3,,4,CoinMarketCal: 0G: 0G/USDT spot trading begins on Binance.US - 27 Aug 2026
+2026-08-31,2026-08-31 12:31,gate,FLOCK/USDT,0.03932,16.57,54.18,4.8,Partner,216,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
+2026-08-31,2026-08-31 12:31,gate,0G/USDT,0.212,29.51,29.92,3.4,,4,CoinMarketCal: 0G: 0G/USDT spot trading begins on Binance.US - 27 Aug 2026
 2026-08-31,2026-08-31 02:16,gate,BTR/USDT,0.16664,3.14,24.22,31.3,,,
 2026-08-31,2026-08-31 12:06,gate,DGAI/USDT,0.7003,5.1,13.2,7.2,,,
-2026-08-31,2026-08-31 12:26,gate,UAI/USDT,0.40194,3.77,11.78,5.0,,,
+2026-08-31,2026-08-31 12:31,gate,UAI/USDT,0.40122,3.58,11.79,5.0,,,
 2026-08-31,2026-08-31 11:26,gate,CYS/USDT,0.8937,5.53,3.79,4.9,,,
 2026-08-31,2026-08-31 01:15,mexc,CYS/USDT,0.846,6.8,3.07,4.2,,,
 2026-08-31,2026-08-31 06:20,gate,BEAT/USDT,0.1277,3.15,2.41,6.4,,83.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
