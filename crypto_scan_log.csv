@@ -2099,18 +2099,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-30,2026-08-30 22:20,gate,UNI/USDT,5.28,12.92,2.91,35.1,,,
 2026-08-30,2026-08-30 22:20,gate,CYS/USDT,0.8469,15.44,2.78,3.5,,,
 2026-08-30,2026-08-30 00:01,mexc,PROM/USDT,6.965,26.98,2.31,9.6,,117.0,CoinMarketCal: EGAS (EGAS) - Prom & ENI - Date (04 May 2026)
-2026-08-31,2026-08-31 08:01,gate,PEPE/USDT,4e-06,3.41,13854899.97,26.4,,8,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
-2026-08-31,2026-08-31 08:01,gate,SKR/USDT,0.025978,7.77,5186.64,38.9,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-08-31,2026-08-31 08:01,gate,ZORA/USDT,0.00981,27.07,2770.29,5.9,,,
+2026-08-31,2026-08-31 08:05,gate,PEPE/USDT,4e-06,3.38,13943104.51,26.6,,8,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
+2026-08-31,2026-08-31 08:05,gate,SKR/USDT,0.025888,7.4,5201.32,39.0,Listing,823,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
+2026-08-31,2026-08-31 08:05,gate,ZORA/USDT,0.00996,29.02,2789.07,5.9,,,
 2026-08-31,2026-08-31 01:15,mexc,SKR/USDT,0.02374,46.99,1169.46,20.1,Listing,823.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-08-31,2026-08-31 08:01,gate,牛来/USDT,0.11731,15.8,678.48,86.8,,,
+2026-08-31,2026-08-31 08:05,gate,牛来/USDT,0.11706,15.56,679.78,86.9,,,
 2026-08-31,2026-08-31 03:35,gate,ZKC/USDT,0.06366,7.59,315.1,11.6,Unlock,170.0,CoinMarketCal: Boundless (ZKC) - 2nd Token Batch Unlock - Date (15 March 2026)
 2026-08-31,2026-08-31 00:51,gate,ZKP/USDT,0.0559,9.01,173.42,3.0,Listing,242.0,CoinMarketCal: zkPass (ZKP) - DigiFinex Listing - 31 December 2025
 2026-08-31,2026-08-31 01:15,mexc,HEMI/USDT,0.014445,36.18,143.77,3.0,,173.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-08-31,2026-08-31 08:01,gate,HEMI/USDT,0.015398,11.91,123.45,4.9,,173,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-08-31,2026-08-31 08:05,gate,HEMI/USDT,0.015426,12.12,124.22,5.0,,173,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-08-31,2026-08-31 07:35,gate,LAB/USDT,0.07672,3.08,108.2,4.0,,,
 2026-08-31,2026-08-31 02:16,gate,BTR/USDT,0.16664,3.14,24.22,31.3,,,
-2026-08-31,2026-08-31 08:01,gate,UAI/USDT,0.40203,3.79,13.54,5.7,,,
+2026-08-31,2026-08-31 08:05,gate,UAI/USDT,0.403,4.04,13.55,5.7,,,
 2026-08-31,2026-08-31 08:01,gate,DGAI/USDT,0.6863,3.0,12.89,7.1,,,
 2026-08-31,2026-08-31 01:15,mexc,CYS/USDT,0.846,6.8,3.07,4.2,,,
 2026-08-31,2026-08-31 06:20,gate,BEAT/USDT,0.1277,3.15,2.41,6.4,,83.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
