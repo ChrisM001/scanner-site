@@ -2128,12 +2128,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-01,2026-09-01 00:01,mexc,USELESS/USDT,0.09195,22.87,734.7,16.0,Listing,379.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-01,2026-09-01 01:05,gate,PUMP/USDT,0.0046,3.35,613.48,7.1,,0.0,"Cointelegraph: Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT"
 2026-09-01,2026-09-01 00:01,mexc,HEMI/USDT,0.015863,7.49,337.15,8.6,,174.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-09-01,2026-09-01 06:35,gate,AKE/USDT,0.008851,9.05,221.74,5.3,,313,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-01,2026-09-01 02:25,gate,牛来/USDT,0.1063,3.04,218.43,31.0,,,
-2026-09-01,2026-09-01 06:15,gate,AKE/USDT,0.008885,9.47,218.28,5.2,,313,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-01,2026-09-01 06:15,gate,USELESS/USDT,0.09351,4.04,102.08,5.3,Listing,379,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
+2026-09-01,2026-09-01 06:15,gate,USELESS/USDT,0.09351,4.04,102.08,5.3,Listing,379.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-01,2026-09-01 00:01,mexc,PUMPFUN/USDT,0.004446,3.2,48.2,17.9,,,
-2026-09-01,2026-09-01 06:15,gate,BTR/USDT,0.20549,115.6,37.19,52.0,,,
-2026-09-01,2026-09-01 06:15,gate,0G/USDT,0.2394,6.49,28.62,9.7,,5,CoinMarketCal: 0G: 0G/USDT spot trading begins on Binance.US - 27 Aug 2026
+2026-09-01,2026-09-01 06:35,gate,BTR/USDT,0.2084,118.65,38.04,53.1,,,
+2026-09-01,2026-09-01 06:35,gate,0G/USDT,0.236,4.98,29.0,9.8,,5,CoinMarketCal: 0G: 0G/USDT spot trading begins on Binance.US - 27 Aug 2026
 2026-09-01,2026-09-01 03:45,gate,BTW/USDT,0.438197,7.81,24.79,3.0,,,
 2026-09-01,2026-09-01 02:31,gate,FLOCK/USDT,0.04189,3.03,19.64,5.1,Partner,217.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
 2026-09-01,2026-09-01 00:01,mexc,0G/USDT,0.2272,10.72,14.32,18.2,,4.0,CoinMarketCal: 0G: 0G/USDT spot trading begins on Binance.US - 27 Aug 2026
