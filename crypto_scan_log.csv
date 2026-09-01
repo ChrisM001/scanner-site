@@ -2124,22 +2124,22 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-31,2026-08-31 23:16,gate,ARB/USDT,0.10793,28.24,2.25,5.3,,,
 2026-08-31,2026-08-31 19:11,gate,LIT/USDT,3.636,3.18,2.2,9.1,,,
 2026-08-31,2026-08-31 00:10,gate,HNT/USDT,0.794,3.12,2.14,37.8,,29.0,CoinMarketCal: Helium: Delegated veHNT positions stop earning rewards at expiry - 01 Aug 2026
-2026-09-01,2026-09-01 08:01,gate,BONK/USDT,3e-06,9.13,2144449.9,3.1,,0,Brave New Coin: BONK Price Analysis Shows Recovery Toward $0.000003 Resistance
+2026-09-01,2026-09-01 08:05,gate,BONK/USDT,3e-06,7.62,2172460.9,3.2,,0,Brave New Coin: BONK Price Analysis Shows Recovery Toward $0.000003 Resistance
 2026-09-01,2026-09-01 06:10,gate,SKR/USDT,0.028874,3.04,1599.69,48.3,Listing,824.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
 2026-09-01,2026-09-01 07:40,gate,ZORA/USDT,0.00909,3.06,1400.11,7.9,,,
 2026-09-01,2026-09-01 00:01,mexc,USELESS/USDT,0.09195,22.87,734.7,16.0,Listing,379.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-01,2026-09-01 01:05,gate,PUMP/USDT,0.0046,3.35,613.48,7.1,,0.0,"Cointelegraph: Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT"
 2026-09-01,2026-09-01 00:01,mexc,HEMI/USDT,0.015863,7.49,337.15,8.6,,174.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-09-01,2026-09-01 02:25,gate,牛来/USDT,0.1063,3.04,218.43,31.0,,,
-2026-09-01,2026-09-01 08:01,gate,AKE/USDT,0.008937,10.12,209.2,5.0,,313,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-01,2026-09-01 08:05,gate,AKE/USDT,0.008979,10.64,210.95,5.0,,313,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-01,2026-09-01 07:45,gate,USELESS/USDT,0.09351,4.04,108.95,5.7,Listing,379.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-01,2026-09-01 00:01,mexc,PUMPFUN/USDT,0.004446,3.2,48.2,17.9,,,
-2026-09-01,2026-09-01 08:01,gate,BTR/USDT,0.20748,117.69,38.87,54.3,,,
-2026-09-01,2026-09-01 08:01,gate,0G/USDT,0.2407,7.07,29.42,10.0,,5,CoinMarketCal: 0G: 0G/USDT spot trading begins on Binance.US - 27 Aug 2026
+2026-09-01,2026-09-01 08:05,gate,BTR/USDT,0.19951,109.33,39.39,55.0,,,
+2026-09-01,2026-09-01 08:05,gate,0G/USDT,0.2442,8.63,29.65,10.1,,5,CoinMarketCal: 0G: 0G/USDT spot trading begins on Binance.US - 27 Aug 2026
 2026-09-01,2026-09-01 03:45,gate,BTW/USDT,0.438197,7.81,24.79,3.0,,,
 2026-09-01,2026-09-01 02:31,gate,FLOCK/USDT,0.04189,3.03,19.64,5.1,Partner,217.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
 2026-09-01,2026-09-01 00:01,mexc,0G/USDT,0.2272,10.72,14.32,18.2,,4.0,CoinMarketCal: 0G: 0G/USDT spot trading begins on Binance.US - 27 Aug 2026
 2026-09-01,2026-09-01 06:05,gate,DGAI/USDT,0.7233,3.28,8.78,5.0,,,
-2026-09-01,2026-09-01 08:01,gate,ARB/USDT,0.11252,3.04,6.23,15.7,,0,Coinpedia: ARB Price Surges 30%: Arbitrum Breaks Out as $814M Volume Ignites Fresh Rally
+2026-09-01,2026-09-01 08:01,gate,ARB/USDT,0.11252,3.04,6.23,15.7,,0.0,Coinpedia: ARB Price Surges 30%: Arbitrum Breaks Out as $814M Volume Ignites Fresh Rally
 2026-09-01,2026-09-01 00:01,mexc,ARB/USDT,0.10926,25.04,3.0,29.6,,6.0,"Coinpedia: Cryptos Big Week: 5 Events That Could Move PI, ARB, MON, XLM & More"
-2026-09-01,2026-09-01 08:01,gate,UNI/USDT,5.796,10.89,2.02,26.3,Whale,0,Coinpedia: Uniswap Price Jumps 122% as Binance Whales Keep Buying: $7.80 Target Next?
+2026-09-01,2026-09-01 08:05,gate,UNI/USDT,5.801,10.98,2.03,26.4,Whale,0,Coinpedia: Uniswap Price Jumps 122% as Binance Whales Keep Buying: $7.80 Target Next?
