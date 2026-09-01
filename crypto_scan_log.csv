@@ -2124,8 +2124,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-08-31,2026-08-31 23:16,gate,ARB/USDT,0.10793,28.24,2.25,5.3,,,
 2026-08-31,2026-08-31 19:11,gate,LIT/USDT,3.636,3.18,2.2,9.1,,,
 2026-08-31,2026-08-31 00:10,gate,HNT/USDT,0.794,3.12,2.14,37.8,,29.0,CoinMarketCal: Helium: Delegated veHNT positions stop earning rewards at expiry - 01 Aug 2026
-2026-09-01,2026-09-01 00:01,mexc,USELESS/USDT,0.09195,22.87,734.7,16.0,Listing,379,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-01,2026-09-01 00:01,mexc,HEMI/USDT,0.015863,7.49,337.15,8.6,,174,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-09-01,2026-09-01 00:01,mexc,USELESS/USDT,0.09195,22.87,734.7,16.0,Listing,379.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
+2026-09-01,2026-09-01 00:01,mexc,HEMI/USDT,0.015863,7.49,337.15,8.6,,174.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-09-01,2026-09-01 00:01,mexc,PUMPFUN/USDT,0.004446,3.2,48.2,17.9,,,
-2026-09-01,2026-09-01 00:01,mexc,0G/USDT,0.2272,10.72,14.32,18.2,,4,CoinMarketCal: 0G: 0G/USDT spot trading begins on Binance.US - 27 Aug 2026
-2026-09-01,2026-09-01 00:01,mexc,ARB/USDT,0.10926,25.04,3.0,29.6,,6,"Coinpedia: Cryptos Big Week: 5 Events That Could Move PI, ARB, MON, XLM & More"
+2026-09-01,2026-09-01 00:05,gate,BTR/USDT,0.11034,15.77,25.05,35.0,,,
+2026-09-01,2026-09-01 00:01,mexc,0G/USDT,0.2272,10.72,14.32,18.2,,4.0,CoinMarketCal: 0G: 0G/USDT spot trading begins on Binance.US - 27 Aug 2026
+2026-09-01,2026-09-01 00:01,mexc,ARB/USDT,0.10926,25.04,3.0,29.6,,6.0,"Coinpedia: Cryptos Big Week: 5 Events That Could Move PI, ARB, MON, XLM & More"
