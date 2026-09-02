@@ -459,11 +459,11 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-09-01,2026-09-01 12:21,NASDAQ:WETO,7.43,26.05,7.9,0.86,2.1,0.0,,GlobeNewswire: Wetour Robotics Demonstrates sEMG-Vision System Targeting Force and Occlusion Blind Spots in Physical AI Training,premarket
 2026-09-01,2026-09-01 12:21,AMEX:LGPS,1.09,19.81,6.9,6.27,0.16,4.0,M&A,Reuters: LogProstyle Inc. Enters Into Agreement To Acquire 100% Of I-FLATZ Corporation,premarket
 2026-09-01,2026-09-01 12:21,NASDAQ:BRNX,3.35,15.68,0.7,0.68,0.95,0.0,,"TMX Newsfile: BrenX CEO Nir Brenmiller Featured on ""The Big Biz Show""",premarket
-2026-09-02,2026-09-02 13:10,NASDAQ:FLYE,2.11,32.35,11928.5,1.56,0.42,0.0,,Benzinga: Fly-E Group (FLYE) Stock Trends Overnight After Rallying 61% on Tuesday: What You Should Know,premarket
-2026-09-02,2026-09-02 13:10,NASDAQ:SSM,4.45,39.93,44.1,1.04,0.17,1.0,,"TradingView: Sono Group Enters Registered Share Purchase to Sell 283,500 Shares at Nasdaq Bid Price",premarket
-2026-09-02,2026-09-02 13:10,NASDAQ:BIAF,6.65,69.3,37.5,0.57,0.19,0.0,,"dpa-AFX: 6 After-Hours Healthcare Gainers: Universe Pharma, BioAffinity, Modular Medical, Telix Pharma & More",premarket
-2026-09-02,2026-09-02 13:10,NASDAQ:PETZ,1.38,17.39,11.8,6.84,0.1,1.0,,Benzinga: TDH Holdings (PETZ) Stock Jumps 38% After Hours: Here's What's Going On,premarket
+2026-09-02,2026-09-02 13:15,NASDAQ:FLYE,2.167,32.35,11928.5,1.56,0.42,0.0,,Benzinga: Fly-E Group (FLYE) Stock Trends Overnight After Rallying 61% on Tuesday: What You Should Know,premarket
+2026-09-02,2026-09-02 13:15,NASDAQ:SSM,4.37,39.93,44.1,1.04,0.17,1.0,,"TradingView: Sono Group Enters Registered Share Purchase to Sell 283,500 Shares at Nasdaq Bid Price",premarket
+2026-09-02,2026-09-02 13:15,NASDAQ:BIAF,6.52,69.3,37.5,0.57,0.2,0.0,,"dpa-AFX: 6 After-Hours Healthcare Gainers: Universe Pharma, BioAffinity, Modular Medical, Telix Pharma & More",premarket
+2026-09-02,2026-09-02 13:15,NASDAQ:PETZ,1.38,17.39,11.8,6.84,0.1,1.0,,Benzinga: TDH Holdings (PETZ) Stock Jumps 38% After Hours: Here's What's Going On,premarket
 2026-09-02,2026-09-02 08:05,NASDAQ:PXS,5.96,10.63,10.5,4.11,0.11,1.0,EARNINGS,Reuters: Pyxis Tankers Inc reports results for the quarter ended June 30 - Earnings Summary,premarket
-2026-09-02,2026-09-02 13:10,NASDAQ:GYGY,1.36,13.45,4.5,0.02,0.36,7.0,,"TradingView: Game Your Game Forms Majority-Owned Altus Sports Group With Founders, Commits $200,000 Funding",premarket
-2026-09-02,2026-09-02 13:10,NASDAQ:WETO,5.07,40.24,2.4,0.86,0.51,1.0,,GlobeNewswire: Wetour Robotics Demonstrates sEMG-Vision System Targeting Force and Occlusion Blind Spots in Physical AI Training,premarket
+2026-09-02,2026-09-02 13:15,NASDAQ:GYGY,1.36,13.45,4.5,0.02,0.37,7.0,,"TradingView: Game Your Game Forms Majority-Owned Altus Sports Group With Founders, Commits $200,000 Funding",premarket
+2026-09-02,2026-09-02 13:15,NASDAQ:WETO,5.151,40.24,2.4,0.86,0.52,1.0,,GlobeNewswire: Wetour Robotics Demonstrates sEMG-Vision System Targeting Force and Occlusion Blind Spots in Physical AI Training,premarket
 2026-09-02,2026-09-02 08:05,NYSE:SST,2.44,11.61,2.2,2.16,0.14,0.0,,BusinessWire: MapQuest Tops the Charts at No. 1 Overall Free App in the U.S. and Canada Apple App Stores,premarket

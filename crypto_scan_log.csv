@@ -2148,22 +2148,22 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-01,2026-09-01 15:51,gate,DGAI/USDT,0.7227,3.2,6.38,3.6,,,
 2026-09-01,2026-09-01 00:01,mexc,ARB/USDT,0.10926,25.04,3.0,29.6,,6.0,"Coinpedia: Cryptos Big Week: 5 Events That Could Move PI, ARB, MON, XLM & More"
 2026-09-01,2026-09-01 23:40,gate,UNI/USDT,5.864,12.19,2.96,38.6,,,
-2026-09-02,2026-09-02 13:11,gate,T/USDT,0.00568,57.21,20497.5,8.1,,0,CoinMarketCal: Aster: Team Allocation Cliff Extended by 12 Months - 17 Sep 2027
+2026-09-02,2026-09-02 13:16,gate,T/USDT,0.005642,56.16,21038.99,8.3,,0,CoinMarketCal: Aster: Team Allocation Cliff Extended by 12 Months - 17 Sep 2027
 2026-09-02,2026-09-02 00:01,mexc,USELESS/USDT,0.11192,7.95,847.92,34.4,Listing,380.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-02,2026-09-02 06:35,gate,SKR/USDT,0.023112,3.73,482.54,17.1,Listing,825.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-09-02,2026-09-02 13:11,gate,龙虾/USDT,0.068763,3.79,289.18,12.5,,,
+2026-09-02,2026-09-02 13:16,gate,龙虾/USDT,0.068817,3.87,289.34,12.5,,,
 2026-09-02,2026-09-02 10:11,gate,HEMI/USDT,0.014892,3.6,197.15,8.5,,175.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-09-02,2026-09-02 08:21,gate,USELESS/USDT,0.11755,5.21,134.2,13.5,Listing,380.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-02,2026-09-02 13:11,gate,FF/USDT,0.1095,11.47,108.87,5.0,Unlock,37,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
+2026-09-02,2026-09-02 13:16,gate,FF/USDT,0.10995,11.93,109.06,5.0,Unlock,37,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
 2026-09-02,2026-09-02 09:16,gate,牛来/USDT,0.08603,3.2,94.72,13.6,,,
 2026-09-02,2026-09-02 02:25,gate,BTR/USDT,0.09328,3.08,60.7,100.8,,,
-2026-09-02,2026-09-02 13:11,gate,MAGMA/USDT,0.53629,22.2,54.7,5.3,,,
+2026-09-02,2026-09-02 13:16,gate,MAGMA/USDT,0.53993,23.03,54.92,5.3,,,
 2026-09-02,2026-09-02 07:31,gate,UAI/USDT,0.583,4.58,47.96,17.0,,,
-2026-09-02,2026-09-02 13:11,gate,CASHCAT/USDT,0.26405,20.59,29.65,3.8,,8,CryptoProwl: Crypto Rally Extends To Memecoins
+2026-09-02,2026-09-02 13:16,gate,CASHCAT/USDT,0.26174,19.53,29.7,3.8,,8,CryptoProwl: Crypto Rally Extends To Memecoins
 2026-09-02,2026-09-02 12:51,gate,BTW/USDT,0.442746,5.4,24.68,3.0,,,
 2026-09-02,2026-09-02 00:01,mexc,BTW/USDT,0.42041,4.11,14.74,3.3,,,
 2026-09-02,2026-09-02 00:01,mexc,MAGMA/USDT,0.43954,18.54,13.79,3.8,,,
 2026-09-02,2026-09-02 10:11,gate,UNI/USDT,6.06,3.68,4.52,62.8,,0.0,Coinpedia: Uniswap (UNI) Price Rises for Third Consecutive DayCan it Reach the $10 Target This Month?
 2026-09-02,2026-09-02 09:20,gate,ARB/USDT,0.11679,5.82,4.16,13.0,,0.0,Invezz: Can ARB price reach $0.14 after 30% rally powered by Robinhood chain?
-2026-09-02,2026-09-02 11:56,gate,SKYAI/USDT,0.05491,7.2,3.84,3.0,,,
+2026-09-02,2026-09-02 13:16,gate,SKYAI/USDT,0.05518,7.73,3.86,3.0,,,
 2026-09-02,2026-09-02 00:01,mexc,UAI/USDT,0.5586,23.39,3.43,15.5,,,
