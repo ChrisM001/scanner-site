@@ -2150,15 +2150,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-01,2026-09-01 23:40,gate,UNI/USDT,5.864,12.19,2.96,38.6,,,
 2026-09-02,2026-09-02 00:01,mexc,USELESS/USDT,0.11192,7.95,847.92,34.4,Listing,380.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-02,2026-09-02 03:40,gate,SKR/USDT,0.023625,6.03,510.06,18.1,Listing,825.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-09-02,2026-09-02 04:05,gate,龙虾/USDT,0.073918,11.57,265.91,11.5,,,
+2026-09-02,2026-09-02 04:25,gate,龙虾/USDT,0.072084,8.8,268.71,11.6,,,
 2026-09-02,2026-09-02 01:20,gate,USELESS/USDT,0.11509,3.01,133.17,13.4,Listing,380.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-02,2026-09-02 03:40,gate,牛来/USDT,0.08681,4.14,126.83,18.3,,,
+2026-09-02,2026-09-02 04:25,gate,牛来/USDT,0.08614,3.33,120.84,17.4,,,
 2026-09-02,2026-09-02 03:10,gate,HEMI/USDT,0.017809,23.9,116.58,5.0,,175.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-09-02,2026-09-02 02:25,gate,BTR/USDT,0.09328,3.08,60.7,100.8,,,
-2026-09-02,2026-09-02 04:05,gate,UAI/USDT,0.57843,3.76,36.85,13.1,,,
-2026-09-02,2026-09-02 04:05,gate,BTW/USDT,0.439069,4.53,25.56,3.1,,,
+2026-09-02,2026-09-02 04:25,gate,UAI/USDT,0.5781,3.7,37.5,13.3,,,
+2026-09-02,2026-09-02 04:25,gate,BTW/USDT,0.438144,4.31,25.81,3.1,,,
 2026-09-02,2026-09-02 00:01,mexc,BTW/USDT,0.42041,4.11,14.74,3.3,,,
 2026-09-02,2026-09-02 00:01,mexc,MAGMA/USDT,0.43954,18.54,13.79,3.8,,,
-2026-09-02,2026-09-02 04:05,gate,ARB/USDT,0.11441,3.66,4.33,13.6,,0,Invezz: Can ARB price reach $0.14 after 30% rally powered by Robinhood chain?
-2026-09-02,2026-09-02 04:05,gate,UNI/USDT,6.146,5.15,3.46,48.0,Whale,1,Coinpedia: Uniswap Price Jumps 122% as Binance Whales Keep Buying: $7.80 Target Next?
+2026-09-02,2026-09-02 04:05,gate,ARB/USDT,0.11441,3.66,4.33,13.6,,0.0,Invezz: Can ARB price reach $0.14 after 30% rally powered by Robinhood chain?
+2026-09-02,2026-09-02 04:25,gate,UNI/USDT,6.172,5.59,3.55,49.4,Whale,1,Coinpedia: Uniswap Price Jumps 122% as Binance Whales Keep Buying: $7.80 Target Next?
 2026-09-02,2026-09-02 00:01,mexc,UAI/USDT,0.5586,23.39,3.43,15.5,,,
