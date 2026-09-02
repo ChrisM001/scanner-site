@@ -2153,12 +2153,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-02,2026-09-02 07:05,gate,龙虾/USDT,0.068576,3.5,273.74,11.8,,,
 2026-09-02,2026-09-02 06:16,gate,HEMI/USDT,0.014835,3.21,186.89,8.1,,175.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-09-02,2026-09-02 01:20,gate,USELESS/USDT,0.11509,3.01,133.17,13.4,Listing,380.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-02,2026-09-02 07:05,gate,牛来/USDT,0.08654,3.81,108.66,15.6,,,
+2026-09-02,2026-09-02 07:11,gate,牛来/USDT,0.08709,4.47,108.82,15.7,,,
 2026-09-02,2026-09-02 02:25,gate,BTR/USDT,0.09328,3.08,60.7,100.8,,,
 2026-09-02,2026-09-02 04:45,gate,UAI/USDT,0.5774,3.58,38.03,13.5,,,
-2026-09-02,2026-09-02 07:05,gate,BTW/USDT,0.445237,6.0,24.7,3.0,,,
+2026-09-02,2026-09-02 07:11,gate,BTW/USDT,0.443455,5.57,24.82,3.0,,,
 2026-09-02,2026-09-02 00:01,mexc,BTW/USDT,0.42041,4.11,14.74,3.3,,,
 2026-09-02,2026-09-02 00:01,mexc,MAGMA/USDT,0.43954,18.54,13.79,3.8,,,
-2026-09-02,2026-09-02 07:05,gate,ARB/USDT,0.11468,3.91,4.19,13.1,,0,Invezz: Can ARB price reach $0.14 after 30% rally powered by Robinhood chain?
-2026-09-02,2026-09-02 07:05,gate,UNI/USDT,6.325,8.21,3.7,51.4,Whale,1,Coinpedia: Uniswap Price Jumps 122% as Binance Whales Keep Buying: $7.80 Target Next?
+2026-09-02,2026-09-02 07:11,gate,ARB/USDT,0.11421,3.48,4.2,13.1,,0,Invezz: Can ARB price reach $0.14 after 30% rally powered by Robinhood chain?
+2026-09-02,2026-09-02 07:11,gate,UNI/USDT,6.324,8.2,3.71,51.6,Whale,1,Coinpedia: Uniswap Price Jumps 122% as Binance Whales Keep Buying: $7.80 Target Next?
 2026-09-02,2026-09-02 00:01,mexc,UAI/USDT,0.5586,23.39,3.43,15.5,,,
