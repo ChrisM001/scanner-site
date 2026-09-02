@@ -2150,16 +2150,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-01,2026-09-01 23:40,gate,UNI/USDT,5.864,12.19,2.96,38.6,,,
 2026-09-02,2026-09-02 00:01,mexc,USELESS/USDT,0.11192,7.95,847.92,34.4,Listing,380.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-02,2026-09-02 06:35,gate,SKR/USDT,0.023112,3.73,482.54,17.1,Listing,825.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-09-02,2026-09-02 08:06,gate,龙虾/USDT,0.072665,9.68,278.85,12.1,,,
+2026-09-02,2026-09-02 08:21,gate,龙虾/USDT,0.071219,7.49,280.05,12.1,,,
 2026-09-02,2026-09-02 07:51,gate,HEMI/USDT,0.014817,3.08,198.15,8.6,,175.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-09-02,2026-09-02 08:06,gate,USELESS/USDT,0.11602,3.84,133.35,13.4,Listing,380,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-02,2026-09-02 08:06,gate,牛来/USDT,0.08776,5.28,99.68,14.4,,,
-2026-09-02,2026-09-02 08:06,gate,FF/USDT,0.10169,3.52,69.04,3.2,Unlock,37,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
+2026-09-02,2026-09-02 08:21,gate,USELESS/USDT,0.11755,5.21,134.2,13.5,Listing,380,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
+2026-09-02,2026-09-02 08:21,gate,牛来/USDT,0.08791,5.46,100.51,14.5,,,
+2026-09-02,2026-09-02 08:21,gate,FF/USDT,0.10525,7.15,69.9,3.2,Unlock,37,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
 2026-09-02,2026-09-02 02:25,gate,BTR/USDT,0.09328,3.08,60.7,100.8,,,
 2026-09-02,2026-09-02 07:31,gate,UAI/USDT,0.583,4.58,47.96,17.0,,,
+2026-09-02,2026-09-02 08:21,gate,MAGMA/USDT,0.5322,21.27,31.08,3.0,,,
 2026-09-02,2026-09-02 07:55,gate,BTW/USDT,0.440201,4.8,25.45,3.1,,,
 2026-09-02,2026-09-02 00:01,mexc,BTW/USDT,0.42041,4.11,14.74,3.3,,,
 2026-09-02,2026-09-02 00:01,mexc,MAGMA/USDT,0.43954,18.54,13.79,3.8,,,
-2026-09-02,2026-09-02 08:06,gate,ARB/USDT,0.11647,5.53,3.98,12.5,,0,Invezz: Can ARB price reach $0.14 after 30% rally powered by Robinhood chain?
-2026-09-02,2026-09-02 08:06,gate,UNI/USDT,6.283,7.49,3.67,51.1,Whale,1,Coinpedia: Uniswap Price Jumps 122% as Binance Whales Keep Buying: $7.80 Target Next?
+2026-09-02,2026-09-02 08:21,gate,ARB/USDT,0.11819,7.09,4.15,13.0,,0,Invezz: Can ARB price reach $0.14 after 30% rally powered by Robinhood chain?
+2026-09-02,2026-09-02 08:21,gate,UNI/USDT,6.296,7.72,3.7,51.4,Whale,1,Coinpedia: Uniswap Price Jumps 122% as Binance Whales Keep Buying: $7.80 Target Next?
 2026-09-02,2026-09-02 00:01,mexc,UAI/USDT,0.5586,23.39,3.43,15.5,,,
