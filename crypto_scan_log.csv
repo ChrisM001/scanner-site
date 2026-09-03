@@ -2174,7 +2174,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-03,2026-09-03 00:06,mexc,PONS/USDT,0.4697,19.48,296.2,3.5,,,
 2026-09-03,2026-09-03 00:06,mexc,HEMI/USDT,0.014739,5.46,164.62,4.9,,176.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-09-03,2026-09-03 00:06,mexc,CHIP/USDT,0.04247,3.68,160.57,4.1,Listing,131.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
-2026-09-03,2026-09-03 00:50,gate,FF/USDT,0.10896,3.33,81.19,4.9,Unlock,38.0,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
+2026-09-03,2026-09-03 01:01,gate,FF/USDT,0.10921,3.57,81.16,4.9,Unlock,38.0,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
 2026-09-03,2026-09-03 00:01,mexc,BULLA/USDT,0.023014,6.28,70.75,4.3,,,
 2026-09-03,2026-09-03 00:31,gate,MAGMA/USDT,0.41587,3.28,69.91,8.2,,,
 2026-09-03,2026-09-03 00:50,gate,USELESS/USDT,0.12658,3.03,68.68,9.1,Listing,381.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
