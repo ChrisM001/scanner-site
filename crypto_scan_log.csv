@@ -2171,26 +2171,26 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-02,2026-09-02 00:01,mexc,UAI/USDT,0.5586,23.39,3.43,15.5,,,
 2026-09-03,2026-09-03 01:05,mexc,AKE/USDT,0.0157,49.83,4285.21,74.3,,315.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-03,2026-09-03 01:05,mexc,USELESS/USDT,0.12469,5.64,398.79,20.6,Listing,381.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-03,2026-09-03 10:56,gate,PUMP/USDT,0.004396,7.56,361.04,4.1,,2,"Benzinga: Dogecoin and Bitcoin Advanced in August, but this Solana-Based Token Soared Nearly 100% and Outpaced Them All"
+2026-09-03,2026-09-03 11:01,gate,PUMP/USDT,0.004396,7.56,341.57,3.9,,2,"Benzinga: Dogecoin and Bitcoin Advanced in August, but this Solana-Based Token Soared Nearly 100% and Outpaced Them All"
 2026-09-03,2026-09-03 01:05,mexc,PONS/USDT,0.4725,20.19,318.76,3.7,,,
-2026-09-03,2026-09-03 10:56,gate,MARSCOIN/USDT,0.10977,73.33,244.84,14.4,,,
-2026-09-03,2026-09-03 10:56,gate,HEMI/USDT,0.015809,7.09,194.46,8.9,,176,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-09-03,2026-09-03 11:01,gate,MARSCOIN/USDT,0.11194,76.76,247.41,14.6,,,
+2026-09-03,2026-09-03 11:01,gate,HEMI/USDT,0.015402,4.34,194.11,8.9,,177,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-09-03,2026-09-03 00:06,mexc,CHIP/USDT,0.04247,3.68,160.57,4.1,Listing,131.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
 2026-09-03,2026-09-03 01:05,mexc,HEMI/USDT,0.014758,5.6,153.67,4.6,,176.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-09-03,2026-09-03 10:56,gate,BULLA/USDT,0.029694,31.11,149.5,3.1,,,
+2026-09-03,2026-09-03 11:01,gate,BULLA/USDT,0.029498,30.24,148.6,3.1,,,
 2026-09-03,2026-09-03 10:21,gate,FF/USDT,0.10989,4.21,143.43,8.7,Unlock,38.0,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
 2026-09-03,2026-09-03 09:31,gate,牛来/USDT,0.08097,3.69,90.45,13.0,,,
-2026-09-03,2026-09-03 10:56,gate,USELESS/USDT,0.14777,20.28,88.31,11.7,Listing,381,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
+2026-09-03,2026-09-03 11:01,gate,USELESS/USDT,0.14774,20.25,85.17,11.3,Listing,381,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-03,2026-09-03 01:05,mexc,BULLA/USDT,0.022576,4.25,75.56,4.6,,,
 2026-09-03,2026-09-03 09:01,gate,MAGMA/USDT,0.41638,3.41,61.8,7.3,,,
 2026-09-03,2026-09-03 00:06,mexc,BTW/USDT,0.47251,3.67,53.51,11.9,,,
 2026-09-03,2026-09-03 01:55,gate,CASHCAT/USDT,0.28897,3.44,30.05,5.2,,8.0,CryptoProwl: Crypto Rally Extends To Memecoins
 2026-09-03,2026-09-03 03:01,gate,MUBARAK/USDT,0.02955,3.54,27.88,6.3,,24.0,Binance News: BSC Meme Token MUBARAK Surges More Than 100% After Aster Lists Perpetual Contract
 2026-09-03,2026-09-03 00:06,mexc,SEI/USDT,0.04924,3.4,15.67,6.9,Upgrade,33.0,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
-2026-09-03,2026-09-03 10:56,gate,PONS/USDT,0.5444,18.84,11.92,18.7,,,
-2026-09-03,2026-09-03 10:56,gate,BTR/USDT,0.05201,14.61,11.51,20.5,,,
-2026-09-03,2026-09-03 10:11,gate,ADA/USDT,0.2072,3.03,10.2,21.0,Upgrade,2.0,U.Today: 48-Hour Alert: Cardano Upgrade at Risk as Governance Votes Lag
+2026-09-03,2026-09-03 11:01,gate,PONS/USDT,0.5409,18.07,11.62,18.2,,,
+2026-09-03,2026-09-03 11:01,gate,BTR/USDT,0.05211,14.83,10.37,18.4,,,
+2026-09-03,2026-09-03 11:01,gate,ADA/USDT,0.2074,3.13,10.15,20.9,Upgrade,2,U.Today: 48-Hour Alert: Cardano Upgrade at Risk as Governance Votes Lag
 2026-09-03,2026-09-03 08:55,gate,SKYAI/USDT,0.05974,6.22,4.54,3.5,,,
-2026-09-03,2026-09-03 10:56,gate,ARB/USDT,0.13557,9.3,4.48,15.7,ATH,0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
+2026-09-03,2026-09-03 11:01,gate,ARB/USDT,0.135,8.84,4.37,15.4,,,
 2026-09-03,2026-09-03 01:05,mexc,ARB/USDT,0.12305,5.63,3.98,65.8,ATH,0.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
-2026-09-03,2026-09-03 10:56,gate,UNI/USDT,6.039,3.2,2.38,37.2,,,
+2026-09-03,2026-09-03 11:01,gate,UNI/USDT,6.041,3.23,2.04,31.9,,,
