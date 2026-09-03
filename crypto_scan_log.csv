@@ -2174,13 +2174,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-03,2026-09-03 01:05,mexc,PONS/USDT,0.4725,20.19,318.76,3.7,,,
 2026-09-03,2026-09-03 00:06,mexc,CHIP/USDT,0.04247,3.68,160.57,4.1,Listing,131.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
 2026-09-03,2026-09-03 01:05,mexc,HEMI/USDT,0.014758,5.6,153.67,4.6,,176.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-09-03,2026-09-03 02:15,gate,牛来/USDT,0.08146,4.32,89.31,12.8,,,
+2026-09-03,2026-09-03 02:25,gate,牛来/USDT,0.08143,4.28,91.08,13.1,,,
 2026-09-03,2026-09-03 01:01,gate,FF/USDT,0.10921,3.57,81.16,4.9,Unlock,38.0,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
 2026-09-03,2026-09-03 01:05,mexc,BULLA/USDT,0.022576,4.25,75.56,4.6,,,
-2026-09-03,2026-09-03 00:31,gate,MAGMA/USDT,0.41587,3.28,69.91,8.2,,,
-2026-09-03,2026-09-03 02:15,gate,USELESS/USDT,0.12787,4.08,64.73,8.6,Listing,381,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
+2026-09-03,2026-09-03 02:25,gate,MAGMA/USDT,0.41485,3.03,71.61,8.4,,,
+2026-09-03,2026-09-03 02:25,gate,USELESS/USDT,0.12944,5.36,65.07,8.6,Listing,381,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-03,2026-09-03 00:06,mexc,BTW/USDT,0.47251,3.67,53.51,11.9,,,
 2026-09-03,2026-09-03 01:55,gate,CASHCAT/USDT,0.28897,3.44,30.05,5.2,,8.0,CryptoProwl: Crypto Rally Extends To Memecoins
 2026-09-03,2026-09-03 00:06,mexc,SEI/USDT,0.04924,3.4,15.67,6.9,Upgrade,33.0,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
-2026-09-03,2026-09-03 02:15,gate,PONS/USDT,0.5102,11.37,10.0,15.7,,,
+2026-09-03,2026-09-03 02:25,gate,PONS/USDT,0.5009,9.34,10.09,15.8,,,
 2026-09-03,2026-09-03 01:05,mexc,ARB/USDT,0.12305,5.63,3.98,65.8,ATH,0.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
