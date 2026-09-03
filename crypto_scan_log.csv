@@ -2178,5 +2178,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-03,2026-09-03 00:31,gate,MAGMA/USDT,0.41587,3.28,69.91,8.2,,,
 2026-09-03,2026-09-03 00:06,mexc,BTW/USDT,0.47251,3.67,53.51,11.9,,,
 2026-09-03,2026-09-03 00:06,mexc,SEI/USDT,0.04924,3.4,15.67,6.9,Upgrade,33.0,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
-2026-09-03,2026-09-03 00:10,gate,PONS/USDT,0.4784,4.43,8.99,14.1,,,
+2026-09-03,2026-09-03 00:35,gate,PONS/USDT,0.4781,4.37,9.32,14.6,,,
 2026-09-03,2026-09-03 00:06,mexc,ARB/USDT,0.12447,6.85,3.95,65.2,ATH,0.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
