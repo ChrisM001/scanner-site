@@ -2175,6 +2175,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-03,2026-09-03 00:06,mexc,HEMI/USDT,0.014739,5.46,164.62,4.9,,176.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-09-03,2026-09-03 00:06,mexc,CHIP/USDT,0.04247,3.68,160.57,4.1,Listing,131.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
 2026-09-03,2026-09-03 00:01,mexc,BULLA/USDT,0.023014,6.28,70.75,4.3,,,
+2026-09-03,2026-09-03 00:31,gate,MAGMA/USDT,0.41587,3.28,69.91,8.2,,,
 2026-09-03,2026-09-03 00:06,mexc,BTW/USDT,0.47251,3.67,53.51,11.9,,,
 2026-09-03,2026-09-03 00:06,mexc,SEI/USDT,0.04924,3.4,15.67,6.9,Upgrade,33.0,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
 2026-09-03,2026-09-03 00:10,gate,PONS/USDT,0.4784,4.43,8.99,14.1,,,
