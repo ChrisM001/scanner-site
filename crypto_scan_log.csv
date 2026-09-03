@@ -2172,22 +2172,22 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-03,2026-09-03 01:05,mexc,AKE/USDT,0.0157,49.83,4285.21,74.3,,315.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-03,2026-09-03 01:05,mexc,USELESS/USDT,0.12469,5.64,398.79,20.6,Listing,381.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-03,2026-09-03 01:05,mexc,PONS/USDT,0.4725,20.19,318.76,3.7,,,
-2026-09-03,2026-09-03 05:35,gate,PUMP/USDT,0.00427,4.48,315.58,3.6,,2,"Benzinga: Dogecoin and Bitcoin Advanced in August, but this Solana-Based Token Soared Nearly 100% and Outpaced Them All"
+2026-09-03,2026-09-03 05:46,gate,PUMP/USDT,0.004279,4.7,317.73,3.7,,2,"Benzinga: Dogecoin and Bitcoin Advanced in August, but this Solana-Based Token Soared Nearly 100% and Outpaced Them All"
 2026-09-03,2026-09-03 00:06,mexc,CHIP/USDT,0.04247,3.68,160.57,4.1,Listing,131.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
 2026-09-03,2026-09-03 01:05,mexc,HEMI/USDT,0.014758,5.6,153.67,4.6,,176.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-09-03,2026-09-03 05:35,gate,HEMI/USDT,0.019982,35.36,131.91,6.1,,176,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-09-03,2026-09-03 05:35,gate,MARSCOIN/USDT,0.08638,36.4,118.53,7.0,,,
-2026-09-03,2026-09-03 05:20,gate,牛来/USDT,0.0833,6.67,89.37,12.8,,,
-2026-09-03,2026-09-03 05:35,gate,FF/USDT,0.1088,3.18,88.99,5.4,Unlock,38,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
+2026-09-03,2026-09-03 05:46,gate,HEMI/USDT,0.02002,35.62,133.47,6.1,,176,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-09-03,2026-09-03 05:46,gate,MARSCOIN/USDT,0.0936,47.8,121.01,7.1,,,
+2026-09-03,2026-09-03 05:46,gate,牛来/USDT,0.0808,3.47,91.7,13.2,,,
+2026-09-03,2026-09-03 05:46,gate,FF/USDT,0.10908,3.44,89.18,5.4,Unlock,38,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
 2026-09-03,2026-09-03 01:05,mexc,BULLA/USDT,0.022576,4.25,75.56,4.6,,,
+2026-09-03,2026-09-03 05:46,gate,USELESS/USDT,0.14443,17.56,71.73,9.5,Listing,381,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-03,2026-09-03 04:11,gate,MAGMA/USDT,0.42964,6.7,71.16,8.4,,,
-2026-09-03,2026-09-03 05:35,gate,USELESS/USDT,0.13957,13.6,69.46,9.2,Listing,381,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-03,2026-09-03 00:06,mexc,BTW/USDT,0.47251,3.67,53.51,11.9,,,
 2026-09-03,2026-09-03 01:55,gate,CASHCAT/USDT,0.28897,3.44,30.05,5.2,,8.0,CryptoProwl: Crypto Rally Extends To Memecoins
 2026-09-03,2026-09-03 03:01,gate,MUBARAK/USDT,0.02955,3.54,27.88,6.3,,24.0,Binance News: BSC Meme Token MUBARAK Surges More Than 100% After Aster Lists Perpetual Contract
 2026-09-03,2026-09-03 00:06,mexc,SEI/USDT,0.04924,3.4,15.67,6.9,Upgrade,33.0,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
-2026-09-03,2026-09-03 05:35,gate,PONS/USDT,0.4947,7.99,10.86,17.0,,,
+2026-09-03,2026-09-03 05:46,gate,PONS/USDT,0.4975,8.6,10.91,17.1,,,
 2026-09-03,2026-09-03 05:01,gate,ADA/USDT,0.2074,3.13,9.25,19.0,Upgrade,2.0,U.Today: 48-Hour Alert: Cardano Upgrade at Risk as Governance Votes Lag
 2026-09-03,2026-09-03 05:25,gate,SKYAI/USDT,0.05798,3.09,4.08,3.1,,,
 2026-09-03,2026-09-03 01:05,mexc,ARB/USDT,0.12305,5.63,3.98,65.8,ATH,0.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
-2026-09-03,2026-09-03 05:35,gate,ARB/USDT,0.12977,4.62,3.71,13.1,ATH,0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
+2026-09-03,2026-09-03 05:46,gate,ARB/USDT,0.12981,4.65,3.73,13.1,ATH,0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
