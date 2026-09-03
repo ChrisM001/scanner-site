@@ -2169,12 +2169,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-02,2026-09-02 10:11,gate,UNI/USDT,6.06,3.68,4.52,62.8,,0.0,Coinpedia: Uniswap (UNI) Price Rises for Third Consecutive DayCan it Reach the $10 Target This Month?
 2026-09-02,2026-09-02 23:40,gate,ARB/USDT,0.1227,11.17,4.07,12.7,,,
 2026-09-02,2026-09-02 00:01,mexc,UAI/USDT,0.5586,23.39,3.43,15.5,,,
-2026-09-03,2026-09-03 00:06,mexc,AKE/USDT,0.01644,56.9,4211.59,73.0,,315,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-03,2026-09-03 00:06,mexc,USELESS/USDT,0.12441,5.4,403.32,20.8,Listing,381,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
+2026-09-03,2026-09-03 00:06,mexc,AKE/USDT,0.01644,56.9,4211.59,73.0,,315.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-03,2026-09-03 00:06,mexc,USELESS/USDT,0.12441,5.4,403.32,20.8,Listing,381.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-03,2026-09-03 00:06,mexc,PONS/USDT,0.4697,19.48,296.2,3.5,,,
-2026-09-03,2026-09-03 00:06,mexc,HEMI/USDT,0.014739,5.46,164.62,4.9,,176,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-09-03,2026-09-03 00:06,mexc,CHIP/USDT,0.04247,3.68,160.57,4.1,Listing,131,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
+2026-09-03,2026-09-03 00:06,mexc,HEMI/USDT,0.014739,5.46,164.62,4.9,,176.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-09-03,2026-09-03 00:06,mexc,CHIP/USDT,0.04247,3.68,160.57,4.1,Listing,131.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
 2026-09-03,2026-09-03 00:01,mexc,BULLA/USDT,0.023014,6.28,70.75,4.3,,,
 2026-09-03,2026-09-03 00:06,mexc,BTW/USDT,0.47251,3.67,53.51,11.9,,,
-2026-09-03,2026-09-03 00:06,mexc,SEI/USDT,0.04924,3.4,15.67,6.9,Upgrade,33,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
-2026-09-03,2026-09-03 00:06,mexc,ARB/USDT,0.12447,6.85,3.95,65.2,ATH,0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
+2026-09-03,2026-09-03 00:06,mexc,SEI/USDT,0.04924,3.4,15.67,6.9,Upgrade,33.0,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
+2026-09-03,2026-09-03 00:10,gate,PONS/USDT,0.4784,4.43,8.99,14.1,,,
+2026-09-03,2026-09-03 00:06,mexc,ARB/USDT,0.12447,6.85,3.95,65.2,ATH,0.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
