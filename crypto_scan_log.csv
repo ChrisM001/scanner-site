@@ -2205,14 +2205,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-03,2026-09-03 23:46,gate,SKYAI/USDT,0.05809,3.29,4.14,3.2,,,
 2026-09-03,2026-09-03 01:05,mexc,ARB/USDT,0.12305,5.63,3.98,65.8,ATH,0.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
 2026-09-03,2026-09-03 23:51,gate,UNI/USDT,6.302,7.69,2.94,46.0,,,
-2026-09-04,2026-09-04 00:31,mexc,AKE/USDT,0.01489,11.9,1439.36,26.4,,316,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-04,2026-09-04 00:31,mexc,AKE/USDT,0.01489,11.9,1439.36,26.4,,316.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-04,2026-09-04 00:31,mexc,MARSCOIN/USDT,0.122,4.97,797.86,9.7,,,
 2026-09-04,2026-09-04 00:31,mexc,PONS/USDT,0.704,19.03,531.13,9.0,,,
-2026-09-04,2026-09-04 00:31,mexc,USELESS/USDT,0.20002,6.88,398.97,27.4,Listing,382,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-04,2026-09-04 00:31,mexc,CHIP/USDT,0.05767,3.53,323.09,9.9,Listing,132,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
+2026-09-04,2026-09-04 00:31,mexc,USELESS/USDT,0.20002,6.88,398.97,27.4,Listing,382.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
+2026-09-04,2026-09-04 00:31,mexc,CHIP/USDT,0.05767,3.53,323.09,9.9,Listing,132.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
 2026-09-04,2026-09-04 00:31,mexc,BR/USDT,0.32597,8.53,41.71,8.7,,,
 2026-09-04,2026-09-04 00:05,gate,PONS/USDT,0.723,3.34,12.4,22.8,,,
 2026-09-04,2026-09-04 00:31,mexc,BTR/USDT,0.04973,3.19,11.17,9.0,,,
-2026-09-04,2026-09-04 00:10,gate,BTR/USDT,0.05037,4.11,7.8,14.3,,,
-2026-09-04,2026-09-04 00:31,mexc,FF/USDT,0.10308,3.48,3.91,3.8,Unlock,38,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
+2026-09-04,2026-09-04 00:35,gate,BTR/USDT,0.0502,3.76,7.86,14.4,,,
+2026-09-04,2026-09-04 00:31,mexc,FF/USDT,0.10308,3.48,3.91,3.8,Unlock,38.0,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
 2026-09-04,2026-09-04 00:31,mexc,ARB/USDT,0.14387,8.9,3.69,69.9,,,
