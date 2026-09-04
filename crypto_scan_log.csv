@@ -2209,10 +2209,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-04,2026-09-04 00:31,mexc,MARSCOIN/USDT,0.122,4.97,797.86,9.7,,,
 2026-09-04,2026-09-04 00:31,mexc,PONS/USDT,0.704,19.03,531.13,9.0,,,
 2026-09-04,2026-09-04 00:31,mexc,USELESS/USDT,0.20002,6.88,398.97,27.4,Listing,382.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-04,2026-09-04 02:40,gate,CHIP/USDT,0.06074,8.5,330.01,3.1,Listing,132.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
+2026-09-04,2026-09-04 02:46,gate,CHIP/USDT,0.06075,8.52,333.11,3.2,Listing,132.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
 2026-09-04,2026-09-04 00:31,mexc,CHIP/USDT,0.05767,3.53,323.09,9.9,Listing,132.0,CoinMarketCal: CHIP (CHIP) - OKX Listing - 24 April 2026
 2026-09-04,2026-09-04 01:55,gate,MARSCOIN/USDT,0.1326,3.25,278.36,34.5,,,
-2026-09-04,2026-09-04 02:25,gate,EDGEX/USDT,0.6539,7.18,157.62,4.1,,30.0,CoinMarketCal: edgeX: Trade to Earn goes live - 04 Aug 2026
+2026-09-04,2026-09-04 02:46,gate,EDGEX/USDT,0.6332,3.79,160.56,4.1,,30.0,CoinMarketCal: edgeX: Trade to Earn goes live - 04 Aug 2026
 2026-09-04,2026-09-04 01:55,gate,USELESS/USDT,0.2143,3.24,113.17,26.2,Listing,382.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-04,2026-09-04 02:05,gate,牛来/USDT,0.09979,3.59,106.76,15.5,,,
 2026-09-04,2026-09-04 00:31,mexc,BR/USDT,0.32597,8.53,41.71,8.7,,,
