@@ -2211,4 +2211,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-04,2026-09-04 00:01,mexc,USELESS/USDT,0.20694,10.58,390.61,26.9,Listing,382.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-04,2026-09-04 00:01,mexc,BR/USDT,0.32793,9.18,41.34,8.6,,,
 2026-09-04,2026-09-04 00:05,gate,PONS/USDT,0.723,3.34,12.4,22.8,,,
+2026-09-04,2026-09-04 00:10,gate,BTR/USDT,0.05037,4.11,7.8,14.3,,,
 2026-09-04,2026-09-04 00:01,mexc,ARB/USDT,0.14087,6.63,3.59,67.9,ATH,1.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
