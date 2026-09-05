@@ -2233,27 +2233,27 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-04,2026-09-04 01:11,gate,ARB/USDT,0.14588,3.51,4.33,17.5,ATH,1.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
 2026-09-04,2026-09-04 00:31,mexc,FF/USDT,0.10308,3.48,3.91,3.8,Unlock,38.0,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
 2026-09-04,2026-09-04 00:31,mexc,ARB/USDT,0.14387,8.9,3.69,69.9,,,
-2026-09-05,2026-09-05 10:11,gate,BONK/USDT,3e-06,4.57,2889445.93,5.1,,2,Binance News: PINGU and BONK Trader Gains More Than $9.8 Million in One Month
+2026-09-05,2026-09-05 10:16,gate,BONK/USDT,3e-06,4.0,2907746.39,5.2,,2,Binance News: PINGU and BONK Trader Gains More Than $9.8 Million in One Month
 2026-09-05,2026-09-05 00:41,mexc,1000BONK/USDT,0.003281,5.16,24649.02,16.5,,,
-2026-09-05,2026-09-05 10:11,gate,NOM/USDT,0.00191,22.59,10181.16,4.0,,,
-2026-09-05,2026-09-05 10:11,gate,AKE/USDT,0.018852,42.33,1869.52,47.1,,317,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-05,2026-09-05 10:16,gate,NOM/USDT,0.001855,19.06,10213.72,4.0,,,
+2026-09-05,2026-09-05 10:16,gate,AKE/USDT,0.018814,42.04,1872.45,47.2,,317,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-05,2026-09-05 00:41,mexc,MARSCOIN/USDT,0.18739,8.56,511.64,8.7,,19.0,Binance News: MarsCoin Address Sold 5.12 Million Tokens Before Price Surge and Later Bought Back Higher
 2026-09-05,2026-09-05 00:41,mexc,USELESS/USDT,0.26,15.2,486.19,45.2,Listing,383.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-05,2026-09-05 10:11,gate,MARSCOIN/USDT,0.23029,19.15,270.0,57.3,,19,Binance News: MarsCoin Address Sold 5.12 Million Tokens Before Price Surge and Later Bought Back Higher
-2026-09-05,2026-09-05 10:11,gate,BULLA/USDT,0.067896,145.61,243.43,16.1,,,
-2026-09-05,2026-09-05 10:11,gate,牛来/USDT,0.11894,41.34,108.19,15.6,,,
-2026-09-05,2026-09-05 09:40,gate,SKR/USDT,0.023454,7.76,93.47,3.9,Listing,828.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
+2026-09-05,2026-09-05 10:16,gate,MARSCOIN/USDT,0.23839,23.34,274.48,58.3,,19,Binance News: MarsCoin Address Sold 5.12 Million Tokens Before Price Surge and Later Bought Back Higher
+2026-09-05,2026-09-05 10:16,gate,BULLA/USDT,0.067457,144.02,244.73,16.2,,,
+2026-09-05,2026-09-05 10:16,gate,牛来/USDT,0.1181,40.34,108.77,15.7,,,
 2026-09-05,2026-09-05 00:41,mexc,SKR/USDT,0.02225,7.8,93.23,6.3,Listing,828.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-09-05,2026-09-05 10:11,gate,PENGU/USDT,0.008582,3.66,81.3,4.7,,7,CoinMarketCal: Pudgy Penguins: Introduces Collectible Figurines Series 1 with schleich - 28 Aug 2026
-2026-09-05,2026-09-05 10:11,gate,4/USDT,0.02563,7.94,74.27,6.9,Listing,232,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
-2026-09-05,2026-09-05 10:11,gate,FF/USDT,0.11808,9.13,58.93,5.8,,,
+2026-09-05,2026-09-05 10:16,gate,SKR/USDT,0.022547,3.59,82.89,3.4,Listing,828,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
+2026-09-05,2026-09-05 10:16,gate,PENGU/USDT,0.008568,3.49,81.38,4.7,,7,CoinMarketCal: Pudgy Penguins: Introduces Collectible Figurines Series 1 with schleich - 28 Aug 2026
+2026-09-05,2026-09-05 10:16,gate,4/USDT,0.025988,9.45,74.57,6.9,,,
+2026-09-05,2026-09-05 10:16,gate,FF/USDT,0.11702,8.15,59.01,5.8,,,
 2026-09-05,2026-09-05 00:41,mexc,4/USDT,0.02416,50.71,54.16,11.1,Listing,232.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
 2026-09-05,2026-09-05 05:46,gate,VELVET/USDT,0.07887,4.44,51.35,3.4,,22.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-09-05,2026-09-05 00:05,mexc,EDGE/USDT,0.6257,4.07,33.1,4.6,,,
-2026-09-05,2026-09-05 10:11,gate,PONS/USDT,0.8749,23.78,18.33,39.8,,,
-2026-09-05,2026-09-05 10:11,gate,FLOCK/USDT,0.05427,3.79,17.9,12.1,,,
+2026-09-05,2026-09-05 10:16,gate,PONS/USDT,0.8674,22.72,18.45,40.1,,,
+2026-09-05,2026-09-05 10:16,gate,FLOCK/USDT,0.055,5.18,17.95,12.1,,,
 2026-09-05,2026-09-05 09:06,gate,CASHCAT/USDT,0.25645,3.12,17.71,3.9,,,
 2026-09-05,2026-09-05 00:41,mexc,MAGMA/USDT,0.26762,3.45,13.32,5.1,,,
 2026-09-05,2026-09-05 00:41,mexc,BTR/USDT,0.05126,3.95,5.2,4.3,,,
 2026-09-05,2026-09-05 06:46,gate,BTR/USDT,0.05208,3.25,2.5,4.6,,,
-2026-09-05,2026-09-05 10:11,gate,NEAR/USDT,2.2398,3.15,2.35,14.7,,,
+2026-09-05,2026-09-05 10:16,gate,NEAR/USDT,2.244,3.35,2.35,14.8,,,
