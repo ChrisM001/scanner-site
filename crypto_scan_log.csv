@@ -2235,15 +2235,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-04,2026-09-04 00:31,mexc,ARB/USDT,0.14387,8.9,3.69,69.9,,,
 2026-09-05,2026-09-05 03:25,gate,BONK/USDT,3e-06,3.13,2713878.71,4.8,,1.0,Binance News: PINGU and BONK Trader Gains More Than $9.8 Million in One Month
 2026-09-05,2026-09-05 00:41,mexc,1000BONK/USDT,0.003281,5.16,24649.02,16.5,,,
-2026-09-05,2026-09-05 04:20,gate,AKE/USDT,0.019765,49.22,1051.83,26.5,,317,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-05,2026-09-05 04:25,gate,AKE/USDT,0.018932,42.93,1101.24,27.8,,317,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-05,2026-09-05 00:41,mexc,MARSCOIN/USDT,0.18739,8.56,511.64,8.7,,19.0,Binance News: MarsCoin Address Sold 5.12 Million Tokens Before Price Surge and Later Bought Back Higher
 2026-09-05,2026-09-05 00:41,mexc,USELESS/USDT,0.26,15.2,486.19,45.2,Listing,383.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-05,2026-09-05 04:20,gate,BULLA/USDT,0.061035,120.79,137.18,9.1,,,
+2026-09-05,2026-09-05 04:25,gate,BULLA/USDT,0.063171,128.52,138.76,9.2,,,
 2026-09-05,2026-09-05 00:41,mexc,SKR/USDT,0.02225,7.8,93.23,6.3,Listing,828.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
-2026-09-05,2026-09-05 04:20,gate,牛来/USDT,0.08993,6.87,80.36,11.6,,,
+2026-09-05,2026-09-05 04:25,gate,牛来/USDT,0.09127,8.46,80.43,11.6,,,
 2026-09-05,2026-09-05 00:41,mexc,4/USDT,0.02416,50.71,54.16,11.1,Listing,232.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
-2026-09-05,2026-09-05 04:20,gate,4/USDT,0.026604,12.05,53.65,5.0,Listing,232,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
-2026-09-05,2026-09-05 04:20,gate,VELVET/USDT,0.0782,3.55,50.57,3.3,,22,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
+2026-09-05,2026-09-05 04:25,gate,4/USDT,0.026442,11.36,54.01,5.0,Listing,232,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
+2026-09-05,2026-09-05 04:20,gate,VELVET/USDT,0.0782,3.55,50.57,3.3,,22.0,"Benzinga: Bitcoin and Dogecoin Faltered in 2026, But This Little-Known Token Exploded 375% as SpaceX IPO Fever Took Over"
 2026-09-05,2026-09-05 00:05,mexc,EDGE/USDT,0.6257,4.07,33.1,4.6,,,
 2026-09-05,2026-09-05 04:05,gate,FLOCK/USDT,0.0549,4.99,14.9,10.0,Partner,221.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
 2026-09-05,2026-09-05 00:41,mexc,MAGMA/USDT,0.26762,3.45,13.32,5.1,,,
