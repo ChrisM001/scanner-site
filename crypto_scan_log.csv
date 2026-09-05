@@ -2233,16 +2233,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-04,2026-09-04 01:11,gate,ARB/USDT,0.14588,3.51,4.33,17.5,ATH,1.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
 2026-09-04,2026-09-04 00:31,mexc,FF/USDT,0.10308,3.48,3.91,3.8,Unlock,38.0,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
 2026-09-04,2026-09-04 00:31,mexc,ARB/USDT,0.14387,8.9,3.69,69.9,,,
-2026-09-05,2026-09-05 02:25,gate,BONK/USDT,3e-06,5.16,2710991.26,4.8,,1,Binance News: PINGU and BONK Trader Gains More Than $9.8 Million in One Month
+2026-09-05,2026-09-05 02:50,gate,BONK/USDT,3e-06,3.69,2735705.52,4.9,,1,Binance News: PINGU and BONK Trader Gains More Than $9.8 Million in One Month
 2026-09-05,2026-09-05 00:41,mexc,1000BONK/USDT,0.003281,5.16,24649.02,16.5,,,
-2026-09-05,2026-09-05 02:25,gate,AKE/USDT,0.018816,42.05,635.12,16.0,,317,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-05,2026-09-05 02:50,gate,AKE/USDT,0.017822,34.55,721.86,18.2,,317,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-05,2026-09-05 00:41,mexc,MARSCOIN/USDT,0.18739,8.56,511.64,8.7,,19.0,Binance News: MarsCoin Address Sold 5.12 Million Tokens Before Price Surge and Later Bought Back Higher
 2026-09-05,2026-09-05 00:41,mexc,USELESS/USDT,0.26,15.2,486.19,45.2,Listing,383.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-05,2026-09-05 00:41,mexc,SKR/USDT,0.02225,7.8,93.23,6.3,Listing,828.0,CoinMarketCal: Saakuru (SKR) - MEXC Listing - 30 May 2024
+2026-09-05,2026-09-05 02:50,gate,牛来/USDT,0.08753,4.02,79.88,11.5,,,
 2026-09-05,2026-09-05 00:41,mexc,4/USDT,0.02416,50.71,54.16,11.1,Listing,232.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
-2026-09-05,2026-09-05 02:25,gate,4/USDT,0.0274,15.4,43.0,4.0,Listing,232,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
+2026-09-05,2026-09-05 02:50,gate,4/USDT,0.026913,13.35,44.97,4.2,Listing,232,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
 2026-09-05,2026-09-05 00:05,mexc,EDGE/USDT,0.6257,4.07,33.1,4.6,,,
 2026-09-05,2026-09-05 00:41,mexc,MAGMA/USDT,0.26762,3.45,13.32,5.1,,,
 2026-09-05,2026-09-05 00:41,mexc,BTR/USDT,0.05126,3.95,5.2,4.3,,,
-2026-09-05,2026-09-05 02:25,gate,BTR/USDT,0.05213,3.35,4.25,7.9,,,
+2026-09-05,2026-09-05 02:50,gate,BTR/USDT,0.0521,3.29,4.31,8.0,,,
 2026-09-05,2026-09-05 01:15,gate,NEAR/USDT,2.2653,4.33,2.05,12.9,,5.0,U.Today: Crypto Developer Dodges Hidden Malware After Clicking Fake Claude AI Link
