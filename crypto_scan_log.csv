@@ -2269,18 +2269,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-05,2026-09-05 23:01,gate,UNI/USDT,7.084,14.61,2.69,47.8,,,
 2026-09-05,2026-09-05 06:46,gate,BTR/USDT,0.05208,3.25,2.5,4.6,,,
 2026-09-05,2026-09-05 19:31,gate,NEAR/USDT,2.2386,3.1,2.19,13.7,,,
-2026-09-06,2026-09-06 01:15,gate,MARSCOIN/USDT,0.24854,3.06,195.8,52.6,,20.0,Binance News: MarsCoin Address Sold 5.12 Million Tokens Before Price Surge and Later Bought Back Higher
+2026-09-06,2026-09-06 01:35,gate,MARSCOIN/USDT,0.24885,3.19,197.05,53.0,,20,Binance News: MarsCoin Address Sold 5.12 Million Tokens Before Price Surge and Later Bought Back Higher
 2026-09-06,2026-09-06 01:10,gate,牛来/USDT,0.12454,3.4,167.86,25.3,,,
 2026-09-06,2026-09-06 00:01,mexc,BULLA/USDT,0.084072,3.93,85.16,24.8,,,
 2026-09-06,2026-09-06 00:01,mexc,4/USDT,0.03287,20.97,65.46,21.4,Listing,233.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
 2026-09-06,2026-09-06 01:20,gate,ASTER/USDT,0.7991,3.15,64.63,13.8,,4.0,"Chainwire: Aster and World Liberty Financial Launch USD1 RWA Boost: Phase 1, Offering 125M $WLFI + 6.25M USD1 in Rewards"
-2026-09-06,2026-09-06 01:25,gate,USELESS/USDT,0.26764,3.76,57.23,35.0,Listing,384,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-06,2026-09-06 01:25,gate,UAI/USDT,0.60425,21.42,19.41,7.1,,,
+2026-09-06,2026-09-06 01:35,gate,USELESS/USDT,0.26743,3.68,57.32,35.1,Listing,384,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
+2026-09-06,2026-09-06 01:35,gate,UAI/USDT,0.59784,20.13,19.75,7.3,,,
 2026-09-06,2026-09-06 01:13,gate,PONS/USDT,0.9466,3.16,16.26,41.4,,,
-2026-09-06,2026-09-06 01:25,gate,ENA/USDT,0.18437,7.36,10.23,15.8,,1,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
+2026-09-06,2026-09-06 01:35,gate,ENA/USDT,0.18711,8.96,10.42,16.1,,1,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
 2026-09-06,2026-09-06 00:05,gate,FLOCK/USDT,0.06608,3.09,8.11,8.3,Partner,222.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
 2026-09-06,2026-09-06 00:01,mexc,NIULAI/USDT,0.12152,6.02,7.93,3.2,,,
-2026-09-06,2026-09-06 01:25,gate,ARB/USDT,0.19199,8.41,4.75,23.1,ATH,3,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
+2026-09-06,2026-09-06 01:35,gate,ARB/USDT,0.1911,7.91,5.03,24.4,ATH,3,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
 2026-09-06,2026-09-06 00:01,mexc,ENA/USDT,0.17183,5.8,4.31,22.8,,1.0,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
 2026-09-06,2026-09-06 00:01,mexc,ARB/USDT,0.17858,34.74,3.08,75.8,ATH,3.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
-2026-09-06,2026-09-06 01:25,gate,UNI/USDT,7.422,5.32,2.78,53.4,,0,"Stocktwits: Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket"
+2026-09-06,2026-09-06 01:35,gate,UNI/USDT,7.336,4.1,2.84,54.5,,0,"Stocktwits: Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket"
