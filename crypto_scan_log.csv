@@ -2269,9 +2269,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-05,2026-09-05 23:01,gate,UNI/USDT,7.084,14.61,2.69,47.8,,,
 2026-09-05,2026-09-05 06:46,gate,BTR/USDT,0.05208,3.25,2.5,4.6,,,
 2026-09-05,2026-09-05 19:31,gate,NEAR/USDT,2.2386,3.1,2.19,13.7,,,
-2026-09-06,2026-09-06 02:25,gate,BONK/USDT,3e-06,3.05,1751141.0,3.3,,2,Binance News: PINGU and BONK Trader Gains More Than $9.8 Million in One Month
+2026-09-06,2026-09-06 02:31,gate,BONK/USDT,3e-06,3.08,1752121.42,3.3,,2,Binance News: PINGU and BONK Trader Gains More Than $9.8 Million in One Month
 2026-09-06,2026-09-06 02:25,gate,COLLECT/USDT,0.06128,3.57,777.93,3.2,,,
-2026-09-06,2026-09-06 02:25,gate,PUMP/USDT,0.003965,3.23,655.77,7.5,,1,Cointelegraph: Token buybacks are booming. But are they good for crypto projects?
+2026-09-06,2026-09-06 02:31,gate,PUMP/USDT,0.00398,3.62,657.25,7.5,,1,Cointelegraph: Token buybacks are booming. But are they good for crypto projects?
 2026-09-06,2026-09-06 02:15,gate,MARSCOIN/USDT,0.24981,3.59,195.84,52.6,,20.0,Binance News: MarsCoin Address Sold 5.12 Million Tokens Before Price Surge and Later Bought Back Higher
 2026-09-06,2026-09-06 01:10,gate,牛来/USDT,0.12454,3.4,167.86,25.3,,,
 2026-09-06,2026-09-06 00:01,mexc,BULLA/USDT,0.084072,3.93,85.16,24.8,,,
@@ -2279,13 +2279,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-06,2026-09-06 01:20,gate,ASTER/USDT,0.7991,3.15,64.63,13.8,,4.0,"Chainwire: Aster and World Liberty Financial Launch USD1 RWA Boost: Phase 1, Offering 125M $WLFI + 6.25M USD1 in Rewards"
 2026-09-06,2026-09-06 02:15,gate,PENGU/USDT,0.008888,3.24,59.11,3.4,,8.0,CoinMarketCal: Pudgy Penguins: Introduces Collectible Figurines Series 1 with schleich - 28 Aug 2026
 2026-09-06,2026-09-06 02:15,gate,USELESS/USDT,0.26632,3.25,54.25,33.2,Listing,384.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-06,2026-09-06 02:25,gate,UAI/USDT,0.62549,25.68,21.11,7.8,,,
+2026-09-06,2026-09-06 02:31,gate,UAI/USDT,0.64019,28.64,21.81,8.0,,,
 2026-09-06,2026-09-06 02:10,gate,PONS/USDT,0.9544,4.01,16.71,42.5,,,
 2026-09-06,2026-09-06 02:15,gate,SUSHI/USDT,0.2629,3.18,12.64,4.5,,0.0,Coindar: Sushi to Start Weekly SUSHI Purchases on September 7th
-2026-09-06,2026-09-06 02:25,gate,ENA/USDT,0.17916,4.33,11.31,17.5,,1,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
+2026-09-06,2026-09-06 02:31,gate,ENA/USDT,0.17983,4.72,11.4,17.6,,1,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
 2026-09-06,2026-09-06 02:15,gate,FLOCK/USDT,0.06652,3.78,8.08,8.3,,,
 2026-09-06,2026-09-06 00:01,mexc,NIULAI/USDT,0.12152,6.02,7.93,3.2,,,
-2026-09-06,2026-09-06 02:25,gate,ARB/USDT,0.19148,8.12,5.71,27.8,ATH,3,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
+2026-09-06,2026-09-06 02:31,gate,ARB/USDT,0.19369,9.37,5.78,28.1,ATH,3,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
 2026-09-06,2026-09-06 00:01,mexc,ENA/USDT,0.17183,5.8,4.31,22.8,,1.0,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
 2026-09-06,2026-09-06 00:01,mexc,ARB/USDT,0.17858,34.74,3.08,75.8,ATH,3.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
-2026-09-06,2026-09-06 02:25,gate,UNI/USDT,7.299,3.58,2.93,56.3,,0,"Stocktwits: Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket"
+2026-09-06,2026-09-06 02:31,gate,UNI/USDT,7.259,3.01,2.94,56.5,,0,"Stocktwits: Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket"
