@@ -2271,10 +2271,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-05,2026-09-05 19:31,gate,NEAR/USDT,2.2386,3.1,2.19,13.7,,,
 2026-09-06,2026-09-06 00:01,mexc,BULLA/USDT,0.084072,3.93,85.16,24.8,,,
 2026-09-06,2026-09-06 00:01,mexc,4/USDT,0.03287,20.97,65.46,21.4,Listing,233.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
-2026-09-06,2026-09-06 00:40,gate,UAI/USDT,0.53175,6.85,17.97,6.6,,,
-2026-09-06,2026-09-06 00:31,gate,ENA/USDT,0.17721,3.19,8.75,13.5,,1.0,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
+2026-09-06,2026-09-06 00:45,gate,UAI/USDT,0.52961,6.42,18.04,6.6,,,
+2026-09-06,2026-09-06 00:45,gate,ENA/USDT,0.17795,3.62,8.94,13.8,,1,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
 2026-09-06,2026-09-06 00:05,gate,FLOCK/USDT,0.06608,3.09,8.11,8.3,Partner,222.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
 2026-09-06,2026-09-06 00:01,mexc,NIULAI/USDT,0.12152,6.02,7.93,3.2,,,
 2026-09-06,2026-09-06 00:01,mexc,ENA/USDT,0.17183,5.8,4.31,22.8,,1.0,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
-2026-09-06,2026-09-06 00:40,gate,ARB/USDT,0.18756,5.91,3.83,18.6,ATH,3,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
+2026-09-06,2026-09-06 00:45,gate,ARB/USDT,0.18792,6.11,3.87,18.8,ATH,3,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
 2026-09-06,2026-09-06 00:01,mexc,ARB/USDT,0.17858,34.74,3.08,75.8,ATH,3.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
