@@ -2271,11 +2271,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-05,2026-09-05 19:31,gate,NEAR/USDT,2.2386,3.1,2.19,13.7,,,
 2026-09-06,2026-09-06 00:01,mexc,BULLA/USDT,0.084072,3.93,85.16,24.8,,,
 2026-09-06,2026-09-06 00:01,mexc,4/USDT,0.03287,20.97,65.46,21.4,Listing,233.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
-2026-09-06,2026-09-06 01:01,gate,USELESS/USDT,0.26646,3.31,56.86,34.8,Listing,384,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-06,2026-09-06 01:01,gate,UAI/USDT,0.54419,9.35,17.83,6.6,,,
-2026-09-06,2026-09-06 01:01,gate,ENA/USDT,0.18179,5.86,9.2,14.2,,1,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
+2026-09-06,2026-09-06 01:05,gate,USELESS/USDT,0.268,3.9,56.95,34.9,Listing,384,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
+2026-09-06,2026-09-06 01:05,gate,UAI/USDT,0.5389,8.28,17.99,6.6,,,
+2026-09-06,2026-09-06 01:05,gate,PONS/USDT,0.9527,3.83,16.09,40.9,,,
+2026-09-06,2026-09-06 01:05,gate,ENA/USDT,0.18342,6.81,9.46,14.6,,1,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
 2026-09-06,2026-09-06 00:05,gate,FLOCK/USDT,0.06608,3.09,8.11,8.3,Partner,222.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
 2026-09-06,2026-09-06 00:01,mexc,NIULAI/USDT,0.12152,6.02,7.93,3.2,,,
-2026-09-06,2026-09-06 01:01,gate,ARB/USDT,0.19288,8.91,4.39,21.4,ATH,3,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
+2026-09-06,2026-09-06 01:05,gate,ARB/USDT,0.19393,9.5,4.49,21.8,ATH,3,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
 2026-09-06,2026-09-06 00:01,mexc,ENA/USDT,0.17183,5.8,4.31,22.8,,1.0,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
 2026-09-06,2026-09-06 00:01,mexc,ARB/USDT,0.17858,34.74,3.08,75.8,ATH,3.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
+2026-09-06,2026-09-06 01:05,gate,UNI/USDT,7.322,3.9,2.68,51.4,,0,"Stocktwits: Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket"
