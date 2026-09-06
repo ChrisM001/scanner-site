@@ -2269,7 +2269,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-05,2026-09-05 23:01,gate,UNI/USDT,7.084,14.61,2.69,47.8,,,
 2026-09-05,2026-09-05 06:46,gate,BTR/USDT,0.05208,3.25,2.5,4.6,,,
 2026-09-05,2026-09-05 19:31,gate,NEAR/USDT,2.2386,3.1,2.19,13.7,,,
-2026-09-06,2026-09-06 16:01,gate,BONK/USDT,3e-06,7.75,1840643.97,3.5,,,
+2026-09-06,2026-09-06 16:31,gate,BONK/USDT,4e-06,13.39,2027017.63,3.8,,,
 2026-09-06,2026-09-06 06:05,gate,BOME/USDT,0.000974,3.88,1360.98,5.2,,39.0,Coinpedia: BOME Price Is Heating Up AgainHeres Why
 2026-09-06,2026-09-06 15:35,gate,PUMP/USDT,0.003957,3.02,835.58,9.5,,2.0,Cointelegraph: Token buybacks are booming. But are they good for crypto projects?
 2026-09-06,2026-09-06 02:50,gate,COLLECT/USDT,0.0621,4.95,782.13,3.2,,,
@@ -2281,17 +2281,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-06,2026-09-06 03:45,gate,PENGU/USDT,0.00894,3.84,64.26,3.7,,8.0,CoinMarketCal: Pudgy Penguins: Introduces Collectible Figurines Series 1 with schleich - 28 Aug 2026
 2026-09-06,2026-09-06 15:46,gate,HEMI/USDT,0.011198,3.93,62.29,3.1,,180.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-09-06,2026-09-06 02:15,gate,USELESS/USDT,0.26632,3.25,54.25,33.2,Listing,384.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
-2026-09-06,2026-09-06 16:01,gate,UAI/USDT,0.56403,13.33,49.3,18.1,,,
+2026-09-06,2026-09-06 16:31,gate,UAI/USDT,0.58414,17.37,49.93,18.3,,,
 2026-09-06,2026-09-06 11:35,gate,PONS/USDT,0.9475,3.26,17.01,43.3,,,
-2026-09-06,2026-09-06 16:01,gate,FLOCK/USDT,0.07211,12.5,14.97,15.3,,,
+2026-09-06,2026-09-06 16:31,gate,FLOCK/USDT,0.07205,12.4,15.02,15.3,,,
 2026-09-06,2026-09-06 09:15,gate,ENA/USDT,0.17732,3.26,14.75,22.8,,2.0,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
 2026-09-06,2026-09-06 02:15,gate,SUSHI/USDT,0.2629,3.18,12.64,4.5,,0.0,Coindar: Sushi to Start Weekly SUSHI Purchases on September 7th
-2026-09-06,2026-09-06 16:01,gate,ARB/USDT,0.18704,5.61,10.83,52.6,,,
-2026-09-06,2026-09-06 16:01,gate,RAY/USDT,1.3209,45.51,9.6,7.3,,,
-2026-09-06,2026-09-06 16:01,gate,JUP/USDT,0.2665,21.3,8.15,4.0,,,
+2026-09-06,2026-09-06 16:31,gate,ARB/USDT,0.1895,7.0,11.02,53.5,,,
+2026-09-06,2026-09-06 16:31,gate,RAY/USDT,1.33,46.51,9.91,7.5,,,
+2026-09-06,2026-09-06 16:31,gate,JUP/USDT,0.2693,22.58,8.33,4.1,,,
 2026-09-06,2026-09-06 00:01,mexc,NIULAI/USDT,0.12152,6.02,7.93,3.2,,,
+2026-09-06,2026-09-06 16:31,gate,UNI/USDT,7.385,4.8,4.92,94.5,,,
 2026-09-06,2026-09-06 00:01,mexc,ENA/USDT,0.17183,5.8,4.31,22.8,,1.0,Binance News: Ethena-Linked Address Appears to Liquidate Holdings After Two Years of Inactivity
 2026-09-06,2026-09-06 00:01,mexc,ARB/USDT,0.17858,34.74,3.08,75.8,ATH,3.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
-2026-09-06,2026-09-06 02:46,gate,UNI/USDT,7.286,3.39,2.97,57.0,,0.0,"Stocktwits: Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket"
-2026-09-06,2026-09-06 16:01,gate,COTI/USDT,0.01761,13.98,2.58,3.0,,,
-2026-09-06,2026-09-06 16:01,gate,NEAR/USDT,2.3882,9.06,2.35,15.3,,,
+2026-09-06,2026-09-06 16:31,gate,COTI/USDT,0.01772,14.69,2.62,3.1,,,
+2026-09-06,2026-09-06 16:31,gate,NEAR/USDT,2.4301,10.97,2.39,15.6,,,
