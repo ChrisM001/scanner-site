@@ -2301,8 +2301,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-07,2026-09-07 00:55,gate,FONE/USDT,0.012414,6.53,208.4,3.1,,,
 2026-09-07,2026-09-07 00:16,mexc,MARSCOIN/USDT,0.19218,5.01,149.91,3.4,,1.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
 2026-09-07,2026-09-07 00:11,mexc,PUMPFUN/USDT,0.004013,3.02,61.78,22.7,,,
-2026-09-07,2026-09-07 01:30,gate,UAI/USDT,0.6165,5.36,42.64,17.9,,,
-2026-09-07,2026-09-07 01:30,gate,USELESS/USDT,0.22213,3.06,30.71,20.8,Listing,385,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
+2026-09-07,2026-09-07 01:40,gate,UAI/USDT,0.6183,5.67,42.83,18.0,,,
+2026-09-07,2026-09-07 01:30,gate,USELESS/USDT,0.22213,3.06,30.71,20.8,Listing,385.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-07,2026-09-07 00:16,mexc,4/USDT,0.02532,5.85,18.43,6.6,Listing,234.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
 2026-09-07,2026-09-07 00:16,mexc,VIRTUAL/USDT,0.7258,4.52,12.06,5.1,,13.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-09-07,2026-09-07 00:35,gate,FLOCK/USDT,0.07903,4.76,9.75,15.0,Partner,223.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
