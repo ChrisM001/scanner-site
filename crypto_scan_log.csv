@@ -2298,8 +2298,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-06,2026-09-06 00:01,mexc,ARB/USDT,0.17858,34.74,3.08,75.8,ATH,3.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
 2026-09-06,2026-09-06 23:40,gate,COTI/USDT,0.01707,10.49,2.57,3.0,,,
 2026-09-06,2026-09-06 23:40,gate,NEAR/USDT,2.4363,11.25,2.53,16.5,,,
-2026-09-07,2026-09-07 08:01,gate,AKE/USDT,0.014898,7.54,861.15,24.1,,319.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-07,2026-09-07 07:31,gate,XAN/USDT,0.020541,3.46,804.95,3.5,,,
+2026-09-07,2026-09-07 08:05,gate,AKE/USDT,0.014622,5.54,865.74,24.2,,319,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-07,2026-09-07 08:05,gate,XAN/USDT,0.020605,3.78,795.24,3.5,,,
 2026-09-07,2026-09-07 05:20,gate,PUMP/USDT,0.004142,3.03,705.77,8.2,,2.0,Cointelegraph: Token buybacks are booming. But are they good for crypto projects?
 2026-09-07,2026-09-07 00:55,gate,FONE/USDT,0.012414,6.53,208.4,3.1,,,
 2026-09-07,2026-09-07 00:16,mexc,MARSCOIN/USDT,0.19218,5.01,149.91,3.4,,1.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
