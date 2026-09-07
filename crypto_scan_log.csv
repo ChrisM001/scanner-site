@@ -2298,15 +2298,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-06,2026-09-06 00:01,mexc,ARB/USDT,0.17858,34.74,3.08,75.8,ATH,3.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
 2026-09-06,2026-09-06 23:40,gate,COTI/USDT,0.01707,10.49,2.57,3.0,,,
 2026-09-06,2026-09-06 23:40,gate,NEAR/USDT,2.4363,11.25,2.53,16.5,,,
-2026-09-07,2026-09-07 10:01,gate,AKE/USDT,0.015748,13.67,893.15,25.0,,319,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-07,2026-09-07 10:05,gate,AKE/USDT,0.015902,14.78,901.17,25.2,,319,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-07,2026-09-07 09:01,gate,XAN/USDT,0.020654,4.03,810.11,3.6,,,
 2026-09-07,2026-09-07 09:21,gate,PUMP/USDT,0.004162,3.53,733.09,8.5,,2.0,Cointelegraph: Token buybacks are booming. But are they good for crypto projects?
 2026-09-07,2026-09-07 00:55,gate,FONE/USDT,0.012414,6.53,208.4,3.1,,,
 2026-09-07,2026-09-07 00:16,mexc,MARSCOIN/USDT,0.19218,5.01,149.91,3.4,,1.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
 2026-09-07,2026-09-07 00:11,mexc,PUMPFUN/USDT,0.004013,3.02,61.78,22.7,,,
-2026-09-07,2026-09-07 09:51,gate,BULLA/USDT,0.078309,3.42,43.37,13.2,,,
-2026-09-07,2026-09-07 10:01,gate,UAI/USDT,0.6356,8.63,34.53,14.5,,,
-2026-09-07,2026-09-07 10:01,gate,USELESS/USDT,0.2295,6.48,29.28,19.9,,0,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-07,2026-09-07 10:05,gate,BULLA/USDT,0.078968,4.29,41.75,12.7,,,
+2026-09-07,2026-09-07 10:05,gate,UAI/USDT,0.64134,9.61,34.63,14.5,,,
+2026-09-07,2026-09-07 10:05,gate,USELESS/USDT,0.22766,5.63,29.4,19.9,,0,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
 2026-09-07,2026-09-07 02:45,gate,BTW/USDT,0.461547,3.1,28.07,3.2,,,
 2026-09-07,2026-09-07 00:16,mexc,4/USDT,0.02532,5.85,18.43,6.6,Listing,234.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
 2026-09-07,2026-09-07 00:16,mexc,VIRTUAL/USDT,0.7258,4.52,12.06,5.1,,13.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
