@@ -2298,16 +2298,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-06,2026-09-06 00:01,mexc,ARB/USDT,0.17858,34.74,3.08,75.8,ATH,3.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
 2026-09-06,2026-09-06 23:40,gate,COTI/USDT,0.01707,10.49,2.57,3.0,,,
 2026-09-06,2026-09-06 23:40,gate,NEAR/USDT,2.4363,11.25,2.53,16.5,,,
-2026-09-07,2026-09-07 13:36,gate,PUMP/USDT,0.004392,9.25,1405.36,16.3,,3,Cointelegraph: Token buybacks are booming. But are they good for crypto projects?
-2026-09-07,2026-09-07 13:36,gate,AKE/USDT,0.016995,22.67,1055.24,29.5,,319,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-07,2026-09-07 13:56,gate,PUMP/USDT,0.004377,8.88,1447.96,16.8,,,
+2026-09-07,2026-09-07 13:56,gate,AKE/USDT,0.016612,19.91,1070.26,30.0,,,
 2026-09-07,2026-09-07 09:01,gate,XAN/USDT,0.020654,4.03,810.11,3.6,,,
 2026-09-07,2026-09-07 00:55,gate,FONE/USDT,0.012414,6.53,208.4,3.1,,,
 2026-09-07,2026-09-07 00:16,mexc,MARSCOIN/USDT,0.19218,5.01,149.91,3.4,,1.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
 2026-09-07,2026-09-07 00:11,mexc,PUMPFUN/USDT,0.004013,3.02,61.78,22.7,,,
 2026-09-07,2026-09-07 10:11,gate,牛来/USDT,0.09366,3.0,52.41,7.7,,,
-2026-09-07,2026-09-07 13:36,gate,BULLA/USDT,0.079308,4.74,36.45,11.1,,,
-2026-09-07,2026-09-07 13:36,gate,UAI/USDT,0.65192,11.42,36.35,15.2,,,
-2026-09-07,2026-09-07 13:36,gate,USELESS/USDT,0.23013,6.77,33.64,22.8,,0,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-07,2026-09-07 13:56,gate,UAI/USDT,0.66007,12.81,36.77,15.4,,,
+2026-09-07,2026-09-07 13:56,gate,BULLA/USDT,0.079845,5.45,36.62,11.1,,,
+2026-09-07,2026-09-07 13:56,gate,USELESS/USDT,0.22834,5.94,33.97,23.0,,,
 2026-09-07,2026-09-07 02:45,gate,BTW/USDT,0.461547,3.1,28.07,3.2,,,
 2026-09-07,2026-09-07 00:16,mexc,4/USDT,0.02532,5.85,18.43,6.6,Listing,234.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
 2026-09-07,2026-09-07 13:16,gate,XLM/USDT,0.19469,3.81,14.69,4.7,,2.0,CoinMarketCal: Stellar: DTCC connects tokenization service to XLM for tokenized assets - Q2 2027
@@ -2315,8 +2315,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-07,2026-09-07 00:35,gate,FLOCK/USDT,0.07903,4.76,9.75,15.0,Partner,223.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
 2026-09-07,2026-09-07 00:16,mexc,ONDO/USDT,0.3885,3.87,9.49,22.4,,4.0,"Cointelegraph: Ondo urges SEC, CFTC to bring US stock perpetuals onshore"
 2026-09-07,2026-09-07 00:16,mexc,SEI/USDT,0.04956,3.42,9.15,4.2,Upgrade,37.0,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
+2026-09-07,2026-09-07 13:56,gate,DOT/USDT,1.053,7.67,2.51,10.9,,,
 2026-09-07,2026-09-07 04:50,gate,COTI/USDT,0.01756,3.42,2.45,3.1,,8.0,CoinMarketCal: COTI: GC reaches general availability - 29 Aug 2026
-2026-09-07,2026-09-07 13:36,gate,DOT/USDT,1.033,5.62,2.26,9.9,,9,"Coinpedia: Polkadot Price Faces Sell Pressure Despite Decentralization Lead, Can It Recover Past $1?"
 2026-09-07,2026-09-07 12:51,gate,SUI/USDT,0.8387,3.34,2.15,36.9,,5.0,"Coinpedia: These Altcoins Could See Higher Volatility in SeptemberSUI, APT, SEI, and More"
 2026-09-07,2026-09-07 00:16,mexc,UAI/USDT,0.6013,6.46,2.1,13.9,,,
-2026-09-07,2026-09-07 10:55,gate,WLD/USDT,0.4515,7.53,2.0,28.6,,3.0,"Chainwire: Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $380 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens"
+2026-09-07,2026-09-07 13:56,gate,WLD/USDT,0.4668,11.17,2.01,28.8,,,
