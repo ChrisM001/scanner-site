@@ -2298,10 +2298,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-06,2026-09-06 00:01,mexc,ARB/USDT,0.17858,34.74,3.08,75.8,ATH,3.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
 2026-09-06,2026-09-06 23:40,gate,COTI/USDT,0.01707,10.49,2.57,3.0,,,
 2026-09-06,2026-09-06 23:40,gate,NEAR/USDT,2.4363,11.25,2.53,16.5,,,
-2026-09-07,2026-09-07 00:11,mexc,MARSCOIN/USDT,0.19448,6.27,149.61,3.4,,1,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
+2026-09-07,2026-09-07 00:16,mexc,MARSCOIN/USDT,0.19218,5.01,149.91,3.4,,1,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
 2026-09-07,2026-09-07 00:11,mexc,PUMPFUN/USDT,0.004013,3.02,61.78,22.7,,,
-2026-09-07,2026-09-07 00:11,mexc,4/USDT,0.02543,6.31,18.4,6.6,Listing,234,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
-2026-09-07,2026-09-07 00:11,mexc,VIRTUAL/USDT,0.7265,4.62,12.05,5.1,,13,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
-2026-09-07,2026-09-07 00:11,mexc,ONDO/USDT,0.3882,3.79,9.47,22.3,,4,"Cointelegraph: Ondo urges SEC, CFTC to bring US stock perpetuals onshore"
-2026-09-07,2026-09-07 00:11,mexc,SEI/USDT,0.04952,3.33,9.14,4.2,Upgrade,37,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
-2026-09-07,2026-09-07 00:11,mexc,UAI/USDT,0.5951,5.36,2.1,13.9,,,
+2026-09-07,2026-09-07 00:16,mexc,4/USDT,0.02532,5.85,18.43,6.6,Listing,234,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
+2026-09-07,2026-09-07 00:16,mexc,VIRTUAL/USDT,0.7258,4.52,12.06,5.1,,13,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
+2026-09-07,2026-09-07 00:16,mexc,ONDO/USDT,0.3885,3.87,9.49,22.4,,4,"Cointelegraph: Ondo urges SEC, CFTC to bring US stock perpetuals onshore"
+2026-09-07,2026-09-07 00:16,mexc,SEI/USDT,0.04956,3.42,9.15,4.2,Upgrade,37,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
+2026-09-07,2026-09-07 00:16,mexc,UAI/USDT,0.6013,6.46,2.1,13.9,,,
