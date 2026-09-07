@@ -2298,14 +2298,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-06,2026-09-06 00:01,mexc,ARB/USDT,0.17858,34.74,3.08,75.8,ATH,3.0,"Coinpedia: Robinhood Chain Fees Hit Record High, Boosting Arbitrum DAO Revenue"
 2026-09-06,2026-09-06 23:40,gate,COTI/USDT,0.01707,10.49,2.57,3.0,,,
 2026-09-06,2026-09-06 23:40,gate,NEAR/USDT,2.4363,11.25,2.53,16.5,,,
-2026-09-07,2026-09-07 08:50,gate,AKE/USDT,0.014918,7.68,885.14,24.8,,319,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-07,2026-09-07 08:50,gate,XAN/USDT,0.020869,5.11,836.52,3.7,,,
+2026-09-07,2026-09-07 08:56,gate,AKE/USDT,0.014944,7.87,886.07,24.8,,319,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-07,2026-09-07 08:56,gate,XAN/USDT,0.020706,4.29,836.85,3.7,,,
 2026-09-07,2026-09-07 08:46,gate,PUMP/USDT,0.004142,3.03,696.0,8.1,,2.0,Cointelegraph: Token buybacks are booming. But are they good for crypto projects?
 2026-09-07,2026-09-07 00:55,gate,FONE/USDT,0.012414,6.53,208.4,3.1,,,
 2026-09-07,2026-09-07 00:16,mexc,MARSCOIN/USDT,0.19218,5.01,149.91,3.4,,1.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
 2026-09-07,2026-09-07 00:11,mexc,PUMPFUN/USDT,0.004013,3.02,61.78,22.7,,,
 2026-09-07,2026-09-07 08:50,gate,BULLA/USDT,0.078866,4.16,44.57,13.6,,,
-2026-09-07,2026-09-07 08:50,gate,UAI/USDT,0.60424,3.27,36.66,15.4,,,
+2026-09-07,2026-09-07 08:56,gate,UAI/USDT,0.60621,3.61,36.67,15.4,,,
 2026-09-07,2026-09-07 02:45,gate,BTW/USDT,0.461547,3.1,28.07,3.2,,,
 2026-09-07,2026-09-07 05:35,gate,USELESS/USDT,0.22224,3.11,26.97,18.3,Listing,385.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-07,2026-09-07 00:16,mexc,4/USDT,0.02532,5.85,18.43,6.6,Listing,234.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
