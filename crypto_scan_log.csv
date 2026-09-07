@@ -2299,12 +2299,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-06,2026-09-06 23:40,gate,COTI/USDT,0.01707,10.49,2.57,3.0,,,
 2026-09-06,2026-09-06 23:40,gate,NEAR/USDT,2.4363,11.25,2.53,16.5,,,
 2026-09-07,2026-09-07 04:25,gate,AKE/USDT,0.014897,7.53,958.98,26.8,,319.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-07,2026-09-07 04:35,gate,XAN/USDT,0.021163,6.59,738.09,3.2,,,
+2026-09-07,2026-09-07 04:40,gate,XAN/USDT,0.021424,7.91,740.53,3.3,,,
 2026-09-07,2026-09-07 00:55,gate,FONE/USDT,0.012414,6.53,208.4,3.1,,,
 2026-09-07,2026-09-07 00:16,mexc,MARSCOIN/USDT,0.19218,5.01,149.91,3.4,,1.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
 2026-09-07,2026-09-07 00:11,mexc,PUMPFUN/USDT,0.004013,3.02,61.78,22.7,,,
-2026-09-07,2026-09-07 04:35,gate,BULLA/USDT,0.080829,6.75,57.0,17.3,,,
-2026-09-07,2026-09-07 04:35,gate,UAI/USDT,0.65146,11.34,35.59,14.9,,,
+2026-09-07,2026-09-07 04:40,gate,BULLA/USDT,0.082232,8.6,57.21,17.4,,,
+2026-09-07,2026-09-07 04:40,gate,UAI/USDT,0.65701,12.29,35.76,15.0,,,
 2026-09-07,2026-09-07 04:10,gate,USELESS/USDT,0.22241,3.19,28.18,19.1,Listing,385.0,CoinMarketCal: Useless Coin (USELESS) - BTSE Listing - 19 Aug 2025
 2026-09-07,2026-09-07 02:45,gate,BTW/USDT,0.461547,3.1,28.07,3.2,,,
 2026-09-07,2026-09-07 00:16,mexc,4/USDT,0.02532,5.85,18.43,6.6,Listing,234.0,CoinMarketCal: 4 & Superfortune - KuCoin Alpha Listing - 15 January 2026
@@ -2312,5 +2312,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-07,2026-09-07 00:35,gate,FLOCK/USDT,0.07903,4.76,9.75,15.0,Partner,223.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
 2026-09-07,2026-09-07 00:16,mexc,ONDO/USDT,0.3885,3.87,9.49,22.4,,4.0,"Cointelegraph: Ondo urges SEC, CFTC to bring US stock perpetuals onshore"
 2026-09-07,2026-09-07 00:16,mexc,SEI/USDT,0.04956,3.42,9.15,4.2,Upgrade,37.0,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
-2026-09-07,2026-09-07 04:20,gate,COTI/USDT,0.01757,3.47,2.44,3.1,,8.0,CoinMarketCal: COTI: GC reaches general availability - 29 Aug 2026
+2026-09-07,2026-09-07 04:40,gate,COTI/USDT,0.0175,3.06,2.45,3.1,,8,CoinMarketCal: COTI: GC reaches general availability - 29 Aug 2026
 2026-09-07,2026-09-07 00:16,mexc,UAI/USDT,0.6013,6.46,2.1,13.9,,,
