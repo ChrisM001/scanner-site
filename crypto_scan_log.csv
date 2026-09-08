@@ -2323,29 +2323,29 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-07,2026-09-07 12:51,gate,SUI/USDT,0.8387,3.34,2.15,36.9,,5.0,"Coinpedia: These Altcoins Could See Higher Volatility in SeptemberSUI, APT, SEI, and More"
 2026-09-07,2026-09-07 00:16,mexc,UAI/USDT,0.6013,6.46,2.1,13.9,,,
 2026-09-07,2026-09-07 23:35,gate,BEAT/USDT,0.132,5.52,2.04,4.6,,,
-2026-09-08,2026-09-08 09:51,gate,SOPH/USDT,0.011798,104.08,16269.88,19.8,,,
+2026-09-08,2026-09-08 09:55,gate,SOPH/USDT,0.011598,100.62,16545.68,20.1,,471,CoinMarketCal: SophiaVerse (SOPH) - SAIL Alpha - 30 May 2025
 2026-09-08,2026-09-08 02:35,gate,PUMP/USDT,0.004531,3.9,1550.06,18.7,,0.0,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
 2026-09-08,2026-09-08 00:01,mexc,IOST/USDT,0.000935,5.45,1047.54,3.7,Airdrop,104.0,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
-2026-09-08,2026-09-08 09:51,gate,AKE/USDT,0.018601,12.9,948.92,27.5,,320,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-08,2026-09-08 09:55,gate,AKE/USDT,0.018429,11.85,952.0,27.6,,320,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-08,2026-09-08 06:50,gate,CP/USDT,0.02079,3.85,369.91,7.3,,,
-2026-09-08,2026-09-08 09:51,gate,IOST/USDT,0.001002,6.94,256.8,3.5,Airdrop,105,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
+2026-09-08,2026-09-08 09:55,gate,IOST/USDT,0.001,6.72,257.69,3.5,Airdrop,105,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
 2026-09-08,2026-09-08 00:01,mexc,PUMPFUN/USDT,0.004367,4.37,95.99,36.3,,,
-2026-09-08,2026-09-08 09:51,gate,牛来/USDT,0.08562,4.7,50.65,7.3,,,
+2026-09-08,2026-09-08 09:55,gate,牛来/USDT,0.08536,4.38,50.73,7.3,,,
 2026-09-08,2026-09-08 05:35,gate,PIEVERSE/USDT,1.3237,4.22,43.9,5.0,Listing,140.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
 2026-09-08,2026-09-08 00:01,mexc,AERO/USDT,0.6172,10.39,37.38,3.9,,2.0,Coinpedia: Aerodrome Price Eyes $0.85 as Stock Trading Volume Surges
 2026-09-08,2026-09-08 06:01,gate,UAI/USDT,0.73602,3.11,35.97,17.6,,,
-2026-09-08,2026-09-08 09:51,gate,USELESS/USDT,0.26051,13.12,20.47,15.3,,1,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-08,2026-09-08 09:55,gate,USELESS/USDT,0.26162,13.6,20.74,15.5,,1,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
 2026-09-08,2026-09-08 00:01,mexc,VIRTUAL/USDT,0.733,3.05,18.67,8.5,,14.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-09-08,2026-09-08 04:10,gate,MEMECOIN/USDT,0.12241,3.9,15.03,15.1,,,
-2026-09-08,2026-09-08 09:51,gate,FORM/USDT,0.3568,40.2,12.31,4.2,,328,CoinMarketCal: Four (FORM) - Ai Hero Shutdown - 29 Oct 2025
+2026-09-08,2026-09-08 09:55,gate,FORM/USDT,0.3391,33.24,12.44,4.2,,328,CoinMarketCal: Four (FORM) - Ai Hero Shutdown - 29 Oct 2025
 2026-09-08,2026-09-08 02:20,gate,PONS/USDT,0.751,4.22,12.26,35.5,,,
 2026-09-08,2026-09-08 02:20,gate,VIRTUAL/USDT,0.7552,3.06,11.03,3.0,,14.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
-2026-09-08,2026-09-08 09:51,gate,BULLA/USDT,0.079692,5.57,10.26,3.3,,,
-2026-09-08,2026-09-08 09:51,gate,DOT/USDT,1.093,3.02,6.37,34.8,,9,"Coinpedia: Polkadot Price Faces Sell Pressure Despite Decentralization Lead, Can It Recover Past $1?"
+2026-09-08,2026-09-08 09:55,gate,BULLA/USDT,0.079759,5.66,10.37,3.4,,,
+2026-09-08,2026-09-08 09:51,gate,DOT/USDT,1.093,3.02,6.37,34.8,,9.0,"Coinpedia: Polkadot Price Faces Sell Pressure Despite Decentralization Lead, Can It Recover Past $1?"
 2026-09-08,2026-09-08 00:50,gate,FLOCK/USDT,0.06413,3.89,4.43,7.8,Partner,224.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
 2026-09-08,2026-09-08 00:01,mexc,INJ/USDT,6.182,9.24,3.3,43.8,,3.0,Cointelegraph: Pineapple Financial puts $1B in mortgage records on Injective
 2026-09-08,2026-09-08 01:25,gate,WLD/USDT,0.4979,4.4,3.0,46.8,,4.0,"Chainwire: Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $380 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens"
 2026-09-08,2026-09-08 00:01,mexc,ARB/USDT,0.1698,4.61,2.8,101.5,,0.0,"Benzinga: Dash Beat Bitcoin, Ethereum and Solana Last Week and Sprang to Take Place in Top 3 Gainers: Here's the Coin on the Top"
 2026-09-08,2026-09-08 00:01,mexc,UAI/USDT,0.7157,5.2,2.69,20.3,,,
 2026-09-08,2026-09-08 00:01,mexc,MEMEROBINHOOD/USDT,0.1162,39.16,2.19,6.5,,,
-2026-09-08,2026-09-08 09:51,gate,ARB/USDT,0.17494,3.26,2.07,14.2,,,
+2026-09-08,2026-09-08 09:55,gate,ARB/USDT,0.17582,3.78,2.08,14.2,,0,Coinpedia: Arbitrum Price Surges Higher: Heres What Driving the Rally
