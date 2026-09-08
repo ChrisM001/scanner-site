@@ -2323,15 +2323,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-07,2026-09-07 12:51,gate,SUI/USDT,0.8387,3.34,2.15,36.9,,5.0,"Coinpedia: These Altcoins Could See Higher Volatility in SeptemberSUI, APT, SEI, and More"
 2026-09-07,2026-09-07 00:16,mexc,UAI/USDT,0.6013,6.46,2.1,13.9,,,
 2026-09-07,2026-09-07 23:35,gate,BEAT/USDT,0.132,5.52,2.04,4.6,,,
-2026-09-08,2026-09-08 02:31,gate,SOPH/USDT,0.007035,21.69,2556.81,3.1,,470,CoinMarketCal: SophiaVerse (SOPH) - SAIL Alpha - 30 May 2025
-2026-09-08,2026-09-08 02:31,gate,PUMP/USDT,0.004499,3.16,1543.48,18.7,,0,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
+2026-09-08,2026-09-08 02:35,gate,SOPH/USDT,0.007018,21.4,2598.3,3.2,,470,CoinMarketCal: SophiaVerse (SOPH) - SAIL Alpha - 30 May 2025
+2026-09-08,2026-09-08 02:35,gate,PUMP/USDT,0.004531,3.9,1550.06,18.7,,0,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
 2026-09-08,2026-09-08 00:01,mexc,IOST/USDT,0.000935,5.45,1047.54,3.7,Airdrop,104.0,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
 2026-09-08,2026-09-08 00:01,mexc,PUMPFUN/USDT,0.004367,4.37,95.99,36.3,,,
-2026-09-08,2026-09-08 02:31,gate,牛来/USDT,0.08603,5.2,39.51,5.7,,,
+2026-09-08,2026-09-08 02:35,gate,牛来/USDT,0.08593,5.07,39.76,5.7,,,
 2026-09-08,2026-09-08 00:01,mexc,AERO/USDT,0.6172,10.39,37.38,3.9,,2.0,Coinpedia: Aerodrome Price Eyes $0.85 as Stock Trading Volume Surges
-2026-09-08,2026-09-08 02:31,gate,BULLA/USDT,0.08123,7.61,19.32,6.3,,,
+2026-09-08,2026-09-08 02:35,gate,BULLA/USDT,0.081657,8.17,19.35,6.3,,,
 2026-09-08,2026-09-08 00:01,mexc,VIRTUAL/USDT,0.733,3.05,18.67,8.5,,14.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
-2026-09-08,2026-09-08 01:05,gate,MEMECOIN/USDT,0.12397,5.22,15.05,15.2,,,
+2026-09-08,2026-09-08 02:35,gate,MEMECOIN/USDT,0.12221,3.73,15.14,15.2,,,
 2026-09-08,2026-09-08 02:20,gate,PONS/USDT,0.751,4.22,12.26,35.5,,,
 2026-09-08,2026-09-08 02:20,gate,VIRTUAL/USDT,0.7552,3.06,11.03,3.0,,14.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-09-08,2026-09-08 00:50,gate,FLOCK/USDT,0.06413,3.89,4.43,7.8,Partner,224.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
