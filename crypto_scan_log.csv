@@ -2326,11 +2326,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-08,2026-09-08 00:01,mexc,IOST/USDT,0.000935,5.45,1047.54,3.7,Airdrop,104.0,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
 2026-09-08,2026-09-08 00:01,mexc,PUMPFUN/USDT,0.004367,4.37,95.99,36.3,,,
 2026-09-08,2026-09-08 00:01,mexc,AERO/USDT,0.6172,10.39,37.38,3.9,,2.0,Coinpedia: Aerodrome Price Eyes $0.85 as Stock Trading Volume Surges
-2026-09-08,2026-09-08 00:50,gate,BULLA/USDT,0.078755,4.33,19.34,6.3,,,
+2026-09-08,2026-09-08 01:05,gate,BULLA/USDT,0.079432,5.22,18.97,6.2,,,
 2026-09-08,2026-09-08 00:01,mexc,VIRTUAL/USDT,0.733,3.05,18.67,8.5,,14.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
-2026-09-08,2026-09-08 01:01,gate,MEMECOIN/USDT,0.12203,3.57,15.02,15.1,,,
+2026-09-08,2026-09-08 01:05,gate,MEMECOIN/USDT,0.12397,5.22,15.05,15.2,,,
 2026-09-08,2026-09-08 00:50,gate,FLOCK/USDT,0.06413,3.89,4.43,7.8,Partner,224.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
 2026-09-08,2026-09-08 00:01,mexc,INJ/USDT,6.182,9.24,3.3,43.8,,3.0,Cointelegraph: Pineapple Financial puts $1B in mortgage records on Injective
+2026-09-08,2026-09-08 01:05,gate,WLD/USDT,0.494,3.59,2.89,45.2,,4,"Chainwire: Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $380 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens"
 2026-09-08,2026-09-08 00:01,mexc,ARB/USDT,0.1698,4.61,2.8,101.5,,0.0,"Benzinga: Dash Beat Bitcoin, Ethereum and Solana Last Week and Sprang to Take Place in Top 3 Gainers: Here's the Coin on the Top"
 2026-09-08,2026-09-08 00:01,mexc,UAI/USDT,0.7157,5.2,2.69,20.3,,,
 2026-09-08,2026-09-08 00:01,mexc,MEMEROBINHOOD/USDT,0.1162,39.16,2.19,6.5,,,
