@@ -2323,17 +2323,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-07,2026-09-07 12:51,gate,SUI/USDT,0.8387,3.34,2.15,36.9,,5.0,"Coinpedia: These Altcoins Could See Higher Volatility in SeptemberSUI, APT, SEI, and More"
 2026-09-07,2026-09-07 00:16,mexc,UAI/USDT,0.6013,6.46,2.1,13.9,,,
 2026-09-07,2026-09-07 23:35,gate,BEAT/USDT,0.132,5.52,2.04,4.6,,,
-2026-09-08,2026-09-08 04:40,gate,SOPH/USDT,0.00959,65.89,5860.56,7.1,,470,CoinMarketCal: SophiaVerse (SOPH) - SAIL Alpha - 30 May 2025
+2026-09-08,2026-09-08 05:05,gate,SOPH/USDT,0.009957,72.24,6486.86,7.9,,471,CoinMarketCal: SophiaVerse (SOPH) - SAIL Alpha - 30 May 2025
 2026-09-08,2026-09-08 02:35,gate,PUMP/USDT,0.004531,3.9,1550.06,18.7,,0.0,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
-2026-09-08,2026-09-08 04:40,gate,AKE/USDT,0.017762,7.81,1076.36,31.2,,320,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-08,2026-09-08 00:01,mexc,IOST/USDT,0.000935,5.45,1047.54,3.7,Airdrop,104.0,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
-2026-09-08,2026-09-08 04:40,gate,CP/USDT,0.02276,13.69,300.36,5.9,,,
+2026-09-08,2026-09-08 05:05,gate,AKE/USDT,0.01834,11.32,1023.15,29.7,,320,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-08,2026-09-08 05:05,gate,CP/USDT,0.02294,14.59,302.26,5.9,,,
 2026-09-08,2026-09-08 00:01,mexc,PUMPFUN/USDT,0.004367,4.37,95.99,36.3,,,
+2026-09-08,2026-09-08 05:05,gate,PIEVERSE/USDT,1.3213,4.03,43.0,4.9,Listing,140,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
 2026-09-08,2026-09-08 02:40,gate,牛来/USDT,0.08489,3.8,39.86,5.7,,,
-2026-09-08,2026-09-08 04:40,gate,UAI/USDT,0.74287,4.07,39.11,19.2,,,
+2026-09-08,2026-09-08 05:05,gate,UAI/USDT,0.75738,6.1,37.8,18.5,,,
 2026-09-08,2026-09-08 00:01,mexc,AERO/USDT,0.6172,10.39,37.38,3.9,,2.0,Coinpedia: Aerodrome Price Eyes $0.85 as Stock Trading Volume Surges
 2026-09-08,2026-09-08 00:01,mexc,VIRTUAL/USDT,0.733,3.05,18.67,8.5,,14.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
-2026-09-08,2026-09-08 04:40,gate,BULLA/USDT,0.081054,7.37,16.62,5.4,,,
+2026-09-08,2026-09-08 05:05,gate,BULLA/USDT,0.079395,5.18,15.9,5.2,,,
 2026-09-08,2026-09-08 04:10,gate,MEMECOIN/USDT,0.12241,3.9,15.03,15.1,,,
 2026-09-08,2026-09-08 02:20,gate,PONS/USDT,0.751,4.22,12.26,35.5,,,
 2026-09-08,2026-09-08 02:20,gate,VIRTUAL/USDT,0.7552,3.06,11.03,3.0,,14.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
