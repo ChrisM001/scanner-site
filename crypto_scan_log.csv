@@ -2323,16 +2323,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-07,2026-09-07 12:51,gate,SUI/USDT,0.8387,3.34,2.15,36.9,,5.0,"Coinpedia: These Altcoins Could See Higher Volatility in SeptemberSUI, APT, SEI, and More"
 2026-09-07,2026-09-07 00:16,mexc,UAI/USDT,0.6013,6.46,2.1,13.9,,,
 2026-09-07,2026-09-07 23:35,gate,BEAT/USDT,0.132,5.52,2.04,4.6,,,
-2026-09-08,2026-09-08 02:15,gate,SOPH/USDT,0.006981,20.76,2465.76,3.0,,470,CoinMarketCal: SophiaVerse (SOPH) - SAIL Alpha - 30 May 2025
-2026-09-08,2026-09-08 02:15,gate,PUMP/USDT,0.00451,3.42,1534.62,18.6,,0,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
+2026-09-08,2026-09-08 02:20,gate,SOPH/USDT,0.007031,21.62,2504.8,3.1,,470,CoinMarketCal: SophiaVerse (SOPH) - SAIL Alpha - 30 May 2025
+2026-09-08,2026-09-08 02:20,gate,PUMP/USDT,0.004519,3.62,1535.87,18.6,,0,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
 2026-09-08,2026-09-08 00:01,mexc,IOST/USDT,0.000935,5.45,1047.54,3.7,Airdrop,104.0,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
 2026-09-08,2026-09-08 00:01,mexc,PUMPFUN/USDT,0.004367,4.37,95.99,36.3,,,
-2026-09-08,2026-09-08 02:15,gate,牛来/USDT,0.08606,5.23,39.1,5.6,,,
+2026-09-08,2026-09-08 02:20,gate,牛来/USDT,0.08654,5.82,39.19,5.6,,,
 2026-09-08,2026-09-08 00:01,mexc,AERO/USDT,0.6172,10.39,37.38,3.9,,2.0,Coinpedia: Aerodrome Price Eyes $0.85 as Stock Trading Volume Surges
-2026-09-08,2026-09-08 02:15,gate,BULLA/USDT,0.082354,9.1,19.1,6.2,,,
+2026-09-08,2026-09-08 02:20,gate,BULLA/USDT,0.08293,9.86,19.18,6.2,,,
 2026-09-08,2026-09-08 00:01,mexc,VIRTUAL/USDT,0.733,3.05,18.67,8.5,,14.0,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-09-08,2026-09-08 01:05,gate,MEMECOIN/USDT,0.12397,5.22,15.05,15.2,,,
-2026-09-08,2026-09-08 02:15,gate,PONS/USDT,0.7475,3.73,12.24,35.4,,,
+2026-09-08,2026-09-08 02:20,gate,PONS/USDT,0.751,4.22,12.26,35.5,,,
+2026-09-08,2026-09-08 02:20,gate,VIRTUAL/USDT,0.7552,3.06,11.03,3.0,,14,CoinMarketCal: Virtuals Protocol: Solana Agent Access makes working agents available on Solana - 24 Aug 2026
 2026-09-08,2026-09-08 00:50,gate,FLOCK/USDT,0.06413,3.89,4.43,7.8,Partner,224.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
 2026-09-08,2026-09-08 00:01,mexc,INJ/USDT,6.182,9.24,3.3,43.8,,3.0,Cointelegraph: Pineapple Financial puts $1B in mortgage records on Injective
 2026-09-08,2026-09-08 01:25,gate,WLD/USDT,0.4979,4.4,3.0,46.8,,4.0,"Chainwire: Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $380 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens"
