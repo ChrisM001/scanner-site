@@ -2352,9 +2352,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-08,2026-09-08 00:01,mexc,UAI/USDT,0.7157,5.2,2.69,20.3,,,
 2026-09-08,2026-09-08 00:01,mexc,MEMEROBINHOOD/USDT,0.1162,39.16,2.19,6.5,,,
 2026-09-08,2026-09-08 12:05,gate,ARB/USDT,0.17487,3.22,2.05,14.0,,,
-2026-09-09,2026-09-09 04:20,gate,PUMP/USDT,0.004467,3.55,792.83,9.6,,1,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
-2026-09-09,2026-09-09 04:20,gate,牛来/USDT,0.10793,5.53,78.2,11.1,,,
-2026-09-09,2026-09-09 02:55,gate,USELESS/USDT,0.29768,4.71,34.8,29.4,,1.0,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-09,2026-09-09 04:55,gate,PUMP/USDT,0.004496,4.22,806.54,9.8,,1,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
+2026-09-09,2026-09-09 04:55,gate,牛来/USDT,0.10778,5.39,81.2,11.6,,,
+2026-09-09,2026-09-09 04:55,gate,MARSCOIN/USDT,0.13606,4.58,57.83,13.9,,3,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
+2026-09-09,2026-09-09 04:55,gate,USELESS/USDT,0.29284,3.01,35.74,30.2,,1,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
 2026-09-09,2026-09-09 02:01,gate,PIEVERSE/USDT,1.3386,3.01,28.76,3.5,Listing,141.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
 2026-09-09,2026-09-09 03:25,gate,UAI/USDT,0.74211,3.6,20.22,10.5,,,
 2026-09-09,2026-09-09 00:01,mexc,FORM/USDT,0.327,6.13,7.28,5.7,,329.0,CoinMarketCal: Four (FORM) - Ai Hero Shutdown - 29 Oct 2025
