@@ -2352,16 +2352,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-08,2026-09-08 00:01,mexc,UAI/USDT,0.7157,5.2,2.69,20.3,,,
 2026-09-08,2026-09-08 00:01,mexc,MEMEROBINHOOD/USDT,0.1162,39.16,2.19,6.5,,,
 2026-09-08,2026-09-08 12:05,gate,ARB/USDT,0.17487,3.22,2.05,14.0,,,
-2026-09-09,2026-09-09 09:10,gate,PUMP/USDT,0.004499,4.29,796.47,9.7,,1,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
-2026-09-09,2026-09-09 09:10,gate,FF/USDT,0.1564,3.72,97.63,17.4,Unlock,44,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
-2026-09-09,2026-09-09 09:10,gate,牛来/USDT,0.10875,6.34,91.1,13.0,,,
+2026-09-09,2026-09-09 09:16,gate,PUMP/USDT,0.004503,4.38,797.19,9.7,,1,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
+2026-09-09,2026-09-09 09:16,gate,FF/USDT,0.15796,4.75,99.56,17.8,Unlock,44,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
+2026-09-09,2026-09-09 09:16,gate,牛来/USDT,0.11135,8.88,91.64,13.0,,,
 2026-09-09,2026-09-09 06:10,gate,HEMI/USDT,0.007901,3.44,70.78,3.7,,182.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-09-09,2026-09-09 08:56,gate,MARSCOIN/USDT,0.13448,3.37,56.9,13.7,,3.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
-2026-09-09,2026-09-09 09:10,gate,USELESS/USDT,0.32181,13.2,39.93,33.7,,2,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-09,2026-09-09 09:16,gate,MARSCOIN/USDT,0.14383,10.55,53.17,12.8,,3,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
+2026-09-09,2026-09-09 09:16,gate,USELESS/USDT,0.31616,11.21,40.11,33.9,,2,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
 2026-09-09,2026-09-09 02:01,gate,PIEVERSE/USDT,1.3386,3.01,28.76,3.5,Listing,141.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
 2026-09-09,2026-09-09 03:25,gate,UAI/USDT,0.74211,3.6,20.22,10.5,,,
-2026-09-09,2026-09-09 09:10,gate,CASHCAT/USDT,0.19628,5.19,13.85,3.4,,14,CryptoProwl: Crypto Rally Extends To Memecoins
-2026-09-09,2026-09-09 09:10,gate,ENA/USDT,0.16642,4.48,9.92,16.6,,0,Cointelegraph: Franklin Templeton digital asset veteran takes helm at StablecoinX
+2026-09-09,2026-09-09 09:16,gate,CASHCAT/USDT,0.19422,4.08,13.96,3.5,,14,CryptoProwl: Crypto Rally Extends To Memecoins
+2026-09-09,2026-09-09 09:16,gate,ENA/USDT,0.16708,4.89,9.99,16.7,,0,Cointelegraph: Franklin Templeton digital asset veteran takes helm at StablecoinX
 2026-09-09,2026-09-09 09:01,gate,PONS/USDT,0.8118,3.03,7.88,22.7,,,
 2026-09-09,2026-09-09 00:01,mexc,FORM/USDT,0.327,6.13,7.28,5.7,,329.0,CoinMarketCal: Four (FORM) - Ai Hero Shutdown - 29 Oct 2025
 2026-09-09,2026-09-09 07:20,gate,MEMECOIN/USDT,0.09056,4.45,5.47,5.0,,,
