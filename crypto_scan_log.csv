@@ -2352,18 +2352,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-08,2026-09-08 00:01,mexc,UAI/USDT,0.7157,5.2,2.69,20.3,,,
 2026-09-08,2026-09-08 00:01,mexc,MEMEROBINHOOD/USDT,0.1162,39.16,2.19,6.5,,,
 2026-09-08,2026-09-08 12:05,gate,ARB/USDT,0.17487,3.22,2.05,14.0,,,
-2026-09-09,2026-09-09 11:35,gate,STONKS/USDT,0.00408,86.56,4271.03,3.1,,,
-2026-09-09,2026-09-09 11:35,gate,PUMP/USDT,0.004459,3.36,804.85,9.8,,1,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
-2026-09-09,2026-09-09 11:35,gate,IOST/USDT,0.001205,41.27,163.43,3.4,Airdrop,106,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
-2026-09-09,2026-09-09 11:35,gate,牛来/USDT,0.1283,25.45,125.9,17.9,,,
+2026-09-09,2026-09-09 11:55,gate,STONKS/USDT,0.004106,87.75,4333.56,3.1,,,
+2026-09-09,2026-09-09 11:55,gate,PUMP/USDT,0.004587,6.33,841.24,10.2,,1,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
+2026-09-09,2026-09-09 11:55,gate,IOST/USDT,0.00122,43.02,169.6,3.5,Airdrop,106,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
+2026-09-09,2026-09-09 11:55,gate,牛来/USDT,0.1171,14.5,144.69,20.6,,,
 2026-09-09,2026-09-09 09:35,gate,FF/USDT,0.15691,4.06,102.39,18.3,Unlock,44.0,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
 2026-09-09,2026-09-09 06:10,gate,HEMI/USDT,0.007901,3.44,70.78,3.7,,182.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
 2026-09-09,2026-09-09 11:31,gate,MARSCOIN/USDT,0.13524,3.95,46.72,11.3,,3.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
-2026-09-09,2026-09-09 11:35,gate,USELESS/USDT,0.32939,15.87,38.59,32.6,,2,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-09,2026-09-09 11:55,gate,USELESS/USDT,0.31711,11.55,40.23,34.0,,2,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
 2026-09-09,2026-09-09 02:01,gate,PIEVERSE/USDT,1.3386,3.01,28.76,3.5,Listing,141.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
 2026-09-09,2026-09-09 03:25,gate,UAI/USDT,0.74211,3.6,20.22,10.5,,,
 2026-09-09,2026-09-09 09:16,gate,CASHCAT/USDT,0.19422,4.08,13.96,3.5,,14.0,CryptoProwl: Crypto Rally Extends To Memecoins
-2026-09-09,2026-09-09 10:31,gate,ENA/USDT,0.16449,3.26,10.33,17.3,,0.0,Cointelegraph: Franklin Templeton digital asset veteran takes helm at StablecoinX
+2026-09-09,2026-09-09 11:55,gate,ENA/USDT,0.16479,3.45,10.21,17.1,,0,Cointelegraph: Franklin Templeton digital asset veteran takes helm at StablecoinX
 2026-09-09,2026-09-09 09:01,gate,PONS/USDT,0.8118,3.03,7.88,22.7,,,
 2026-09-09,2026-09-09 00:01,mexc,FORM/USDT,0.327,6.13,7.28,5.7,,329.0,CoinMarketCal: Four (FORM) - Ai Hero Shutdown - 29 Oct 2025
 2026-09-09,2026-09-09 10:50,gate,MEMECOIN/USDT,0.08955,3.29,5.42,5.0,,,
