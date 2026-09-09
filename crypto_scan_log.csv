@@ -2352,12 +2352,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-08,2026-09-08 00:01,mexc,UAI/USDT,0.7157,5.2,2.69,20.3,,,
 2026-09-08,2026-09-08 00:01,mexc,MEMEROBINHOOD/USDT,0.1162,39.16,2.19,6.5,,,
 2026-09-08,2026-09-08 12:05,gate,ARB/USDT,0.17487,3.22,2.05,14.0,,,
-2026-09-09,2026-09-09 05:05,gate,PUMP/USDT,0.00448,3.85,792.97,9.6,,1,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
-2026-09-09,2026-09-09 05:05,gate,牛来/USDT,0.11261,10.11,81.35,11.6,,,
-2026-09-09,2026-09-09 05:05,gate,HEMI/USDT,0.007897,3.39,70.03,3.7,,182,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-09-09,2026-09-09 05:05,gate,MARSCOIN/USDT,0.1399,7.53,56.63,13.7,,3,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
-2026-09-09,2026-09-09 05:05,gate,USELESS/USDT,0.2928,3.0,34.38,29.0,,1,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-09,2026-09-09 05:10,gate,PUMP/USDT,0.004497,4.24,793.94,9.6,,1,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
+2026-09-09,2026-09-09 05:10,gate,牛来/USDT,0.1119,9.42,82.0,11.7,,,
+2026-09-09,2026-09-09 05:05,gate,HEMI/USDT,0.007897,3.39,70.03,3.7,,182.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
+2026-09-09,2026-09-09 05:10,gate,MARSCOIN/USDT,0.13747,5.66,56.97,13.7,,3,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
+2026-09-09,2026-09-09 05:05,gate,USELESS/USDT,0.2928,3.0,34.38,29.0,,1.0,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
 2026-09-09,2026-09-09 02:01,gate,PIEVERSE/USDT,1.3386,3.01,28.76,3.5,Listing,141.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
 2026-09-09,2026-09-09 03:25,gate,UAI/USDT,0.74211,3.6,20.22,10.5,,,
+2026-09-09,2026-09-09 05:10,gate,CASHCAT/USDT,0.1943,4.13,13.97,3.5,,14,CryptoProwl: Crypto Rally Extends To Memecoins
 2026-09-09,2026-09-09 00:01,mexc,FORM/USDT,0.327,6.13,7.28,5.7,,329.0,CoinMarketCal: Four (FORM) - Ai Hero Shutdown - 29 Oct 2025
 2026-09-09,2026-09-09 02:25,gate,MEMECOIN/USDT,0.08942,3.14,6.71,6.2,,,
