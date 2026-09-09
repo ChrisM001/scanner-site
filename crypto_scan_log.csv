@@ -2352,17 +2352,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-08,2026-09-08 00:01,mexc,UAI/USDT,0.7157,5.2,2.69,20.3,,,
 2026-09-08,2026-09-08 00:01,mexc,MEMEROBINHOOD/USDT,0.1162,39.16,2.19,6.5,,,
 2026-09-08,2026-09-08 12:05,gate,ARB/USDT,0.17487,3.22,2.05,14.0,,,
-2026-09-09,2026-09-09 14:01,gate,STONKS/USDT,0.00425,94.33,4452.56,3.2,,,
-2026-09-09,2026-09-09 14:01,gate,PUMP/USDT,0.004614,6.95,935.18,11.4,,1,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
-2026-09-09,2026-09-09 14:01,gate,IOST/USDT,0.001335,56.51,274.07,5.7,Airdrop,106,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
-2026-09-09,2026-09-09 14:01,gate,牛来/USDT,0.11653,13.94,159.14,22.6,,,
+2026-09-09,2026-09-09 14:06,gate,STONKS/USDT,0.00425,94.33,4489.26,3.2,,,
+2026-09-09,2026-09-09 14:06,gate,PUMP/USDT,0.004633,7.39,941.22,11.4,,1,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
+2026-09-09,2026-09-09 14:06,gate,IOST/USDT,0.001355,58.85,277.73,5.7,Airdrop,106,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
+2026-09-09,2026-09-09 14:06,gate,牛来/USDT,0.1154,12.84,159.96,22.8,,,
 2026-09-09,2026-09-09 09:35,gate,FF/USDT,0.15691,4.06,102.39,18.3,Unlock,44.0,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
 2026-09-09,2026-09-09 06:10,gate,HEMI/USDT,0.007901,3.44,70.78,3.7,,182.0,CoinMarketCal: Hemi (HEMI) - Midweek with Max - 10 March 2026
-2026-09-09,2026-09-09 14:01,gate,MARSCOIN/USDT,0.13626,4.73,45.44,11.0,,3,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
-2026-09-09,2026-09-09 14:01,gate,USELESS/USDT,0.29881,5.11,36.78,31.1,,2,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-09,2026-09-09 14:01,gate,MARSCOIN/USDT,0.13626,4.73,45.44,11.0,,3.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
+2026-09-09,2026-09-09 14:06,gate,USELESS/USDT,0.29874,5.09,37.24,31.4,,2,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
 2026-09-09,2026-09-09 02:01,gate,PIEVERSE/USDT,1.3386,3.01,28.76,3.5,Listing,141.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
-2026-09-09,2026-09-09 14:01,gate,BULLA/USDT,0.0862,9.52,18.59,6.2,,,
-2026-09-09,2026-09-09 14:01,gate,UAI/USDT,0.74806,4.43,16.81,8.7,,,
+2026-09-09,2026-09-09 14:06,gate,BULLA/USDT,0.087041,10.59,18.59,6.2,,,
+2026-09-09,2026-09-09 14:06,gate,UAI/USDT,0.75001,4.7,16.91,8.8,,,
 2026-09-09,2026-09-09 12:51,gate,CASHCAT/USDT,0.19535,4.69,12.56,3.1,,15.0,CryptoProwl: Crypto Rally Extends To Memecoins
 2026-09-09,2026-09-09 12:51,gate,ENA/USDT,0.16478,3.45,9.89,16.6,,,
 2026-09-09,2026-09-09 09:01,gate,PONS/USDT,0.8118,3.03,7.88,22.7,,,
