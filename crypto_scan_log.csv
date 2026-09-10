@@ -2369,16 +2369,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-09,2026-09-09 00:01,mexc,FORM/USDT,0.327,6.13,7.28,5.7,,329.0,CoinMarketCal: Four (FORM) - Ai Hero Shutdown - 29 Oct 2025
 2026-09-09,2026-09-09 14:01,gate,MEMECOIN/USDT,0.08998,3.78,4.72,4.3,,,
 2026-09-09,2026-09-09 23:50,gate,NEAR/USDT,2.4895,7.35,2.63,19.3,,,
-2026-09-10,2026-09-10 14:11,gate,VTHO/USDT,0.000659,52.31,58253.27,14.2,,174,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
+2026-09-10,2026-09-10 14:21,gate,VTHO/USDT,0.000648,49.77,58730.16,14.3,,174,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
 2026-09-10,2026-09-10 06:25,gate,STONKS/USDT,0.003125,4.73,2741.59,3.2,,,
 2026-09-10,2026-09-10 00:01,mexc,IOST/USDT,0.0018,7.09,1698.51,41.7,Airdrop,106.0,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
 2026-09-10,2026-09-10 00:35,mexc,KAS/USDT,0.03634,3.15,1223.24,4.0,,12.0,"Coinpedia: Kaspa Price Nears a Critical Falling Wedge Breakout, Can It Rally 120% Next?"
 2026-09-10,2026-09-10 00:01,mexc,AKE/USDT,0.016058,3.13,238.75,5.0,,322.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-10,2026-09-10 11:52,gate,SOPH/USDT,0.004348,3.62,212.07,3.4,,473.0,CoinMarketCal: SophiaVerse (SOPH) - SAIL Alpha - 30 May 2025
-2026-09-10,2026-09-10 14:11,gate,牛来/USDT,0.08304,5.27,110.32,16.2,,,
-2026-09-10,2026-09-10 14:11,gate,MARSCOIN/USDT,0.11278,5.24,28.07,6.4,,4,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
-2026-09-10,2026-09-10 13:55,gate,USELESS/USDT,0.23426,4.02,22.54,20.6,,3.0,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
-2026-09-10,2026-09-10 14:11,gate,FF/USDT,0.15881,5.21,20.79,4.3,Unlock,45,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
+2026-09-10,2026-09-10 14:21,gate,牛来/USDT,0.08249,4.58,111.25,16.3,,,
+2026-09-10,2026-09-10 14:21,gate,MARSCOIN/USDT,0.11405,6.43,28.28,6.4,,4,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
+2026-09-10,2026-09-10 14:21,gate,USELESS/USDT,0.23283,3.39,21.43,19.6,,3,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-10,2026-09-10 14:21,gate,FF/USDT,0.1582,4.81,21.01,4.3,Unlock,45,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
 2026-09-10,2026-09-10 12:20,gate,BULLA/USDT,0.084943,3.23,15.01,5.3,,,
 2026-09-10,2026-09-10 00:05,gate,BEAT/USDT,0.0956,3.13,4.75,9.0,,93.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-09-10,2026-09-10 04:10,gate,MEMECOIN/USDT,0.06602,5.95,3.77,3.1,,,
