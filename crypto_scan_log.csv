@@ -2369,7 +2369,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-09,2026-09-09 00:01,mexc,FORM/USDT,0.327,6.13,7.28,5.7,,329.0,CoinMarketCal: Four (FORM) - Ai Hero Shutdown - 29 Oct 2025
 2026-09-09,2026-09-09 14:01,gate,MEMECOIN/USDT,0.08998,3.78,4.72,4.3,,,
 2026-09-09,2026-09-09 23:50,gate,NEAR/USDT,2.4895,7.35,2.63,19.3,,,
-2026-09-10,2026-09-10 12:35,gate,VTHO/USDT,0.00062,43.27,51007.12,12.5,,174.0,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
+2026-09-10,2026-09-10 12:45,gate,VTHO/USDT,0.00063,45.65,51545.12,12.6,,174.0,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
 2026-09-10,2026-09-10 06:25,gate,STONKS/USDT,0.003125,4.73,2741.59,3.2,,,
 2026-09-10,2026-09-10 00:01,mexc,IOST/USDT,0.0018,7.09,1698.51,41.7,Airdrop,106.0,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
 2026-09-10,2026-09-10 00:35,mexc,KAS/USDT,0.03634,3.15,1223.24,4.0,,12.0,"Coinpedia: Kaspa Price Nears a Critical Falling Wedge Breakout, Can It Rally 120% Next?"
