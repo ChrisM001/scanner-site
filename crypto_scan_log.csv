@@ -2369,7 +2369,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-09,2026-09-09 00:01,mexc,FORM/USDT,0.327,6.13,7.28,5.7,,329.0,CoinMarketCal: Four (FORM) - Ai Hero Shutdown - 29 Oct 2025
 2026-09-09,2026-09-09 14:01,gate,MEMECOIN/USDT,0.08998,3.78,4.72,4.3,,,
 2026-09-09,2026-09-09 23:50,gate,NEAR/USDT,2.4895,7.35,2.63,19.3,,,
-2026-09-10,2026-09-10 07:25,gate,VTHO/USDT,0.000637,47.29,23555.85,5.8,,174,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
+2026-09-10,2026-09-10 07:30,gate,VTHO/USDT,0.000637,47.34,23795.64,5.8,,174.0,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
 2026-09-10,2026-09-10 06:25,gate,STONKS/USDT,0.003125,4.73,2741.59,3.2,,,
 2026-09-10,2026-09-10 00:01,mexc,IOST/USDT,0.0018,7.09,1698.51,41.7,Airdrop,106.0,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
 2026-09-10,2026-09-10 00:35,mexc,KAS/USDT,0.03634,3.15,1223.24,4.0,,12.0,"Coinpedia: Kaspa Price Nears a Critical Falling Wedge Breakout, Can It Rally 120% Next?"
@@ -2377,7 +2377,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-10,2026-09-10 00:01,mexc,AKE/USDT,0.016058,3.13,238.75,5.0,,322.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-10,2026-09-10 07:20,gate,牛来/USDT,0.08126,3.02,190.56,27.9,,,
 2026-09-10,2026-09-10 07:01,gate,MARSCOIN/USDT,0.11219,4.69,33.94,7.7,,4.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
-2026-09-10,2026-09-10 07:25,gate,USELESS/USDT,0.23454,4.15,25.25,23.1,,2,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-10,2026-09-10 07:30,gate,USELESS/USDT,0.23312,3.52,25.29,23.1,,2.0,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
 2026-09-10,2026-09-10 07:25,gate,BULLA/USDT,0.088257,7.26,23.87,8.5,,,
 2026-09-10,2026-09-10 00:05,gate,BEAT/USDT,0.0956,3.13,4.75,9.0,,93.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-09-10,2026-09-10 04:10,gate,MEMECOIN/USDT,0.06602,5.95,3.77,3.1,,,
