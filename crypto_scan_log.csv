@@ -2369,14 +2369,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-09,2026-09-09 00:01,mexc,FORM/USDT,0.327,6.13,7.28,5.7,,329.0,CoinMarketCal: Four (FORM) - Ai Hero Shutdown - 29 Oct 2025
 2026-09-09,2026-09-09 14:01,gate,MEMECOIN/USDT,0.08998,3.78,4.72,4.3,,,
 2026-09-09,2026-09-09 23:50,gate,NEAR/USDT,2.4895,7.35,2.63,19.3,,,
-2026-09-10,2026-09-10 03:11,gate,STONKS/USDT,0.003815,27.85,3357.82,3.9,,,
+2026-09-10,2026-09-10 03:15,gate,STONKS/USDT,0.003783,26.78,3372.28,3.9,,,
 2026-09-10,2026-09-10 00:01,mexc,IOST/USDT,0.0018,7.09,1698.51,41.7,Airdrop,106.0,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
 2026-09-10,2026-09-10 00:35,mexc,KAS/USDT,0.03634,3.15,1223.24,4.0,,12.0,"Coinpedia: Kaspa Price Nears a Critical Falling Wedge Breakout, Can It Rally 120% Next?"
 2026-09-10,2026-09-10 02:10,gate,SOPH/USDT,0.004324,3.05,339.9,5.4,,472.0,CoinMarketCal: SophiaVerse (SOPH) - SAIL Alpha - 30 May 2025
 2026-09-10,2026-09-10 00:01,mexc,AKE/USDT,0.016058,3.13,238.75,5.0,,322.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-10,2026-09-10 03:11,gate,牛来/USDT,0.08282,4.99,210.84,30.9,,,
-2026-09-10,2026-09-10 03:11,gate,USELESS/USDT,0.23356,3.71,28.38,25.9,,2,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-10,2026-09-10 03:15,gate,牛来/USDT,0.0824,4.46,211.27,30.9,,,
+2026-09-10,2026-09-10 03:11,gate,USELESS/USDT,0.23356,3.71,28.38,25.9,,2.0,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
 2026-09-10,2026-09-10 02:35,gate,BULLA/USDT,0.084768,3.02,21.27,7.5,,,
 2026-09-10,2026-09-10 00:05,gate,BEAT/USDT,0.0956,3.13,4.75,9.0,,93.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-09-10,2026-09-10 03:11,gate,MEMECOIN/USDT,0.06603,5.97,3.87,3.2,,,
-2026-09-10,2026-09-10 03:11,gate,BTR/USDT,0.06545,7.44,2.34,4.4,,,
+2026-09-10,2026-09-10 03:15,gate,MEMECOIN/USDT,0.06494,4.22,3.87,3.2,,,
+2026-09-10,2026-09-10 03:15,gate,BTR/USDT,0.06582,8.04,2.36,4.5,,,
