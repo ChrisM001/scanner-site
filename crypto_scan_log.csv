@@ -2387,12 +2387,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-10,2026-09-10 05:16,gate,BTR/USDT,0.06638,8.96,3.36,6.4,,,
 2026-09-11,2026-09-11 01:35,gate,BREW/USDT,0.015665,5.93,244.72,6.8,,,
 2026-09-11,2026-09-11 00:05,mexc,PONS/USDT,0.5777,5.28,162.8,7.6,,,
-2026-09-11,2026-09-11 01:25,gate,MARSCOIN/USDT,0.12792,6.98,33.41,7.2,,5.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
-2026-09-11,2026-09-11 03:31,gate,CNPY/USDT,0.2342,6.45,20.62,4.7,,,
+2026-09-11,2026-09-11 03:35,gate,牛来/USDT,0.12908,5.92,146.84,22.2,,,
+2026-09-11,2026-09-11 03:35,gate,MARSCOIN/USDT,0.12332,3.14,34.81,7.5,,5,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
+2026-09-11,2026-09-11 03:35,gate,CNPY/USDT,0.2338,6.27,20.63,4.7,,,
 2026-09-11,2026-09-11 00:05,mexc,NIULAI/USDT,0.1215,38.28,16.6,6.6,,,
 2026-09-11,2026-09-11 01:05,gate,UAI/USDT,0.65912,4.21,15.28,8.8,,,
 2026-09-11,2026-09-11 02:50,gate,CASHCAT/USDT,0.17032,4.26,12.04,3.0,,16.0,CryptoProwl: Crypto Rally Extends To Memecoins
 2026-09-11,2026-09-11 00:05,mexc,SAGA/USDT,0.01755,6.68,9.53,6.3,,334.0,CoinMarketCal: Saga (SAGA) - Velocity DeFi Rollout - 13 Oct 2025
-2026-09-11,2026-09-11 03:31,gate,PONS/USDT,0.6087,7.2,8.52,23.5,,,
+2026-09-11,2026-09-11 03:35,gate,PONS/USDT,0.6133,8.01,8.55,23.6,,,
 2026-09-11,2026-09-11 00:01,mexc,SOXS/USDT,47.34,3.38,3.73,41.1,,,
-2026-09-11,2026-09-11 03:31,gate,BTR/USDT,0.05009,3.64,2.78,5.3,,,
+2026-09-11,2026-09-11 03:35,gate,BTR/USDT,0.05018,3.83,2.79,5.3,,,
