@@ -2385,9 +2385,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-10,2026-09-10 00:05,gate,BEAT/USDT,0.0956,3.13,4.75,9.0,,93.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-09-10,2026-09-10 04:10,gate,MEMECOIN/USDT,0.06602,5.95,3.77,3.1,,,
 2026-09-10,2026-09-10 05:16,gate,BTR/USDT,0.06638,8.96,3.36,6.4,,,
-2026-09-11,2026-09-11 06:40,gate,PUMP/USDT,0.003769,3.18,884.65,11.0,,3.0,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
-2026-09-11,2026-09-11 06:45,gate,BREW/USDT,0.01676,13.34,260.72,7.2,,,
-2026-09-11,2026-09-11 06:26,gate,牛来/USDT,0.12589,3.3,197.94,29.9,,,
+2026-09-11,2026-09-11 06:50,gate,PUMP/USDT,0.003772,3.26,885.45,11.0,,3,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
+2026-09-11,2026-09-11 06:50,gate,BREW/USDT,0.016797,13.59,260.9,7.2,,,
+2026-09-11,2026-09-11 06:50,gate,牛来/USDT,0.12555,3.02,199.95,30.2,,,
 2026-09-11,2026-09-11 00:05,mexc,PONS/USDT,0.5777,5.28,162.8,7.6,,,
 2026-09-11,2026-09-11 04:35,gate,MARSCOIN/USDT,0.12317,3.01,35.87,7.7,,5.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
 2026-09-11,2026-09-11 05:55,gate,CNPY/USDT,0.2282,3.73,21.9,5.0,,,
@@ -2395,7 +2395,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-11,2026-09-11 01:05,gate,UAI/USDT,0.65912,4.21,15.28,8.8,,,
 2026-09-11,2026-09-11 02:50,gate,CASHCAT/USDT,0.17032,4.26,12.04,3.0,,16.0,CryptoProwl: Crypto Rally Extends To Memecoins
 2026-09-11,2026-09-11 00:05,mexc,SAGA/USDT,0.01755,6.68,9.53,6.3,,334.0,CoinMarketCal: Saga (SAGA) - Velocity DeFi Rollout - 13 Oct 2025
-2026-09-11,2026-09-11 06:45,gate,PONS/USDT,0.6461,13.79,9.36,25.8,,,
+2026-09-11,2026-09-11 06:50,gate,PONS/USDT,0.6502,14.51,9.38,25.9,,,
 2026-09-11,2026-09-11 05:50,gate,ENA/USDT,0.14718,3.0,8.88,15.6,,2.0,Cointelegraph: Franklin Templeton digital asset veteran takes helm at StablecoinX
 2026-09-11,2026-09-11 00:01,mexc,SOXS/USDT,47.34,3.38,3.73,41.1,,,
 2026-09-11,2026-09-11 04:40,gate,BTR/USDT,0.05054,4.57,2.17,4.1,,,
