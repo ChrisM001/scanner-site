@@ -2385,19 +2385,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-10,2026-09-10 00:05,gate,BEAT/USDT,0.0956,3.13,4.75,9.0,,93.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-09-10,2026-09-10 04:10,gate,MEMECOIN/USDT,0.06602,5.95,3.77,3.1,,,
 2026-09-10,2026-09-10 05:16,gate,BTR/USDT,0.06638,8.96,3.36,6.4,,,
-2026-09-11,2026-09-11 09:16,gate,VTHO/USDT,0.000602,5.23,2732.66,15.5,,175.0,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
+2026-09-11,2026-09-11 09:25,gate,VTHO/USDT,0.000592,3.57,2789.82,15.8,,175,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
 2026-09-11,2026-09-11 07:20,gate,PUMP/USDT,0.003776,3.37,849.2,10.6,,3.0,Coinpedia: PUMP Price Eyes $0.0055 as $4.7M Long Takes Shape
-2026-09-11,2026-09-11 09:21,gate,BREW/USDT,0.018382,24.3,247.02,6.8,,,
-2026-09-11,2026-09-11 09:21,gate,牛来/USDT,0.13871,13.82,224.61,33.9,,,
+2026-09-11,2026-09-11 09:25,gate,BREW/USDT,0.018492,25.05,248.47,6.9,,,
+2026-09-11,2026-09-11 09:25,gate,牛来/USDT,0.137,12.41,227.15,34.3,,,
 2026-09-11,2026-09-11 00:05,mexc,PONS/USDT,0.5777,5.28,162.8,7.6,,,
-2026-09-11,2026-09-11 09:21,gate,MARSCOIN/USDT,0.12631,5.64,35.77,7.7,,5,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
+2026-09-11,2026-09-11 09:25,gate,MARSCOIN/USDT,0.126,5.38,35.88,7.7,,5,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
 2026-09-11,2026-09-11 07:55,gate,BTW/USDT,0.517758,3.59,33.55,3.5,,,
 2026-09-11,2026-09-11 09:21,gate,CNPY/USDT,0.227,3.18,18.82,4.3,,,
 2026-09-11,2026-09-11 00:05,mexc,NIULAI/USDT,0.1215,38.28,16.6,6.6,,,
-2026-09-11,2026-09-11 09:21,gate,UAI/USDT,0.65651,3.79,12.69,7.3,,,
+2026-09-11,2026-09-11 09:25,gate,UAI/USDT,0.65962,4.28,12.76,7.3,,,
 2026-09-11,2026-09-11 02:50,gate,CASHCAT/USDT,0.17032,4.26,12.04,3.0,,16.0,CryptoProwl: Crypto Rally Extends To Memecoins
 2026-09-11,2026-09-11 00:05,mexc,SAGA/USDT,0.01755,6.68,9.53,6.3,,334.0,CoinMarketCal: Saga (SAGA) - Velocity DeFi Rollout - 13 Oct 2025
 2026-09-11,2026-09-11 05:50,gate,ENA/USDT,0.14718,3.0,8.88,15.6,,2.0,Cointelegraph: Franklin Templeton digital asset veteran takes helm at StablecoinX
-2026-09-11,2026-09-11 09:21,gate,PONS/USDT,0.6351,11.85,8.66,23.9,,,
+2026-09-11,2026-09-11 09:25,gate,PONS/USDT,0.6495,14.39,8.68,24.0,,,
 2026-09-11,2026-09-11 00:01,mexc,SOXS/USDT,47.34,3.38,3.73,41.1,,,
 2026-09-11,2026-09-11 04:40,gate,BTR/USDT,0.05054,4.57,2.17,4.1,,,
