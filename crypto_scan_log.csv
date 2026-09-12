@@ -2416,11 +2416,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-11,2026-09-11 04:40,gate,BTR/USDT,0.05054,4.57,2.17,4.1,,,
 2026-09-12,2026-09-12 01:46,gate,LAB/USDT,0.08107,3.71,466.63,14.7,,,
 2026-09-12,2026-09-12 01:35,gate,牛来/USDT,0.12996,3.34,295.57,48.4,,,
-2026-09-12,2026-09-12 01:46,gate,BREW/USDT,0.026048,13.06,179.38,6.8,,,
-2026-09-12,2026-09-12 01:46,gate,龙虾/USDT,0.076671,7.54,163.6,6.5,,,
+2026-09-12,2026-09-12 02:05,gate,龙虾/USDT,0.093148,30.65,206.15,8.2,,,
+2026-09-12,2026-09-12 02:05,gate,BREW/USDT,0.02472,7.29,173.32,6.6,,,
 2026-09-12,2026-09-12 00:01,mexc,LAB/USDT,0.07891,28.32,52.08,12.2,,,
-2026-09-12,2026-09-12 01:46,gate,CNPY/USDT,0.2574,6.98,14.93,3.9,,,
-2026-09-12,2026-09-12 01:46,gate,USELESS/USDT,0.22213,3.75,10.59,10.5,,4,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-12,2026-09-12 02:05,gate,CNPY/USDT,0.2543,5.69,14.33,3.7,,,
 2026-09-12,2026-09-12 00:01,mexc,STORJ/USDT,0.05842,34.42,10.43,15.8,,46.0,The Block: STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
+2026-09-12,2026-09-12 02:05,gate,USELESS/USDT,0.22276,4.04,9.63,9.6,,4,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
 2026-09-12,2026-09-12 01:25,gate,PONS/USDT,0.6106,3.72,7.91,21.5,,,
 2026-09-12,2026-09-12 00:01,mexc,LSK/USDT,0.13852,14.07,7.3,3.3,,273.0,Coindar: Lisk Temporarily Takes Portal Offline Amid AWS Security Investigation
