@@ -2416,12 +2416,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-11,2026-09-11 04:40,gate,BTR/USDT,0.05054,4.57,2.17,4.1,,,
 2026-09-12,2026-09-12 02:15,gate,VTHO/USDT,0.000607,5.79,994.1,8.6,,176.0,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
 2026-09-12,2026-09-12 03:05,gate,LAB/USDT,0.0849,8.61,509.86,16.0,,,
-2026-09-12,2026-09-12 03:50,gate,龙虾/USDT,0.113442,59.12,366.96,14.5,,,
+2026-09-12,2026-09-12 04:01,gate,龙虾/USDT,0.114512,60.62,375.74,14.9,,,
 2026-09-12,2026-09-12 01:35,gate,牛来/USDT,0.12996,3.34,295.57,48.4,,,
 2026-09-12,2026-09-12 03:50,gate,BREW/USDT,0.023884,3.66,163.76,6.2,,,
 2026-09-12,2026-09-12 00:01,mexc,LAB/USDT,0.07891,28.32,52.08,12.2,,,
-2026-09-12,2026-09-12 03:50,gate,LSK/USDT,0.1995,41.79,21.56,3.4,,273,Coindar: Lisk Temporarily Takes Portal Offline Amid AWS Security Investigation
-2026-09-12,2026-09-12 03:50,gate,CNPY/USDT,0.2495,3.7,14.54,3.8,,,
+2026-09-12,2026-09-12 04:01,gate,LSK/USDT,0.1995,41.79,21.86,3.4,,273,Coindar: Lisk Temporarily Takes Portal Offline Amid AWS Security Investigation
+2026-09-12,2026-09-12 04:01,gate,CNPY/USDT,0.254,5.57,14.19,3.7,,,
 2026-09-12,2026-09-12 00:01,mexc,STORJ/USDT,0.05842,34.42,10.43,15.8,,46.0,The Block: STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
 2026-09-12,2026-09-12 03:31,gate,USELESS/USDT,0.22087,3.16,9.73,9.7,,4.0,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
 2026-09-12,2026-09-12 03:20,gate,BEAT/USDT,0.1018,6.93,9.06,13.7,,95.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
