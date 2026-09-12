@@ -2414,14 +2414,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-11,2026-09-11 00:01,mexc,SOXS/USDT,47.34,3.38,3.73,41.1,,,
 2026-09-11,2026-09-11 20:06,gate,NEAR/USDT,2.5193,3.14,2.3,18.6,,,
 2026-09-11,2026-09-11 04:40,gate,BTR/USDT,0.05054,4.57,2.17,4.1,,,
-2026-09-12,2026-09-12 04:50,gate,VTHO/USDT,0.000593,3.29,979.9,8.5,,176,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
-2026-09-12,2026-09-12 04:50,gate,龙虾/USDT,0.121956,71.06,549.36,21.7,,,
-2026-09-12,2026-09-12 03:05,gate,LAB/USDT,0.0849,8.61,509.86,16.0,,,
+2026-09-12,2026-09-12 04:55,gate,VTHO/USDT,0.000604,5.21,982.12,8.5,,176,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
+2026-09-12,2026-09-12 04:55,gate,LAB/USDT,0.08068,3.21,613.5,19.3,,,
+2026-09-12,2026-09-12 04:55,gate,龙虾/USDT,0.122549,71.89,558.02,22.1,,,
 2026-09-12,2026-09-12 04:40,gate,牛来/USDT,0.12972,3.15,268.88,44.0,,,
 2026-09-12,2026-09-12 04:10,gate,BREW/USDT,0.023867,3.59,160.21,6.1,,,
 2026-09-12,2026-09-12 00:01,mexc,LAB/USDT,0.07891,28.32,52.08,12.2,,,
-2026-09-12,2026-09-12 04:50,gate,LSK/USDT,0.1982,40.87,25.57,4.0,,273,Coindar: Lisk Temporarily Takes Portal Offline Amid AWS Security Investigation
-2026-09-12,2026-09-12 04:50,gate,CNPY/USDT,0.2544,5.74,14.44,3.7,,,
+2026-09-12,2026-09-12 04:55,gate,LSK/USDT,0.2027,44.07,25.92,4.0,,273,Coindar: Lisk Temporarily Takes Portal Offline Amid AWS Security Investigation
+2026-09-12,2026-09-12 04:55,gate,CNPY/USDT,0.2527,5.03,14.48,3.8,,,
 2026-09-12,2026-09-12 00:01,mexc,STORJ/USDT,0.05842,34.42,10.43,15.8,,46.0,The Block: STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave
 2026-09-12,2026-09-12 04:40,gate,USELESS/USDT,0.22083,3.14,9.55,9.5,,4.0,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
 2026-09-12,2026-09-12 03:20,gate,BEAT/USDT,0.1018,6.93,9.06,13.7,,95.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
