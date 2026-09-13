@@ -2436,5 +2436,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-12,2026-09-12 21:33,gate,USELESS/USDT,0.23024,7.53,4.51,4.5,,,
 2026-09-12,2026-09-12 21:33,gate,FLOCK/USDT,0.07751,27.86,3.63,8.1,,,
 2026-09-12,2026-09-12 17:10,gate,PONS/USDT,0.6122,3.99,3.36,9.1,,,
-2026-09-13,2026-09-13 01:19,gate,VTHO/USDT,0.000692,4.8,600.44,6.4,,177.0,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
-2026-09-13,2026-09-13 01:19,gate,LSK/USDT,0.5378,64.77,27.35,31.5,,274.0,Coindar: Lisk Temporarily Takes Portal Offline Amid AWS Security Investigation
+2026-09-13,2026-09-13 06:35,gate,VTHO/USDT,0.000902,36.61,857.23,9.2,,177,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
+2026-09-13,2026-09-13 06:35,gate,牛来/USDT,0.14205,5.25,171.16,28.5,,,
+2026-09-13,2026-09-13 06:35,gate,LSK/USDT,0.8467,159.41,90.97,104.9,,0,Binance News: LSK Surges Over 515% in 24 Hours as Liquidations Hit $26.74 Million
+2026-09-13,2026-09-13 06:35,gate,MARSCOIN/USDT,0.11991,3.18,21.97,4.2,,7,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
