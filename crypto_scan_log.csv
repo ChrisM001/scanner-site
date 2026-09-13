@@ -2436,10 +2436,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-12,2026-09-12 21:33,gate,USELESS/USDT,0.23024,7.53,4.51,4.5,,,
 2026-09-12,2026-09-12 21:33,gate,FLOCK/USDT,0.07751,27.86,3.63,8.1,,,
 2026-09-12,2026-09-12 17:10,gate,PONS/USDT,0.6122,3.99,3.36,9.1,,,
-2026-09-13,2026-09-13 12:18,gate,STEEM/USDT,0.07279,48.67,5140.34,4.4,,81,Coindar: Steem Started SLC32-W5 Video Challenge
-2026-09-13,2026-09-13 12:18,gate,VTHO/USDT,0.00087,31.88,1020.13,10.9,,177,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
+2026-09-13,2026-09-13 16:33,gate,STEEM/USDT,0.06054,23.65,6658.89,5.7,,81,Coindar: Steem Started SLC32-W5 Video Challenge
+2026-09-13,2026-09-13 16:33,gate,CVC/USDT,0.03534,54.59,6437.85,8.7,,154,Coindar: Civic to Participate in LLMday in San Francisco on April 16th
+2026-09-13,2026-09-13 16:33,gate,VTHO/USDT,0.000811,22.9,1066.07,11.4,,177,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
+2026-09-13,2026-09-13 16:33,gate,ARK/USDT,0.1449,12.59,205.01,3.1,Partner,214,Coindar: ARK to Be Integrated With Atomic Wallet
 2026-09-13,2026-09-13 06:35,gate,牛来/USDT,0.14205,5.25,171.16,28.5,,,
-2026-09-13,2026-09-13 12:18,gate,LSK/USDT,0.9519,191.64,128.66,148.3,,0,Binance News: LSK Surges Over 515% in 24 Hours as Liquidations Hit $26.74 Million
-2026-09-13,2026-09-13 12:18,gate,BTW/USDT,0.678401,23.4,73.99,7.3,,,
+2026-09-13,2026-09-13 16:33,gate,LSK/USDT,1.0485,221.23,145.16,167.3,,0,Binance News: LSK Surges Over 515% in 24 Hours as Liquidations Hit $26.74 Million
+2026-09-13,2026-09-13 16:33,gate,BTW/USDT,0.687881,25.12,121.66,11.9,,,
 2026-09-13,2026-09-13 06:35,gate,MARSCOIN/USDT,0.11991,3.18,21.97,4.2,,7.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
-2026-09-13,2026-09-13 12:18,gate,FLOCK/USDT,0.08401,7.16,5.05,12.8,Partner,229,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
+2026-09-13,2026-09-13 12:18,gate,FLOCK/USDT,0.08401,7.16,5.05,12.8,Partner,229.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
