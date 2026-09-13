@@ -2414,15 +2414,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-11,2026-09-11 00:01,mexc,SOXS/USDT,47.34,3.38,3.73,41.1,,,
 2026-09-11,2026-09-11 20:06,gate,NEAR/USDT,2.5193,3.14,2.3,18.6,,,
 2026-09-11,2026-09-11 04:40,gate,BTR/USDT,0.05054,4.57,2.17,4.1,,,
-2026-09-12,2026-09-12 21:33,gate,PEPE/USDT,3e-06,3.09,2651023.96,5.7,,21,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
+2026-09-12,2026-09-12 21:33,gate,PEPE/USDT,3e-06,3.09,2651023.96,5.7,,21.0,Coinpedia: PEPE Price Surges 18% After Breakout  Is $0.000005 the Next Target?
 2026-09-12,2026-09-12 21:33,gate,龙虾/USDT,0.156579,119.62,1538.88,60.9,,,
-2026-09-12,2026-09-12 21:33,gate,VTHO/USDT,0.00066,15.01,728.27,6.3,,176,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
+2026-09-12,2026-09-12 21:33,gate,VTHO/USDT,0.00066,15.01,728.27,6.3,,176.0,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
 2026-09-12,2026-09-12 06:10,gate,LAB/USDT,0.08058,3.08,642.79,20.2,,,
-2026-09-12,2026-09-12 21:33,gate,PUMP/USDT,0.003849,7.3,613.36,7.8,,0,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
-2026-09-12,2026-09-12 21:33,gate,AKE/USDT,0.016201,17.11,252.02,7.6,,324,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-12,2026-09-12 21:33,gate,PUMP/USDT,0.003849,7.3,613.36,7.8,,0.0,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
+2026-09-12,2026-09-12 21:33,gate,AKE/USDT,0.016201,17.11,252.02,7.6,,324.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-12,2026-09-12 04:10,gate,BREW/USDT,0.023867,3.59,160.21,6.1,,,
 2026-09-12,2026-09-12 21:33,gate,牛来/USDT,0.13204,4.99,141.36,23.1,,,
-2026-09-12,2026-09-12 21:33,gate,LSK/USDT,0.2254,60.2,95.95,14.9,,273,Coindar: Lisk Temporarily Takes Portal Offline Amid AWS Security Investigation
+2026-09-12,2026-09-12 21:33,gate,LSK/USDT,0.2254,60.2,95.95,14.9,,273.0,Coindar: Lisk Temporarily Takes Portal Offline Amid AWS Security Investigation
 2026-09-12,2026-09-12 00:01,mexc,LAB/USDT,0.07891,28.32,52.08,12.2,,,
 2026-09-12,2026-09-12 21:33,gate,BTW/USDT,0.5502,8.05,39.57,4.0,,,
 2026-09-12,2026-09-12 14:08,gate,MARSCOIN/USDT,0.12297,6.38,22.74,4.6,,6.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
@@ -2436,3 +2436,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-12,2026-09-12 21:33,gate,USELESS/USDT,0.23024,7.53,4.51,4.5,,,
 2026-09-12,2026-09-12 21:33,gate,FLOCK/USDT,0.07751,27.86,3.63,8.1,,,
 2026-09-12,2026-09-12 17:10,gate,PONS/USDT,0.6122,3.99,3.36,9.1,,,
+2026-09-13,2026-09-13 01:19,gate,VTHO/USDT,0.000692,4.8,600.44,6.4,,177.0,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
+2026-09-13,2026-09-13 01:19,gate,LSK/USDT,0.5378,64.77,27.35,31.5,,274.0,Coindar: Lisk Temporarily Takes Portal Offline Amid AWS Security Investigation
