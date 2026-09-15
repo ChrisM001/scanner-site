@@ -2471,5 +2471,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-14,2026-09-14 22:17,gate,ENA/USDT,0.14455,6.32,4.06,7.4,,,
 2026-09-14,2026-09-14 22:17,gate,SOXS/USDT,50.87,8.67,3.01,15.5,,,
 2026-09-14,2026-09-14 18:53,gate,BEAT/USDT,0.0851,5.58,2.34,3.3,,,
+2026-09-15,2026-09-15 05:54,gate,AIN/USDT,0.1581,24.07,4037.04,7.8,,,
 2026-09-15,2026-09-15 00:48,gate,T/USDT,0.005154,5.81,432.24,3.3,,4.0,CoinMarketCal: Spark: RLUSD Joins Stablecoin FX Layer on Uniswap V4 - 10 Sep 2026
+2026-09-15,2026-09-15 05:54,gate,AKE/USDT,0.01651,4.21,383.77,8.1,,327,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-15,2026-09-15 05:54,gate,BTW/USDT,0.697307,19.52,284.85,29.7,,,
+2026-09-15,2026-09-15 05:54,gate,龙虾/USDT,0.17502,8.74,253.4,21.7,,,
+2026-09-15,2026-09-15 05:54,gate,POWER/USDT,0.20376,36.05,224.4,4.6,,,
 2026-09-15,2026-09-15 00:48,gate,CVC/USDT,0.03299,5.2,176.1,13.5,,155.0,Coindar: Civic to Participate in LLMday in San Francisco on April 16th
+2026-09-15,2026-09-15 05:54,gate,FF/USDT,0.16716,32.07,42.35,10.8,Unlock,50,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
+2026-09-15,2026-09-15 05:54,gate,LSK/USDT,0.4073,7.92,7.95,65.2,,0,CoinMarketCal: Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026
+2026-09-15,2026-09-15 05:54,gate,USELESS/USDT,0.20453,4.16,3.77,3.9,,7,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
