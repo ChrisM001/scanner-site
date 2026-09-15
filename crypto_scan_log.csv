@@ -2445,15 +2445,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-13,2026-09-13 23:20,gate,BTW/USDT,0.730848,32.94,135.31,13.3,,,
 2026-09-13,2026-09-13 06:35,gate,MARSCOIN/USDT,0.11991,3.18,21.97,4.2,,7.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
 2026-09-13,2026-09-13 12:18,gate,FLOCK/USDT,0.08401,7.16,5.05,12.8,Partner,229.0,CoinMarketCal: FLOCK (FLOCK) - UNDP AI Partnership - 26 January 2026
-2026-09-14,2026-09-14 22:17,gate,PEPE/USDT,4e-06,4.37,5114511.37,10.9,,1,"Invezz: Top crypto price predictions today: Pi Network, Pepe Coin, Zcash"
+2026-09-14,2026-09-14 22:17,gate,PEPE/USDT,4e-06,4.37,5114511.37,10.9,,1.0,"Invezz: Top crypto price predictions today: Pi Network, Pepe Coin, Zcash"
 2026-09-14,2026-09-14 22:17,gate,AIN/USDT,0.127,85.48,8755.9,3.7,,,
 2026-09-14,2026-09-14 01:23,gate,VTHO/USDT,0.000817,5.06,816.78,11.7,,178.0,CoinMarketCal: VeThor (VTHO) - Staking Model Shift - 19 March 2026
 2026-09-14,2026-09-14 22:17,gate,CAP/USDT,0.06286,33.29,589.19,10.8,,,
-2026-09-14,2026-09-14 22:17,gate,T/USDT,0.004869,10.86,455.73,3.1,,4,CoinMarketCal: Spark: RLUSD Joins Stablecoin FX Layer on Uniswap V4 - 10 Sep 2026
-2026-09-14,2026-09-14 22:17,gate,CVC/USDT,0.03209,3.28,400.98,13.9,,155,Coindar: Civic to Participate in LLMday in San Francisco on April 16th
+2026-09-14,2026-09-14 22:17,gate,T/USDT,0.004869,10.86,455.73,3.1,,4.0,CoinMarketCal: Spark: RLUSD Joins Stablecoin FX Layer on Uniswap V4 - 10 Sep 2026
+2026-09-14,2026-09-14 22:17,gate,CVC/USDT,0.03209,3.28,400.98,13.9,,155.0,Coindar: Civic to Participate in LLMday in San Francisco on April 16th
 2026-09-14,2026-09-14 22:17,gate,BR/USDT,0.52939,67.85,385.48,20.3,,,
-2026-09-14,2026-09-14 22:17,gate,PUMP/USDT,0.0037,6.6,372.63,4.8,,2,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
-2026-09-14,2026-09-14 22:17,gate,AKE/USDT,0.015735,4.21,281.98,6.3,,327,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-14,2026-09-14 22:17,gate,PUMP/USDT,0.0037,6.6,372.63,4.8,,2.0,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
+2026-09-14,2026-09-14 22:17,gate,AKE/USDT,0.015735,4.21,281.98,6.3,,327.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-14,2026-09-14 06:46,gate,STEEM/USDT,0.06534,12.69,276.21,4.8,,82.0,Coindar: Steem Started SLC32-W5 Video Challenge
 2026-09-14,2026-09-14 22:17,gate,龙虾/USDT,0.157158,8.89,258.27,20.3,,,
 2026-09-14,2026-09-14 06:46,gate,BTW/USDT,0.759322,3.61,172.64,17.2,,,
@@ -2471,3 +2471,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-14,2026-09-14 22:17,gate,ENA/USDT,0.14455,6.32,4.06,7.4,,,
 2026-09-14,2026-09-14 22:17,gate,SOXS/USDT,50.87,8.67,3.01,15.5,,,
 2026-09-14,2026-09-14 18:53,gate,BEAT/USDT,0.0851,5.58,2.34,3.3,,,
+2026-09-15,2026-09-15 00:48,gate,T/USDT,0.005154,5.81,432.24,3.3,,4.0,CoinMarketCal: Spark: RLUSD Joins Stablecoin FX Layer on Uniswap V4 - 10 Sep 2026
+2026-09-15,2026-09-15 00:48,gate,CVC/USDT,0.03299,5.2,176.1,13.5,,155.0,Coindar: Civic to Participate in LLMday in San Francisco on April 16th
