@@ -2485,17 +2485,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-15,2026-09-15 22:17,gate,USELESS/USDT,0.21432,9.15,3.19,3.3,,,
 2026-09-15,2026-09-15 19:14,gate,LSK/USDT,0.3889,3.05,2.94,24.1,,,
 2026-09-16,2026-09-16 10:12,gate,AKE/USDT,0.027768,3.17,3027.0,67.8,,328.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-16,2026-09-16 18:49,gate,PUMP/USDT,0.003675,4.55,508.05,6.5,,3,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
-2026-09-16,2026-09-16 18:49,gate,龙虾/USDT,0.216988,10.81,226.88,20.5,,,
+2026-09-16,2026-09-16 18:49,gate,PUMP/USDT,0.003675,4.55,508.05,6.5,,3.0,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
+2026-09-16,2026-09-16 21:55,gate,龙虾/USDT,0.230042,17.48,234.36,21.2,,,
 2026-09-16,2026-09-16 05:18,gate,CAP/USDT,0.05953,4.09,194.19,4.0,,,
-2026-09-16,2026-09-16 18:49,gate,BR/USDT,0.66673,164.46,149.89,23.3,,,
-2026-09-16,2026-09-16 18:49,gate,BTW/USDT,0.751625,6.8,72.22,7.6,,,
-2026-09-16,2026-09-16 18:49,gate,BULLA/USDT,0.118129,58.2,30.55,11.6,,,
+2026-09-16,2026-09-16 21:55,gate,BR/USDT,0.65856,161.22,165.74,25.7,,,
+2026-09-16,2026-09-16 21:55,gate,BTW/USDT,0.740706,5.25,72.96,7.6,,,
+2026-09-16,2026-09-16 21:55,gate,BULLA/USDT,0.124379,66.56,31.65,12.0,,,
 2026-09-16,2026-09-16 18:49,gate,CNPY/USDT,0.4043,7.9,23.72,9.0,,,
-2026-09-16,2026-09-16 18:49,gate,MARSCOIN/USDT,0.0923,6.59,21.07,3.4,,11,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
-2026-09-16,2026-09-16 18:49,gate,SKYAI/USDT,0.06009,16.09,20.02,4.8,,,
-2026-09-16,2026-09-16 18:49,gate,DGAI/USDT,0.9115,20.09,18.02,4.9,,,
-2026-09-16,2026-09-16 18:49,gate,USELESS/USDT,0.2283,6.14,8.14,8.5,,,
-2026-09-16,2026-09-16 18:49,gate,ENA/USDT,0.14926,6.95,6.04,11.5,,,
-2026-09-16,2026-09-16 18:49,gate,LSK/USDT,0.7506,120.12,5.34,47.2,,,
-2026-09-16,2026-09-16 18:49,gate,ARB/USDT,0.16451,8.49,2.45,20.7,,,
+2026-09-16,2026-09-16 18:49,gate,MARSCOIN/USDT,0.0923,6.59,21.07,3.4,,11.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
+2026-09-16,2026-09-16 21:55,gate,DGAI/USDT,0.9132,20.32,18.13,4.9,,,
+2026-09-16,2026-09-16 21:55,gate,SKYAI/USDT,0.06078,17.43,17.79,4.2,,,
+2026-09-16,2026-09-16 21:55,gate,USELESS/USDT,0.23338,8.5,8.31,8.7,,9,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-16,2026-09-16 21:55,gate,LSK/USDT,0.693,103.23,5.58,49.4,,2,CoinMarketCal: Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026
+2026-09-16,2026-09-16 21:55,gate,ENA/USDT,0.14638,4.89,5.14,9.8,,,
+2026-09-16,2026-09-16 21:55,gate,ARB/USDT,0.16405,8.19,2.48,21.0,,,
