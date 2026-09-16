@@ -2484,5 +2484,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-15,2026-09-15 22:17,gate,SAGA/USDT,0.02351,24.85,8.46,3.5,,,
 2026-09-15,2026-09-15 22:17,gate,USELESS/USDT,0.21432,9.15,3.19,3.3,,,
 2026-09-15,2026-09-15 19:14,gate,LSK/USDT,0.3889,3.05,2.94,24.1,,,
+2026-09-16,2026-09-16 05:18,gate,AKE/USDT,0.027846,3.45,3494.87,78.3,,328,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-16,2026-09-16 05:18,gate,CAP/USDT,0.05953,4.09,194.19,4.0,,,
+2026-09-16,2026-09-16 05:18,gate,龙虾/USDT,0.216187,10.4,182.69,16.5,,,
+2026-09-16,2026-09-16 05:18,gate,BTW/USDT,0.76089,8.12,75.93,7.9,,,
 2026-09-16,2026-09-16 00:40,gate,CNPY/USDT,0.3917,4.54,20.68,7.9,,,
-2026-09-16,2026-09-16 00:40,gate,LSK/USDT,0.3774,10.67,2.43,21.5,,1,CoinMarketCal: Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026
+2026-09-16,2026-09-16 05:18,gate,USELESS/USDT,0.22709,5.57,3.76,3.9,,8,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-16,2026-09-16 05:18,gate,LSK/USDT,0.5459,60.09,3.02,26.7,,1,CoinMarketCal: Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026
