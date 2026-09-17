@@ -2499,23 +2499,23 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-16,2026-09-16 21:55,gate,LSK/USDT,0.693,103.23,5.58,49.4,,2.0,CoinMarketCal: Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026
 2026-09-16,2026-09-16 21:55,gate,ENA/USDT,0.14638,4.89,5.14,9.8,,,
 2026-09-16,2026-09-16 21:55,gate,ARB/USDT,0.16405,8.19,2.48,21.0,,,
-2026-09-17,2026-09-17 21:47,gate,PEPE/USDT,4e-06,6.79,7522001.49,16.9,,4,"Invezz: Top crypto price predictions today: Pi Network, Pepe Coin, Zcash"
-2026-09-17,2026-09-17 21:47,gate,ONE/USDT,0.001542,46.3,990.26,17.2,Upgrade,10,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
-2026-09-17,2026-09-17 21:47,gate,PUMP/USDT,0.003962,9.36,637.45,8.1,,5,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
-2026-09-17,2026-09-17 21:47,gate,AKE/USDT,0.021045,3.43,619.71,14.4,,329,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-17,2026-09-17 23:56,gate,PEPE/USDT,4e-06,6.35,7105499.56,16.0,,4,"Invezz: Top crypto price predictions today: Pi Network, Pepe Coin, Zcash"
+2026-09-17,2026-09-17 23:56,gate,ONE/USDT,0.001903,80.55,1298.88,22.5,Upgrade,10,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-09-17,2026-09-17 23:56,gate,AKE/USDT,0.021251,4.44,582.67,13.5,,330,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-17,2026-09-17 23:56,gate,PUMP/USDT,0.004094,13.0,547.7,7.0,,5,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
 2026-09-17,2026-09-17 04:53,gate,AIN/USDT,0.02487,5.43,522.03,5.0,,,
-2026-09-17,2026-09-17 21:47,gate,AVA/USDT,0.2743,77.2,254.64,7.7,,3,Coindar: Travala to Hold Giveaway
-2026-09-17,2026-09-17 21:47,gate,GENIUS/USDT,0.3508,15.43,223.66,3.1,Listing,118,CoinMarketCal: Genius & OpenGradient - Binance Listing - 22 May 2026
+2026-09-17,2026-09-17 23:56,gate,AVA/USDT,0.2632,70.03,274.8,8.3,,3,Coindar: Travala to Hold Giveaway
+2026-09-17,2026-09-17 23:56,gate,GENIUS/USDT,0.3621,19.15,231.21,3.2,Listing,118,CoinMarketCal: Genius & OpenGradient - Binance Listing - 22 May 2026
 2026-09-17,2026-09-17 18:37,gate,BR/USDT,0.67726,3.12,112.78,30.6,,,
-2026-09-17,2026-09-17 21:47,gate,龙虾/USDT,0.236762,11.56,90.7,8.8,,,
+2026-09-17,2026-09-17 23:56,gate,龙虾/USDT,0.228617,7.72,84.04,8.2,,,
 2026-09-17,2026-09-17 18:37,gate,PENGU/USDT,0.007234,3.64,50.37,3.1,Partner,2.0,"GlobeNewswire: Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded ""Blue Pengu Minibot"""
-2026-09-17,2026-09-17 21:47,gate,MARSCOIN/USDT,0.11632,26.66,34.39,5.4,,12,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
-2026-09-17,2026-09-17 21:47,gate,牛来/USDT,0.10433,3.92,30.89,4.9,,,
-2026-09-17,2026-09-17 21:47,gate,CNPY/USDT,0.5714,48.76,27.79,12.0,,,
-2026-09-17,2026-09-17 14:43,gate,ADA/USDT,0.2025,3.21,11.81,33.1,,,
-2026-09-17,2026-09-17 21:47,gate,USELESS/USDT,0.26427,14.41,6.64,7.1,,,
-2026-09-17,2026-09-17 21:47,gate,UAI/USDT,0.40818,6.62,5.22,3.8,,,
+2026-09-17,2026-09-17 23:56,gate,MARSCOIN/USDT,0.11695,27.34,34.54,5.4,,12,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
+2026-09-17,2026-09-17 23:56,gate,牛来/USDT,0.1062,5.79,29.19,4.6,,,
+2026-09-17,2026-09-17 23:56,gate,CNPY/USDT,0.5843,52.12,28.18,12.1,,,
+2026-09-17,2026-09-17 23:56,gate,ADA/USDT,0.2028,3.36,8.73,24.4,,,
+2026-09-17,2026-09-17 23:56,gate,USELESS/USDT,0.26575,15.05,6.54,7.0,,,
+2026-09-17,2026-09-17 23:56,gate,UAI/USDT,0.41711,8.95,5.28,3.9,,,
 2026-09-17,2026-09-17 00:09,gate,LSK/USDT,0.5017,6.77,4.96,51.0,,2.0,CoinMarketCal: Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026
-2026-09-17,2026-09-17 21:47,gate,ENA/USDT,0.15336,3.11,4.78,9.2,,,
-2026-09-17,2026-09-17 21:47,gate,PONS/USDT,0.6534,13.63,4.31,9.9,,,
-2026-09-17,2026-09-17 21:47,gate,NEAR/USDT,3.0223,15.39,2.66,25.9,,,
+2026-09-17,2026-09-17 23:56,gate,ENA/USDT,0.15498,4.2,4.73,9.1,,,
+2026-09-17,2026-09-17 23:56,gate,PONS/USDT,0.6832,18.82,4.49,10.3,,,
+2026-09-17,2026-09-17 23:56,gate,NEAR/USDT,3.1625,20.74,3.01,29.3,,,
