@@ -2499,4 +2499,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-16,2026-09-16 21:55,gate,LSK/USDT,0.693,103.23,5.58,49.4,,2.0,CoinMarketCal: Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026
 2026-09-16,2026-09-16 21:55,gate,ENA/USDT,0.14638,4.89,5.14,9.8,,,
 2026-09-16,2026-09-16 21:55,gate,ARB/USDT,0.16405,8.19,2.48,21.0,,,
+2026-09-17,2026-09-17 04:53,gate,AKE/USDT,0.021653,6.41,2070.28,47.9,,329,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-17,2026-09-17 04:53,gate,PUMP/USDT,0.003826,5.6,636.67,8.1,,4,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
+2026-09-17,2026-09-17 04:53,gate,AIN/USDT,0.02487,5.43,522.03,5.0,,,
+2026-09-17,2026-09-17 04:53,gate,ONE/USDT,0.001119,6.17,229.39,4.0,Upgrade,9,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-09-17,2026-09-17 04:53,gate,MARSCOIN/USDT,0.10716,16.68,28.13,4.4,,11,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
+2026-09-17,2026-09-17 04:53,gate,牛来/USDT,0.10883,8.41,27.37,4.4,,,
+2026-09-17,2026-09-17 04:53,gate,USELESS/USDT,0.27285,18.12,8.52,9.1,,9,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-17,2026-09-17 04:53,gate,UAI/USDT,0.39959,4.37,5.74,4.2,,,
 2026-09-17,2026-09-17 00:09,gate,LSK/USDT,0.5017,6.77,4.96,51.0,,2.0,CoinMarketCal: Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026
+2026-09-17,2026-09-17 04:53,gate,PONS/USDT,0.6429,11.81,3.91,9.0,,,
