@@ -2499,15 +2499,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-16,2026-09-16 21:55,gate,LSK/USDT,0.693,103.23,5.58,49.4,,2.0,CoinMarketCal: Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026
 2026-09-16,2026-09-16 21:55,gate,ENA/USDT,0.14638,4.89,5.14,9.8,,,
 2026-09-16,2026-09-16 21:55,gate,ARB/USDT,0.16405,8.19,2.48,21.0,,,
-2026-09-17,2026-09-17 09:51,gate,AKE/USDT,0.021337,4.86,1873.34,43.4,,329,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-17,2026-09-17 09:51,gate,PUMP/USDT,0.003889,7.34,654.94,8.3,,4,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
+2026-09-17,2026-09-17 14:43,gate,PEPE/USDT,4e-06,6.76,7703055.03,17.3,,4,"Invezz: Top crypto price predictions today: Pi Network, Pepe Coin, Zcash"
+2026-09-17,2026-09-17 14:43,gate,AKE/USDT,0.021459,5.46,1632.84,37.8,,329,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-17,2026-09-17 14:43,gate,PUMP/USDT,0.003965,9.44,773.42,9.8,,4,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
+2026-09-17,2026-09-17 14:43,gate,ONE/USDT,0.001258,19.35,549.08,9.5,Upgrade,9,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
 2026-09-17,2026-09-17 04:53,gate,AIN/USDT,0.02487,5.43,522.03,5.0,,,
-2026-09-17,2026-09-17 04:53,gate,ONE/USDT,0.001119,6.17,229.39,4.0,Upgrade,9.0,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
-2026-09-17,2026-09-17 09:51,gate,龙虾/USDT,0.225692,6.34,129.2,12.6,,,
-2026-09-17,2026-09-17 09:51,gate,MARSCOIN/USDT,0.10814,17.75,29.56,4.6,,11,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
-2026-09-17,2026-09-17 09:51,gate,牛来/USDT,0.10682,6.41,26.18,4.2,,,
-2026-09-17,2026-09-17 09:51,gate,USELESS/USDT,0.27603,19.5,8.16,8.8,,10,"Benzinga: Useless Coin Lives Up to Its Name, Then Beats More Useful Dogecoin And Shiba Inu Anyway With a 230% Weekly Surge"
+2026-09-17,2026-09-17 14:43,gate,AVA/USDT,0.2968,91.73,162.34,4.9,,2,Coindar: Travala to Hold Giveaway
+2026-09-17,2026-09-17 14:43,gate,BR/USDT,0.67905,3.39,128.73,34.9,,,
+2026-09-17,2026-09-17 14:43,gate,龙虾/USDT,0.235882,11.14,103.78,10.1,,,
+2026-09-17,2026-09-17 14:43,gate,PENGU/USDT,0.00727,4.15,53.51,3.3,,,
+2026-09-17,2026-09-17 14:43,gate,牛来/USDT,0.11022,9.79,30.11,4.8,,,
+2026-09-17,2026-09-17 14:43,gate,MARSCOIN/USDT,0.11333,23.4,29.13,4.5,,,
+2026-09-17,2026-09-17 14:43,gate,ADA/USDT,0.2025,3.21,11.81,33.1,,,
+2026-09-17,2026-09-17 14:43,gate,USELESS/USDT,0.25506,10.42,7.75,8.3,,,
 2026-09-17,2026-09-17 04:53,gate,UAI/USDT,0.39959,4.37,5.74,4.2,,,
 2026-09-17,2026-09-17 00:09,gate,LSK/USDT,0.5017,6.77,4.96,51.0,,2.0,CoinMarketCal: Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026
-2026-09-17,2026-09-17 09:51,gate,PONS/USDT,0.6479,12.68,3.97,9.1,,,
-2026-09-17,2026-09-17 09:51,gate,NEAR/USDT,2.8215,7.72,2.1,20.5,Airdrop,0,Coinpedia: NEAR Protocol Achieves Historic Milestone: Price Surges 7.6% Amid Massive Airdrop
+2026-09-17,2026-09-17 14:43,gate,PONS/USDT,0.6392,11.17,4.17,9.6,,,
+2026-09-17,2026-09-17 14:43,gate,NEAR/USDT,2.8447,8.61,2.44,23.8,,,
