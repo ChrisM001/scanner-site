@@ -2519,13 +2519,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-17,2026-09-17 23:56,gate,ENA/USDT,0.15498,4.2,4.73,9.1,,,
 2026-09-17,2026-09-17 23:56,gate,PONS/USDT,0.6832,18.82,4.49,10.3,,,
 2026-09-17,2026-09-17 23:56,gate,NEAR/USDT,3.1625,20.74,3.01,29.3,,,
-2026-09-18,2026-09-18 03:41,gate,龙虾/USDT,0.243695,6.03,73.1,7.3,,,
-2026-09-18,2026-09-18 03:41,gate,MARSCOIN/USDT,0.12298,4.92,32.32,4.9,,12,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
-2026-09-18,2026-09-18 03:41,gate,AVA/USDT,0.2755,5.23,31.5,9.4,,3,Coindar: Travala to Hold Giveaway
-2026-09-18,2026-09-18 03:41,gate,牛来/USDT,0.11549,8.62,31.33,5.0,,,
-2026-09-18,2026-09-18 03:41,gate,ADA/USDT,0.2154,6.42,12.11,34.4,Partner,2,Coindar: Cardano Partners With Mastercard
+2026-09-18,2026-09-18 08:31,gate,PUMP/USDT,0.004239,3.74,561.39,7.2,,5,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
+2026-09-18,2026-09-18 08:31,gate,AKE/USDT,0.023836,12.01,295.83,6.8,,330,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-18,2026-09-18 08:31,gate,龙虾/USDT,0.252241,9.75,104.0,10.4,,,
+2026-09-18,2026-09-18 08:31,gate,牛来/USDT,0.12301,15.7,40.29,6.4,,,
+2026-09-18,2026-09-18 03:41,gate,MARSCOIN/USDT,0.12298,4.92,32.32,4.9,,12.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
+2026-09-18,2026-09-18 03:41,gate,AVA/USDT,0.2755,5.23,31.5,9.4,,3.0,Coindar: Travala to Hold Giveaway
+2026-09-18,2026-09-18 08:31,gate,ADA/USDT,0.2143,5.88,13.43,38.2,,0,Cointelegraph: Cardanos IOG warns users to avoid YouTube channel amid apparent hijack
+2026-09-18,2026-09-18 08:31,gate,ENA/USDT,0.16922,9.56,7.55,14.7,,0,"Crypto Briefing: Ethena aims to decouple from Bitcoin price fluctuations, says founder"
+2026-09-18,2026-09-18 08:31,gate,DOGE/USDT,0.08452,3.48,7.45,51.7,,1,Dow Jones Newswires: Crypto Holding Ground After Fed Rate Hike  Market Talk
 2026-09-18,2026-09-18 03:41,gate,UAI/USDT,0.42823,3.4,5.5,4.1,,,
-2026-09-18,2026-09-18 03:41,gate,ENA/USDT,0.16436,6.41,5.32,10.4,,0,"Crypto Briefing: Ethena aims to decouple from Bitcoin price fluctuations, says founder"
-2026-09-18,2026-09-18 03:41,gate,PONS/USDT,0.7639,11.57,4.78,10.7,,,
-2026-09-18,2026-09-18 03:41,gate,NEAR/USDT,3.4151,8.61,3.43,36.6,,,
-2026-09-18,2026-09-18 03:41,gate,ARB/USDT,0.2226,25.62,2.07,19.7,,,
+2026-09-18,2026-09-18 08:31,gate,PONS/USDT,0.734,7.2,5.49,12.3,,,
+2026-09-18,2026-09-18 08:31,gate,NEAR/USDT,3.464,10.16,4.13,44.0,,,
+2026-09-18,2026-09-18 08:31,gate,ARB/USDT,0.2097,18.34,3.11,29.6,,,
+2026-09-18,2026-09-18 08:31,gate,UNI/USDT,8.809,13.08,2.37,75.8,,,
