@@ -510,4 +510,11 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-09-17,2026-09-17 09:51,NASDAQ:DLXY,1.58,145.78,441.1,5.0,2.2,0.0,M&A,Benzinga: Delixy Stock Explodes Higher on Potential 48% Kazakhstan Oil Stake,premarket
 2026-09-17,2026-09-17 09:51,NASDAQ:TPST,1.04,41.65,36.3,9.65,0.38,0.0,,Benzinga: Tempest Therapeutics (TPST) Stock Surges Wednesday: What's Driving the Action?,premarket
 2026-09-17,2026-09-17 09:51,NASDAQ:MEDS,7.002,149.07,28.5,1.54,0.45,0.0,M&A,"TradingView: DataMeds AI Acquires Helomics From Axe Compute, Issuing 19.99% New Shares and $1.36M Note",premarket
-2026-09-18,2026-09-18 08:30,NASDAQ:DTSS,1.02,64.04,45.9,8.21,0.17,0.0,,TradingView: Datasea Intelligent Technology Ltd. (NASDAQ:DTSS) Flags Up To $89.4M Annualized AI Agent Volume,premarket
+2026-09-18,2026-09-18 13:10,NASDAQ:AEMD,6.07,493.01,565.4,1.58,0.33,0.0,,"dpa-AFX: Morning Market Movers: AEMD, DAIC, LGVN, DLXY See Big Swings",premarket
+2026-09-18,2026-09-18 13:10,NASDAQ:KXIN,1.6,49.56,49.4,1.51,0.39,0.0,EARNINGS,TradingView: Key facts: Kaixin Holdings (NASDAQ:KXIN) Cuts H1 OpEx; Revenue +602%,premarket
+2026-09-18,2026-09-18 13:10,NASDAQ:DAIC,4.28,104.98,46.7,1.34,0.76,0.0,,"Benzinga: Aethlon Medical, Oklo, CID HoldCo, Xenon Pharmaceuticals and Moderna: Why These 5 Stocks Are on Investors' Radars Today",premarket
+2026-09-18,2026-09-18 13:10,NASDAQ:DTSS,0.98,64.04,45.9,8.21,1.28,1.0,,TradingView: Datasea Intelligent Technology Ltd. (NASDAQ:DTSS) Flags Up To $89.4M Annualized AI Agent Volume,premarket
+2026-09-18,2026-09-18 13:10,NASDAQ:NEXR,1.729,13.38,7.9,0.56,0.14,23.0,M&A,GlobeNewswire: Nexera Technologies: Subsidiary Fort Technology Closes Acquisition of Majority Stake in Logia USA to Fuel the Future of Data Centers,premarket
+2026-09-18,2026-09-18 13:10,NASDAQ:WETO,1.85,15.22,4.2,0.91,0.26,1.0,FDA/CLIN,GlobeNewswire: Wetour Robotics Launches Vantrapower to Expand into Intelligent Power Infrastructure for AI Industrial and Energy Markets in Texas,premarket
+2026-09-18,2026-09-18 13:10,NASDAQ:BIAF,10.19,30.84,2.5,0.59,0.64,0.0,LEGAL,Benzinga: BioAffinity Technologies Stock Surges Following Hong Kong Patent Grant,premarket
+2026-09-18,2026-09-18 13:10,NASDAQ:MEDS,5.84,10.87,0.3,1.54,6.94,0.0,LEGAL,"ACCESS Newswire: DataMeds AI Litigation Settlement Extinguishes ~$19 million In Liabilities and Retires 364,099 Common Sharessked",premarket
