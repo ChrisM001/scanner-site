@@ -2519,29 +2519,30 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-17,2026-09-17 23:56,gate,ENA/USDT,0.15498,4.2,4.73,9.1,,,
 2026-09-17,2026-09-17 23:56,gate,PONS/USDT,0.6832,18.82,4.49,10.3,,,
 2026-09-17,2026-09-17 23:56,gate,NEAR/USDT,3.1625,20.74,3.01,29.3,,,
-2026-09-18,2026-09-18 19:37,gate,PEPE/USDT,4e-06,6.48,8541234.26,19.5,,5,"Invezz: Top crypto price predictions today: Pi Network, Pepe Coin, Zcash"
-2026-09-18,2026-09-18 19:37,gate,G/USDT,0.00751,55.62,19943.2,17.4,Airdrop,400,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
-2026-09-18,2026-09-18 19:37,gate,AKE/USDT,0.038616,81.47,1403.88,32.2,,330,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-18,2026-09-18 19:37,gate,PUMP/USDT,0.004406,7.83,587.98,7.5,,5,CoinMarketCal: Pump.fun: Holder Rewards launch replaces Cashback mode - 12 Sep 2026
+2026-09-18,2026-09-18 21:53,gate,PEPE/USDT,4e-06,7.32,8708480.51,19.9,,5,"Invezz: Top crypto price predictions today: Pi Network, Pepe Coin, Zcash"
+2026-09-18,2026-09-18 21:53,gate,G/USDT,0.007771,61.02,21448.51,18.7,Airdrop,400,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
+2026-09-18,2026-09-18 21:53,gate,AKE/USDT,0.0439,106.3,1872.08,43.0,,330,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-18,2026-09-18 21:53,gate,F/USDT,0.004602,43.81,1032.24,3.3,Partner,7,Binance News: Anchorage Digital Partners With Frgmnt to Add fUSD and sfUSD Access
+2026-09-18,2026-09-18 21:53,gate,PUMP/USDT,0.004384,7.29,633.37,8.1,,0,CoinMarketCal: Pump.fun: iOS App Returns to the App Store in the US and India - 18 Sep 2026
 2026-09-18,2026-09-18 08:31,gate,龙虾/USDT,0.252241,9.75,104.0,10.4,,,
-2026-09-18,2026-09-18 19:37,gate,PENGU/USDT,0.007883,8.66,52.94,3.2,Partner,3,"GlobeNewswire: Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded ""Blue Pengu Minibot"""
-2026-09-18,2026-09-18 19:37,gate,牛来/USDT,0.11861,11.56,47.92,7.6,,,
-2026-09-18,2026-09-18 19:37,gate,BR/USDT,0.92824,39.6,47.11,17.4,,,
-2026-09-18,2026-09-18 19:37,gate,PIEVERSE/USDT,1.6983,37.41,33.88,4.5,Listing,151,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
+2026-09-18,2026-09-18 21:53,gate,PENGU/USDT,0.007899,8.88,54.89,3.4,Partner,3,"GlobeNewswire: Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded ""Blue Pengu Minibot"""
+2026-09-18,2026-09-18 21:53,gate,牛来/USDT,0.11961,12.5,48.42,7.7,,,
+2026-09-18,2026-09-18 21:53,gate,BR/USDT,0.87685,31.87,48.12,17.7,,,
+2026-09-18,2026-09-18 21:53,gate,PIEVERSE/USDT,1.6295,31.85,34.86,4.6,,,
 2026-09-18,2026-09-18 03:41,gate,MARSCOIN/USDT,0.12298,4.92,32.32,4.9,,12.0,Binance News: Predict.fun Says MARSCOIN Has Added a Milestone for a Fully Diluted Valuation of Up to $1 Billion
 2026-09-18,2026-09-18 03:41,gate,AVA/USDT,0.2755,5.23,31.5,9.4,,3.0,Coindar: Travala to Hold Giveaway
 2026-09-18,2026-09-18 17:06,gate,CNPY/USDT,0.6309,8.46,27.03,14.3,,,
-2026-09-18,2026-09-18 19:37,gate,MYX/USDT,0.0816,31.4,21.28,3.5,,,
-2026-09-18,2026-09-18 19:37,gate,ADA/USDT,0.2221,9.73,15.39,43.7,,,
-2026-09-18,2026-09-18 19:37,gate,XLM/USDT,0.19396,5.78,12.73,5.1,,,
-2026-09-18,2026-09-18 19:37,gate,XRP/USDT,1.4053,8.48,11.97,150.1,,,
-2026-09-18,2026-09-18 19:37,gate,ENA/USDT,0.16822,8.91,10.13,19.7,,,
-2026-09-18,2026-09-18 19:37,gate,DOGE/USDT,0.08779,7.48,9.61,66.7,,,
-2026-09-18,2026-09-18 19:37,gate,EVAA/USDT,0.5934,30.39,9.27,3.6,,,
-2026-09-18,2026-09-18 19:37,gate,NEAR/USDT,3.7303,18.63,5.85,62.4,,,
+2026-09-18,2026-09-18 21:53,gate,MYX/USDT,0.0782,25.93,22.01,3.6,,,
+2026-09-18,2026-09-18 21:53,gate,ADA/USDT,0.2248,11.07,16.56,47.0,,,
+2026-09-18,2026-09-18 21:53,gate,XLM/USDT,0.19401,5.81,13.34,5.3,,,
+2026-09-18,2026-09-18 21:53,gate,XRP/USDT,1.4018,8.21,12.42,155.9,,,
+2026-09-18,2026-09-18 21:53,gate,ENA/USDT,0.16917,9.52,10.48,20.4,,,
+2026-09-18,2026-09-18 21:53,gate,DOGE/USDT,0.08816,7.93,10.06,69.8,,,
+2026-09-18,2026-09-18 21:53,gate,EVAA/USDT,0.5777,26.94,9.58,3.7,,,
+2026-09-18,2026-09-18 21:53,gate,NEAR/USDT,3.7481,19.2,5.97,63.7,,,
 2026-09-18,2026-09-18 03:41,gate,UAI/USDT,0.42823,3.4,5.5,4.1,,,
 2026-09-18,2026-09-18 13:10,gate,PONS/USDT,0.7185,4.94,5.18,11.6,,,
-2026-09-18,2026-09-18 19:37,gate,USELESS/USDT,0.2865,8.29,4.6,5.0,,,
-2026-09-18,2026-09-18 19:37,gate,UNI/USDT,8.986,15.35,3.93,125.7,,,
-2026-09-18,2026-09-18 19:37,gate,ARB/USDT,0.22286,25.77,3.75,35.8,,,
-2026-09-18,2026-09-18 19:37,gate,WLD/USDT,0.4186,9.24,2.71,43.8,,,
+2026-09-18,2026-09-18 21:53,gate,USELESS/USDT,0.29861,12.87,4.83,5.3,,,
+2026-09-18,2026-09-18 21:53,gate,UNI/USDT,8.98,15.28,3.97,126.7,,,
+2026-09-18,2026-09-18 21:53,gate,ARB/USDT,0.2237,26.24,3.83,36.5,,,
+2026-09-18,2026-09-18 21:53,gate,WLD/USDT,0.4253,10.99,2.76,44.6,,,
