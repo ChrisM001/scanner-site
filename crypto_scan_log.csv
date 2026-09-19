@@ -2547,21 +2547,24 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-18,2026-09-18 23:55,gate,ARB/USDT,0.22099,24.71,3.95,37.6,,,
 2026-09-18,2026-09-18 23:55,gate,UNI/USDT,8.826,13.3,3.91,124.9,,,
 2026-09-18,2026-09-18 23:55,gate,WLD/USDT,0.4255,11.04,2.77,44.8,,,
-2026-09-19,2026-09-19 16:05,gate,AKE/USDT,0.062955,35.97,4757.58,118.5,,331,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-19,2026-09-19 16:05,gate,G/USDT,0.010239,35.67,3246.66,22.5,Airdrop,401,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
-2026-09-19,2026-09-19 16:05,gate,B2/USDT,0.562,35.16,1421.48,12.0,,489,"CoinMarketCal: BNB (BNB), BSquared Network (B2) and others - Alpha Tokens X Space - 19 May 2025"
-2026-09-19,2026-09-19 16:05,gate,ZAMA/USDT,0.08559,42.86,108.25,13.7,,2,"TradingView: Zama Adds 16 Confidential DeFi Vaults, Launches Swap Protocol"
-2026-09-19,2026-09-19 16:05,gate,ONE/USDT,0.003083,64.51,100.71,20.3,Upgrade,11,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-09-19,2026-09-19 18:37,gate,PEPE/USDT,4e-06,12.37,14026019.24,32.0,,6,"Invezz: Top crypto price predictions today: Pi Network, Pepe Coin, Zcash"
+2026-09-19,2026-09-19 18:37,gate,AKE/USDT,0.064481,39.27,4929.8,122.8,,331,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-19,2026-09-19 18:37,gate,G/USDT,0.010146,34.44,3656.24,25.3,Airdrop,401,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
+2026-09-19,2026-09-19 18:37,gate,B2/USDT,0.5385,29.51,1637.12,13.8,,489,"CoinMarketCal: BNB (BNB), BSquared Network (B2) and others - Alpha Tokens X Space - 19 May 2025"
+2026-09-19,2026-09-19 18:37,gate,BANK/USDT,0.03497,16.92,358.39,3.0,,432,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-09-19,2026-09-19 18:37,gate,ONE/USDT,0.003873,106.67,138.52,28.0,Upgrade,12,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-09-19,2026-09-19 18:37,gate,ZAMA/USDT,0.08642,44.25,121.31,15.3,,2,"TradingView: Zama Adds 16 Confidential DeFi Vaults, Launches Swap Protocol"
 2026-09-19,2026-09-19 16:05,gate,龙虾/USDT,0.230368,3.93,84.76,8.9,,,
-2026-09-19,2026-09-19 16:05,gate,XTZ/USDT,0.3663,24.13,41.56,5.8,,15,Coindar: Tezos to Launch Post-Quantum Testnet in September
-2026-09-19,2026-09-19 16:05,gate,BR/USDT,1.16651,41.84,40.98,17.5,,,
+2026-09-19,2026-09-19 18:37,gate,XTZ/USDT,0.3737,26.64,45.01,6.3,,16,Coindar: Tezos to Launch Post-Quantum Testnet in September
+2026-09-19,2026-09-19 18:37,gate,BR/USDT,1.17888,43.35,43.93,18.8,,,
 2026-09-19,2026-09-19 03:27,gate,PIEVERSE/USDT,1.6719,4.01,34.86,5.1,Listing,151.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
 2026-09-19,2026-09-19 03:27,gate,ADA/USDT,0.2317,3.3,15.78,46.3,Hack,0.0,"U.Today: Scam Alert: Charles Hoskinson's and Cardano's YouTube Are Hacked, Don't Click Any Links"
 2026-09-19,2026-09-19 12:33,gate,STRK/USDT,0.04707,6.3,14.87,6.0,Upgrade,1.0,Binance News: Starknet Launches Privacy Prediction Market Trading on Mainnet
-2026-09-19,2026-09-19 16:05,gate,MYX/USDT,0.0857,10.15,13.66,3.6,,,
-2026-09-19,2026-09-19 16:05,gate,ENA/USDT,0.20027,19.07,10.57,21.1,,,
+2026-09-19,2026-09-19 18:37,gate,MYX/USDT,0.089,14.4,13.02,3.4,,,
+2026-09-19,2026-09-19 18:37,gate,ENA/USDT,0.19911,18.38,11.76,23.5,,,
 2026-09-19,2026-09-19 12:33,gate,EVAA/USDT,0.6054,3.52,9.26,4.6,,,
 2026-09-19,2026-09-19 03:27,gate,PONS/USDT,0.6963,5.21,4.87,10.6,,,
-2026-09-19,2026-09-19 16:05,gate,AVAX/USDT,9.421,14.82,3.77,31.2,,,
-2026-09-19,2026-09-19 16:05,gate,AR/USDT,4.452,22.21,3.08,14.1,,,
+2026-09-19,2026-09-19 18:37,gate,AVAX/USDT,9.702,18.24,4.41,36.5,,,
+2026-09-19,2026-09-19 18:37,gate,AR/USDT,4.346,19.3,3.36,15.4,,,
 2026-09-19,2026-09-19 08:15,gate,UNI/USDT,9.179,3.57,2.89,103.0,,0.0,Coinpedia: Is UNI Price Rally getting Too Crowded Now? Can It Reach $10?
+2026-09-19,2026-09-19 18:37,gate,ONDO/USDT,0.4324,8.48,2.03,18.9,,,
