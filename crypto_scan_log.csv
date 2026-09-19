@@ -2519,13 +2519,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-17,2026-09-17 23:56,gate,ENA/USDT,0.15498,4.2,4.73,9.1,,,
 2026-09-17,2026-09-17 23:56,gate,PONS/USDT,0.6832,18.82,4.49,10.3,,,
 2026-09-17,2026-09-17 23:56,gate,NEAR/USDT,3.1625,20.74,3.01,29.3,,,
-2026-09-18,2026-09-18 23:55,gate,PEPE/USDT,4e-06,5.6,9261892.74,21.1,,5,"Invezz: Top crypto price predictions today: Pi Network, Pepe Coin, Zcash"
-2026-09-18,2026-09-18 23:55,gate,G/USDT,0.007587,57.21,22119.35,19.3,Airdrop,401,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
-2026-09-18,2026-09-18 23:55,gate,AKE/USDT,0.046367,117.9,2150.84,49.4,,331,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-18,2026-09-18 23:55,gate,F/USDT,0.005122,60.06,1756.21,5.6,Partner,7,Binance News: Anchorage Digital Partners With Frgmnt to Add fUSD and sfUSD Access
-2026-09-18,2026-09-18 23:55,gate,PUMP/USDT,0.004244,3.87,659.86,8.4,,0,CoinMarketCal: Pump.fun: iOS App Returns to the App Store in the US and India - 18 Sep 2026
+2026-09-18,2026-09-18 23:55,gate,PEPE/USDT,4e-06,5.6,9261892.74,21.1,,5.0,"Invezz: Top crypto price predictions today: Pi Network, Pepe Coin, Zcash"
+2026-09-18,2026-09-18 23:55,gate,G/USDT,0.007587,57.21,22119.35,19.3,Airdrop,401.0,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
+2026-09-18,2026-09-18 23:55,gate,AKE/USDT,0.046367,117.9,2150.84,49.4,,331.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-18,2026-09-18 23:55,gate,F/USDT,0.005122,60.06,1756.21,5.6,Partner,7.0,Binance News: Anchorage Digital Partners With Frgmnt to Add fUSD and sfUSD Access
+2026-09-18,2026-09-18 23:55,gate,PUMP/USDT,0.004244,3.87,659.86,8.4,,0.0,CoinMarketCal: Pump.fun: iOS App Returns to the App Store in the US and India - 18 Sep 2026
 2026-09-18,2026-09-18 08:31,gate,龙虾/USDT,0.252241,9.75,104.0,10.4,,,
-2026-09-18,2026-09-18 23:55,gate,PENGU/USDT,0.007945,9.51,55.0,3.4,Partner,3,"GlobeNewswire: Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded ""Blue Pengu Minibot"""
+2026-09-18,2026-09-18 23:55,gate,PENGU/USDT,0.007945,9.51,55.0,3.4,Partner,3.0,"GlobeNewswire: Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded ""Blue Pengu Minibot"""
 2026-09-18,2026-09-18 23:55,gate,牛来/USDT,0.11994,12.81,49.28,7.9,,,
 2026-09-18,2026-09-18 23:55,gate,BR/USDT,0.82425,23.96,48.46,17.9,,,
 2026-09-18,2026-09-18 23:55,gate,PIEVERSE/USDT,1.5989,29.37,35.57,4.7,,,
@@ -2547,3 +2547,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-18,2026-09-18 23:55,gate,ARB/USDT,0.22099,24.71,3.95,37.6,,,
 2026-09-18,2026-09-18 23:55,gate,UNI/USDT,8.826,13.3,3.91,124.9,,,
 2026-09-18,2026-09-18 23:55,gate,WLD/USDT,0.4255,11.04,2.77,44.8,,,
+2026-09-19,2026-09-19 03:27,gate,G/USDT,0.008176,8.33,3076.79,21.3,Airdrop,401,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
+2026-09-19,2026-09-19 03:27,gate,ONE/USDT,0.002247,19.9,104.7,21.1,Upgrade,11,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-09-19,2026-09-19 03:27,gate,BR/USDT,0.87203,6.04,42.12,18.0,,,
+2026-09-19,2026-09-19 03:27,gate,PIEVERSE/USDT,1.6719,4.01,34.86,5.1,Listing,151,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
+2026-09-19,2026-09-19 03:27,gate,MYX/USDT,0.0915,17.61,17.14,4.5,Unlock,51,Binance News: MYX Finance to Unlock 18.06 Million Tokens on August 6
+2026-09-19,2026-09-19 03:27,gate,ADA/USDT,0.2317,3.3,15.78,46.3,Hack,0,"U.Today: Scam Alert: Charles Hoskinson's and Cardano's YouTube Are Hacked, Don't Click Any Links"
+2026-09-19,2026-09-19 03:27,gate,ENA/USDT,0.17967,6.83,10.48,20.9,,1,"Crypto Briefing: Ethena aims to decouple from Bitcoin price fluctuations, says founder"
+2026-09-19,2026-09-19 03:27,gate,PONS/USDT,0.6963,5.21,4.87,10.6,,,
