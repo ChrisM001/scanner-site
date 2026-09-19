@@ -2547,11 +2547,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-18,2026-09-18 23:55,gate,ARB/USDT,0.22099,24.71,3.95,37.6,,,
 2026-09-18,2026-09-18 23:55,gate,UNI/USDT,8.826,13.3,3.91,124.9,,,
 2026-09-18,2026-09-18 23:55,gate,WLD/USDT,0.4255,11.04,2.77,44.8,,,
-2026-09-19,2026-09-19 03:27,gate,G/USDT,0.008176,8.33,3076.79,21.3,Airdrop,401,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
-2026-09-19,2026-09-19 03:27,gate,ONE/USDT,0.002247,19.9,104.7,21.1,Upgrade,11,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
-2026-09-19,2026-09-19 03:27,gate,BR/USDT,0.87203,6.04,42.12,18.0,,,
-2026-09-19,2026-09-19 03:27,gate,PIEVERSE/USDT,1.6719,4.01,34.86,5.1,Listing,151,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
-2026-09-19,2026-09-19 03:27,gate,MYX/USDT,0.0915,17.61,17.14,4.5,Unlock,51,Binance News: MYX Finance to Unlock 18.06 Million Tokens on August 6
-2026-09-19,2026-09-19 03:27,gate,ADA/USDT,0.2317,3.3,15.78,46.3,Hack,0,"U.Today: Scam Alert: Charles Hoskinson's and Cardano's YouTube Are Hacked, Don't Click Any Links"
-2026-09-19,2026-09-19 03:27,gate,ENA/USDT,0.17967,6.83,10.48,20.9,,1,"Crypto Briefing: Ethena aims to decouple from Bitcoin price fluctuations, says founder"
+2026-09-19,2026-09-19 08:15,gate,AKE/USDT,0.058738,26.86,3839.99,95.7,,331,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-19,2026-09-19 08:15,gate,G/USDT,0.008758,16.05,3325.53,23.0,Airdrop,401,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
+2026-09-19,2026-09-19 08:15,gate,ONE/USDT,0.002148,14.62,94.45,19.1,Upgrade,11,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-09-19,2026-09-19 08:15,gate,BR/USDT,0.95427,16.04,45.09,19.3,,,
+2026-09-19,2026-09-19 03:27,gate,PIEVERSE/USDT,1.6719,4.01,34.86,5.1,Listing,151.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
+2026-09-19,2026-09-19 08:15,gate,MYX/USDT,0.0881,13.24,21.55,5.7,Unlock,51,Binance News: MYX Finance to Unlock 18.06 Million Tokens on August 6
+2026-09-19,2026-09-19 03:27,gate,ADA/USDT,0.2317,3.3,15.78,46.3,Hack,0.0,"U.Today: Scam Alert: Charles Hoskinson's and Cardano's YouTube Are Hacked, Don't Click Any Links"
+2026-09-19,2026-09-19 08:15,gate,ENA/USDT,0.1844,9.64,9.26,18.5,,1,"Crypto Briefing: Ethena aims to decouple from Bitcoin price fluctuations, says founder"
 2026-09-19,2026-09-19 03:27,gate,PONS/USDT,0.6963,5.21,4.87,10.6,,,
+2026-09-19,2026-09-19 08:15,gate,UNI/USDT,9.179,3.57,2.89,103.0,,0,Coinpedia: Is UNI Price Rally getting Too Crowded Now? Can It Reach $10?
