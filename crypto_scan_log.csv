@@ -2569,19 +2569,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-19,2026-09-19 23:06,gate,AR/USDT,4.318,18.53,3.4,15.6,,,
 2026-09-19,2026-09-19 08:15,gate,UNI/USDT,9.179,3.57,2.89,103.0,,0.0,Coinpedia: Is UNI Price Rally getting Too Crowded Now? Can It Reach $10?
 2026-09-19,2026-09-19 23:06,gate,ONDO/USDT,0.4231,6.15,2.24,20.9,,,
-2026-09-20,2026-09-20 18:00,gate,CELR/USDT,0.003619,7.77,4023.46,8.5,,173,Coindar: Celer Extends Zero-Fee USDC Transfers to BNB Chain Through April
+2026-09-20,2026-09-20 20:49,gate,CELR/USDT,0.003475,3.48,4136.52,8.7,,173,Coindar: Celer Extends Zero-Fee USDC Transfers to BNB Chain Through April
 2026-09-20,2026-09-20 11:43,gate,UB/USDT,0.16648,15.7,2379.11,3.2,,,
 2026-09-20,2026-09-20 06:17,gate,G/USDT,0.014404,35.62,1658.29,28.1,Airdrop,402.0,CoinMarketCal: Gravity (by Galxe) (G) - Galactic G Airdrop - 13 Aug to 12 Nov 2025
 2026-09-20,2026-09-20 06:17,gate,B2/USDT,0.5547,6.18,345.88,15.5,,489.0,"CoinMarketCal: BNB (BNB), BSquared Network (B2) and others - Alpha Tokens X Space - 19 May 2025"
 2026-09-20,2026-09-20 11:43,gate,ONE/USDT,0.004198,12.4,136.94,49.7,Upgrade,12.0,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
-2026-09-20,2026-09-20 18:00,gate,BTW/USDT,0.726764,23.15,108.12,7.0,,,
-2026-09-20,2026-09-20 18:00,gate,ZAMA/USDT,0.08926,8.44,90.8,17.2,,3,"TradingView: Zama Adds 16 Confidential DeFi Vaults, Launches Swap Protocol"
-2026-09-20,2026-09-20 18:00,gate,龙虾/USDT,0.244647,8.21,43.11,4.6,,,
-2026-09-20,2026-09-20 18:00,gate,HBAR/USDT,0.08679,6.58,40.42,3.9,,0,Brave New Coin: HBAR Price Climbs 3% as Bulls Defend Higher Low and Test $0.082 Level
+2026-09-20,2026-09-20 20:49,gate,BTW/USDT,0.75048,27.17,107.98,7.0,,,
+2026-09-20,2026-09-20 20:49,gate,ZAMA/USDT,0.08977,9.06,80.97,15.3,,3,"TradingView: Zama Adds 16 Confidential DeFi Vaults, Launches Swap Protocol"
+2026-09-20,2026-09-20 20:49,gate,龙虾/USDT,0.23833,5.41,47.62,5.1,,,
+2026-09-20,2026-09-20 20:49,gate,HBAR/USDT,0.08587,5.45,41.0,3.9,,0,Brave New Coin: HBAR Price Climbs 3% as Bulls Defend Higher Low and Test $0.082 Level
 2026-09-20,2026-09-20 18:00,gate,BR/USDT,1.2079,10.33,32.3,16.1,,,
 2026-09-20,2026-09-20 11:43,gate,PIEVERSE/USDT,1.7746,3.37,21.6,3.4,Listing,152.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
-2026-09-20,2026-09-20 18:00,gate,ENA/USDT,0.22544,10.46,19.74,40.6,,0,Binance News: Arthur Hayes Says ENA Will Rise to $0.50
-2026-09-20,2026-09-20 18:00,gate,SAGA/USDT,0.03486,39.11,8.07,5.7,,344,CoinMarketCal: Saga (SAGA) - Velocity DeFi Rollout - 13 Oct 2025
-2026-09-20,2026-09-20 18:00,gate,AVAX/USDT,11.067,9.66,7.58,71.3,,,
-2026-09-20,2026-09-20 18:00,gate,EPIC/USDT,0.5422,16.7,5.92,3.3,,,
-2026-09-20,2026-09-20 18:00,gate,NEAR/USDT,4.0823,13.77,3.47,47.8,,,
+2026-09-20,2026-09-20 20:49,gate,ENA/USDT,0.217,6.32,21.57,44.3,,0,Binance News: Arthur Hayes Says ENA Will Rise to $0.50
+2026-09-20,2026-09-20 20:49,gate,SAGA/USDT,0.03732,48.92,10.01,7.0,,344,CoinMarketCal: Saga (SAGA) - Velocity DeFi Rollout - 13 Oct 2025
+2026-09-20,2026-09-20 20:49,gate,AVAX/USDT,11.211,11.09,7.89,74.3,,0,"Stocktwits: Altcoin Rally Explodes: NEAR, ARB, AVAX, INJ, UNI Lead As Kevin OLeary Says Ethereum May No Longer Rule"
+2026-09-20,2026-09-20 20:49,gate,EPIC/USDT,0.5551,19.48,5.49,3.0,,,
+2026-09-20,2026-09-20 20:49,gate,NEAR/USDT,4.2066,17.23,3.59,49.5,,,
