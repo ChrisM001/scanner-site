@@ -2575,14 +2575,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-20,2026-09-20 06:17,gate,B2/USDT,0.5547,6.18,345.88,15.5,,489.0,"CoinMarketCal: BNB (BNB), BSquared Network (B2) and others - Alpha Tokens X Space - 19 May 2025"
 2026-09-20,2026-09-20 11:43,gate,ONE/USDT,0.004198,12.4,136.94,49.7,Upgrade,12.0,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
 2026-09-20,2026-09-20 23:02,gate,BTW/USDT,0.753183,27.63,109.11,7.1,,,
-2026-09-20,2026-09-20 23:02,gate,ZAMA/USDT,0.08627,4.81,77.74,14.7,,3,"TradingView: Zama Adds 16 Confidential DeFi Vaults, Launches Swap Protocol"
+2026-09-20,2026-09-20 23:02,gate,ZAMA/USDT,0.08627,4.81,77.74,14.7,,3.0,"TradingView: Zama Adds 16 Confidential DeFi Vaults, Launches Swap Protocol"
 2026-09-20,2026-09-20 23:02,gate,龙虾/USDT,0.237371,4.99,47.62,5.1,,,
-2026-09-20,2026-09-20 23:02,gate,HBAR/USDT,0.0862,5.86,40.95,3.9,,0,Brave New Coin: HBAR Price Climbs 3% as Bulls Defend Higher Low and Test $0.082 Level
+2026-09-20,2026-09-20 23:02,gate,HBAR/USDT,0.0862,5.86,40.95,3.9,,0.0,Brave New Coin: HBAR Price Climbs 3% as Bulls Defend Higher Low and Test $0.082 Level
 2026-09-20,2026-09-20 23:02,gate,BR/USDT,1.16693,6.58,27.53,13.7,,,
 2026-09-20,2026-09-20 11:43,gate,PIEVERSE/USDT,1.7746,3.37,21.6,3.4,Listing,152.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
-2026-09-20,2026-09-20 23:02,gate,ENA/USDT,0.21985,7.72,20.76,42.6,,0,Binance News: Arthur Hayes Says ENA Will Rise to $0.50
-2026-09-20,2026-09-20 23:02,gate,FF/USDT,0.14704,15.93,11.67,3.6,Unlock,55,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
-2026-09-20,2026-09-20 23:02,gate,SAGA/USDT,0.0375,49.64,10.85,7.6,,344,CoinMarketCal: Saga (SAGA) - Velocity DeFi Rollout - 13 Oct 2025
+2026-09-20,2026-09-20 23:02,gate,ENA/USDT,0.21985,7.72,20.76,42.6,,0.0,Binance News: Arthur Hayes Says ENA Will Rise to $0.50
+2026-09-20,2026-09-20 23:02,gate,FF/USDT,0.14704,15.93,11.67,3.6,Unlock,55.0,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
+2026-09-20,2026-09-20 23:02,gate,SAGA/USDT,0.0375,49.64,10.85,7.6,,344.0,CoinMarketCal: Saga (SAGA) - Velocity DeFi Rollout - 13 Oct 2025
 2026-09-20,2026-09-20 23:02,gate,AVAX/USDT,11.21,11.08,7.65,72.0,,,
 2026-09-20,2026-09-20 20:49,gate,EPIC/USDT,0.5551,19.48,5.49,3.0,,,
 2026-09-20,2026-09-20 23:02,gate,NEAR/USDT,4.0651,13.29,3.48,48.0,,,
+2026-09-21,2026-09-21 01:05,gate,PENGU/USDT,0.008104,3.22,63.54,3.6,Partner,5,"GlobeNewswire: Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded ""Blue Pengu Minibot"""
+2026-09-21,2026-09-21 01:05,gate,B2/USDT,0.536,8.83,58.57,3.3,,490,"CoinMarketCal: BNB (BNB), BSquared Network (B2) and others - Alpha Tokens X Space - 19 May 2025"
+2026-09-21,2026-09-21 01:05,gate,牛来/USDT,0.10533,4.13,26.39,4.1,,,
+2026-09-21,2026-09-21 01:05,gate,PIEVERSE/USDT,1.7101,3.82,24.78,4.0,Listing,153,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
+2026-09-21,2026-09-21 01:05,gate,FF/USDT,0.13714,4.09,16.19,5.1,Unlock,56,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
