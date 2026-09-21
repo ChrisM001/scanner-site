@@ -2586,8 +2586,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-20,2026-09-20 23:02,gate,AVAX/USDT,11.21,11.08,7.65,72.0,,,
 2026-09-20,2026-09-20 20:49,gate,EPIC/USDT,0.5551,19.48,5.49,3.0,,,
 2026-09-20,2026-09-20 23:02,gate,NEAR/USDT,4.0651,13.29,3.48,48.0,,,
-2026-09-21,2026-09-21 01:05,gate,PENGU/USDT,0.008104,3.22,63.54,3.6,Partner,5,"GlobeNewswire: Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded ""Blue Pengu Minibot"""
-2026-09-21,2026-09-21 01:05,gate,B2/USDT,0.536,8.83,58.57,3.3,,490,"CoinMarketCal: BNB (BNB), BSquared Network (B2) and others - Alpha Tokens X Space - 19 May 2025"
+2026-09-21,2026-09-21 06:21,gate,UB/USDT,0.13493,10.0,4734.38,7.2,,,
+2026-09-21,2026-09-21 06:21,gate,PTB/USDT,0.001128,19.68,2519.5,6.6,Upgrade,363,CoinMarketCal: Portal to Bitcoin (PTB) - Portal To BTC Mainnet - 13 Oct 2025
+2026-09-21,2026-09-21 06:21,gate,PUMP/USDT,0.004399,4.04,615.61,7.3,,2,CoinMarketCal: Pump.fun: iOS App Returns to the App Store in the US and India - 18 Sep 2026
+2026-09-21,2026-09-21 06:21,gate,PENGU/USDT,0.008142,3.71,72.15,4.1,Partner,5,"GlobeNewswire: Mint Announces Rice AI's Licensing Collaboration with Pudgy Penguins to Launch Co-Branded ""Blue Pengu Minibot"""
+2026-09-21,2026-09-21 06:21,gate,龙虾/USDT,0.267862,12.36,61.74,6.7,,,
+2026-09-21,2026-09-21 01:05,gate,B2/USDT,0.536,8.83,58.57,3.3,,490.0,"CoinMarketCal: BNB (BNB), BSquared Network (B2) and others - Alpha Tokens X Space - 19 May 2025"
+2026-09-21,2026-09-21 06:21,gate,ZAMA/USDT,0.09688,15.97,57.6,13.3,,3,"TradingView: Zama Adds 16 Confidential DeFi Vaults, Launches Swap Protocol"
 2026-09-21,2026-09-21 01:05,gate,牛来/USDT,0.10533,4.13,26.39,4.1,,,
-2026-09-21,2026-09-21 01:05,gate,PIEVERSE/USDT,1.7101,3.82,24.78,4.0,Listing,153,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
-2026-09-21,2026-09-21 01:05,gate,FF/USDT,0.13714,4.09,16.19,5.1,Unlock,56,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
+2026-09-21,2026-09-21 01:05,gate,PIEVERSE/USDT,1.7101,3.82,24.78,4.0,Listing,153.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
+2026-09-21,2026-09-21 01:05,gate,FF/USDT,0.13714,4.09,16.19,5.1,Unlock,56.0,"Binance News: SUI, EIGEN, and FF Face Major Token Unlocks This Week"
