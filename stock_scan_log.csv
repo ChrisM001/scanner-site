@@ -525,3 +525,7 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-09-22,2026-09-22 11:45,NASDAQ:VRME,1.21,18.54,43.8,9.97,0.37,3.0,,Seeking Alpha: VerifyMe declares $0.15 dividend,premarket
 2026-09-22,2026-09-22 11:45,NASDAQ:GURE,3.02,15.57,5.4,1.26,1.79,18.0,,TradingView: Gulf Resources Received Notice of Noncompliance,premarket
 2026-09-22,2026-09-22 11:45,NASDAQ:NCPL,0.96,57.96,5.1,4.38,0.28,18.0,,TradingView: Net appoints Cesar Herrera to Board after Avi Liss resignation,premarket
+2026-09-23,2026-09-23 11:57,NASDAQ:DCOY,4.45,101.17,2175.6,0.57,9.54,0.0,OFFERING,"TradingView: Decoy Therapeutics, Inc. (DCOY) Warrants Immediately Exercisable",premarket
+2026-09-23,2026-09-23 11:57,NASDAQ:GDC,1.54,25.34,13.9,4.09,0.13,1.0,,"dpa-AFX: Morning Market Movers: TOPS, IMCC, GDC, STI See Big Swings",premarket
+2026-09-23,2026-09-23 11:57,NASDAQ:GRML,17.428,45.44,4.5,2.87,4.98,0.0,,Stocktwits: Why Is GRML Stock Surging Over 15% Premarket Today?,premarket
+2026-09-23,2026-09-23 11:57,NASDAQ:IMCC,9.09,45.87,2.4,0.55,5.4,0.0,OFFERING,"Dow Jones Newswires: IM Cannabis: Will Acquire 51% of SDI for Combination of IMCC Common Shrs and/or Pre-Funded Warrants, Plus a 24-Mo Seller Loan Bearing 9% Annual Interest With 100% Warrant Coverage on Principal >IMCC",premarket
