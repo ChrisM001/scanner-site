@@ -2621,14 +2621,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-21,2026-09-21 13:10,gate,PONS/USDT,0.6542,8.1,3.31,6.8,,,
 2026-09-21,2026-09-21 22:17,gate,WIF/USDT,0.2403,18.78,2.47,6.9,,,
 2026-09-21,2026-09-21 22:17,gate,WLD/USDT,0.4596,5.61,2.02,34.9,,,
-2026-09-22,2026-09-22 22:46,gate,PEPE/USDT,5e-06,4.16,33076139.33,68.5,,0,Invezz: Pepe price jumps nearly 15% as short squeeze fuels rally
-2026-09-22,2026-09-22 22:46,gate,BONK/USDT,4e-06,6.74,1990284.34,3.2,,6,Brave New Coin: BONK Price Analysis: Selling Pressure Builds as $0.00000265 Support Comes Into Focus
+2026-09-22,2026-09-22 22:46,gate,PEPE/USDT,5e-06,4.16,33076139.33,68.5,,0.0,Invezz: Pepe price jumps nearly 15% as short squeeze fuels rally
+2026-09-22,2026-09-22 22:46,gate,BONK/USDT,4e-06,6.74,1990284.34,3.2,,6.0,Brave New Coin: BONK Price Analysis: Selling Pressure Builds as $0.00000265 Support Comes Into Focus
 2026-09-22,2026-09-22 22:46,gate,MUSEBOOK/USDT,0.000334,52.78,73197.66,8.7,,,
-2026-09-22,2026-09-22 22:46,gate,PUMP/USDT,0.004524,3.43,782.56,8.3,,4,CoinMarketCal: Pump.fun: iOS App Returns to the App Store in the US and India - 18 Sep 2026
-2026-09-22,2026-09-22 22:46,gate,KERNEL/USDT,0.06052,28.08,677.29,4.4,,472,CoinMarketCal: KernelDAO (KERNEL) - New GAIN Vault Vote - From 05 Jun to 12 Jun 2025
-2026-09-22,2026-09-22 22:46,gate,MUBARAK/USDT,0.07982,82.11,302.03,39.6,,0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-09-22,2026-09-22 22:46,gate,PUMP/USDT,0.004524,3.43,782.56,8.3,,4.0,CoinMarketCal: Pump.fun: iOS App Returns to the App Store in the US and India - 18 Sep 2026
+2026-09-22,2026-09-22 22:46,gate,KERNEL/USDT,0.06052,28.08,677.29,4.4,,472.0,CoinMarketCal: KernelDAO (KERNEL) - New GAIN Vault Vote - From 05 Jun to 12 Jun 2025
+2026-09-22,2026-09-22 22:46,gate,MUBARAK/USDT,0.07982,82.11,302.03,39.6,,0.0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
 2026-09-22,2026-09-22 22:46,gate,4STOCK/USDT,0.01516,34.04,292.93,3.6,,,
-2026-09-22,2026-09-22 22:46,gate,PENGU/USDT,0.010098,15.04,286.54,16.4,,0,Benzinga: Not Dogecoin or Shiba Inu: Is This Meme Coin's 27% Rally Just Getting Started?
+2026-09-22,2026-09-22 22:46,gate,PENGU/USDT,0.010098,15.04,286.54,16.4,,0.0,Benzinga: Not Dogecoin or Shiba Inu: Is This Meme Coin's 27% Rally Just Getting Started?
 2026-09-22,2026-09-22 22:46,gate,BTW/USDT,0.910143,13.82,128.55,8.2,,,
 2026-09-22,2026-09-22 22:46,gate,MARSCOIN/USDT,0.13402,31.28,50.58,6.5,,,
 2026-09-22,2026-09-22 22:46,gate,HBAR/USDT,0.09984,6.91,48.24,5.3,,,
@@ -2649,3 +2649,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-22,2026-09-22 06:14,gate,SOXS/USDT,35.96,3.72,2.23,11.8,,,
 2026-09-22,2026-09-22 22:46,gate,UNI/USDT,10.079,12.13,2.18,84.0,,,
 2026-09-22,2026-09-22 22:46,gate,TIA/USDT,0.4941,12.83,2.03,3.2,,,
+2026-09-23,2026-09-23 01:16,gate,NIL/USDT,0.08739,6.65,5.88,3.2,Upgrade,1.0,CoinMarketCal: Nillion: Encrypted Covenants Go Live on Ethereum Mainnet - 28 Sep 2026
+2026-09-23,2026-09-23 01:16,gate,UNI/USDT,10.688,4.54,2.41,99.1,,0.0,"Benzinga: Bitcoin Cash, Uniswap Surges as CME Announces New Futures Contracts: What's Going On?"
