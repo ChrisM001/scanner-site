@@ -2663,6 +2663,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-23,2026-09-23 22:44,gate,SOXS/USDT,33.68,4.3,3.17,18.2,,,
 2026-09-23,2026-09-23 11:57,gate,NEAR/USDT,4.7029,6.37,2.87,53.2,ETF,0.0,CoinMarketCal: NEAR Protocol: Ondo Tokenized US Stocks and ETFs Go Live on near.com - 22 Sep 2026
 2026-09-23,2026-09-23 01:16,gate,UNI/USDT,10.688,4.54,2.41,99.1,,0.0,"Benzinga: Bitcoin Cash, Uniswap Surges as CME Announces New Futures Contracts: What's Going On?"
-2026-09-24,2026-09-24 00:55,mexc,MARSCOIN/USDT,0.13828,9.43,94.41,3.4,,1,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-09-24,2026-09-24 05:53,gate,BOME/USDT,0.00118,15.12,2146.38,3.9,,57,Coinpedia: BOME Price Is Heating Up AgainHeres Why
+2026-09-24,2026-09-24 05:53,gate,BTW/USDT,1.078827,4.23,166.15,10.9,,,
+2026-09-24,2026-09-24 00:55,mexc,MARSCOIN/USDT,0.13828,9.43,94.41,3.4,,1.0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
 2026-09-24,2026-09-24 00:55,mexc,BTW/USDT,1.043,10.13,72.63,3.9,,,
-2026-09-24,2026-09-24 00:55,mexc,NIL/USDT,0.1257,31.4,5.67,13.8,Upgrade,2,CoinMarketCal: Nillion: Encrypted Covenants Go Live on Ethereum Mainnet - 28 Sep 2026
+2026-09-24,2026-09-24 05:53,gate,NIL/USDT,0.13607,7.9,15.3,14.2,Upgrade,2,CoinMarketCal: Nillion: Encrypted Covenants Go Live on Ethereum Mainnet - 28 Sep 2026
+2026-09-24,2026-09-24 05:53,gate,VIRTUAL/USDT,0.7228,3.52,13.21,3.5,,1,CoinMarketCal: Virtuals Protocol: Astra agent controls a full humanoid robot for the first time - 23 Sep 2026
+2026-09-24,2026-09-24 00:55,mexc,NIL/USDT,0.1257,31.4,5.67,13.8,Upgrade,2.0,CoinMarketCal: Nillion: Encrypted Covenants Go Live on Ethereum Mainnet - 28 Sep 2026
+2026-09-24,2026-09-24 05:53,gate,WIF/USDT,0.2422,3.68,2.17,7.2,,41,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
