@@ -2650,16 +2650,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-22,2026-09-22 22:46,gate,UNI/USDT,10.079,12.13,2.18,84.0,,,
 2026-09-22,2026-09-22 22:46,gate,TIA/USDT,0.4941,12.83,2.03,3.2,,,
 2026-09-23,2026-09-23 11:57,gate,BONK/USDT,4e-06,5.64,2731763.63,4.4,,0.0,Brave New Coin: BONK Price Jumps 6% as Weekly Breakout Puts Key Resistance in Focus
-2026-09-23,2026-09-23 22:44,gate,TAKE/USDT,0.09191,51.04,3319.08,34.5,,267,CoinMarketCal: OVERTAKE - New Game Titles - 30 December 2025
+2026-09-23,2026-09-23 22:44,gate,TAKE/USDT,0.09191,51.04,3319.08,34.5,,267.0,CoinMarketCal: OVERTAKE - New Game Titles - 30 December 2025
 2026-09-23,2026-09-23 06:22,gate,PENGU/USDT,0.01081,7.55,299.24,17.0,,0.0,Benzinga: Not Dogecoin or Shiba Inu: Is This Meme Coin's 27% Rally Just Getting Started?
 2026-09-23,2026-09-23 06:22,gate,4STOCK/USDT,0.01588,3.45,287.14,4.0,,,
 2026-09-23,2026-09-23 22:44,gate,BTW/USDT,1.03528,15.27,162.54,10.5,,,
 2026-09-23,2026-09-23 22:44,gate,龙虾/USDT,0.164525,17.67,91.21,10.5,,,
 2026-09-23,2026-09-23 06:22,gate,XRP/USDT,1.6194,3.0,21.37,219.2,Whale,0.0,Coinpedia: XRP Price is Rallying After a $2.2B Whale Buy  What Happens at $1.60?
-2026-09-23,2026-09-23 22:44,gate,NIL/USDT,0.11196,36.64,14.09,7.8,Upgrade,2,CoinMarketCal: Nillion: Encrypted Covenants Go Live on Ethereum Mainnet - 28 Sep 2026
+2026-09-23,2026-09-23 22:44,gate,NIL/USDT,0.11196,36.64,14.09,7.8,Upgrade,2.0,CoinMarketCal: Nillion: Encrypted Covenants Go Live on Ethereum Mainnet - 28 Sep 2026
 2026-09-23,2026-09-23 16:33,gate,MET/USDT,0.3534,6.35,12.17,3.5,Listing,335.0,CoinMarketCal: Meteora (MET) - KuCoin Listing - 23 Oct 2025
-2026-09-23,2026-09-23 22:44,gate,SAGA/USDT,0.04791,18.0,5.36,7.3,,347,CoinMarketCal: Saga (SAGA) - Velocity DeFi Rollout - 13 Oct 2025
-2026-09-23,2026-09-23 22:44,gate,ZRO/USDT,1.496,7.63,5.25,6.7,,0,NewsBTC: Anchorage Digital Taps LayerZero To Take USAT Stablecoin Cross-Chain
+2026-09-23,2026-09-23 22:44,gate,SAGA/USDT,0.04791,18.0,5.36,7.3,,347.0,CoinMarketCal: Saga (SAGA) - Velocity DeFi Rollout - 13 Oct 2025
+2026-09-23,2026-09-23 22:44,gate,ZRO/USDT,1.496,7.63,5.25,6.7,,0.0,NewsBTC: Anchorage Digital Taps LayerZero To Take USAT Stablecoin Cross-Chain
 2026-09-23,2026-09-23 22:44,gate,SOXS/USDT,33.68,4.3,3.17,18.2,,,
 2026-09-23,2026-09-23 11:57,gate,NEAR/USDT,4.7029,6.37,2.87,53.2,ETF,0.0,CoinMarketCal: NEAR Protocol: Ondo Tokenized US Stocks and ETFs Go Live on near.com - 22 Sep 2026
 2026-09-23,2026-09-23 01:16,gate,UNI/USDT,10.688,4.54,2.41,99.1,,0.0,"Benzinga: Bitcoin Cash, Uniswap Surges as CME Announces New Futures Contracts: What's Going On?"
+2026-09-24,2026-09-24 00:55,mexc,MARSCOIN/USDT,0.13828,9.43,94.41,3.4,,1,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-09-24,2026-09-24 00:55,mexc,BTW/USDT,1.043,10.13,72.63,3.9,,,
+2026-09-24,2026-09-24 00:55,mexc,NIL/USDT,0.1257,31.4,5.67,13.8,Upgrade,2,CoinMarketCal: Nillion: Encrypted Covenants Go Live on Ethereum Mainnet - 28 Sep 2026
