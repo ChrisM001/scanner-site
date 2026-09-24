@@ -2663,23 +2663,25 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-23,2026-09-23 22:44,gate,SOXS/USDT,33.68,4.3,3.17,18.2,,,
 2026-09-23,2026-09-23 11:57,gate,NEAR/USDT,4.7029,6.37,2.87,53.2,ETF,0.0,CoinMarketCal: NEAR Protocol: Ondo Tokenized US Stocks and ETFs Go Live on near.com - 22 Sep 2026
 2026-09-23,2026-09-23 01:16,gate,UNI/USDT,10.688,4.54,2.41,99.1,,0.0,"Benzinga: Bitcoin Cash, Uniswap Surges as CME Announces New Futures Contracts: What's Going On?"
+2026-09-24,2026-09-24 19:50,gate,PEPE/USDT,4e-06,3.14,9322890.88,21.0,,2,Invezz: Pepe price jumps nearly 15% as short squeeze fuels rally
 2026-09-24,2026-09-24 11:13,gate,BOME/USDT,0.001075,4.86,2820.52,5.1,,57.0,Coinpedia: BOME Price Is Heating Up AgainHeres Why
-2026-09-24,2026-09-24 15:50,gate,NOM/USDT,0.002381,19.53,1950.67,4.0,,,
-2026-09-24,2026-09-24 15:50,gate,AKE/USDT,0.044983,3.83,670.58,26.3,,336,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-24,2026-09-24 15:50,gate,PENGU/USDT,0.010039,3.09,215.62,12.4,,0,"Benzinga: Scott Bessent Says Over 1 Million Private Jobs Added, Federal Workforce Shrinks to 1960s-Era Low: 'Private Sector Is Driving Americas Economic Resurgence'"
+2026-09-24,2026-09-24 19:50,gate,NOM/USDT,0.002242,12.55,2136.75,4.4,,,
+2026-09-24,2026-09-24 15:50,gate,AKE/USDT,0.044983,3.83,670.58,26.3,,336.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-24,2026-09-24 15:50,gate,PENGU/USDT,0.010039,3.09,215.62,12.4,,0.0,"Benzinga: Scott Bessent Says Over 1 Million Private Jobs Added, Federal Workforce Shrinks to 1960s-Era Low: 'Private Sector Is Driving Americas Economic Resurgence'"
 2026-09-24,2026-09-24 05:53,gate,BTW/USDT,1.078827,4.23,166.15,10.9,,,
+2026-09-24,2026-09-24 19:50,gate,BROCCOLI/USDT,0.03152,36.86,141.04,3.6,,,
 2026-09-24,2026-09-24 00:55,mexc,MARSCOIN/USDT,0.13828,9.43,94.41,3.4,,1.0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
 2026-09-24,2026-09-24 00:55,mexc,BTW/USDT,1.043,10.13,72.63,3.9,,,
-2026-09-24,2026-09-24 15:50,gate,H/USDT,0.06824,18.99,24.04,3.1,Listing,10,Binance News: Robinhood-Listed HUMANITY Market Cap Tops $1.4 Million
-2026-09-24,2026-09-24 15:50,gate,XLM/USDT,0.20874,3.35,15.31,5.8,,2,U.Today: Stellar (XLM) Rally Proves Stronger Than XRP's at Key 50-Week Barrier
+2026-09-24,2026-09-24 19:50,gate,H/USDT,0.0658,14.73,30.25,3.9,Listing,10,Binance News: Robinhood-Listed HUMANITY Market Cap Tops $1.4 Million
+2026-09-24,2026-09-24 19:50,gate,XLM/USDT,0.2127,5.31,17.67,6.7,,2,U.Today: Stellar (XLM) Rally Proves Stronger Than XRP's at Key 50-Week Barrier
+2026-09-24,2026-09-24 19:50,gate,DOGE/USDT,0.0962,3.83,15.45,100.5,,0,"Brave New Coin: Crypto News Today: XRP, Dogecoin Signal Long-Term MVRV Discounts as Bitcoin Holds $82.5K Neckline"
 2026-09-24,2026-09-24 05:53,gate,NIL/USDT,0.13607,7.9,15.3,14.2,Upgrade,2.0,CoinMarketCal: Nillion: Encrypted Covenants Go Live on Ethereum Mainnet - 28 Sep 2026
-2026-09-24,2026-09-24 15:50,gate,DOGE/USDT,0.0956,3.18,14.41,93.8,,0,"Brave New Coin: Crypto News Today: XRP, Dogecoin Signal Long-Term MVRV Discounts as Bitcoin Holds $82.5K Neckline"
 2026-09-24,2026-09-24 05:53,gate,VIRTUAL/USDT,0.7228,3.52,13.21,3.5,,1.0,CoinMarketCal: Virtuals Protocol: Astra agent controls a full humanoid robot for the first time - 23 Sep 2026
-2026-09-24,2026-09-24 15:50,gate,ADA/USDT,0.2492,4.62,11.93,38.3,,,
-2026-09-24,2026-09-24 15:50,gate,ENA/USDT,0.21787,5.8,10.74,19.8,,,
+2026-09-24,2026-09-24 19:50,gate,ENA/USDT,0.22038,7.02,12.02,22.2,,0,TradingView: Key facts: Ethena / U.S. dollar at $0.18$0.20; 1.33B locked till Oct 5
+2026-09-24,2026-09-24 19:50,gate,ADA/USDT,0.2475,3.9,11.7,37.6,Partner,0,Invezz: Cardano consolidates as x402 integration expands ADAs AI payment utility
+2026-09-24,2026-09-24 19:50,gate,ONDO/USDT,0.5119,24.16,6.5,57.6,,,
 2026-09-24,2026-09-24 00:55,mexc,NIL/USDT,0.1257,31.4,5.67,13.8,Upgrade,2.0,CoinMarketCal: Nillion: Encrypted Covenants Go Live on Ethereum Mainnet - 28 Sep 2026
-2026-09-24,2026-09-24 15:50,gate,ONDO/USDT,0.5125,24.3,4.69,41.6,,,
 2026-09-24,2026-09-24 15:50,gate,SOXS/USDT,35.23,4.35,4.41,27.4,,,
-2026-09-24,2026-09-24 15:50,gate,NEAR/USDT,4.5813,5.78,3.43,71.8,,,
+2026-09-24,2026-09-24 19:50,gate,NEAR/USDT,4.6978,8.47,3.23,67.5,,,
+2026-09-24,2026-09-24 19:50,gate,FET/USDT,0.2243,15.62,2.5,9.5,,,
 2026-09-24,2026-09-24 05:53,gate,WIF/USDT,0.2422,3.68,2.17,7.2,,41.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
-2026-09-24,2026-09-24 15:50,gate,FET/USDT,0.2255,16.24,2.1,8.0,,,
