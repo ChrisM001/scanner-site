@@ -2687,5 +2687,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-24,2026-09-24 23:02,gate,NEAR/USDT,4.593,6.05,3.27,68.5,,,
 2026-09-24,2026-09-24 23:02,gate,FET/USDT,0.2284,17.73,2.6,9.9,,,
 2026-09-24,2026-09-24 05:53,gate,WIF/USDT,0.2422,3.68,2.17,7.2,,41.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
-2026-09-25,2026-09-25 01:30,gate,龙虾/USDT,0.110115,6.06,94.2,11.2,,,
-2026-09-25,2026-09-25 01:30,gate,ONE/USDT,0.00167,9.8,10.39,6.3,Upgrade,17,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-09-25,2026-09-25 06:37,gate,AKE/USDT,0.037018,3.41,910.29,36.2,,337,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-25,2026-09-25 06:37,gate,龙虾/USDT,0.131178,26.34,94.21,11.2,,,
+2026-09-25,2026-09-25 06:37,gate,XPL/USDT,0.11772,6.19,42.97,8.3,Unlock,4,"Binance News: Token Unlocks Data Shows Large XPL, H, and SOSO Unlocks Scheduled for Next Week"
+2026-09-25,2026-09-25 06:37,gate,ONE/USDT,0.001868,22.81,12.13,7.4,Upgrade,17,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-09-25,2026-09-25 06:37,gate,ONDO/USDT,0.5401,3.53,7.7,83.3,,0,Crypto Briefing: ONDO Finance launches BlackRock-backed portfolios as ONDO rallies over 18%
+2026-09-25,2026-09-25 06:37,gate,BR/USDT,1.02901,5.48,6.47,4.1,,,
