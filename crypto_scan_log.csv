@@ -2672,14 +2672,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-24,2026-09-24 23:02,gate,BROCCOLI/USDT,0.02954,28.27,154.11,3.9,,,
 2026-09-24,2026-09-24 00:55,mexc,MARSCOIN/USDT,0.13828,9.43,94.41,3.4,,1.0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
 2026-09-24,2026-09-24 00:55,mexc,BTW/USDT,1.043,10.13,72.63,3.9,,,
-2026-09-24,2026-09-24 23:02,gate,H/USDT,0.06704,16.9,30.47,3.9,Listing,10,Binance News: Robinhood-Listed HUMANITY Market Cap Tops $1.4 Million
-2026-09-24,2026-09-24 23:02,gate,XPL/USDT,0.11019,22.42,26.02,4.7,Unlock,4,"Binance News: Token Unlocks Data Shows Large XPL, H, and SOSO Unlocks Scheduled for Next Week"
-2026-09-24,2026-09-24 23:02,gate,XLM/USDT,0.21442,6.16,18.65,7.1,,2,U.Today: Stellar (XLM) Rally Proves Stronger Than XRP's at Key 50-Week Barrier
-2026-09-24,2026-09-24 23:02,gate,DOGE/USDT,0.09564,3.23,15.39,100.2,,0,"Brave New Coin: Crypto News Today: XRP, Dogecoin Signal Long-Term MVRV Discounts as Bitcoin Holds $82.5K Neckline"
+2026-09-24,2026-09-24 23:02,gate,H/USDT,0.06704,16.9,30.47,3.9,Listing,10.0,Binance News: Robinhood-Listed HUMANITY Market Cap Tops $1.4 Million
+2026-09-24,2026-09-24 23:02,gate,XPL/USDT,0.11019,22.42,26.02,4.7,Unlock,4.0,"Binance News: Token Unlocks Data Shows Large XPL, H, and SOSO Unlocks Scheduled for Next Week"
+2026-09-24,2026-09-24 23:02,gate,XLM/USDT,0.21442,6.16,18.65,7.1,,2.0,U.Today: Stellar (XLM) Rally Proves Stronger Than XRP's at Key 50-Week Barrier
+2026-09-24,2026-09-24 23:02,gate,DOGE/USDT,0.09564,3.23,15.39,100.2,,0.0,"Brave New Coin: Crypto News Today: XRP, Dogecoin Signal Long-Term MVRV Discounts as Bitcoin Holds $82.5K Neckline"
 2026-09-24,2026-09-24 05:53,gate,NIL/USDT,0.13607,7.9,15.3,14.2,Upgrade,2.0,CoinMarketCal: Nillion: Encrypted Covenants Go Live on Ethereum Mainnet - 28 Sep 2026
 2026-09-24,2026-09-24 05:53,gate,VIRTUAL/USDT,0.7228,3.52,13.21,3.5,,1.0,CoinMarketCal: Virtuals Protocol: Astra agent controls a full humanoid robot for the first time - 23 Sep 2026
-2026-09-24,2026-09-24 23:02,gate,ENA/USDT,0.22486,9.2,12.42,22.9,,0,TradingView: Key facts: Ethena / U.S. dollar at $0.18$0.20; 1.33B locked till Oct 5
-2026-09-24,2026-09-24 23:02,gate,ADA/USDT,0.2479,4.07,11.72,37.6,Partner,0,Invezz: Cardano consolidates as x402 integration expands ADAs AI payment utility
+2026-09-24,2026-09-24 23:02,gate,ENA/USDT,0.22486,9.2,12.42,22.9,,0.0,TradingView: Key facts: Ethena / U.S. dollar at $0.18$0.20; 1.33B locked till Oct 5
+2026-09-24,2026-09-24 23:02,gate,ADA/USDT,0.2479,4.07,11.72,37.6,Partner,0.0,Invezz: Cardano consolidates as x402 integration expands ADAs AI payment utility
 2026-09-24,2026-09-24 23:02,gate,SAGA/USDT,0.06934,44.7,8.8,14.1,,,
 2026-09-24,2026-09-24 23:02,gate,ONDO/USDT,0.5184,25.73,7.13,63.2,,,
 2026-09-24,2026-09-24 00:55,mexc,NIL/USDT,0.1257,31.4,5.67,13.8,Upgrade,2.0,CoinMarketCal: Nillion: Encrypted Covenants Go Live on Ethereum Mainnet - 28 Sep 2026
@@ -2687,3 +2687,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-24,2026-09-24 23:02,gate,NEAR/USDT,4.593,6.05,3.27,68.5,,,
 2026-09-24,2026-09-24 23:02,gate,FET/USDT,0.2284,17.73,2.6,9.9,,,
 2026-09-24,2026-09-24 05:53,gate,WIF/USDT,0.2422,3.68,2.17,7.2,,41.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
+2026-09-25,2026-09-25 01:30,gate,龙虾/USDT,0.110115,6.06,94.2,11.2,,,
+2026-09-25,2026-09-25 01:30,gate,ONE/USDT,0.00167,9.8,10.39,6.3,Upgrade,17,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
