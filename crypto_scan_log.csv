@@ -2687,9 +2687,22 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-24,2026-09-24 23:02,gate,NEAR/USDT,4.593,6.05,3.27,68.5,,,
 2026-09-24,2026-09-24 23:02,gate,FET/USDT,0.2284,17.73,2.6,9.9,,,
 2026-09-24,2026-09-24 05:53,gate,WIF/USDT,0.2422,3.68,2.17,7.2,,41.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
-2026-09-25,2026-09-25 06:37,gate,AKE/USDT,0.037018,3.41,910.29,36.2,,337,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-25,2026-09-25 06:37,gate,龙虾/USDT,0.131178,26.34,94.21,11.2,,,
-2026-09-25,2026-09-25 06:37,gate,XPL/USDT,0.11772,6.19,42.97,8.3,Unlock,4,"Binance News: Token Unlocks Data Shows Large XPL, H, and SOSO Unlocks Scheduled for Next Week"
-2026-09-25,2026-09-25 06:37,gate,ONE/USDT,0.001868,22.81,12.13,7.4,Upgrade,17,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
-2026-09-25,2026-09-25 06:37,gate,ONDO/USDT,0.5401,3.53,7.7,83.3,,0,Crypto Briefing: ONDO Finance launches BlackRock-backed portfolios as ONDO rallies over 18%
+2026-09-25,2026-09-25 06:37,gate,AKE/USDT,0.037018,3.41,910.29,36.2,,337.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-25,2026-09-25 12:16,gate,PUMP/USDT,0.00416,8.08,650.35,5.9,,6,CoinMarketCal: Pump.fun: iOS App Returns to the App Store in the US and India - 18 Sep 2026
+2026-09-25,2026-09-25 12:16,gate,BTW/USDT,1.150631,20.35,262.05,17.6,,,
+2026-09-25,2026-09-25 12:16,gate,BROCCOLI/USDT,0.03067,5.8,120.23,4.5,,,
+2026-09-25,2026-09-25 12:16,gate,龙虾/USDT,0.110017,5.96,81.24,9.7,,,
+2026-09-25,2026-09-25 06:37,gate,XPL/USDT,0.11772,6.19,42.97,8.3,Unlock,4.0,"Binance News: Token Unlocks Data Shows Large XPL, H, and SOSO Unlocks Scheduled for Next Week"
+2026-09-25,2026-09-25 12:16,gate,TAKE/USDT,0.0589,5.03,34.87,3.9,,269,CoinMarketCal: OVERTAKE - New Game Titles - 30 December 2025
+2026-09-25,2026-09-25 12:16,gate,VIRTUAL/USDT,0.7857,5.52,16.79,4.3,,2,CoinMarketCal: Virtuals Protocol: Astra agent controls a full humanoid robot for the first time - 23 Sep 2026
+2026-09-25,2026-09-25 12:16,gate,XRP/USDT,1.5946,3.96,14.09,143.2,,,
+2026-09-25,2026-09-25 12:16,gate,ENA/USDT,0.2389,6.4,13.48,25.2,,,
+2026-09-25,2026-09-25 12:16,gate,ONE/USDT,0.001773,16.57,10.84,6.6,,,
+2026-09-25,2026-09-25 12:16,gate,ONDO/USDT,0.5411,3.72,9.36,101.2,,,
+2026-09-25,2026-09-25 12:16,gate,NIL/USDT,0.136,22.19,6.57,9.9,,,
 2026-09-25,2026-09-25 06:37,gate,BR/USDT,1.02901,5.48,6.47,4.1,,,
+2026-09-25,2026-09-25 12:16,gate,FET/USDT,0.2381,4.2,3.24,13.1,,,
+2026-09-25,2026-09-25 12:16,gate,USELESS/USDT,0.29391,4.03,3.17,3.9,,,
+2026-09-25,2026-09-25 12:16,gate,NEAR/USDT,4.9908,8.78,2.83,65.2,,,
+2026-09-25,2026-09-25 12:16,gate,LINK/USDT,14.036,6.21,2.11,21.1,,,
+2026-09-25,2026-09-25 12:16,gate,PONS/USDT,0.6428,4.42,2.0,3.7,,,
