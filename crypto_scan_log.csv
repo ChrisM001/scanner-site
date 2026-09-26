@@ -2687,17 +2687,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-24,2026-09-24 23:02,gate,NEAR/USDT,4.593,6.05,3.27,68.5,,,
 2026-09-24,2026-09-24 23:02,gate,FET/USDT,0.2284,17.73,2.6,9.9,,,
 2026-09-24,2026-09-24 05:53,gate,WIF/USDT,0.2422,3.68,2.17,7.2,,41.0,Brave New Coin: From BONK to ANSEM: How Solana Reinvented the Meme Coin
-2026-09-25,2026-09-25 23:34,gate,PUMP/USDT,0.004205,9.25,965.58,8.8,,7,CoinMarketCal: Pump.fun: iOS App Returns to the App Store in the US and India - 18 Sep 2026
+2026-09-25,2026-09-25 23:34,gate,PUMP/USDT,0.004205,9.25,965.58,8.8,,7.0,CoinMarketCal: Pump.fun: iOS App Returns to the App Store in the US and India - 18 Sep 2026
 2026-09-25,2026-09-25 06:37,gate,AKE/USDT,0.037018,3.41,910.29,36.2,,337.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-25,2026-09-25 23:34,gate,LYN/USDT,0.04631,17.54,817.65,5.1,,,
 2026-09-25,2026-09-25 23:34,gate,BREW/USDT,0.014453,154.77,324.68,5.0,,,
 2026-09-25,2026-09-25 23:34,gate,BTW/USDT,1.324041,38.49,278.03,18.7,,,
-2026-09-25,2026-09-25 23:34,gate,PENGU/USDT,0.010249,5.46,205.92,11.8,,1,"Benzinga: Forget PEPE: PENGU Could Outrun DOGE, SHIB With a 1,200% Rally"
+2026-09-25,2026-09-25 23:34,gate,PENGU/USDT,0.010249,5.46,205.92,11.8,,1.0,"Benzinga: Forget PEPE: PENGU Could Outrun DOGE, SHIB With a 1,200% Rally"
 2026-09-25,2026-09-25 12:16,gate,BROCCOLI/USDT,0.03067,5.8,120.23,4.5,,,
-2026-09-25,2026-09-25 23:34,gate,XPL/USDT,0.11509,3.82,76.48,14.8,Whale,0,Binance News: Whale Builds XPL Long Position Before V-Shaped Rebound
+2026-09-25,2026-09-25 23:34,gate,XPL/USDT,0.11509,3.82,76.48,14.8,Whale,0.0,Binance News: Whale Builds XPL Long Position Before V-Shaped Rebound
 2026-09-25,2026-09-25 23:34,gate,龙虾/USDT,0.130258,25.46,61.94,7.4,,,
 2026-09-25,2026-09-25 12:16,gate,TAKE/USDT,0.0589,5.03,34.87,3.9,,269.0,CoinMarketCal: OVERTAKE - New Game Titles - 30 December 2025
-2026-09-25,2026-09-25 23:34,gate,PHA/USDT,0.08494,66.75,29.39,8.8,,114,Coindar: PHALA Added New AI Models
+2026-09-25,2026-09-25 23:34,gate,PHA/USDT,0.08494,66.75,29.39,8.8,,114.0,Coindar: PHALA Added New AI Models
 2026-09-25,2026-09-25 23:34,gate,VIRTUAL/USDT,0.7935,6.57,21.78,5.6,,,
 2026-09-25,2026-09-25 23:34,gate,MUBARAK/USDT,0.05548,24.48,19.99,7.8,,,
 2026-09-25,2026-09-25 23:34,gate,ENA/USDT,0.26703,18.93,19.56,36.5,,,
@@ -2715,3 +2715,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-25,2026-09-25 23:34,gate,LINK/USDT,13.896,5.15,2.01,20.1,,,
 2026-09-25,2026-09-25 23:34,gate,SUI/USDT,1.1956,17.98,2.01,55.5,,,
 2026-09-25,2026-09-25 23:34,gate,PONS/USDT,0.6593,7.1,2.0,3.7,,,
+2026-09-26,2026-09-26 02:01,mexc,PHA/USDT,0.08587,16.41,133.29,27.1,,114,Coindar: PHALA Added New AI Models
+2026-09-26,2026-09-26 02:01,mexc,PONS/USDT,0.6525,3.45,97.48,8.0,,,
+2026-09-26,2026-09-26 02:01,mexc,PUMPFUN/USDT,0.004245,3.71,67.96,18.0,,,
+2026-09-26,2026-09-26 02:01,mexc,SEI/USDT,0.07554,12.83,37.3,40.5,Upgrade,56,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
+2026-09-26,2026-09-26 02:01,mexc,AERO/USDT,0.8596,7.96,19.21,3.2,,0,CoinMarketCal: Aerodrome Finance: Aero launches across seven chains in multi-chain rollout - 21 Oct 2026
+2026-09-26,2026-09-26 02:01,mexc,ENA/USDT,0.26495,5.15,13.47,70.4,,0,CoinMarketCal: Ethena: USDe basis trade extends into equity perpetuals with bStocks collateral - 25 Sep 2026
+2026-09-26,2026-09-26 02:01,mexc,PENGU/USDT,0.010245,5.02,12.41,11.7,,1,"Benzinga: Forget PEPE: PENGU Could Outrun DOGE, SHIB With a 1,200% Rally"
+2026-09-26,2026-09-26 02:01,mexc,JUP/USDT,0.3371,4.01,10.73,4.9,,32,99Bitcoins: Crypto Card Purchases Set New $1 Billion Monthly Record
+2026-09-26,2026-09-26 02:01,mexc,FARTCOIN/USDT,0.194,3.31,10.08,14.0,,,
+2026-09-26,2026-09-26 02:01,mexc,POL/USDT,0.11747,4.15,9.38,3.7,,,
+2026-09-26,2026-09-26 02:01,mexc,BR/USDT,0.92971,16.76,8.63,9.5,,,
+2026-09-26,2026-09-26 02:01,mexc,WIF/USDT,0.249,3.1,7.04,3.7,,,
+2026-09-26,2026-09-26 02:01,mexc,LDO/USDT,0.4856,5.84,2.48,11.2,,,
+2026-09-26,2026-09-26 02:01,mexc,SUI/USDT,1.1757,6.75,2.19,279.4,,,
