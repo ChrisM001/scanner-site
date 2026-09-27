@@ -2747,13 +2747,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-26,2026-09-26 02:01,mexc,LDO/USDT,0.4856,5.84,2.48,11.2,,,
 2026-09-26,2026-09-26 02:01,mexc,SUI/USDT,1.1757,6.75,2.19,279.4,,,
 2026-09-27,2026-09-27 11:31,gate,Q/USDT,0.047257,39.43,2127.78,17.5,,,
-2026-09-27,2026-09-27 15:48,gate,PUMP/USDT,0.004834,10.09,1110.04,9.9,,0,"U.Today: Pump.Fun Reports Enormous Selling Volume of $5.8 Million in 24 Hours, Totaling $848 Million"
-2026-09-27,2026-09-27 15:48,gate,SOON/USDT,0.3441,49.67,905.77,16.0,,,
+2026-09-27,2026-09-27 19:34,gate,PUMP/USDT,0.004922,12.09,1635.89,14.6,,0,"U.Today: Pump.Fun Reports Enormous Selling Volume of $5.8 Million in 24 Hours, Totaling $848 Million"
+2026-09-27,2026-09-27 19:34,gate,SOON/USDT,0.328,42.67,1292.09,22.8,,,
 2026-09-27,2026-09-27 11:31,gate,US/USDT,0.033063,22.13,655.46,4.9,,,
 2026-09-27,2026-09-27 00:36,gate,RARE/USDT,0.02229,4.5,259.19,9.2,,1.0,Coindar: SuperRare to Release BLOOD of MY BLOOD
-2026-09-27,2026-09-27 15:48,gate,BTW/USDT,1.170257,16.94,121.55,9.8,,,
+2026-09-27,2026-09-27 19:34,gate,BTW/USDT,1.206865,20.6,117.9,9.5,,,
 2026-09-27,2026-09-27 11:31,gate,PENGU/USDT,0.010248,3.49,109.5,6.2,,2.0,"Benzinga: Forget PEPE: PENGU Could Outrun DOGE, SHIB With a 1,200% Rally"
-2026-09-27,2026-09-27 15:48,gate,TAIKO/USDT,0.103,12.08,60.02,5.3,Hack,87,"Cointelegraph: Taiko reopens bridge after $1.7M exploit, says users made whole"
+2026-09-27,2026-09-27 19:34,gate,TAIKO/USDT,0.1015,10.45,61.81,5.5,Hack,87,"Cointelegraph: Taiko reopens bridge after $1.7M exploit, says users made whole"
+2026-09-27,2026-09-27 19:34,gate,GRASS/USDT,0.6242,4.47,54.42,3.0,,,
 2026-09-27,2026-09-27 11:31,gate,牛来/USDT,0.11096,4.86,23.72,3.5,,,
-2026-09-27,2026-09-27 15:48,gate,WLD/USDT,0.5528,5.62,3.7,76.0,,24,"Chainwire: Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $380 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens"
-2026-09-27,2026-09-27 15:48,gate,NEAR/USDT,5.2261,3.79,2.04,54.5,ETF,0,"Stocktwits: NEAR Hits One-Year High, Outpaces Bitcoin After Bitwise Files Final Prospectus For Spot ETF"
+2026-09-27,2026-09-27 19:34,gate,VIRTUAL/USDT,0.8178,3.47,14.75,3.9,,4,CoinMarketCal: Virtuals Protocol: Astra agent controls a full humanoid robot for the first time - 23 Sep 2026
+2026-09-27,2026-09-27 19:34,gate,ENA/USDT,0.28743,6.59,7.91,15.3,,1,TradingView: Key facts: Ethena / U.S. dollar ends USDe-linked incentives; ENAUSD emissions cut ~85%
+2026-09-27,2026-09-27 19:34,gate,WLD/USDT,0.5608,7.15,3.56,73.1,,24,"Chainwire: Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $380 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens"
+2026-09-27,2026-09-27 19:34,gate,USELESS/USDT,0.29658,3.75,2.69,3.4,,,
+2026-09-27,2026-09-27 19:34,gate,NEAR/USDT,5.4347,7.93,2.33,62.4,,,
