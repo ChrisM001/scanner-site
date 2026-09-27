@@ -2715,11 +2715,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-25,2026-09-25 23:34,gate,LINK/USDT,13.896,5.15,2.01,20.1,,,
 2026-09-25,2026-09-25 23:34,gate,SUI/USDT,1.1956,17.98,2.01,55.5,,,
 2026-09-25,2026-09-25 23:34,gate,PONS/USDT,0.6593,7.1,2.0,3.7,,,
-2026-09-26,2026-09-26 22:05,gate,PAID/USDT,0.042629,212.05,7067.11,17.7,,615,CoinMarketCal: PAID - Vottun LCO on PAID - From 21 Jan to 22 Jan 2025
-2026-09-26,2026-09-26 22:05,gate,2Z/USDT,0.07082,20.65,5034.8,4.2,Unlock,134,CoinMarketCal: DoubleZero (2Z) - Token Unlock - 02 October 2026
+2026-09-26,2026-09-26 22:05,gate,PAID/USDT,0.042629,212.05,7067.11,17.7,,615.0,CoinMarketCal: PAID - Vottun LCO on PAID - From 21 Jan to 22 Jan 2025
+2026-09-26,2026-09-26 22:05,gate,2Z/USDT,0.07082,20.65,5034.8,4.2,Unlock,134.0,CoinMarketCal: DoubleZero (2Z) - Token Unlock - 02 October 2026
 2026-09-26,2026-09-26 22:05,gate,Q/USDT,0.03083,27.38,2596.17,10.2,,,
-2026-09-26,2026-09-26 22:05,gate,RARE/USDT,0.02179,38.35,1292.52,8.7,,1,Coindar: SuperRare to Release BLOOD of MY BLOOD
-2026-09-26,2026-09-26 22:05,gate,PUMP/USDT,0.004379,4.46,1229.03,11.0,,8,CoinMarketCal: Pump.fun: iOS App Returns to the App Store in the US and India - 18 Sep 2026
+2026-09-26,2026-09-26 22:05,gate,RARE/USDT,0.02179,38.35,1292.52,8.7,,1.0,Coindar: SuperRare to Release BLOOD of MY BLOOD
+2026-09-26,2026-09-26 22:05,gate,PUMP/USDT,0.004379,4.46,1229.03,11.0,,8.0,CoinMarketCal: Pump.fun: iOS App Returns to the App Store in the US and India - 18 Sep 2026
 2026-09-26,2026-09-26 22:05,gate,US/USDT,0.027429,29.81,511.35,3.4,,,
 2026-09-26,2026-09-26 19:24,gate,AKE/USDT,0.033852,3.29,396.9,15.9,,338.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-09-26,2026-09-26 02:01,mexc,PHA/USDT,0.08587,16.41,133.29,27.1,,114.0,Coindar: PHALA Added New AI Models
@@ -2728,7 +2728,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-26,2026-09-26 12:28,gate,XPL/USDT,0.11824,3.08,48.34,11.5,Whale,1.0,Binance News: Whale Builds XPL Long Position Before V-Shaped Rebound
 2026-09-26,2026-09-26 02:01,mexc,SEI/USDT,0.07554,12.83,37.3,40.5,Upgrade,56.0,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
 2026-09-26,2026-09-26 12:28,gate,ENA/USDT,0.27928,4.28,28.1,54.3,,0.0,TradingView: Key facts: Ethena / U.S. dollar ends USDe-linked incentives; ENAUSD emissions cut ~85%
-2026-09-26,2026-09-26 22:05,gate,MUBARAK/USDT,0.05807,3.46,25.61,10.7,,4,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-09-26,2026-09-26 22:05,gate,MUBARAK/USDT,0.05807,3.46,25.61,10.7,,4.0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
 2026-09-26,2026-09-26 22:05,gate,牛来/USDT,0.10786,3.19,20.7,3.1,,,
 2026-09-26,2026-09-26 02:01,mexc,AERO/USDT,0.8596,7.96,19.21,3.2,,0.0,CoinMarketCal: Aerodrome Finance: Aero launches across seven chains in multi-chain rollout - 21 Oct 2026
 2026-09-26,2026-09-26 02:01,mexc,ENA/USDT,0.26495,5.15,13.47,70.4,,0.0,CoinMarketCal: Ethena: USDe basis trade extends into equity perpetuals with bStocks collateral - 25 Sep 2026
@@ -2746,3 +2746,4 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-26,2026-09-26 22:05,gate,WLD/USDT,0.5329,7.63,2.76,53.3,,,
 2026-09-26,2026-09-26 02:01,mexc,LDO/USDT,0.4856,5.84,2.48,11.2,,,
 2026-09-26,2026-09-26 02:01,mexc,SUI/USDT,1.1757,6.75,2.19,279.4,,,
+2026-09-27,2026-09-27 00:36,gate,RARE/USDT,0.02229,4.5,259.19,9.2,,1.0,Coindar: SuperRare to Release BLOOD of MY BLOOD
