@@ -2746,8 +2746,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-26,2026-09-26 22:05,gate,WLD/USDT,0.5329,7.63,2.76,53.3,,,
 2026-09-26,2026-09-26 02:01,mexc,LDO/USDT,0.4856,5.84,2.48,11.2,,,
 2026-09-26,2026-09-26 02:01,mexc,SUI/USDT,1.1757,6.75,2.19,279.4,,,
-2026-09-27,2026-09-27 05:48,gate,Q/USDT,0.044286,30.67,1913.57,15.8,,,
-2026-09-27,2026-09-27 05:48,gate,US/USDT,0.030751,13.59,579.13,4.4,,,
-2026-09-27,2026-09-27 05:48,gate,SOON/USDT,0.2984,29.8,358.03,6.3,,,
+2026-09-27,2026-09-27 11:31,gate,Q/USDT,0.047257,39.43,2127.78,17.5,,,
+2026-09-27,2026-09-27 11:31,gate,US/USDT,0.033063,22.13,655.46,4.9,,,
+2026-09-27,2026-09-27 11:31,gate,SOON/USDT,0.2818,22.58,642.69,11.3,,,
 2026-09-27,2026-09-27 00:36,gate,RARE/USDT,0.02229,4.5,259.19,9.2,,1.0,Coindar: SuperRare to Release BLOOD of MY BLOOD
-2026-09-27,2026-09-27 05:48,gate,BTW/USDT,1.05741,5.66,156.64,12.6,,,
+2026-09-27,2026-09-27 11:31,gate,BTW/USDT,1.142619,14.18,158.09,12.7,,,
+2026-09-27,2026-09-27 11:31,gate,PENGU/USDT,0.010248,3.49,109.5,6.2,,2,"Benzinga: Forget PEPE: PENGU Could Outrun DOGE, SHIB With a 1,200% Rally"
+2026-09-27,2026-09-27 11:31,gate,TAIKO/USDT,0.1013,10.23,54.74,4.8,Hack,87,"Cointelegraph: Taiko reopens bridge after $1.7M exploit, says users made whole"
+2026-09-27,2026-09-27 11:31,gate,牛来/USDT,0.11096,4.86,23.72,3.5,,,
+2026-09-27,2026-09-27 11:31,gate,WLD/USDT,0.5827,11.33,3.12,64.1,,23,"Chainwire: Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $380 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens"
