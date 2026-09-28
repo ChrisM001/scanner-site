@@ -2764,4 +2764,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-27,2026-09-27 19:34,gate,USELESS/USDT,0.29658,3.75,2.69,3.4,,,
 2026-09-27,2026-09-27 22:34,gate,NEAR/USDT,5.4507,8.25,2.44,65.4,,,
 2026-09-28,2026-09-28 01:11,gate,US/USDT,0.028632,3.07,625.08,5.6,,,
-2026-09-28,2026-09-28 01:11,gate,PAID/USDT,0.031177,13.19,309.66,6.5,,616,CoinMarketCal: PAID - Vottun LCO on PAID - From 21 Jan to 22 Jan 2025
+2026-09-28,2026-09-28 06:56,gate,PAID/USDT,0.028801,4.56,238.11,5.0,,616,CoinMarketCal: PAID - Vottun LCO on PAID - From 21 Jan to 22 Jan 2025
+2026-09-28,2026-09-28 06:56,gate,BTW/USDT,1.346693,10.69,145.41,12.0,,,
+2026-09-28,2026-09-28 06:56,gate,牛来/USDT,0.11171,7.2,53.68,8.0,,,
+2026-09-28,2026-09-28 06:56,gate,MARSCOIN/USDT,0.14251,15.5,45.71,5.0,,5,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-09-28,2026-09-28 06:56,gate,CASHCAT/USDT,0.18164,4.38,16.9,3.5,,33,CryptoProwl: Crypto Rally Extends To Memecoins
+2026-09-28,2026-09-28 06:56,gate,ONE/USDT,0.002593,7.77,11.37,7.6,Upgrade,20,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
