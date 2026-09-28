@@ -2764,9 +2764,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-27,2026-09-27 19:34,gate,USELESS/USDT,0.29658,3.75,2.69,3.4,,,
 2026-09-27,2026-09-27 22:34,gate,NEAR/USDT,5.4507,8.25,2.44,65.4,,,
 2026-09-28,2026-09-28 01:11,gate,US/USDT,0.028632,3.07,625.08,5.6,,,
-2026-09-28,2026-09-28 06:56,gate,PAID/USDT,0.028801,4.56,238.11,5.0,,616,CoinMarketCal: PAID - Vottun LCO on PAID - From 21 Jan to 22 Jan 2025
-2026-09-28,2026-09-28 06:56,gate,BTW/USDT,1.346693,10.69,145.41,12.0,,,
-2026-09-28,2026-09-28 06:56,gate,牛来/USDT,0.11171,7.2,53.68,8.0,,,
-2026-09-28,2026-09-28 06:56,gate,MARSCOIN/USDT,0.14251,15.5,45.71,5.0,,5,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
-2026-09-28,2026-09-28 06:56,gate,CASHCAT/USDT,0.18164,4.38,16.9,3.5,,33,CryptoProwl: Crypto Rally Extends To Memecoins
-2026-09-28,2026-09-28 06:56,gate,ONE/USDT,0.002593,7.77,11.37,7.6,Upgrade,20,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-09-28,2026-09-28 15:04,gate,BTW/USDT,1.388874,14.16,256.66,21.2,,,
+2026-09-28,2026-09-28 06:56,gate,PAID/USDT,0.028801,4.56,238.11,5.0,,616.0,CoinMarketCal: PAID - Vottun LCO on PAID - From 21 Jan to 22 Jan 2025
+2026-09-28,2026-09-28 15:04,gate,HBAR/USDT,0.11884,24.1,134.81,16.4,,0,Coinpedia: HBAR Price Breaks Out After IBM Cloud Deal  Can Hederas Rally Reach $0.15?
+2026-09-28,2026-09-28 15:04,gate,MARSCOIN/USDT,0.14635,18.61,62.75,6.9,,6,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-09-28,2026-09-28 15:04,gate,牛来/USDT,0.11102,6.53,56.43,8.4,,,
+2026-09-28,2026-09-28 15:04,gate,CASHCAT/USDT,0.18181,4.48,27.09,5.7,,0,"CoinMarketCal: Cash Cat: CASHCAT spot trading opens on Upbit in KRW, BTC, and USDT markets - 28 Sep 2026"
+2026-09-28,2026-09-28 15:04,gate,MUBARAK/USDT,0.06056,13.62,15.77,7.2,,6,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-09-28,2026-09-28 06:56,gate,ONE/USDT,0.002593,7.77,11.37,7.6,Upgrade,20.0,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-09-28,2026-09-28 15:04,gate,SOXS/USDT,35.58,8.97,3.4,25.6,,,
