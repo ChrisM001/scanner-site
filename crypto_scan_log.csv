@@ -2765,15 +2765,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-27,2026-09-27 22:34,gate,NEAR/USDT,5.4507,8.25,2.44,65.4,,,
 2026-09-28,2026-09-28 21:14,gate,US/USDT,0.029597,6.55,430.33,3.9,,,
 2026-09-28,2026-09-28 15:04,gate,BTW/USDT,1.388874,14.16,256.66,21.2,,,
-2026-09-28,2026-09-28 21:14,gate,HBAR/USDT,0.12199,27.39,252.97,30.8,,0,Coinpedia: HBAR Price Breaks Out After IBM Cloud Deal  Can Hederas Rally Reach $0.15?
+2026-09-28,2026-09-28 21:14,gate,HBAR/USDT,0.12199,27.39,252.97,30.8,,0.0,Coinpedia: HBAR Price Breaks Out After IBM Cloud Deal  Can Hederas Rally Reach $0.15?
 2026-09-28,2026-09-28 06:56,gate,PAID/USDT,0.028801,4.56,238.11,5.0,,616.0,CoinMarketCal: PAID - Vottun LCO on PAID - From 21 Jan to 22 Jan 2025
 2026-09-28,2026-09-28 21:14,gate,SOON/USDT,0.345,4.99,198.19,21.3,,,
-2026-09-28,2026-09-28 21:14,gate,ALGO/USDT,0.13517,13.14,94.25,3.4,,18,Coinpedia: Why Algorand Is Back on Traders Radar as ALGO Presses Toward Resistance
-2026-09-28,2026-09-28 21:14,gate,MARSCOIN/USDT,0.1591,28.94,78.91,8.7,Listing,0,"U.Today: XRP Headlines Altcoins Ahead of Busy Macro Week, Binance's New Listing Live with SpaceX Campaign: Main Crypto News This Morning"
+2026-09-28,2026-09-28 21:14,gate,ALGO/USDT,0.13517,13.14,94.25,3.4,,18.0,Coinpedia: Why Algorand Is Back on Traders Radar as ALGO Presses Toward Resistance
+2026-09-28,2026-09-28 21:14,gate,MARSCOIN/USDT,0.1591,28.94,78.91,8.7,Listing,0.0,"U.Today: XRP Headlines Altcoins Ahead of Busy Macro Week, Binance's New Listing Live with SpaceX Campaign: Main Crypto News This Morning"
 2026-09-28,2026-09-28 21:14,gate,牛来/USDT,0.11593,11.25,69.24,10.3,,,
-2026-09-28,2026-09-28 21:14,gate,XLM/USDT,0.22772,5.59,45.92,19.9,,0,U.Today: Stellar (XLM) Breaks Historic Transaction Speed Record
-2026-09-28,2026-09-28 21:14,gate,CASHCAT/USDT,0.18124,4.15,28.25,5.9,,0,"CoinMarketCal: Cash Cat: CASHCAT spot trading opens on Upbit in KRW, BTC, and USDT markets - 28 Sep 2026"
+2026-09-28,2026-09-28 21:14,gate,XLM/USDT,0.22772,5.59,45.92,19.9,,0.0,U.Today: Stellar (XLM) Breaks Historic Transaction Speed Record
+2026-09-28,2026-09-28 21:14,gate,CASHCAT/USDT,0.18124,4.15,28.25,5.9,,0.0,"CoinMarketCal: Cash Cat: CASHCAT spot trading opens on Upbit in KRW, BTC, and USDT markets - 28 Sep 2026"
 2026-09-28,2026-09-28 21:14,gate,MUBARAK/USDT,0.0591,10.88,16.96,7.7,,,
 2026-09-28,2026-09-28 06:56,gate,ONE/USDT,0.002593,7.77,11.37,7.6,Upgrade,20.0,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
 2026-09-28,2026-09-28 21:14,gate,SOXS/USDT,34.55,5.82,4.53,34.1,,,
 2026-09-28,2026-09-28 21:14,gate,LINK/USDT,15.328,9.4,3.61,37.7,,,
+2026-09-29,2026-09-29 06:54,gate,BTW/USDT,1.188686,6.4,346.22,31.8,,,
+2026-09-29,2026-09-29 06:54,gate,GRASS/USDT,0.6954,16.42,52.96,3.9,,,
+2026-09-29,2026-09-29 06:54,gate,龙虾/USDT,0.084857,20.35,46.73,5.0,,,
+2026-09-29,2026-09-29 06:54,gate,MUBARAK/USDT,0.06298,6.93,17.06,8.2,,6,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
