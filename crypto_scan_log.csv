@@ -2777,7 +2777,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-28,2026-09-28 06:56,gate,ONE/USDT,0.002593,7.77,11.37,7.6,Upgrade,20.0,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
 2026-09-28,2026-09-28 21:14,gate,SOXS/USDT,34.55,5.82,4.53,34.1,,,
 2026-09-28,2026-09-28 21:14,gate,LINK/USDT,15.328,9.4,3.61,37.7,,,
-2026-09-29,2026-09-29 06:54,gate,BTW/USDT,1.188686,6.4,346.22,31.8,,,
-2026-09-29,2026-09-29 06:54,gate,GRASS/USDT,0.6954,16.42,52.96,3.9,,,
+2026-09-29,2026-09-29 13:47,gate,PEPE/USDT,4e-06,3.35,6215175.18,13.2,,6,Invezz: Pepe price jumps nearly 15% as short squeeze fuels rally
+2026-09-29,2026-09-29 13:47,gate,PUMP/USDT,0.005833,18.41,3290.41,33.5,,0,Binance News: Trader Holds 1.67 Billion PUMP Long With 10x Cross Leverage
+2026-09-29,2026-09-29 13:47,gate,BTW/USDT,1.307139,17.0,277.18,25.5,,,
+2026-09-29,2026-09-29 13:47,gate,Q/USDT,0.024822,11.39,202.83,3.1,,,
+2026-09-29,2026-09-29 13:47,gate,PENGU/USDT,0.009885,4.46,143.79,8.9,,0,Coinpedia: Pudgy Penguins Presents Likely Final Buying Chance Before 44% Breakout
+2026-09-29,2026-09-29 13:47,gate,SOON/USDT,0.3438,10.97,70.06,12.0,,,
+2026-09-29,2026-09-29 13:47,gate,GRASS/USDT,0.7058,18.17,48.23,3.6,,,
 2026-09-29,2026-09-29 06:54,gate,龙虾/USDT,0.084857,20.35,46.73,5.0,,,
-2026-09-29,2026-09-29 06:54,gate,MUBARAK/USDT,0.06298,6.93,17.06,8.2,,6,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-09-29,2026-09-29 06:54,gate,MUBARAK/USDT,0.06298,6.93,17.06,8.2,,6.0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-09-29,2026-09-29 13:47,gate,XRP/USDT,1.5466,3.38,12.24,130.8,,0,Coinpedia: Altcoins To Buy Now: XRP Faces 20% Drop Risk As AVAX And NEAR Show Strength
+2026-09-29,2026-09-29 13:47,gate,0G/USDT,0.3425,18.68,6.09,5.0,,,
+2026-09-29,2026-09-29 13:47,gate,AVAX/USDT,11.633,9.64,2.29,33.6,,,
