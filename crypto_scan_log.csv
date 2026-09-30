@@ -2790,10 +2790,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-29,2026-09-29 22:58,gate,MUBARAK/USDT,0.06204,5.33,7.51,3.6,,7.0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
 2026-09-29,2026-09-29 19:08,gate,USELESS/USDT,0.24722,4.08,3.66,4.6,,0.0,Binance News: Bonk Guy Says USELESS Pullback May Offer Buying Opportunity After 40% Drop
 2026-09-29,2026-09-29 22:58,gate,AVAX/USDT,11.425,7.68,2.71,39.9,,0.0,Seeking Alpha: Avalanche token hits 6-mth high as Goldman Treasury fund joins Lynq network
-2026-09-30,2026-09-30 08:06,gate,US/USDT,0.020325,19.95,798.5,9.4,,,
-2026-09-30,2026-09-30 08:06,gate,AKE/USDT,0.032894,8.28,135.57,5.3,,342,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-09-30,2026-09-30 08:06,gate,SOON/USDT,0.4381,6.08,93.18,21.3,,,
+2026-09-30,2026-09-30 14:56,gate,US/USDT,0.02665,57.27,828.22,9.8,,,
+2026-09-30,2026-09-30 14:56,gate,AKE/USDT,0.034206,12.6,356.94,14.0,,342,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-09-30,2026-09-30 14:56,gate,SOON/USDT,0.55,33.17,132.32,30.2,,,
 2026-09-30,2026-09-30 01:55,gate,MARSCOIN/USDT,0.14571,3.69,54.9,6.1,Listing,1.0,"U.Today: XRP Headlines Altcoins Ahead of Busy Macro Week, Binance's New Listing Live with SpaceX Campaign: Main Crypto News This Morning"
-2026-09-30,2026-09-30 08:06,gate,HBAR/USDT,0.10543,3.01,34.5,9.5,,0,"Bloomingbit: Kraken Says Hedera Deposits, Withdrawals Delayed as It Investigates Issue"
-2026-09-30,2026-09-30 08:06,gate,0G/USDT,0.3438,4.91,7.48,8.0,,34,CoinMarketCal: 0G: 0G/USDT spot trading begins on Binance.US - 27 Aug 2026
-2026-09-30,2026-09-30 08:06,gate,PONS/USDT,0.5421,7.67,3.99,6.6,,,
+2026-09-30,2026-09-30 14:56,gate,HBAR/USDT,0.10767,5.2,35.42,9.7,,0,"Bloomingbit: Kraken Says Hedera Deposits, Withdrawals Delayed as It Investigates Issue"
+2026-09-30,2026-09-30 14:56,gate,VIRTUAL/USDT,0.7945,3.01,23.08,7.5,,2,Bloomingbit: Stablecoins Seen at Core of AI-to-AI Commerce at EastPoint: Seoul 2026
+2026-09-30,2026-09-30 14:56,gate,ASTER/USDT,0.7741,6.74,14.14,4.2,,2,"Chainwire: Aster Launches Perpetual Grid Trading 2.0 with Up to 140,000 $ASTER Liquidity Mining Campaign"
+2026-09-30,2026-09-30 14:56,gate,ARK/USDT,0.329,31.02,11.69,8.4,Partner,231,Coindar: ARK to Be Integrated With Atomic Wallet
+2026-09-30,2026-09-30 14:56,gate,ENA/USDT,0.26381,6.23,9.06,17.5,,0,"Stocktwits: Standard Chartered Is More Bullish On Ethena Than Bitcoin, Ethereum: Sees 7-Fold Jump By 2028"
+2026-09-30,2026-09-30 08:06,gate,0G/USDT,0.3438,4.91,7.48,8.0,,34.0,CoinMarketCal: 0G: 0G/USDT spot trading begins on Binance.US - 27 Aug 2026
+2026-09-30,2026-09-30 14:56,gate,PONS/USDT,0.5347,6.2,4.34,7.2,,,
+2026-09-30,2026-09-30 14:56,gate,ZRO/USDT,1.721,3.36,2.26,3.3,,,
+2026-09-30,2026-09-30 14:56,gate,NEAR/USDT,5.2921,8.41,2.1,68.2,,,
