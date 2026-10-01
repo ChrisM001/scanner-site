@@ -2803,9 +2803,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-30,2026-09-30 23:31,gate,PONS/USDT,0.5296,5.18,3.11,5.1,,,
 2026-09-30,2026-09-30 23:31,gate,NEAR/USDT,5.375,10.11,2.14,69.5,,0.0,CoinMarketCal: NEAR Protocol: House of Stake vote on cutting max issuance to 1.6% - By 11 Oct 2026
 2026-09-30,2026-09-30 23:31,gate,ZRO/USDT,1.752,5.23,2.08,3.0,,,
-2026-10-01,2026-10-01 09:19,gate,AKE/USDT,0.033038,4.28,261.18,10.3,,343,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-10-01,2026-10-01 09:19,gate,BTW/USDT,1.40935,6.23,204.63,21.8,,,
-2026-10-01,2026-10-01 09:19,gate,NIGHT/USDT,0.04199,7.25,184.15,4.2,Upgrade,0,CoinMarketCal: Midnight: v9 upgrade brings contract composability to the network - Q4 2026
-2026-10-01,2026-10-01 09:19,gate,龙虾/USDT,0.048427,34.8,122.36,13.3,,,
-2026-10-01,2026-10-01 09:19,gate,ARK/USDT,0.2418,3.55,18.88,22.9,Partner,232,Coindar: ARK to Be Integrated With Atomic Wallet
-2026-10-01,2026-10-01 09:19,gate,XPL/USDT,0.09783,3.13,12.71,3.9,,2,"Bloomingbit: ""Stablecoins Are the Next Version of Money"" and Will Catch On First in Emerging Markets, Speakers Say at EastPoint: Seoul 2026"
+2026-10-01,2026-10-01 16:39,gate,US/USDT,0.0346,28.82,1051.98,17.2,,,
+2026-10-01,2026-10-01 09:19,gate,AKE/USDT,0.033038,4.28,261.18,10.3,,343.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-01,2026-10-01 16:39,gate,龙虾/USDT,0.096527,168.68,230.73,25.0,,,
+2026-10-01,2026-10-01 16:39,gate,CAP/USDT,0.08529,22.88,217.69,4.1,,,
+2026-10-01,2026-10-01 16:39,gate,BTW/USDT,1.439075,8.47,208.23,22.2,,,
+2026-10-01,2026-10-01 16:39,gate,NIGHT/USDT,0.04071,3.98,202.04,4.6,Upgrade,0,CoinMarketCal: Midnight: v9 upgrade brings contract composability to the network - Q4 2026
+2026-10-01,2026-10-01 09:19,gate,ARK/USDT,0.2418,3.55,18.88,22.9,Partner,232.0,Coindar: ARK to Be Integrated With Atomic Wallet
+2026-10-01,2026-10-01 09:19,gate,XPL/USDT,0.09783,3.13,12.71,3.9,,2.0,"Bloomingbit: ""Stablecoins Are the Next Version of Money"" and Will Catch On First in Emerging Markets, Speakers Say at EastPoint: Seoul 2026"
