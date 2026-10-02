@@ -2814,9 +2814,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-01,2026-10-01 09:19,gate,ARK/USDT,0.2418,3.55,18.88,22.9,Partner,232.0,Coindar: ARK to Be Integrated With Atomic Wallet
 2026-10-01,2026-10-01 09:19,gate,XPL/USDT,0.09783,3.13,12.71,3.9,,2.0,"Bloomingbit: ""Stablecoins Are the Next Version of Money"" and Will Catch On First in Emerging Markets, Speakers Say at EastPoint: Seoul 2026"
 2026-10-01,2026-10-01 21:23,gate,ZRO/USDT,1.793,3.28,2.01,3.1,Hack,5.0,NewsBTC: KelpDAO Sues LayerZero Over $292M rsETH Bridge Exploit
+2026-10-02,2026-10-02 07:01,gate,US/USDT,0.029522,6.23,1156.82,28.2,,,
+2026-10-02,2026-10-02 07:01,gate,CAP/USDT,0.07248,3.54,262.28,5.3,,,
+2026-10-02,2026-10-02 07:01,gate,BTW/USDT,1.468483,3.62,178.45,20.0,,,
 2026-10-02,2026-10-02 01:01,mexc,PUMPFUN/USDT,0.005803,5.29,108.83,33.1,,,
-2026-10-02,2026-10-02 01:01,mexc,MONAD/USDT,0.03384,3.1,51.8,10.9,,0,"Bloomingbit: StraitsX Plans XSGD, First Native Singapore Dollar Stablecoin on Monad"
+2026-10-02,2026-10-02 07:01,gate,PENGU/USDT,0.009913,4.96,80.76,5.3,Partner,1,CoinMarketCal: Pudgy Penguins: LINE FRIENDS Collaboration Launches in Seoul - 01 Oct 2026
+2026-10-02,2026-10-02 01:01,mexc,MONAD/USDT,0.03384,3.1,51.8,10.9,,0.0,"Bloomingbit: StraitsX Plans XSGD, First Native Singapore Dollar Stablecoin on Monad"
 2026-10-02,2026-10-02 01:01,mexc,BATON/USDT,0.00396,73.6,31.28,3.3,,,
-2026-10-02,2026-10-02 01:01,mexc,USELESS/USDT,0.24094,6.45,23.25,3.4,,2,Binance News: Bonk Guy Says USELESS Pullback May Offer Buying Opportunity After 40% Drop
-2026-10-02,2026-10-02 01:01,mexc,JUP/USDT,0.3293,3.88,14.68,8.5,Partner,4,Coindar: Injective to Be Integrated With Jupiter
+2026-10-02,2026-10-02 01:01,mexc,USELESS/USDT,0.24094,6.45,23.25,3.4,,2.0,Binance News: Bonk Guy Says USELESS Pullback May Offer Buying Opportunity After 40% Drop
+2026-10-02,2026-10-02 01:01,mexc,JUP/USDT,0.3293,3.88,14.68,8.5,Partner,4.0,Coindar: Injective to Be Integrated With Jupiter
 2026-10-02,2026-10-02 01:01,mexc,SI/USDT,0.03753,7.69,10.72,4.1,,,
+2026-10-02,2026-10-02 07:01,gate,ADA/USDT,0.2543,3.33,10.69,41.0,,1,"Binance News: Cardano Futures Demand Cools as Open Interest Falls 9%, Analyst Says"
+2026-10-02,2026-10-02 07:01,gate,USELESS/USDT,0.25075,6.43,2.79,3.5,,2,Binance News: Bonk Guy Says USELESS Pullback May Offer Buying Opportunity After 40% Drop
+2026-10-02,2026-10-02 07:01,gate,PONS/USDT,0.5355,4.79,2.52,3.9,,,
+2026-10-02,2026-10-02 07:01,gate,ZRO/USDT,1.909,5.82,2.3,3.7,Hack,5,NewsBTC: KelpDAO Sues LayerZero Over $292M rsETH Bridge Exploit
