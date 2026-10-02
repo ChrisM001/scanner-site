@@ -2803,7 +2803,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-09-30,2026-09-30 23:31,gate,PONS/USDT,0.5296,5.18,3.11,5.1,,,
 2026-09-30,2026-09-30 23:31,gate,NEAR/USDT,5.375,10.11,2.14,69.5,,0.0,CoinMarketCal: NEAR Protocol: House of Stake vote on cutting max issuance to 1.6% - By 11 Oct 2026
 2026-09-30,2026-09-30 23:31,gate,ZRO/USDT,1.752,5.23,2.08,3.0,,,
-2026-10-01,2026-10-01 21:23,gate,PEPE/USDT,4e-06,3.46,7865239.45,16.4,,9,Invezz: Pepe price jumps nearly 15% as short squeeze fuels rally
+2026-10-01,2026-10-01 21:23,gate,PEPE/USDT,4e-06,3.46,7865239.45,16.4,,9.0,Invezz: Pepe price jumps nearly 15% as short squeeze fuels rally
 2026-10-01,2026-10-01 16:39,gate,US/USDT,0.0346,28.82,1051.98,17.2,,,
 2026-10-01,2026-10-01 09:19,gate,AKE/USDT,0.033038,4.28,261.18,10.3,,343.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-01,2026-10-01 21:23,gate,CAP/USDT,0.08145,17.35,246.47,4.6,,,
@@ -2813,4 +2813,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-01,2026-10-01 21:23,gate,MON/USDT,0.03395,6.83,49.8,5.0,,,
 2026-10-01,2026-10-01 09:19,gate,ARK/USDT,0.2418,3.55,18.88,22.9,Partner,232.0,Coindar: ARK to Be Integrated With Atomic Wallet
 2026-10-01,2026-10-01 09:19,gate,XPL/USDT,0.09783,3.13,12.71,3.9,,2.0,"Bloomingbit: ""Stablecoins Are the Next Version of Money"" and Will Catch On First in Emerging Markets, Speakers Say at EastPoint: Seoul 2026"
-2026-10-01,2026-10-01 21:23,gate,ZRO/USDT,1.793,3.28,2.01,3.1,Hack,5,NewsBTC: KelpDAO Sues LayerZero Over $292M rsETH Bridge Exploit
+2026-10-01,2026-10-01 21:23,gate,ZRO/USDT,1.793,3.28,2.01,3.1,Hack,5.0,NewsBTC: KelpDAO Sues LayerZero Over $292M rsETH Bridge Exploit
+2026-10-02,2026-10-02 01:01,mexc,PUMPFUN/USDT,0.005803,5.29,108.83,33.1,,,
+2026-10-02,2026-10-02 01:01,mexc,MONAD/USDT,0.03384,3.1,51.8,10.9,,0,"Bloomingbit: StraitsX Plans XSGD, First Native Singapore Dollar Stablecoin on Monad"
+2026-10-02,2026-10-02 01:01,mexc,BATON/USDT,0.00396,73.6,31.28,3.3,,,
+2026-10-02,2026-10-02 01:01,mexc,USELESS/USDT,0.24094,6.45,23.25,3.4,,2,Binance News: Bonk Guy Says USELESS Pullback May Offer Buying Opportunity After 40% Drop
+2026-10-02,2026-10-02 01:01,mexc,JUP/USDT,0.3293,3.88,14.68,8.5,Partner,4,Coindar: Injective to Be Integrated With Jupiter
+2026-10-02,2026-10-02 01:01,mexc,SI/USDT,0.03753,7.69,10.72,4.1,,,
