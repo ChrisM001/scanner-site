@@ -2850,17 +2850,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-03,2026-10-03 22:27,gate,ZRO/USDT,2.031,16.52,2.77,4.8,Hack,7.0,NewsBTC: KelpDAO Sues LayerZero Over $292M rsETH Bridge Exploit
 2026-10-03,2026-10-03 22:27,gate,MANA/USDT,0.10455,4.37,2.77,4.3,,,
 2026-10-03,2026-10-03 12:44,gate,USELESS/USDT,0.23039,3.05,2.57,3.2,,3.0,Binance News: Bonk Guy Says USELESS Pullback May Offer Buying Opportunity After 40% Drop
-2026-10-04,2026-10-04 20:56,gate,BEAMX/USDT,0.002594,21.44,6360.53,4.2,,957,"NewsBTC: Altcoins Watchlist: Market Expert Spotlights ETH, BLUR, MATIC, And More For Explosive Gains"
-2026-10-04,2026-10-04 17:52,gate,PUMP/USDT,0.006619,5.67,1660.21,21.1,Whale,0.0,U.Today: Crypto Whales Scoop Up $3.6 Million in PUMP
-2026-10-04,2026-10-04 20:56,gate,AIN/USDT,0.0538,23.88,1008.35,16.3,,,
-2026-10-04,2026-10-04 20:56,gate,ATH/USDT,0.007666,5.23,648.28,3.1,,,
-2026-10-04,2026-10-04 20:56,gate,BTW/USDT,1.253523,20.93,349.47,40.9,,,
+2026-10-04,2026-10-04 23:52,gate,BEAMX/USDT,0.002537,18.77,6517.08,4.3,,957,"NewsBTC: Altcoins Watchlist: Market Expert Spotlights ETH, BLUR, MATIC, And More For Explosive Gains"
+2026-10-04,2026-10-04 23:52,gate,PUMP/USDT,0.006523,4.13,1572.02,20.0,Whale,0,U.Today: Crypto Whales Scoop Up $3.6 Million in PUMP
+2026-10-04,2026-10-04 23:52,gate,AIN/USDT,0.05798,33.5,821.13,13.3,,,
+2026-10-04,2026-10-04 23:52,gate,ATH/USDT,0.007766,6.6,635.18,3.1,,,
+2026-10-04,2026-10-04 23:52,gate,BTW/USDT,1.24512,20.12,287.45,33.6,,,
 2026-10-04,2026-10-04 01:54,gate,龙虾/USDT,0.052313,5.14,209.06,30.4,,,
 2026-10-04,2026-10-04 07:50,gate,牛来/USDT,0.08301,3.66,29.5,3.0,,,
-2026-10-04,2026-10-04 20:56,gate,MUBARAK/USDT,0.06642,4.07,19.87,9.3,,12,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
-2026-10-04,2026-10-04 20:56,gate,STRK/USDT,0.05667,4.48,16.94,16.9,Upgrade,16,Binance News: Starknet Launches Privacy Prediction Market Trading on Mainnet
-2026-10-04,2026-10-04 20:56,gate,VIRTUAL/USDT,0.8399,5.38,16.06,5.6,,6,Bloomingbit: Stablecoins Seen at Core of AI-to-AI Commerce at EastPoint: Seoul 2026
+2026-10-04,2026-10-04 20:56,gate,MUBARAK/USDT,0.06642,4.07,19.87,9.3,,12.0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-10-04,2026-10-04 23:52,gate,STRK/USDT,0.05846,7.78,18.63,18.6,Upgrade,16,Binance News: Starknet Launches Privacy Prediction Market Trading on Mainnet
+2026-10-04,2026-10-04 23:52,gate,VIRTUAL/USDT,0.8429,5.76,16.65,5.8,,6,Bloomingbit: Stablecoins Seen at Core of AI-to-AI Commerce at EastPoint: Seoul 2026
 2026-10-04,2026-10-04 13:44,gate,SAND/USDT,0.07949,6.31,12.55,54.7,,1.0,Coinpedia: Top 3 Altcoins To Buy For October
-2026-10-04,2026-10-04 20:56,gate,ADA/USDT,0.2516,3.24,6.59,25.4,,1,U.Today: Cardano (ADA) Completes First Daily Golden Cross of 2026 After 14-Month Wait
-2026-10-04,2026-10-04 20:56,gate,DOGE/USDT,0.09574,3.22,5.99,42.4,,,
-2026-10-04,2026-10-04 20:56,gate,FET/USDT,0.2563,13.36,2.45,12.9,,,
+2026-10-04,2026-10-04 23:52,gate,ADA/USDT,0.2597,6.57,10.43,40.1,,1,U.Today: Cardano (ADA) Completes First Daily Golden Cross of 2026 After 14-Month Wait
+2026-10-04,2026-10-04 23:52,gate,DOGE/USDT,0.09586,3.35,7.16,50.7,,,
+2026-10-04,2026-10-04 23:52,gate,FET/USDT,0.2528,11.81,2.7,14.2,,,
