@@ -2836,17 +2836,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-02,2026-10-02 13:52,gate,PONS/USDT,0.5274,3.21,2.75,4.2,,,
 2026-10-02,2026-10-02 13:52,gate,ZRO/USDT,1.915,6.15,2.61,4.2,,,
 2026-10-02,2026-10-02 13:52,gate,TIA/USDT,0.4777,11.43,2.29,4.2,,,
-2026-10-03,2026-10-03 22:27,gate,PUMP/USDT,0.006391,18.75,1503.28,18.4,,0,Coinpedia: Top 3 Altcoins To Buy For October
+2026-10-03,2026-10-03 22:27,gate,PUMP/USDT,0.006391,18.75,1503.28,18.4,,0.0,Coinpedia: Top 3 Altcoins To Buy For October
 2026-10-03,2026-10-03 22:27,gate,AIN/USDT,0.04851,100.12,854.89,10.4,,,
 2026-10-03,2026-10-03 16:46,gate,ATH/USDT,0.007033,5.7,791.18,3.0,,,
 2026-10-03,2026-10-03 22:27,gate,龙虾/USDT,0.045589,16.43,231.54,31.1,,,
-2026-10-03,2026-10-03 22:27,gate,AKE/USDT,0.034644,8.06,176.96,6.2,,346,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-03,2026-10-03 22:27,gate,AKE/USDT,0.034644,8.06,176.96,6.2,,346.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-03,2026-10-03 19:41,gate,BTW/USDT,1.531482,10.74,104.53,12.0,,,
 2026-10-03,2026-10-03 07:41,gate,NIGHT/USDT,0.05177,5.89,80.37,3.6,,0.0,Coinpedia: Charles Hoskinsons Midnight NIGHT Surges 159% After Biggest Crash
-2026-10-03,2026-10-03 22:27,gate,SAND/USDT,0.074,8.03,57.39,86.2,,0,Coinpedia: Top 3 Altcoins To Buy For October
-2026-10-03,2026-10-03 22:27,gate,PENGU/USDT,0.009211,3.19,44.54,3.0,Partner,2,CoinMarketCal: Pudgy Penguins: LINE FRIENDS Collaboration Launches in Seoul - 01 Oct 2026
+2026-10-03,2026-10-03 22:27,gate,SAND/USDT,0.074,8.03,57.39,86.2,,0.0,Coinpedia: Top 3 Altcoins To Buy For October
+2026-10-03,2026-10-03 22:27,gate,PENGU/USDT,0.009211,3.19,44.54,3.0,Partner,2.0,CoinMarketCal: Pudgy Penguins: LINE FRIENDS Collaboration Launches in Seoul - 01 Oct 2026
 2026-10-03,2026-10-03 16:46,gate,VIRTUAL/USDT,0.7958,4.75,12.6,4.4,,5.0,Bloomingbit: Stablecoins Seen at Core of AI-to-AI Commerce at EastPoint: Seoul 2026
-2026-10-03,2026-10-03 22:27,gate,STRK/USDT,0.05208,21.4,4.37,3.7,Upgrade,15,Binance News: Starknet Launches Privacy Prediction Market Trading on Mainnet
-2026-10-03,2026-10-03 22:27,gate,ZRO/USDT,2.031,16.52,2.77,4.8,Hack,7,NewsBTC: KelpDAO Sues LayerZero Over $292M rsETH Bridge Exploit
+2026-10-03,2026-10-03 22:27,gate,STRK/USDT,0.05208,21.4,4.37,3.7,Upgrade,15.0,Binance News: Starknet Launches Privacy Prediction Market Trading on Mainnet
+2026-10-03,2026-10-03 22:27,gate,ZRO/USDT,2.031,16.52,2.77,4.8,Hack,7.0,NewsBTC: KelpDAO Sues LayerZero Over $292M rsETH Bridge Exploit
 2026-10-03,2026-10-03 22:27,gate,MANA/USDT,0.10455,4.37,2.77,4.3,,,
 2026-10-03,2026-10-03 12:44,gate,USELESS/USDT,0.23039,3.05,2.57,3.2,,3.0,Binance News: Bonk Guy Says USELESS Pullback May Offer Buying Opportunity After 40% Drop
+2026-10-04,2026-10-04 01:54,gate,AIN/USDT,0.04933,13.59,846.1,13.7,,,
+2026-10-04,2026-10-04 01:54,gate,龙虾/USDT,0.052313,5.14,209.06,30.4,,,
