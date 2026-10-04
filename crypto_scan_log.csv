@@ -2850,11 +2850,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-03,2026-10-03 22:27,gate,ZRO/USDT,2.031,16.52,2.77,4.8,Hack,7.0,NewsBTC: KelpDAO Sues LayerZero Over $292M rsETH Bridge Exploit
 2026-10-03,2026-10-03 22:27,gate,MANA/USDT,0.10455,4.37,2.77,4.3,,,
 2026-10-03,2026-10-03 12:44,gate,USELESS/USDT,0.23039,3.05,2.57,3.2,,3.0,Binance News: Bonk Guy Says USELESS Pullback May Offer Buying Opportunity After 40% Drop
-2026-10-04,2026-10-04 13:44,gate,BEAMX/USDT,0.002687,25.8,4971.29,3.2,,957,"NewsBTC: Altcoins Watchlist: Market Expert Spotlights ETH, BLUR, MATIC, And More For Explosive Gains"
-2026-10-04,2026-10-04 13:44,gate,AIN/USDT,0.05554,27.88,1441.45,23.4,,,
-2026-10-04,2026-10-04 13:44,gate,ATH/USDT,0.00756,3.77,734.42,3.6,,,
-2026-10-04,2026-10-04 13:44,gate,BTW/USDT,1.186171,14.43,355.57,41.6,,,
+2026-10-04,2026-10-04 17:52,gate,BEAMX/USDT,0.002573,20.46,6154.2,4.0,,957,"NewsBTC: Altcoins Watchlist: Market Expert Spotlights ETH, BLUR, MATIC, And More For Explosive Gains"
+2026-10-04,2026-10-04 17:52,gate,PUMP/USDT,0.006619,5.67,1660.21,21.1,Whale,0,U.Today: Crypto Whales Scoop Up $3.6 Million in PUMP
+2026-10-04,2026-10-04 17:52,gate,AIN/USDT,0.05588,28.67,1142.01,18.5,,,
+2026-10-04,2026-10-04 17:52,gate,ATH/USDT,0.007805,7.14,687.99,3.3,,,
+2026-10-04,2026-10-04 17:52,gate,BTW/USDT,1.228264,18.49,365.15,42.7,,,
 2026-10-04,2026-10-04 01:54,gate,龙虾/USDT,0.052313,5.14,209.06,30.4,,,
 2026-10-04,2026-10-04 07:50,gate,牛来/USDT,0.08301,3.66,29.5,3.0,,,
-2026-10-04,2026-10-04 13:44,gate,SAND/USDT,0.07949,6.31,12.55,54.7,,1,Coinpedia: Top 3 Altcoins To Buy For October
-2026-10-04,2026-10-04 13:44,gate,MUBARAK/USDT,0.0712,11.56,11.22,5.2,,12,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-10-04,2026-10-04 17:52,gate,MUBARAK/USDT,0.07228,13.26,17.92,8.3,,12,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-10-04,2026-10-04 17:52,gate,VIRTUAL/USDT,0.8506,6.73,15.38,5.4,,6,Bloomingbit: Stablecoins Seen at Core of AI-to-AI Commerce at EastPoint: Seoul 2026
+2026-10-04,2026-10-04 13:44,gate,SAND/USDT,0.07949,6.31,12.55,54.7,,1.0,Coinpedia: Top 3 Altcoins To Buy For October
+2026-10-04,2026-10-04 17:52,gate,DOGE/USDT,0.09586,3.35,5.16,36.5,,0,"Binance News: DWF Labs' Andrei Grachev Says Trumps $5,000 Dividend Plan Could Send Funds Into Crypto"
