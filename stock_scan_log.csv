@@ -551,3 +551,7 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-10-01,2026-10-01 09:19,NASDAQ:CNTB,1.03,90.52,102.5,16.97,0.28,0.0,,Benzinga: Connect Biopharma Reports Significant Drop In Treatment Failure With New COPD Therapy,premarket
 2026-10-01,2026-10-01 09:19,NASDAQ:NCI,1.05,41.27,8.3,2.36,0.12,84.0,,"Reuters: Neo-Concept International Group Says CFO Patrick Kwok Fai Lau Resigns Effective July 8, 2026",premarket
 2026-10-01,2026-10-01 09:19,NASDAQ:WETO,1.05,23.64,1.5,0.91,0.32,7.0,,Benzinga: Wetour Robotics (WETO) Stock Rallies Over 59% After Hours: Here's Why It Is Trending,premarket
+2026-10-05,2026-10-05 11:44,NASDAQ:CYCU,3.6,10.78,335.9,3.14,0.15,0.0,DEAL,TradingView: Weekly Recap: Cycurion (CYCU) $54.6M 10-year HHS contract and 1-for-8 reverse split,premarket
+2026-10-05,2026-10-05 11:44,NASDAQ:AMOD,3.04,197.44,109.2,0.54,1.16,0.0,OFFERING,"TradingView: Weekly Recap: Private placement, 51.62M shares and Nasdaq compliance PIPE",premarket
+2026-10-05,2026-10-05 11:44,NASDAQ:SGRX,1.025,28.06,85.7,0.8,0.56,19.0,,Dow Jones Newswires: SANGRIX Unveils New Website and Logo Highlighting Its AI Infrastructure Transition,premarket
+2026-10-05,2026-10-05 11:44,AMEX:SDEV,11.36,38.25,4.1,1.83,16.94,5.0,,TradingView: Stablecoin Development reports no material developments amid unusual NYSE American trading,premarket
