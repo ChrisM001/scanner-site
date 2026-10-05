@@ -2864,9 +2864,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-04,2026-10-04 23:52,gate,ADA/USDT,0.2597,6.57,10.43,40.1,,1.0,U.Today: Cardano (ADA) Completes First Daily Golden Cross of 2026 After 14-Month Wait
 2026-10-04,2026-10-04 23:52,gate,DOGE/USDT,0.09586,3.35,7.16,50.7,,,
 2026-10-04,2026-10-04 23:52,gate,FET/USDT,0.2528,11.81,2.7,14.2,,,
+2026-10-05,2026-10-05 19:46,gate,BTW/USDT,1.286035,3.36,252.69,32.7,,,
+2026-10-05,2026-10-05 19:46,gate,RLC/USDT,0.698,91.97,234.61,19.2,,35,Coindar: iExec RLC to Participate in Common S3nse in Amsterdam on September 4th
 2026-10-05,2026-10-05 11:45,gate,PENGU/USDT,0.009899,3.38,73.67,4.9,,1.0,Bloomingbit: [Weekly Economic and Crypto Calendar] Fed's September FOMC Minutes in Focus
-2026-10-05,2026-10-05 11:45,gate,MUBARAK/USDT,0.07831,19.18,24.17,11.8,,12.0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
 2026-10-05,2026-10-05 11:45,gate,ADA/USDT,0.2716,4.62,23.09,89.5,,0.0,Stocktwits: Cardano Is Outpacing Bitcoin And XRP  Heres Whats Driving ADA Higher
+2026-10-05,2026-10-05 19:46,gate,MUBARAK/USDT,0.07459,13.51,20.56,10.1,,13,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
 2026-10-05,2026-10-05 11:45,gate,ENA/USDT,0.25904,7.38,6.97,13.2,,0.0,Binance News: Ethena-Related Wallet Withdraws 117.58 Million ENA From CEX in 24 Hours
 2026-10-05,2026-10-05 11:45,gate,FET/USDT,0.2616,3.36,4.03,22.9,,5.0,99Bitcoins: White House AI Pact Leaves Safety Oversight in Corporate Hands
-2026-10-05,2026-10-05 11:45,gate,NIL/USDT,0.09618,8.57,2.2,4.9,,0.0,"Bloomingbit: [Todays Key Economic and Crypto Events] U.S. September Services PMI, ISM Non-Manufacturing Index Due"
+2026-10-05,2026-10-05 19:46,gate,NIL/USDT,0.11095,25.24,3.25,7.3,,0,"Bloomingbit: [Todays Key Economic and Crypto Events] U.S. September Services PMI, ISM Non-Manufacturing Index Due"
