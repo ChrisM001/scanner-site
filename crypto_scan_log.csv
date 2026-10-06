@@ -2872,12 +2872,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-05,2026-10-05 11:45,gate,ENA/USDT,0.25904,7.38,6.97,13.2,,0.0,Binance News: Ethena-Related Wallet Withdraws 117.58 Million ENA From CEX in 24 Hours
 2026-10-05,2026-10-05 11:45,gate,FET/USDT,0.2616,3.36,4.03,22.9,,5.0,99Bitcoins: White House AI Pact Leaves Safety Oversight in Corporate Hands
 2026-10-05,2026-10-05 19:46,gate,NIL/USDT,0.11095,25.24,3.25,7.3,,0.0,"Bloomingbit: [Todays Key Economic and Crypto Events] U.S. September Services PMI, ISM Non-Manufacturing Index Due"
+2026-10-06,2026-10-06 14:25,gate,CAP/USDT,0.07732,4.57,331.5,6.8,,,
 2026-10-06,2026-10-06 01:00,mexc,NIGHT/USDT,0.05102,7.02,296.32,6.5,,1.0,CoinMarketCal: Midnight: Midnight City plans to enable AI agent trading - Q4 2026
+2026-10-06,2026-10-06 14:25,gate,US/USDT,0.01442,33.48,272.41,9.5,,,
 2026-10-06,2026-10-06 07:28,gate,AIN/USDT,0.05842,6.41,212.95,5.0,,,
-2026-10-06,2026-10-06 07:28,gate,US/USDT,0.0113,4.6,196.0,6.8,,,
-2026-10-06,2026-10-06 07:28,gate,RLC/USDT,0.924,27.54,54.63,66.6,,35,Coindar: iExec RLC to Participate in Common S3nse in Amsterdam on September 4th
+2026-10-06,2026-10-06 14:25,gate,RLC/USDT,0.8624,19.03,79.92,97.4,,35,Coindar: iExec RLC to Participate in Common S3nse in Amsterdam on September 4th
+2026-10-06,2026-10-06 14:25,gate,龙虾/USDT,0.053416,17.96,47.03,7.1,,,
+2026-10-06,2026-10-06 14:25,gate,API3/USDT,0.3395,7.68,21.33,3.6,,33,Coindar: Api3 to Submit Token Emissions Proposal on September 4th
 2026-10-06,2026-10-06 01:00,mexc,RLC/USDT,0.7125,30.01,19.73,17.6,,35.0,Coindar: iExec RLC to Participate in Common S3nse in Amsterdam on September 4th
+2026-10-06,2026-10-06 14:25,gate,BR/USDT,0.55888,26.78,15.72,11.5,,,
 2026-10-06,2026-10-06 01:00,mexc,BR/USDT,0.49416,27.43,11.45,14.3,,,
 2026-10-06,2026-10-06 01:00,mexc,JUP/USDT,0.3484,3.1,10.21,6.2,Partner,8.0,Coindar: Injective to Be Integrated With Jupiter
 2026-10-06,2026-10-06 01:00,mexc,SEI/USDT,0.07426,3.26,5.97,10.2,Upgrade,66.0,CoinMarketCal: Sei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026
 2026-10-06,2026-10-06 01:00,mexc,NIL/USDT,0.10752,5.28,4.88,20.0,,1.0,"Bloomingbit: [Todays Key Economic and Crypto Events] U.S. September Services PMI, ISM Non-Manufacturing Index Due"
+2026-10-06,2026-10-06 14:25,gate,PONS/USDT,0.4099,5.89,4.21,4.9,,,
+2026-10-06,2026-10-06 14:25,gate,ORCA/USDT,2.5551,6.2,2.03,4.6,,412,"CoinMarketCal: 1inch (1INCH), Bitget Wallet Token (BWB) and Others - DeFi X Spaces - 19 Aug 2025"
