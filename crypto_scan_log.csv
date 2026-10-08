@@ -2895,13 +2895,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-07,2026-10-07 21:47,gate,NG/USDT,3.306,5.22,7.57,6.7,,,
 2026-10-07,2026-10-07 21:47,gate,SAND/USDT,0.07803,17.21,4.68,32.1,,0.0,Coindar: The Sandbox to Hold Live Stream on Twitch on October 8th
 2026-10-07,2026-10-07 21:47,gate,SOXS/USDT,30.59,3.24,2.35,34.9,,,
-2026-10-08,2026-10-08 08:00,gate,COOL/USDT,0.001377,8.77,21495.18,11.6,,,
+2026-10-08,2026-10-08 15:34,gate,COOL/USDT,0.001312,3.63,13668.25,7.3,,,
+2026-10-08,2026-10-08 15:34,gate,OGN/USDT,0.0395,72.79,358.63,10.5,,33,Coindar: Origin Token to Host Community Call on September 9th
+2026-10-08,2026-10-08 15:34,gate,AKE/USDT,0.029686,8.21,341.59,10.1,,350,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-08,2026-10-08 01:35,gate,龙虾/USDT,0.044524,8.25,131.95,21.6,,,
-2026-10-08,2026-10-08 08:00,gate,US/USDT,0.014667,13.43,130.56,5.2,,,
-2026-10-08,2026-10-08 08:00,gate,BTW/USDT,1.373847,6.02,83.31,12.3,,,
-2026-10-08,2026-10-08 08:00,gate,MET/USDT,0.5161,16.16,22.83,17.5,Listing,350,CoinMarketCal: Meteora (MET) - KuCoin Listing - 23 Oct 2025
+2026-10-08,2026-10-08 15:34,gate,US/USDT,0.015395,19.06,115.85,4.6,,,
+2026-10-08,2026-10-08 15:34,gate,BTW/USDT,1.399263,7.98,85.15,12.5,,,
+2026-10-08,2026-10-08 08:00,gate,MET/USDT,0.5161,16.16,22.83,17.5,Listing,350.0,CoinMarketCal: Meteora (MET) - KuCoin Listing - 23 Oct 2025
 2026-10-08,2026-10-08 01:35,gate,BR/USDT,0.51377,3.71,11.87,9.7,,,
 2026-10-08,2026-10-08 08:00,gate,PONS/USDT,0.4037,3.59,9.67,8.9,,,
-2026-10-08,2026-10-08 08:00,gate,JTO/USDT,0.5798,6.25,3.0,3.1,,86,CoinMarketCal: Jito: launches token-centric network model - 13 Jul 2026
-2026-10-08,2026-10-08 08:00,gate,RLC/USDT,0.7647,12.52,2.56,11.5,,,
-2026-10-08,2026-10-08 08:00,gate,SOXS/USDT,31.81,4.6,2.31,36.4,,,
+2026-10-08,2026-10-08 15:34,gate,STRK/USDT,0.06077,24.02,4.01,7.6,Upgrade,0,Binance News: Starknet Considers Moving to Layer 1 to Speed Quantum-Safe Upgrade
+2026-10-08,2026-10-08 08:00,gate,JTO/USDT,0.5798,6.25,3.0,3.1,,86.0,CoinMarketCal: Jito: launches token-centric network model - 13 Jul 2026
+2026-10-08,2026-10-08 15:34,gate,RLC/USDT,0.7297,7.37,2.4,10.8,,,
+2026-10-08,2026-10-08 15:34,gate,SOXS/USDT,32.14,5.69,2.23,35.2,,,
