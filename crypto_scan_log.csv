@@ -2891,7 +2891,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-07,2026-10-07 09:18,gate,PUMP/USDT,0.006403,3.64,1093.34,14.5,,1.0,Beincrypto: How Far Can 12 Straight Wins Take a Trader Who Is Still Down $22.8 Million?
 2026-10-07,2026-10-07 02:37,gate,龙虾/USDT,0.072951,10.7,146.39,23.1,,,
 2026-10-07,2026-10-07 21:47,gate,BTW/USDT,1.280919,5.65,93.35,13.4,,,
-2026-10-07,2026-10-07 21:47,gate,MET/USDT,0.456,39.28,9.55,5.2,Listing,349,CoinMarketCal: Meteora (MET) - KuCoin Listing - 23 Oct 2025
+2026-10-07,2026-10-07 21:47,gate,MET/USDT,0.456,39.28,9.55,5.2,Listing,349.0,CoinMarketCal: Meteora (MET) - KuCoin Listing - 23 Oct 2025
 2026-10-07,2026-10-07 21:47,gate,NG/USDT,3.306,5.22,7.57,6.7,,,
-2026-10-07,2026-10-07 21:47,gate,SAND/USDT,0.07803,17.21,4.68,32.1,,0,Coindar: The Sandbox to Hold Live Stream on Twitch on October 8th
+2026-10-07,2026-10-07 21:47,gate,SAND/USDT,0.07803,17.21,4.68,32.1,,0.0,Coindar: The Sandbox to Hold Live Stream on Twitch on October 8th
 2026-10-07,2026-10-07 21:47,gate,SOXS/USDT,30.59,3.24,2.35,34.9,,,
+2026-10-08,2026-10-08 01:35,gate,US/USDT,0.013741,6.27,139.26,5.5,,,
+2026-10-08,2026-10-08 01:35,gate,龙虾/USDT,0.044524,8.25,131.95,21.6,,,
+2026-10-08,2026-10-08 01:35,gate,BTW/USDT,1.353951,4.49,88.64,13.0,,,
+2026-10-08,2026-10-08 01:35,gate,BR/USDT,0.51377,3.71,11.87,9.7,,,
+2026-10-08,2026-10-08 01:35,gate,MET/USDT,0.462,3.98,9.54,7.3,Listing,350,CoinMarketCal: Meteora (MET) - KuCoin Listing - 23 Oct 2025
