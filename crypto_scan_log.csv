@@ -2910,5 +2910,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-08,2026-10-08 20:50,gate,SOXS/USDT,33.77,11.05,4.31,67.9,,,
 2026-10-08,2026-10-08 20:50,gate,TIA/USDT,0.5141,9.13,3.54,7.2,,,
 2026-10-08,2026-10-08 08:00,gate,JTO/USDT,0.5798,6.25,3.0,3.1,,86.0,CoinMarketCal: Jito: launches token-centric network model - 13 Jul 2026
-2026-10-09,2026-10-09 01:00,gate,STRK/USDT,0.05786,4.18,5.11,11.4,Upgrade,0.0,Binance News: Starknet Considers Moving to Layer 1 to Speed Quantum-Safe Upgrade
-2026-10-09,2026-10-09 01:00,gate,DOT/USDT,1.122,3.03,2.48,28.5,,0.0,Coindar: Polkadot Released DotUSD
+2026-10-09,2026-10-09 07:19,gate,PEPE/USDT,4e-06,3.09,13033622.83,27.2,,2,CryptoProwl: Most Memecoins Die Within a Year After Their Peak
+2026-10-09,2026-10-09 07:19,gate,BOME/USDT,0.001066,3.53,1916.35,3.3,,72,Coinpedia: BOME Price Is Heating Up AgainHeres Why
+2026-10-09,2026-10-09 07:19,gate,Q/USDT,0.029717,10.73,165.53,3.0,,,
+2026-10-09,2026-10-09 07:19,gate,US/USDT,0.023235,44.0,156.46,6.4,,,
+2026-10-09,2026-10-09 07:19,gate,BTW/USDT,1.492925,7.26,83.95,12.7,,,
+2026-10-09,2026-10-09 07:19,gate,ADA/USDT,0.2395,3.28,16.55,71.0,,0,Coinpedia: Cardano Founder Accuses Ethereum Co-Founder Of Bag-Holding Over AI Cryptography Warning
+2026-10-09,2026-10-09 07:19,gate,ENA/USDT,0.21604,4.6,10.73,20.0,,2,Bloomingbit: EtherFi to Launch Its Own Stablecoin Through Ethena White-Label Service
+2026-10-09,2026-10-09 07:19,gate,STRK/USDT,0.07009,26.2,8.15,18.2,Upgrade,0,Binance News: Starknet Considers Moving to Layer 1 to Speed Quantum-Safe Upgrade
+2026-10-09,2026-10-09 07:19,gate,USELESS/USDT,0.19547,3.84,7.75,4.5,,,
+2026-10-09,2026-10-09 07:19,gate,RLC/USDT,1.2884,46.21,5.97,31.2,,,
+2026-10-09,2026-10-09 07:19,gate,DOT/USDT,1.173,7.71,2.39,27.5,,,
