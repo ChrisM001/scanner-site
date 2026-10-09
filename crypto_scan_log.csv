@@ -2896,7 +2896,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-07,2026-10-07 21:47,gate,SAND/USDT,0.07803,17.21,4.68,32.1,,0.0,Coindar: The Sandbox to Hold Live Stream on Twitch on October 8th
 2026-10-07,2026-10-07 21:47,gate,SOXS/USDT,30.59,3.24,2.35,34.9,,,
 2026-10-08,2026-10-08 20:50,gate,COOL/USDT,0.001399,10.51,8115.53,4.4,,,
-2026-10-08,2026-10-08 20:50,gate,OGN/USDT,0.04937,115.97,680.9,19.9,,33,Coindar: Origin Token to Host Community Call on September 9th
+2026-10-08,2026-10-08 20:50,gate,OGN/USDT,0.04937,115.97,680.9,19.9,,33.0,Coindar: Origin Token to Host Community Call on September 9th
 2026-10-08,2026-10-08 15:34,gate,AKE/USDT,0.029686,8.21,341.59,10.1,,350.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-08,2026-10-08 20:50,gate,US/USDT,0.016147,24.88,112.32,4.4,,,
 2026-10-08,2026-10-08 20:50,gate,BTW/USDT,1.396143,7.74,93.08,13.7,,,
@@ -2904,9 +2904,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-08,2026-10-08 08:00,gate,MET/USDT,0.5161,16.16,22.83,17.5,Listing,350.0,CoinMarketCal: Meteora (MET) - KuCoin Listing - 23 Oct 2025
 2026-10-08,2026-10-08 01:35,gate,BR/USDT,0.51377,3.71,11.87,9.7,,,
 2026-10-08,2026-10-08 08:00,gate,PONS/USDT,0.4037,3.59,9.67,8.9,,,
-2026-10-08,2026-10-08 20:50,gate,MUBARAK/USDT,0.07644,4.45,9.28,5.1,,16,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-10-08,2026-10-08 20:50,gate,MUBARAK/USDT,0.07644,4.45,9.28,5.1,,16.0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
 2026-10-08,2026-10-08 20:50,gate,STRK/USDT,0.05567,13.61,5.68,10.8,,,
 2026-10-08,2026-10-08 20:50,gate,RLC/USDT,0.8516,25.31,4.45,20.0,,,
 2026-10-08,2026-10-08 20:50,gate,SOXS/USDT,33.77,11.05,4.31,67.9,,,
 2026-10-08,2026-10-08 20:50,gate,TIA/USDT,0.5141,9.13,3.54,7.2,,,
 2026-10-08,2026-10-08 08:00,gate,JTO/USDT,0.5798,6.25,3.0,3.1,,86.0,CoinMarketCal: Jito: launches token-centric network model - 13 Jul 2026
+2026-10-09,2026-10-09 01:00,gate,STRK/USDT,0.05786,4.18,5.11,11.4,Upgrade,0.0,Binance News: Starknet Considers Moving to Layer 1 to Speed Quantum-Safe Upgrade
+2026-10-09,2026-10-09 01:00,gate,DOT/USDT,1.122,3.03,2.48,28.5,,0.0,Coindar: Polkadot Released DotUSD
