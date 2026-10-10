@@ -2910,16 +2910,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-08,2026-10-08 20:50,gate,SOXS/USDT,33.77,11.05,4.31,67.9,,,
 2026-10-08,2026-10-08 20:50,gate,TIA/USDT,0.5141,9.13,3.54,7.2,,,
 2026-10-08,2026-10-08 08:00,gate,JTO/USDT,0.5798,6.25,3.0,3.1,,86.0,CoinMarketCal: Jito: launches token-centric network model - 13 Jul 2026
-2026-10-09,2026-10-09 23:50,gate,PEPE/USDT,4e-06,3.53,4128167.66,8.6,,3,CryptoProwl: Most Memecoins Die Within a Year After Their Peak
+2026-10-09,2026-10-09 23:50,gate,PEPE/USDT,4e-06,3.53,4128167.66,8.6,,3.0,CryptoProwl: Most Memecoins Die Within a Year After Their Peak
 2026-10-09,2026-10-09 14:31,gate,JCT/USDT,0.002667,3.45,38875.08,4.0,,,
-2026-10-09,2026-10-09 23:50,gate,KAIA/USDT,0.05913,60.03,2802.35,17.4,,0,CoinMarketCal: Kaia: KAIA spot trading opens on Upbit - 09 Oct 2026
+2026-10-09,2026-10-09 23:50,gate,KAIA/USDT,0.05913,60.03,2802.35,17.4,,0.0,CoinMarketCal: Kaia: KAIA spot trading opens on Upbit - 09 Oct 2026
 2026-10-09,2026-10-09 07:19,gate,BOME/USDT,0.001066,3.53,1916.35,3.3,,72.0,Coinpedia: BOME Price Is Heating Up AgainHeres Why
 2026-10-09,2026-10-09 23:50,gate,US/USDT,0.032087,98.87,1107.92,45.2,,,
 2026-10-09,2026-10-09 23:50,gate,Q/USDT,0.028835,7.44,213.22,3.9,,,
-2026-10-09,2026-10-09 23:50,gate,AKE/USDT,0.027843,5.09,117.33,3.4,,352,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-09,2026-10-09 23:50,gate,AKE/USDT,0.027843,5.09,117.33,3.4,,352.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-09,2026-10-09 23:50,gate,BTW/USDT,1.572888,13.0,90.46,13.7,,,
-2026-10-09,2026-10-09 23:50,gate,PENGU/USDT,0.008222,3.66,52.69,3.6,,2,"Benzinga: PENGU, DOGE, SHIB Plunge 7% as Pudgy Penguins' Parent Exits Blockchain"
-2026-10-09,2026-10-09 23:50,gate,MAGIC/USDT,0.12344,85.4,47.16,19.7,,23,Coindar: Treasure Released Kong Book
+2026-10-09,2026-10-09 23:50,gate,PENGU/USDT,0.008222,3.66,52.69,3.6,,2.0,"Benzinga: PENGU, DOGE, SHIB Plunge 7% as Pudgy Penguins' Parent Exits Blockchain"
+2026-10-09,2026-10-09 23:50,gate,MAGIC/USDT,0.12344,85.4,47.16,19.7,,23.0,Coindar: Treasure Released Kong Book
 2026-10-09,2026-10-09 23:50,gate,RLC/USDT,1.0285,16.72,8.12,42.4,,,
 2026-10-09,2026-10-09 23:50,gate,STRK/USDT,0.07294,31.33,8.01,17.9,,,
 2026-10-09,2026-10-09 23:50,gate,ADA/USDT,0.243,4.79,6.46,27.7,,,
@@ -2929,3 +2929,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-09,2026-10-09 23:50,gate,NG/USDT,3.4,3.66,3.44,4.2,,,
 2026-10-09,2026-10-09 14:31,gate,DOT/USDT,1.173,7.71,2.32,26.6,,,
 2026-10-09,2026-10-09 14:31,gate,GRAM/USDT,1.5017,8.79,2.16,7.9,,,
+2026-10-10,2026-10-10 04:38,gate,MAGIC/USDT,0.15372,24.82,25.69,32.3,,23.0,Coindar: Treasure Released Kong Book
+2026-10-10,2026-10-10 04:38,gate,ADA/USDT,0.2503,3.05,10.17,43.3,,0.0,TradingView: Key facts: CRYPTO:ADAUSD Records 436 TPS Peak; .ada gTLD Awaits ICANN
