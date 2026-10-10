@@ -2929,5 +2929,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-09,2026-10-09 23:50,gate,NG/USDT,3.4,3.66,3.44,4.2,,,
 2026-10-09,2026-10-09 14:31,gate,DOT/USDT,1.173,7.71,2.32,26.6,,,
 2026-10-09,2026-10-09 14:31,gate,GRAM/USDT,1.5017,8.79,2.16,7.9,,,
+2026-10-10,2026-10-10 10:49,gate,JCT/USDT,0.003038,17.16,15518.73,3.7,,,
+2026-10-10,2026-10-10 10:49,gate,LUMIA/USDT,0.11202,37.04,178.13,5.3,,309,"ACCESS Newswire: Lumia, Agentic AI Security Platform, Secures $18M Seed Round, Appoints Former NSA Director to Head the Advisory Board"
+2026-10-10,2026-10-10 10:49,gate,ERA/USDT,0.0836,28.34,109.37,5.9,,101,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-10-10,2026-10-10 04:38,gate,MAGIC/USDT,0.15372,24.82,25.69,32.3,,23.0,Coindar: Treasure Released Kong Book
-2026-10-10,2026-10-10 04:38,gate,ADA/USDT,0.2503,3.05,10.17,43.3,,0.0,TradingView: Key facts: CRYPTO:ADAUSD Records 436 TPS Peak; .ada gTLD Awaits ICANN
+2026-10-10,2026-10-10 10:49,gate,ADA/USDT,0.2552,5.06,10.76,45.8,,0,TradingView: Key facts: CRYPTO:ADAUSD Records 436 TPS Peak; .ada gTLD Awaits ICANN
