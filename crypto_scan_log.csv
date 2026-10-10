@@ -2930,7 +2930,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-09,2026-10-09 14:31,gate,DOT/USDT,1.173,7.71,2.32,26.6,,,
 2026-10-09,2026-10-09 14:31,gate,GRAM/USDT,1.5017,8.79,2.16,7.9,,,
 2026-10-10,2026-10-10 10:49,gate,JCT/USDT,0.003038,17.16,15518.73,3.7,,,
-2026-10-10,2026-10-10 10:49,gate,LUMIA/USDT,0.11202,37.04,178.13,5.3,,309,"ACCESS Newswire: Lumia, Agentic AI Security Platform, Secures $18M Seed Round, Appoints Former NSA Director to Head the Advisory Board"
-2026-10-10,2026-10-10 10:49,gate,ERA/USDT,0.0836,28.34,109.37,5.9,,101,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-10-10,2026-10-10 16:07,gate,PUMP/USDT,0.005723,4.86,495.77,6.7,,0,Bloomingbit: Pump.fun Appears to Be Preparing Hyperliquid-Based Perpetual Futures Trading
+2026-10-10,2026-10-10 16:07,gate,CAP/USDT,0.08976,3.55,293.47,7.3,,,
+2026-10-10,2026-10-10 16:07,gate,LUMIA/USDT,0.11092,35.7,283.01,8.5,,310,"ACCESS Newswire: Lumia, Agentic AI Security Platform, Secures $18M Seed Round, Appoints Former NSA Director to Head the Advisory Board"
+2026-10-10,2026-10-10 16:07,gate,ERA/USDT,0.08026,23.21,178.88,9.6,,101,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-10-10,2026-10-10 16:07,gate,CFX/USDT,0.05955,17.55,145.83,13.2,,17,Coindar: Conflux to Participate in Han River Sunset: the Next On-Chain Economy in Seoul on September 29th
+2026-10-10,2026-10-10 16:07,gate,BTW/USDT,1.62274,3.08,86.71,13.5,,,
 2026-10-10,2026-10-10 04:38,gate,MAGIC/USDT,0.15372,24.82,25.69,32.3,,23.0,Coindar: Treasure Released Kong Book
-2026-10-10,2026-10-10 10:49,gate,ADA/USDT,0.2552,5.06,10.76,45.8,,0,TradingView: Key facts: CRYPTO:ADAUSD Records 436 TPS Peak; .ada gTLD Awaits ICANN
+2026-10-10,2026-10-10 16:07,gate,ADA/USDT,0.2544,4.73,9.69,41.3,,1,TradingView: Key facts: CRYPTO:ADAUSD Records 436 TPS Peak; .ada gTLD Awaits ICANN
+2026-10-10,2026-10-10 16:07,gate,STRK/USDT,0.09541,30.61,6.27,17.8,,1,Stocktwits: STRK Token Outperforms Bitcoin To Hit 9-Month High After Starknet Says It Is Actively Considering Layer-1 Shift
+2026-10-10,2026-10-10 16:07,gate,ENA/USDT,0.2221,3.26,2.73,5.0,,,
