@@ -2943,17 +2943,19 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-10,2026-10-10 20:04,gate,ADA/USDT,0.2531,4.2,9.85,42.0,,1.0,TradingView: Key facts: CRYPTO:ADAUSD Records 436 TPS Peak; .ada gTLD Awaits ICANN
 2026-10-10,2026-10-10 23:33,gate,TIA/USDT,0.6005,27.09,3.04,7.4,,8.0,NewsBTC: Celestia Says Fibre Sustained 3.07 Tb/s In 120-Validator Benchmark
 2026-10-10,2026-10-10 20:04,gate,ENA/USDT,0.22346,3.9,2.47,4.5,,4.0,Bloomingbit: EtherFi to Launch Its Own Stablecoin Through Ethena White-Label Service
-2026-10-11,2026-10-11 19:39,gate,PEPE/USDT,4e-06,3.13,5248741.23,10.7,,5.0,CryptoProwl: Most Memecoins Die Within a Year After Their Peak
+2026-10-11,2026-10-11 23:11,gate,PEPE/USDT,4e-06,4.34,5570661.36,11.3,,5,CryptoProwl: Most Memecoins Die Within a Year After Their Peak
 2026-10-11,2026-10-11 08:55,gate,JCT/USDT,0.00198,7.67,10568.46,3.6,,,
+2026-10-11,2026-10-11 23:11,gate,CKB/USDT,0.002018,39.75,7361.78,3.4,,54,CoinMarketCal: Nervos Network: Fiber Studio v1.1.0 enables atomic Lightning swaps - 18 Aug 2026
 2026-10-11,2026-10-11 15:22,gate,CHIP/USDT,0.0698,3.07,1040.19,7.4,,17.0,Binance News: USD.AI Financing to Support Deployment of 32 Nvidia GB200 NVL72 Systems in British Columbia
 2026-10-11,2026-10-11 19:39,gate,PUMP/USDT,0.005738,4.38,585.04,7.8,,1.0,Bloomingbit: Pump.fun Appears to Be Preparing Hyperliquid-Based Perpetual Futures Trading
 2026-10-11,2026-10-11 02:12,gate,US/USDT,0.021866,12.07,505.86,33.8,,,
 2026-10-11,2026-10-11 08:55,gate,ERA/USDT,0.08256,7.28,142.76,12.3,,102.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
-2026-10-11,2026-10-11 19:39,gate,CFX/USDT,0.06788,10.05,140.89,22.6,,18.0,Coindar: Conflux to Participate in Han River Sunset: the Next On-Chain Economy in Seoul on September 29th
 2026-10-11,2026-10-11 15:22,gate,BTW/USDT,1.66827,5.47,138.6,22.0,,,
-2026-10-11,2026-10-11 19:39,gate,LUMIA/USDT,0.13053,28.75,96.69,30.2,,311.0,"ACCESS Newswire: Lumia, Agentic AI Security Platform, Secures $18M Seed Round, Appoints Former NSA Director to Head the Advisory Board"
-2026-10-11,2026-10-11 19:39,gate,S/USDT,0.06634,40.52,37.54,6.6,,0.0,"Bloomingbit: [Weekly Economic and Crypto Calendar] US September PPI, Core PPI Among Key Events This Week"
-2026-10-11,2026-10-11 19:39,gate,STRK/USDT,0.11708,13.44,24.56,106.7,,0.0,Seeking Alpha: Starknet coin surges as developer weighs Ethereum split over quantum security
-2026-10-11,2026-10-11 19:39,gate,MAGIC/USDT,0.13598,39.5,15.59,46.4,,24.0,Coindar: Treasure Released Kong Book
-2026-10-11,2026-10-11 19:39,gate,ENA/USDT,0.23746,7.62,4.65,8.4,,5.0,Bloomingbit: EtherFi to Launch Its Own Stablecoin Through Ethena White-Label Service
+2026-10-11,2026-10-11 23:11,gate,CFX/USDT,0.06758,9.57,133.35,21.4,,18,Coindar: Conflux to Participate in Han River Sunset: the Next On-Chain Economy in Seoul on September 29th
+2026-10-11,2026-10-11 23:11,gate,LUMIA/USDT,0.12577,24.06,97.51,30.5,,311,"ACCESS Newswire: Lumia, Agentic AI Security Platform, Secures $18M Seed Round, Appoints Former NSA Director to Head the Advisory Board"
+2026-10-11,2026-10-11 23:11,gate,S/USDT,0.06116,29.55,50.53,8.9,,0,"Bloomingbit: [Weekly Economic and Crypto Calendar] US September PPI, Core PPI Among Key Events This Week"
+2026-10-11,2026-10-11 23:11,gate,STRK/USDT,0.1164,12.78,23.63,102.7,,0,Seeking Alpha: Starknet coin surges as developer weighs Ethereum split over quantum security
+2026-10-11,2026-10-11 23:11,gate,MAGIC/USDT,0.13531,38.81,16.06,47.8,,25,Coindar: Treasure Released Kong Book
+2026-10-11,2026-10-11 23:11,gate,W/USDT,0.021911,24.4,8.29,4.8,,24,Coindar: Harvest Finance to Release WBTC Autocompounder in September
+2026-10-11,2026-10-11 23:11,gate,ENA/USDT,0.23851,8.1,6.0,10.8,,,
 2026-10-11,2026-10-11 15:22,gate,RLC/USDT,1.0711,12.02,2.4,17.3,,40.0,Coindar: iExec RLC to Participate in Common S3nse in Amsterdam on September 4th
