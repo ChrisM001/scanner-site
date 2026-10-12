@@ -2959,7 +2959,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-11,2026-10-11 23:11,gate,W/USDT,0.021911,24.4,8.29,4.8,,24.0,Coindar: Harvest Finance to Release WBTC Autocompounder in September
 2026-10-11,2026-10-11 23:11,gate,ENA/USDT,0.23851,8.1,6.0,10.8,,,
 2026-10-11,2026-10-11 15:22,gate,RLC/USDT,1.0711,12.02,2.4,17.3,,40.0,Coindar: iExec RLC to Participate in Common S3nse in Amsterdam on September 4th
-2026-10-12,2026-10-12 09:35,gate,RSR/USDT,0.002305,38.86,13717.76,6.2,,0,CoinMarketCal: Reserve Rights: Upbit opens RSR spot trading in KRW and USDT markets - 12 Oct 2026
+2026-10-12,2026-10-12 19:20,gate,RSR/USDT,0.002258,36.02,38947.97,17.5,,0,CoinMarketCal: Reserve Rights: Upbit opens RSR spot trading in KRW and USDT markets - 12 Oct 2026
+2026-10-12,2026-10-12 19:20,gate,CAP/USDT,0.09661,4.47,258.92,7.2,,,
+2026-10-12,2026-10-12 19:20,gate,DOS/USDT,0.3169,16.55,100.42,3.4,,,
 2026-10-12,2026-10-12 09:35,gate,BTW/USDT,1.713986,5.7,86.91,14.4,,,
-2026-10-12,2026-10-12 09:35,gate,W/USDT,0.030184,37.08,41.58,31.1,,0,"Binance News: Wormhole Rises 61.39% in 24 Hours, Hits $0.02945 High"
-2026-10-12,2026-10-12 09:35,gate,MUBARAK/USDT,0.07613,5.59,22.39,12.9,,19,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-10-12,2026-10-12 09:35,gate,W/USDT,0.030184,37.08,41.58,31.1,,0.0,"Binance News: Wormhole Rises 61.39% in 24 Hours, Hits $0.02945 High"
+2026-10-12,2026-10-12 09:35,gate,MUBARAK/USDT,0.07613,5.59,22.39,12.9,,19.0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
+2026-10-12,2026-10-12 19:20,gate,SOXS/USDT,37.46,10.66,3.0,58.1,,,
