@@ -2988,8 +2988,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-13,2026-10-13 21:25,gate,TIA/USDT,0.5705,7.62,2.61,8.5,,11.0,NewsBTC: Celestia Says Fibre Sustained 3.07 Tb/s In 120-Validator Benchmark
 2026-10-13,2026-10-13 21:25,gate,NG/USDT,3.635,5.27,2.48,3.4,,,
 2026-10-13,2026-10-13 21:25,gate,MAGIC/USDT,0.12362,3.65,2.34,13.5,,,
-2026-10-14,2026-10-14 10:27,gate,TRUTH/USDT,0.023284,14.81,7923.84,11.7,,,
-2026-10-14,2026-10-14 10:27,gate,Q/USDT,0.046634,11.01,417.16,9.9,,,
-2026-10-14,2026-10-14 10:27,gate,BTW/USDT,2.521551,21.11,350.75,61.6,,,
-2026-10-14,2026-10-14 10:27,gate,WAL/USDT,0.05331,38.68,88.74,3.6,,2,Chainwire: DATA Network joins Sui and Walrus to scale the supply chain for AI training data
-2026-10-14,2026-10-14 10:27,gate,PONS/USDT,0.3336,10.46,8.98,5.8,,,
+2026-10-14,2026-10-14 19:36,gate,TRUTH/USDT,0.022307,9.99,9805.75,14.5,,,
+2026-10-14,2026-10-14 19:36,gate,BTW/USDT,2.245403,7.85,470.67,82.6,,,
+2026-10-14,2026-10-14 19:36,gate,Q/USDT,0.050839,21.02,405.07,9.7,,,
+2026-10-14,2026-10-14 19:36,gate,WAL/USDT,0.0603,56.87,370.62,15.1,,2,Chainwire: DATA Network joins Sui and Walrus to scale the supply chain for AI training data
+2026-10-14,2026-10-14 19:36,gate,ARC/USDT,0.03647,23.21,170.55,6.3,,12,CryptoProwl: Circle Launches Wrapped Bitcoin on Ethereum and Arc
+2026-10-14,2026-10-14 19:36,gate,AKE/USDT,0.026517,5.54,121.51,3.4,,356,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-14,2026-10-14 19:36,gate,PONS/USDT,0.348,15.23,10.11,6.6,,,
