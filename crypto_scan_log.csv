@@ -2966,10 +2966,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-12,2026-10-12 09:35,gate,W/USDT,0.030184,37.08,41.58,31.1,,0.0,"Binance News: Wormhole Rises 61.39% in 24 Hours, Hits $0.02945 High"
 2026-10-12,2026-10-12 09:35,gate,MUBARAK/USDT,0.07613,5.59,22.39,12.9,,19.0,Bloomingbit: MUBARAK Jumps 52% in 24 Hours; MARSCOIN and FORM Also Rise More Than 20%
 2026-10-12,2026-10-12 19:20,gate,SOXS/USDT,37.46,10.66,3.0,58.1,,,
-2026-10-13,2026-10-13 21:25,gate,PEPE/USDT,4e-06,7.37,7591050.44,15.7,,7,CryptoProwl: Most Memecoins Die Within a Year After Their Peak
+2026-10-13,2026-10-13 21:25,gate,PEPE/USDT,4e-06,7.37,7591050.44,15.7,,7.0,CryptoProwl: Most Memecoins Die Within a Year After Their Peak
 2026-10-13,2026-10-13 21:25,gate,Q/USDT,0.041816,39.15,381.52,8.0,,,
-2026-10-13,2026-10-13 21:25,gate,BAT/USDT,0.19149,24.57,175.06,6.5,,0,Coindar: Basic Attention to Host Community Call on October 13th
-2026-10-13,2026-10-13 21:25,gate,AKE/USDT,0.025019,4.7,152.31,4.3,,355,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-13,2026-10-13 21:25,gate,BAT/USDT,0.19149,24.57,175.06,6.5,,0.0,Coindar: Basic Attention to Host Community Call on October 13th
+2026-10-13,2026-10-13 21:25,gate,AKE/USDT,0.025019,4.7,152.31,4.3,,355.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-13,2026-10-13 21:25,gate,BTW/USDT,1.951599,12.01,145.27,24.9,,,
 2026-10-13,2026-10-13 08:28,gate,PENGU/USDT,0.007931,4.15,77.87,5.4,,1.0,Crypto Briefing: Adam Weitsman buys 117 Pudgy Penguins to back the collection through a rough patch
 2026-10-13,2026-10-13 08:28,gate,PYTH/USDT,0.0849,4.25,51.01,3.3,,4.0,CoinMarketCal: Pyth Network: DAO raises revenue buyback allocation to 100% - 08 Oct 2026
@@ -2985,6 +2985,7 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-13,2026-10-13 16:21,gate,STX/USDT,0.4268,4.07,5.33,3.0,,,
 2026-10-13,2026-10-13 08:28,gate,OGN/USDT,0.03837,9.1,4.04,5.8,,,
 2026-10-13,2026-10-13 08:28,gate,JTO/USDT,0.5402,5.84,2.75,3.3,,,
-2026-10-13,2026-10-13 21:25,gate,TIA/USDT,0.5705,7.62,2.61,8.5,,11,NewsBTC: Celestia Says Fibre Sustained 3.07 Tb/s In 120-Validator Benchmark
+2026-10-13,2026-10-13 21:25,gate,TIA/USDT,0.5705,7.62,2.61,8.5,,11.0,NewsBTC: Celestia Says Fibre Sustained 3.07 Tb/s In 120-Validator Benchmark
 2026-10-13,2026-10-13 21:25,gate,NG/USDT,3.635,5.27,2.48,3.4,,,
 2026-10-13,2026-10-13 21:25,gate,MAGIC/USDT,0.12362,3.65,2.34,13.5,,,
+2026-10-14,2026-10-14 00:29,gate,BTW/USDT,2.171763,4.31,154.83,27.2,,,
