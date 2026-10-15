@@ -2995,12 +2995,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-14,2026-10-14 19:36,gate,ARC/USDT,0.03647,23.21,170.55,6.3,,12.0,CryptoProwl: Circle Launches Wrapped Bitcoin on Ethereum and Arc
 2026-10-14,2026-10-14 19:36,gate,AKE/USDT,0.026517,5.54,121.51,3.4,,356.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-14,2026-10-14 19:36,gate,PONS/USDT,0.348,15.23,10.11,6.6,,,
-2026-10-15,2026-10-15 15:14,gate,ZEREBRO/USDT,0.0498,4.72,1226.21,10.2,Listing,628,CoinMarketCal: Zerebro (ZEREBRO) - Kraken Listing - 27 Jan 2025
-2026-10-15,2026-10-15 15:14,gate,AKE/USDT,0.031602,15.53,535.57,14.9,,357,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-15,2026-10-15 19:13,gate,AGT/USDT,0.036249,114.38,3667.43,7.1,,,
+2026-10-15,2026-10-15 15:14,gate,ZEREBRO/USDT,0.0498,4.72,1226.21,10.2,Listing,628.0,CoinMarketCal: Zerebro (ZEREBRO) - Kraken Listing - 27 Jan 2025
+2026-10-15,2026-10-15 19:13,gate,AKE/USDT,0.035985,31.55,729.62,20.3,,357,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-15,2026-10-15 10:20,gate,Q/USDT,0.053022,4.11,312.92,8.5,,,
-2026-10-15,2026-10-15 15:14,gate,ARC/USDT,0.04013,8.37,114.29,6.9,,13,CryptoProwl: Circle Launches Wrapped Bitcoin on Ethereum and Arc
+2026-10-15,2026-10-15 19:13,gate,ARC/USDT,0.03845,3.83,88.08,5.3,,13,CryptoProwl: Circle Launches Wrapped Bitcoin on Ethereum and Arc
 2026-10-15,2026-10-15 00:54,gate,龙虾/USDT,0.031423,5.39,78.05,9.9,,,
-2026-10-15,2026-10-15 15:14,gate,XPL/USDT,0.08453,5.24,11.81,3.7,Partner,0,CoinMarketCal: Plasma: Announces Stripe partnership to co-develop multi-currency cards - 15 Oct 2026
-2026-10-15,2026-10-15 15:14,gate,BLUR/USDT,0.01104,7.81,10.91,4.7,,2,CryptoProwl: NFT Marketplace Blur Shuts Down
-2026-10-15,2026-10-15 15:14,gate,PONS/USDT,0.3475,5.14,7.8,4.8,,,
-2026-10-15,2026-10-15 15:14,gate,STRK/USDT,0.08582,11.53,2.01,22.3,,0,The Block: Starknet opens seven-day vote on independent Layer 1 over quantum risks
+2026-10-15,2026-10-15 19:13,gate,PYTH/USDT,0.09394,10.35,43.55,3.3,,7,CoinMarketCal: Pyth Network: DAO raises revenue buyback allocation to 100% - 08 Oct 2026
+2026-10-15,2026-10-15 19:13,gate,XPL/USDT,0.0867,7.94,13.53,4.3,Partner,0,CoinMarketCal: Plasma: Announces Stripe partnership to co-develop multi-currency cards - 15 Oct 2026
+2026-10-15,2026-10-15 19:13,gate,BLUR/USDT,0.01117,9.08,11.78,5.0,,2,CryptoProwl: NFT Marketplace Blur Shuts Down
+2026-10-15,2026-10-15 19:13,gate,PONS/USDT,0.3423,3.57,8.03,4.9,,,
+2026-10-15,2026-10-15 19:13,gate,ENA/USDT,0.202,3.2,7.24,13.5,,2,Binance News: FalconX and Ethena Operate $1 Billion Secured Lending Facility
+2026-10-15,2026-10-15 19:13,gate,STRK/USDT,0.08703,13.1,2.49,27.5,,,
