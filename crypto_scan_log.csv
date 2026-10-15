@@ -2995,8 +2995,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-14,2026-10-14 19:36,gate,ARC/USDT,0.03647,23.21,170.55,6.3,,12.0,CryptoProwl: Circle Launches Wrapped Bitcoin on Ethereum and Arc
 2026-10-14,2026-10-14 19:36,gate,AKE/USDT,0.026517,5.54,121.51,3.4,,356.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-14,2026-10-14 19:36,gate,PONS/USDT,0.348,15.23,10.11,6.6,,,
-2026-10-15,2026-10-15 10:20,gate,ZEREBRO/USDT,0.051572,8.44,822.0,6.8,Listing,628,CoinMarketCal: Zerebro (ZEREBRO) - Kraken Listing - 27 Jan 2025
+2026-10-15,2026-10-15 15:14,gate,ZEREBRO/USDT,0.0498,4.72,1226.21,10.2,Listing,628,CoinMarketCal: Zerebro (ZEREBRO) - Kraken Listing - 27 Jan 2025
+2026-10-15,2026-10-15 15:14,gate,AKE/USDT,0.031602,15.53,535.57,14.9,,357,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-15,2026-10-15 10:20,gate,Q/USDT,0.053022,4.11,312.92,8.5,,,
-2026-10-15,2026-10-15 10:20,gate,AKE/USDT,0.028999,6.01,238.92,6.7,,357,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-10-15,2026-10-15 10:20,gate,ARC/USDT,0.04105,10.86,135.02,8.2,,12,CryptoProwl: Circle Launches Wrapped Bitcoin on Ethereum and Arc
+2026-10-15,2026-10-15 15:14,gate,ARC/USDT,0.04013,8.37,114.29,6.9,,13,CryptoProwl: Circle Launches Wrapped Bitcoin on Ethereum and Arc
 2026-10-15,2026-10-15 00:54,gate,龙虾/USDT,0.031423,5.39,78.05,9.9,,,
+2026-10-15,2026-10-15 15:14,gate,XPL/USDT,0.08453,5.24,11.81,3.7,Partner,0,CoinMarketCal: Plasma: Announces Stripe partnership to co-develop multi-currency cards - 15 Oct 2026
+2026-10-15,2026-10-15 15:14,gate,BLUR/USDT,0.01104,7.81,10.91,4.7,,2,CryptoProwl: NFT Marketplace Blur Shuts Down
+2026-10-15,2026-10-15 15:14,gate,PONS/USDT,0.3475,5.14,7.8,4.8,,,
+2026-10-15,2026-10-15 15:14,gate,STRK/USDT,0.08582,11.53,2.01,22.3,,0,The Block: Starknet opens seven-day vote on independent Layer 1 over quantum risks
