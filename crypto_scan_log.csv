@@ -2991,7 +2991,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-14,2026-10-14 19:36,gate,TRUTH/USDT,0.022307,9.99,9805.75,14.5,,,
 2026-10-14,2026-10-14 19:36,gate,BTW/USDT,2.245403,7.85,470.67,82.6,,,
 2026-10-14,2026-10-14 19:36,gate,Q/USDT,0.050839,21.02,405.07,9.7,,,
-2026-10-14,2026-10-14 19:36,gate,WAL/USDT,0.0603,56.87,370.62,15.1,,2,Chainwire: DATA Network joins Sui and Walrus to scale the supply chain for AI training data
-2026-10-14,2026-10-14 19:36,gate,ARC/USDT,0.03647,23.21,170.55,6.3,,12,CryptoProwl: Circle Launches Wrapped Bitcoin on Ethereum and Arc
-2026-10-14,2026-10-14 19:36,gate,AKE/USDT,0.026517,5.54,121.51,3.4,,356,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-14,2026-10-14 19:36,gate,WAL/USDT,0.0603,56.87,370.62,15.1,,2.0,Chainwire: DATA Network joins Sui and Walrus to scale the supply chain for AI training data
+2026-10-14,2026-10-14 19:36,gate,ARC/USDT,0.03647,23.21,170.55,6.3,,12.0,CryptoProwl: Circle Launches Wrapped Bitcoin on Ethereum and Arc
+2026-10-14,2026-10-14 19:36,gate,AKE/USDT,0.026517,5.54,121.51,3.4,,356.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-14,2026-10-14 19:36,gate,PONS/USDT,0.348,15.23,10.11,6.6,,,
+2026-10-15,2026-10-15 00:54,gate,龙虾/USDT,0.031423,5.39,78.05,9.9,,,
