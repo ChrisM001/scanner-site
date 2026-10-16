@@ -3008,8 +3008,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-15,2026-10-15 19:13,gate,PONS/USDT,0.3423,3.57,8.03,4.9,,,
 2026-10-15,2026-10-15 22:22,gate,ENA/USDT,0.20447,4.46,7.51,14.0,,,
 2026-10-15,2026-10-15 22:22,gate,STRK/USDT,0.08764,13.89,2.51,27.8,,,
-2026-10-16,2026-10-16 05:03,gate,SIREN/USDT,0.03511,7.44,1718.43,5.2,,122,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
+2026-10-16,2026-10-16 09:50,gate,AGT/USDT,0.038836,7.48,2808.14,19.4,,,
+2026-10-16,2026-10-16 05:03,gate,SIREN/USDT,0.03511,7.44,1718.43,5.2,,122.0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
 2026-10-16,2026-10-16 05:03,gate,TRUTH/USDT,0.01705,6.32,455.49,3.3,,,
 2026-10-16,2026-10-16 00:35,gate,STBL/USDT,0.03285,22.57,438.76,3.5,Delisting,170.0,CoinMarketCal: Audiera (BEAT) and Others - Hibt Delisting - 30 April 2026
-2026-10-16,2026-10-16 05:03,gate,BTW/USDT,1.992118,9.91,198.08,40.4,,,
+2026-10-16,2026-10-16 09:50,gate,BTW/USDT,2.002316,10.47,224.88,45.8,,,
+2026-10-16,2026-10-16 09:50,gate,Q/USDT,0.054121,4.19,146.63,4.4,,,
 2026-10-16,2026-10-16 05:03,gate,US/USDT,0.007291,3.17,75.48,6.6,,,
+2026-10-16,2026-10-16 09:50,gate,TIA/USDT,0.6843,16.02,2.74,10.3,,14,NewsBTC: Celestia Says Fibre Sustained 3.07 Tb/s In 120-Validator Benchmark
