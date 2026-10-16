@@ -2996,15 +2996,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-14,2026-10-14 19:36,gate,AKE/USDT,0.026517,5.54,121.51,3.4,,356.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-14,2026-10-14 19:36,gate,PONS/USDT,0.348,15.23,10.11,6.6,,,
 2026-10-15,2026-10-15 22:22,gate,AGT/USDT,0.033254,96.66,5908.45,11.5,,,
-2026-10-15,2026-10-15 22:22,gate,SIREN/USDT,0.03205,43.66,1780.34,3.2,,122,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
-2026-10-15,2026-10-15 22:22,gate,ZEREBRO/USDT,0.0501,5.35,1460.59,12.2,Listing,628,CoinMarketCal: Zerebro (ZEREBRO) - Kraken Listing - 27 Jan 2025
-2026-10-15,2026-10-15 22:22,gate,AKE/USDT,0.032953,20.47,818.51,22.8,,358,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-15,2026-10-15 22:22,gate,SIREN/USDT,0.03205,43.66,1780.34,3.2,,122.0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
+2026-10-15,2026-10-15 22:22,gate,ZEREBRO/USDT,0.0501,5.35,1460.59,12.2,Listing,628.0,CoinMarketCal: Zerebro (ZEREBRO) - Kraken Listing - 27 Jan 2025
+2026-10-15,2026-10-15 22:22,gate,AKE/USDT,0.032953,20.47,818.51,22.8,,358.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-15,2026-10-15 10:20,gate,Q/USDT,0.053022,4.11,312.92,8.5,,,
-2026-10-15,2026-10-15 22:22,gate,ARC/USDT,0.03902,5.37,85.66,5.2,,13,CryptoProwl: Circle Launches Wrapped Bitcoin on Ethereum and Arc
+2026-10-15,2026-10-15 22:22,gate,ARC/USDT,0.03902,5.37,85.66,5.2,,13.0,CryptoProwl: Circle Launches Wrapped Bitcoin on Ethereum and Arc
 2026-10-15,2026-10-15 00:54,gate,龙虾/USDT,0.031423,5.39,78.05,9.9,,,
-2026-10-15,2026-10-15 22:22,gate,PYTH/USDT,0.09486,11.43,42.5,3.3,,7,CoinMarketCal: Pyth Network: DAO raises revenue buyback allocation to 100% - 08 Oct 2026
-2026-10-15,2026-10-15 22:22,gate,XPL/USDT,0.08541,6.34,14.57,4.6,Partner,0,CoinMarketCal: Plasma: Announces Stripe partnership to co-develop multi-currency cards - 15 Oct 2026
-2026-10-15,2026-10-15 22:22,gate,BLUR/USDT,0.01098,7.23,11.72,5.0,,2,CryptoProwl: NFT Marketplace Blur Shuts Down
+2026-10-15,2026-10-15 22:22,gate,PYTH/USDT,0.09486,11.43,42.5,3.3,,7.0,CoinMarketCal: Pyth Network: DAO raises revenue buyback allocation to 100% - 08 Oct 2026
+2026-10-15,2026-10-15 22:22,gate,XPL/USDT,0.08541,6.34,14.57,4.6,Partner,0.0,CoinMarketCal: Plasma: Announces Stripe partnership to co-develop multi-currency cards - 15 Oct 2026
+2026-10-15,2026-10-15 22:22,gate,BLUR/USDT,0.01098,7.23,11.72,5.0,,2.0,CryptoProwl: NFT Marketplace Blur Shuts Down
 2026-10-15,2026-10-15 19:13,gate,PONS/USDT,0.3423,3.57,8.03,4.9,,,
 2026-10-15,2026-10-15 22:22,gate,ENA/USDT,0.20447,4.46,7.51,14.0,,,
 2026-10-15,2026-10-15 22:22,gate,STRK/USDT,0.08764,13.89,2.51,27.8,,,
+2026-10-16,2026-10-16 00:35,gate,STBL/USDT,0.03285,22.57,438.76,3.5,Delisting,170.0,CoinMarketCal: Audiera (BEAT) and Others - Hibt Delisting - 30 April 2026
