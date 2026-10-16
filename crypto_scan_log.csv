@@ -3008,14 +3008,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-15,2026-10-15 19:13,gate,PONS/USDT,0.3423,3.57,8.03,4.9,,,
 2026-10-15,2026-10-15 22:22,gate,ENA/USDT,0.20447,4.46,7.51,14.0,,,
 2026-10-15,2026-10-15 22:22,gate,STRK/USDT,0.08764,13.89,2.51,27.8,,,
-2026-10-16,2026-10-16 21:32,gate,AGT/USDT,0.047249,30.76,2918.54,20.2,,,
+2026-10-16,2026-10-16 23:54,gate,AGT/USDT,0.05954,64.78,3359.8,23.2,,,
 2026-10-16,2026-10-16 05:03,gate,SIREN/USDT,0.03511,7.44,1718.43,5.2,,122.0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
-2026-10-16,2026-10-16 21:32,gate,PUMP/USDT,0.004688,3.33,777.3,10.9,,3,"Brave New Coin: What Auditing 832,941 Pump.fun Launches Taught Me About Memecoin Success"
-2026-10-16,2026-10-16 21:32,gate,ICNT/USDT,0.1749,16.76,597.83,3.1,Listing,163,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
+2026-10-16,2026-10-16 21:32,gate,PUMP/USDT,0.004688,3.33,777.3,10.9,,3.0,"Brave New Coin: What Auditing 832,941 Pump.fun Launches Taught Me About Memecoin Success"
+2026-10-16,2026-10-16 23:54,gate,ICNT/USDT,0.1792,19.63,642.07,3.3,Listing,163,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
 2026-10-16,2026-10-16 05:03,gate,TRUTH/USDT,0.01705,6.32,455.49,3.3,,,
 2026-10-16,2026-10-16 00:35,gate,STBL/USDT,0.03285,22.57,438.76,3.5,Delisting,170.0,CoinMarketCal: Audiera (BEAT) and Others - Hibt Delisting - 30 April 2026
-2026-10-16,2026-10-16 21:32,gate,BTW/USDT,1.942813,7.19,250.41,51.0,,,
-2026-10-16,2026-10-16 21:32,gate,Q/USDT,0.056064,7.93,101.18,3.0,,,
+2026-10-16,2026-10-16 23:54,gate,BTW/USDT,1.92657,6.29,247.74,50.5,,,
+2026-10-16,2026-10-16 23:54,gate,Q/USDT,0.058588,12.79,157.85,4.7,,,
 2026-10-16,2026-10-16 05:03,gate,US/USDT,0.007291,3.17,75.48,6.6,,,
-2026-10-16,2026-10-16 21:32,gate,BR/USDT,0.42102,16.59,8.78,6.3,,,
-2026-10-16,2026-10-16 21:32,gate,TIA/USDT,0.6634,12.48,5.14,19.2,,14,NewsBTC: Celestia Says Fibre Sustained 3.07 Tb/s In 120-Validator Benchmark
+2026-10-16,2026-10-16 23:54,gate,BR/USDT,0.40599,12.43,9.19,6.6,,,
+2026-10-16,2026-10-16 23:54,gate,TIA/USDT,0.6878,16.62,5.45,20.4,,14,NewsBTC: Celestia Says Fibre Sustained 3.07 Tb/s In 120-Validator Benchmark

@@ -1,1 +1,1 @@
-{"set": ["AGT/USDT", "BR/USDT", "BTW/USDT", "ICNT/USDT", "PUMP/USDT", "Q/USDT", "TIA/USDT"], "left": {}, "vals": {"AGT/USDT": 30.76, "PUMP/USDT": 3.33, "ICNT/USDT": 16.76, "BTW/USDT": 7.19, "Q/USDT": 7.93, "BR/USDT": 16.59, "TIA/USDT": 12.48}}
+{"set": ["AGT/USDT", "BR/USDT", "BTW/USDT", "ICNT/USDT", "Q/USDT", "TIA/USDT"], "left": {"PUMP/USDT": 1792194878.3595924}, "vals": {"AGT/USDT": 64.78, "ICNT/USDT": 19.63, "BTW/USDT": 6.29, "Q/USDT": 12.79, "BR/USDT": 12.43, "TIA/USDT": 16.62}}
