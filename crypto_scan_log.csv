@@ -3019,9 +3019,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-16,2026-10-16 05:03,gate,US/USDT,0.007291,3.17,75.48,6.6,,,
 2026-10-16,2026-10-16 23:54,gate,BR/USDT,0.40599,12.43,9.19,6.6,,,
 2026-10-16,2026-10-16 23:54,gate,TIA/USDT,0.6878,16.62,5.45,20.4,,14.0,NewsBTC: Celestia Says Fibre Sustained 3.07 Tb/s In 120-Validator Benchmark
-2026-10-17,2026-10-17 03:15,gate,AGT/USDT,0.081542,32.67,2240.18,41.3,,,
-2026-10-17,2026-10-17 03:15,gate,SIREN/USDT,0.03469,5.99,972.8,4.9,,123,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
-2026-10-17,2026-10-17 03:15,gate,Q/USDT,0.065827,13.49,324.74,10.2,,,
-2026-10-17,2026-10-17 03:15,gate,ICNT/USDT,0.2057,14.6,255.34,4.6,Listing,163,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
-2026-10-17,2026-10-17 03:15,gate,BTW/USDT,2.040109,5.94,217.53,47.5,,,
-2026-10-17,2026-10-17 03:15,gate,ZEREBRO/USDT,0.034379,4.98,72.33,4.9,Listing,629,CoinMarketCal: Zerebro (ZEREBRO) - Kraken Listing - 27 Jan 2025
+2026-10-17,2026-10-17 07:59,gate,AGT/USDT,0.064608,5.12,3137.07,57.8,,,
+2026-10-17,2026-10-17 07:59,gate,SIREN/USDT,0.03871,18.27,834.71,4.2,,123,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
+2026-10-17,2026-10-17 07:59,gate,ICNT/USDT,0.1998,11.31,453.54,8.1,Listing,164,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
+2026-10-17,2026-10-17 07:59,gate,Q/USDT,0.070889,22.22,436.63,13.7,,,
+2026-10-17,2026-10-17 07:59,gate,BTW/USDT,2.046803,6.29,186.61,40.8,,,
+2026-10-17,2026-10-17 03:15,gate,ZEREBRO/USDT,0.034379,4.98,72.33,4.9,Listing,629.0,CoinMarketCal: Zerebro (ZEREBRO) - Kraken Listing - 27 Jan 2025
+2026-10-17,2026-10-17 07:59,gate,TIA/USDT,0.7264,5.64,6.99,30.7,,14,NewsBTC: Celestia Says Fibre Sustained 3.07 Tb/s In 120-Validator Benchmark
+2026-10-17,2026-10-17 07:59,gate,EPIC/USDT,0.2981,21.48,5.13,5.0,Delisting,2,U.Today: Binance to Delist Two Cryptocurrencies in October
