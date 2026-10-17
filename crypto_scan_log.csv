@@ -3019,12 +3019,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-16,2026-10-16 05:03,gate,US/USDT,0.007291,3.17,75.48,6.6,,,
 2026-10-16,2026-10-16 23:54,gate,BR/USDT,0.40599,12.43,9.19,6.6,,,
 2026-10-16,2026-10-16 23:54,gate,TIA/USDT,0.6878,16.62,5.45,20.4,,14.0,NewsBTC: Celestia Says Fibre Sustained 3.07 Tb/s In 120-Validator Benchmark
-2026-10-17,2026-10-17 12:07,gate,AGT/USDT,0.073015,18.8,3572.16,65.8,,,
+2026-10-17,2026-10-17 20:17,gate,AGT/USDT,0.078153,27.16,3809.59,70.2,,,
+2026-10-17,2026-10-17 20:17,gate,Q/USDT,0.122224,110.72,1737.54,54.4,,,
 2026-10-17,2026-10-17 07:59,gate,SIREN/USDT,0.03871,18.27,834.71,4.2,,123.0,"Invezz: SIREN coin price drops 98% from recent ATH, is it the end of the AI token?"
-2026-10-17,2026-10-17 12:07,gate,ICNT/USDT,0.1867,4.01,569.37,10.2,Listing,164,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
-2026-10-17,2026-10-17 12:07,gate,Q/USDT,0.071878,23.92,489.63,15.3,,,
-2026-10-17,2026-10-17 12:07,gate,BTW/USDT,2.167719,12.57,147.86,32.3,,,
+2026-10-17,2026-10-17 20:17,gate,ICNT/USDT,0.1905,6.13,696.85,12.5,Listing,164,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
+2026-10-17,2026-10-17 20:17,gate,BTW/USDT,2.613755,35.73,178.36,39.0,,,
 2026-10-17,2026-10-17 03:15,gate,ZEREBRO/USDT,0.034379,4.98,72.33,4.9,Listing,629.0,CoinMarketCal: Zerebro (ZEREBRO) - Kraken Listing - 27 Jan 2025
-2026-10-17,2026-10-17 12:07,gate,ERA/USDT,0.06416,10.83,29.23,3.7,,108,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-10-17,2026-10-17 20:17,gate,ERA/USDT,0.06188,6.89,45.01,5.6,,108,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-10-17,2026-10-17 20:17,gate,BR/USDT,0.42282,4.43,9.43,5.9,,,
+2026-10-17,2026-10-17 20:17,gate,EPIC/USDT,0.2717,10.72,8.24,8.0,Delisting,3,U.Today: Binance to Delist Two Cryptocurrencies in October
 2026-10-17,2026-10-17 07:59,gate,TIA/USDT,0.7264,5.64,6.99,30.7,,14.0,NewsBTC: Celestia Says Fibre Sustained 3.07 Tb/s In 120-Validator Benchmark
-2026-10-17,2026-10-17 12:07,gate,EPIC/USDT,0.3121,27.18,5.8,5.7,Delisting,2,U.Today: Binance to Delist Two Cryptocurrencies in October
