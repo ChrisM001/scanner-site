@@ -3038,9 +3038,15 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-18,2026-10-18 13:26,gate,AVA/USDT,0.4117,8.77,9.19,3.6,,2.0,Coindar: AVA (Travala) Released Quarterly Report for Q3
 2026-10-18,2026-10-18 13:26,gate,SAND/USDT,0.06176,3.36,2.91,28.5,,0.0,Coinpedia: SAND Price Analysis: Can the SandBox Rally to $0.10 in 2026?
 2026-10-19,2026-10-19 01:44,gate,ARIA/USDT,0.0584,4.58,1625.92,4.0,,,
-2026-10-19,2026-10-19 01:44,gate,PUMP/USDT,0.004295,3.17,730.33,10.4,,5,"Brave New Coin: What Auditing 832,941 Pump.fun Launches Taught Me About Memecoin Success"
-2026-10-19,2026-10-19 01:44,gate,APR/USDT,0.03148,7.22,88.85,6.1,Listing,138,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
+2026-10-19,2026-10-19 06:55,gate,Q/USDT,0.16024,42.79,1043.06,95.5,,,
+2026-10-19,2026-10-19 06:55,gate,PUMP/USDT,0.004469,7.35,858.15,12.2,,5,"Brave New Coin: What Auditing 832,941 Pump.fun Launches Taught Me About Memecoin Success"
+2026-10-19,2026-10-19 06:55,gate,AGT/USDT,0.094274,40.34,300.39,14.9,,,
+2026-10-19,2026-10-19 01:44,gate,APR/USDT,0.03148,7.22,88.85,6.1,Listing,138.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
+2026-10-19,2026-10-19 06:55,gate,ERA/USDT,0.07129,4.72,51.87,9.0,,110,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-10-19,2026-10-19 06:55,gate,龙虾/USDT,0.021856,4.81,35.57,4.0,,,
 2026-10-19,2026-10-19 01:44,gate,US/USDT,0.005936,3.09,33.43,3.0,,,
-2026-10-19,2026-10-19 01:44,gate,龙虾/USDT,0.022257,6.73,32.29,3.6,,,
-2026-10-19,2026-10-19 01:44,gate,WAL/USDT,0.04118,5.56,23.65,6.0,,6,Chainwire: DATA Network joins Sui and Walrus to scale the supply chain for AI training data
-2026-10-19,2026-10-19 01:44,gate,AVA/USDT,0.3315,3.85,8.94,3.7,,2,Coindar: AVA (Travala) Released Quarterly Report for Q3
+2026-10-19,2026-10-19 01:44,gate,WAL/USDT,0.04118,5.56,23.65,6.0,,6.0,Chainwire: DATA Network joins Sui and Walrus to scale the supply chain for AI training data
+2026-10-19,2026-10-19 06:55,gate,BR/USDT,0.49817,7.89,9.71,4.9,,,
+2026-10-19,2026-10-19 06:55,gate,AVA/USDT,0.3692,15.66,8.11,3.3,Airdrop,0,Coindar: AVA (Travala) to Hold Airdrop
+2026-10-19,2026-10-19 06:55,gate,EPIC/USDT,0.3037,9.44,2.47,3.3,Delisting,4,U.Today: Binance to Delist Two Cryptocurrencies in October
+2026-10-19,2026-10-19 06:55,gate,SAND/USDT,0.06035,3.07,2.2,23.7,,,
