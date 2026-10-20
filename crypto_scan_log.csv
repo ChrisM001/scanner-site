@@ -3052,7 +3052,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-19,2026-10-19 06:55,gate,AVA/USDT,0.3692,15.66,8.11,3.3,Airdrop,0.0,Coindar: AVA (Travala) to Hold Airdrop
 2026-10-19,2026-10-19 06:55,gate,EPIC/USDT,0.3037,9.44,2.47,3.3,Delisting,4.0,U.Today: Binance to Delist Two Cryptocurrencies in October
 2026-10-19,2026-10-19 06:55,gate,SAND/USDT,0.06035,3.07,2.2,23.7,,,
-2026-10-20,2026-10-20 13:01,gate,JCT/USDT,0.004219,112.76,26646.94,10.7,,,
+2026-10-20,2026-10-20 17:59,gate,PEPE/USDT,5e-06,10.78,13257214.73,25.1,,14,CryptoProwl: Most Memecoins Die Within a Year After Their Peak
+2026-10-20,2026-10-20 17:59,gate,DOOD/USDT,0.002425,80.57,105283.17,3.8,Listing,257,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
+2026-10-20,2026-10-20 17:59,gate,JCT/USDT,0.004748,139.44,57313.36,22.9,,,
+2026-10-20,2026-10-20 17:59,gate,PUMP/USDT,0.004664,4.08,648.1,9.3,,0,"Coinpedia: Pump.fun Spikes 8% After Pre-IPO Token Launch for OpenAI, Polymarket"
 2026-10-20,2026-10-20 07:34,gate,AKE/USDT,0.032092,5.09,242.31,4.4,,362.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-20,2026-10-20 17:59,gate,PENGU/USDT,0.007937,4.95,45.71,3.2,,0,Coinpedia: PENGU Flashes Historically Proven Buy Signal: Is a 77% Rally Next?
+2026-10-20,2026-10-20 17:59,gate,APR/USDT,0.03533,20.29,44.21,3.5,Listing,139,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-10-20,2026-10-20 02:07,gate,CT/USDT,0.3395,3.95,41.88,7.7,,,
-2026-10-20,2026-10-20 13:01,gate,ERA/USDT,0.07373,13.97,30.27,5.6,,111,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-10-20,2026-10-20 17:59,gate,ERA/USDT,0.07327,13.26,31.41,5.8,,111,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-10-20,2026-10-20 17:59,gate,ALT/USDT,0.010035,8.86,10.97,3.7,Unlock,1,Binance News: RootData: AltLayer (ALT) to Unlock $2.13M in Tokens in One Week
+2026-10-20,2026-10-20 17:59,gate,ENA/USDT,0.19559,3.33,5.18,8.9,,,
