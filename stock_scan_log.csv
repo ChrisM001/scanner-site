@@ -576,3 +576,8 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-10-15,2026-10-15 10:19,NASDAQ:NCPL,1.9,31.29,3.1,4.38,1.31,0.0,,Benzinga: Netcapital (NCPL) Stock Climbs Nearly 19% After Hours: Whats Behind the Move?,premarket
 2026-10-16,2026-10-16 09:49,NASDAQ:WETO,1.14,61.33,30.6,0.91,0.24,0.0,OFFERING,GlobeNewswire: Wetour Robotics Announces Temporary Pause of ATM Share Sales,premarket
 2026-10-16,2026-10-16 09:49,NASDAQ:NCPL,2.35,26.73,3.8,2.09,0.47,1.0,,Benzinga: Netcapital (NCPL) Stock Climbs Nearly 19% After Hours: Whats Behind the Move?,premarket
+2026-10-20,2026-10-20 13:00,NASDAQ:FUFU,1.13,16.65,335.6,16.88,0.21,1.0,,"TradingView: Weekly Recap: 167 BTC mined, 1,388 BTC holdings and HASH token on Eth/Sol",premarket
+2026-10-20,2026-10-20 13:00,NASDAQ:YMAT,1.78,94.66,5.5,1.58,0.17,1.0,M&A,"TradingView: J-Star Holding Co., Ltd. (YMAT) Moves to Acquire Texas Facility for U.S. Drone-Frame Production",premarket
+2026-10-20,2026-10-20 13:00,NASDAQ:XLAB,2.742,19.15,3.8,14.45,0.86,5.0,DEAL,TradingView: Exascale Labs Holdings Lands $8.21M GPU Server and Services Contract With Sunon,premarket
+2026-10-20,2026-10-20 13:00,NASDAQ:TCRT,2.94,13.31,1.1,2.33,0.26,4.0,M&A,TradingView: Fairmount Funds Secures Board Influence at Alaunos Therapeutics with 19.99% Stake,premarket
+2026-10-20,2026-10-20 13:00,NASDAQ:MEDS,2.62,15.21,1.0,2.27,0.14,0.0,,"TradingView: DataMeds AI, Inc. (MEDS) Regains Nasdaq Equity Compliance",premarket
