@@ -3063,10 +3063,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-20,2026-10-20 17:59,gate,ERA/USDT,0.07327,13.26,31.41,5.8,,111.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-10-20,2026-10-20 17:59,gate,ALT/USDT,0.010035,8.86,10.97,3.7,Unlock,1.0,Binance News: RootData: AltLayer (ALT) to Unlock $2.13M in Tokens in One Week
 2026-10-20,2026-10-20 17:59,gate,ENA/USDT,0.19559,3.33,5.18,8.9,,,
-2026-10-21,2026-10-21 00:09,mexc,AKE/USDT,0.032665,5.06,875.6,6.8,,363,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-21,2026-10-21 04:47,gate,DOOD/USDT,0.002727,11.63,43932.73,10.2,Listing,258.0,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
+2026-10-21,2026-10-21 00:09,mexc,AKE/USDT,0.032665,5.06,875.6,6.8,,363.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-21,2026-10-21 04:47,gate,AKE/USDT,0.034426,5.04,551.88,7.5,,363.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-21,2026-10-21 00:09,mexc,BTW/USDT,1.9213,3.87,162.08,26.8,,,
 2026-10-21,2026-10-21 00:09,mexc,PUMPFUN/USDT,0.004925,9.17,69.43,23.9,,,
-2026-10-21,2026-10-21 00:09,mexc,ENA/USDT,0.19606,3.25,9.21,44.4,,7,Binance News: FalconX and Ethena Operate $1 Billion Secured Lending Facility
-2026-10-21,2026-10-21 00:09,mexc,PENGU/USDT,0.007985,3.66,6.12,6.3,,0,Coinpedia: PENGU Flashes Historically Proven Buy Signal: Is a 77% Rally Next?
-2026-10-21,2026-10-21 00:09,mexc,ICNT/USDT,0.2064,22.13,3.33,3.7,Listing,167,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
-2026-10-21,2026-10-21 00:09,mexc,WLD/USDT,0.5876,4.4,2.49,230.3,,1,Bloomingbit: World Launches Zoom Human Badge Worldwide to Verify Real People Against Deepfake Impersonation
+2026-10-21,2026-10-21 00:09,mexc,ENA/USDT,0.19606,3.25,9.21,44.4,,7.0,Binance News: FalconX and Ethena Operate $1 Billion Secured Lending Facility
+2026-10-21,2026-10-21 00:09,mexc,PENGU/USDT,0.007985,3.66,6.12,6.3,,0.0,Coinpedia: PENGU Flashes Historically Proven Buy Signal: Is a 77% Rally Next?
+2026-10-21,2026-10-21 00:09,mexc,ICNT/USDT,0.2064,22.13,3.33,3.7,Listing,167.0,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
+2026-10-21,2026-10-21 00:09,mexc,WLD/USDT,0.5876,4.4,2.49,230.3,,1.0,Bloomingbit: World Launches Zoom Human Badge Worldwide to Verify Real People Against Deepfake Impersonation
