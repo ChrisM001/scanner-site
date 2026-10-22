@@ -3083,9 +3083,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-21,2026-10-21 00:09,mexc,ICNT/USDT,0.2064,22.13,3.33,3.7,Listing,167.0,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
 2026-10-21,2026-10-21 00:09,mexc,WLD/USDT,0.5876,4.4,2.49,230.3,,1.0,Bloomingbit: World Launches Zoom Human Badge Worldwide to Verify Real People Against Deepfake Impersonation
 2026-10-21,2026-10-21 22:22,gate,SOXS/USDT,46.01,5.33,2.15,74.8,,,
-2026-10-22,2026-10-22 05:48,gate,DOOD/USDT,0.002344,3.08,33749.19,48.3,Listing,259,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
-2026-10-22,2026-10-22 05:48,gate,JCT/USDT,0.004545,21.04,7943.73,16.6,,,
-2026-10-22,2026-10-22 05:48,gate,IRYS/USDT,0.02109,19.02,4738.68,12.6,Listing,159,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
-2026-10-22,2026-10-22 05:48,gate,PTB/USDT,0.000679,4.56,1096.05,4.6,Upgrade,394,CoinMarketCal: Portal to Bitcoin (PTB) - Portal To BTC Mainnet - 13 Oct 2025
-2026-10-22,2026-10-22 05:48,gate,BTW/USDT,1.711863,5.04,144.86,40.0,,,
+2026-10-22,2026-10-22 05:48,gate,DOOD/USDT,0.002344,3.08,33749.19,48.3,Listing,259.0,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
+2026-10-22,2026-10-22 11:16,gate,IRYS/USDT,0.01974,11.4,6211.01,16.5,Listing,159,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
+2026-10-22,2026-10-22 11:16,gate,JCT/USDT,0.004715,25.57,5186.08,10.8,,,
+2026-10-22,2026-10-22 11:16,gate,PTB/USDT,0.000779,19.92,1826.7,7.6,Upgrade,394,CoinMarketCal: Portal to Bitcoin (PTB) - Portal To BTC Mainnet - 13 Oct 2025
+2026-10-22,2026-10-22 11:16,gate,AKE/USDT,0.029036,21.11,1688.07,17.6,,364,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-22,2026-10-22 11:16,gate,BTW/USDT,1.775006,8.92,125.04,34.5,,,
+2026-10-22,2026-10-22 11:16,gate,MAGMA/USDT,0.51502,59.82,120.86,10.7,,,
+2026-10-22,2026-10-22 11:16,gate,AGT/USDT,0.060306,6.48,108.61,6.8,,,
+2026-10-22,2026-10-22 11:16,gate,Q/USDT,0.124456,11.66,62.45,7.8,,,
 2026-10-22,2026-10-22 05:48,gate,SOXS/USDT,48.76,5.09,2.03,75.2,,,

@@ -583,3 +583,7 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-10-20,2026-10-20 13:00,NASDAQ:MEDS,2.62,15.21,1.0,2.27,0.14,0.0,,"TradingView: DataMeds AI, Inc. (MEDS) Regains Nasdaq Equity Compliance",premarket
 2026-10-21,2026-10-21 09:51,NASDAQ:SAIQ,6.33,35.48,18.2,4.49,0.33,0.0,DEAL,Benzinga: SpaceX Is Launching More Than Satellites: The Next Frontier Is Space Cybersecurity,premarket
 2026-10-21,2026-10-21 09:51,NASDAQ:WORX,3.27,48.51,5.4,0.55,0.12,1.0,DEAL,GlobeNewswire: SCWorx Announces New Agreement with Healthcare System,premarket
+2026-10-22,2026-10-22 11:15,NASDAQ:OLOX,0.877,67.57,160.0,1.26,0.22,0.0,,Benzinga: Olenox Industries (OLOX) Stock Drops 14%: What's Happening?,premarket
+2026-10-22,2026-10-22 11:15,NYSE:AHT,2.48,33.52,58.9,6.4,0.11,1.0,EARNINGS,"Seeking Alpha: Ashford Hospitality Trust secures $17M fee waiver, quarterly buyback",premarket
+2026-10-22,2026-10-22 11:15,NASDAQ:AMOD,0.949,46.12,34.9,1.04,0.23,0.0,OFFERING,GlobeNewswire: Alpha Modus Announces $7.25 Million Registered Direct Offering of Common Stock,premarket
+2026-10-22,2026-10-22 11:15,AMEX:SDEV,1.211,13.25,9.4,1.02,8.32,16.0,,Benzinga: Why Is Stablecoin Development Stock Falling Monday?,premarket
