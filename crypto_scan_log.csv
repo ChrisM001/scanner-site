@@ -3066,20 +3066,23 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-21,2026-10-21 14:53,gate,PEPE/USDT,5e-06,3.45,10962593.17,21.1,,15.0,CryptoProwl: Most Memecoins Die Within a Year After Their Peak
 2026-10-21,2026-10-21 14:53,gate,DOOD/USDT,0.004208,72.25,164196.2,38.2,Listing,258.0,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
 2026-10-21,2026-10-21 09:51,gate,JCT/USDT,0.004876,4.17,27124.61,39.9,,,
-2026-10-21,2026-10-21 22:22,gate,IRYS/USDT,0.02034,56.1,7845.51,5.3,Listing,159,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
-2026-10-21,2026-10-21 22:22,gate,IOST/USDT,0.001457,38.76,1150.59,29.8,Airdrop,148,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
+2026-10-21,2026-10-21 22:22,gate,IRYS/USDT,0.02034,56.1,7845.51,5.3,Listing,159.0,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
+2026-10-21,2026-10-21 22:22,gate,IOST/USDT,0.001457,38.76,1150.59,29.8,Airdrop,148.0,CoinMarketCal: IOST (IOST) - Eleventh IOST Airdrop - 27 May 2026
 2026-10-21,2026-10-21 00:09,mexc,AKE/USDT,0.032665,5.06,875.6,6.8,,363.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-10-21,2026-10-21 22:22,gate,PUMP/USDT,0.005101,4.89,620.8,9.0,,1,"Coinpedia: Pump.fun Spikes 8% After Pre-IPO Token Launch for OpenAI, Polymarket"
+2026-10-21,2026-10-21 22:22,gate,PUMP/USDT,0.005101,4.89,620.8,9.0,,1.0,"Coinpedia: Pump.fun Spikes 8% After Pre-IPO Token Launch for OpenAI, Polymarket"
 2026-10-21,2026-10-21 09:51,gate,AKE/USDT,0.036506,11.39,503.2,6.9,,363.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-21,2026-10-21 00:09,mexc,BTW/USDT,1.9213,3.87,162.08,26.8,,,
 2026-10-21,2026-10-21 00:09,mexc,PUMPFUN/USDT,0.004925,9.17,69.43,23.9,,,
 2026-10-21,2026-10-21 22:22,gate,SKYAI/USDT,0.03369,3.31,58.21,3.3,,,
 2026-10-21,2026-10-21 19:08,gate,PENGU/USDT,0.008274,3.91,48.46,3.4,,1.0,Coinpedia: PENGU Flashes Historically Proven Buy Signal: Is a 77% Rally Next?
-2026-10-21,2026-10-21 22:22,gate,ALT/USDT,0.013253,31.92,12.53,5.8,Unlock,2,Binance News: RootData: AltLayer (ALT) to Unlock $2.13M in Tokens in One Week
+2026-10-21,2026-10-21 22:22,gate,ALT/USDT,0.013253,31.92,12.53,5.8,Unlock,2.0,Binance News: RootData: AltLayer (ALT) to Unlock $2.13M in Tokens in One Week
 2026-10-21,2026-10-21 00:09,mexc,ENA/USDT,0.19606,3.25,9.21,44.4,,7.0,Binance News: FalconX and Ethena Operate $1 Billion Secured Lending Facility
-2026-10-21,2026-10-21 22:22,gate,ENA/USDT,0.21527,9.88,8.79,14.1,,8,Binance News: FalconX and Ethena Operate $1 Billion Secured Lending Facility
+2026-10-21,2026-10-21 22:22,gate,ENA/USDT,0.21527,9.88,8.79,14.1,,8.0,Binance News: FalconX and Ethena Operate $1 Billion Secured Lending Facility
 2026-10-21,2026-10-21 19:08,gate,XRP/USDT,1.3839,3.66,7.45,102.3,,0.0,"Benzinga: XRP, Dogecoin Flash Opportunity Signals Again: Can Bulls Break Through?"
 2026-10-21,2026-10-21 00:09,mexc,PENGU/USDT,0.007985,3.66,6.12,6.3,,0.0,Coinpedia: PENGU Flashes Historically Proven Buy Signal: Is a 77% Rally Next?
 2026-10-21,2026-10-21 00:09,mexc,ICNT/USDT,0.2064,22.13,3.33,3.7,Listing,167.0,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
 2026-10-21,2026-10-21 00:09,mexc,WLD/USDT,0.5876,4.4,2.49,230.3,,1.0,Bloomingbit: World Launches Zoom Human Badge Worldwide to Verify Real People Against Deepfake Impersonation
 2026-10-21,2026-10-21 22:22,gate,SOXS/USDT,46.01,5.33,2.15,74.8,,,
+2026-10-22,2026-10-22 00:49,gate,DOOD/USDT,0.002429,6.82,35823.61,51.3,Listing,259,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
+2026-10-22,2026-10-22 00:49,gate,JCT/USDT,0.004056,8.02,10420.4,21.7,,,
+2026-10-22,2026-10-22 00:49,gate,IRYS/USDT,0.01891,6.72,2507.37,6.6,Listing,159,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
