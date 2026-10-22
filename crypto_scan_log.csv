@@ -3083,6 +3083,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-21,2026-10-21 00:09,mexc,ICNT/USDT,0.2064,22.13,3.33,3.7,Listing,167.0,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
 2026-10-21,2026-10-21 00:09,mexc,WLD/USDT,0.5876,4.4,2.49,230.3,,1.0,Bloomingbit: World Launches Zoom Human Badge Worldwide to Verify Real People Against Deepfake Impersonation
 2026-10-21,2026-10-21 22:22,gate,SOXS/USDT,46.01,5.33,2.15,74.8,,,
-2026-10-22,2026-10-22 00:49,gate,DOOD/USDT,0.002429,6.82,35823.61,51.3,Listing,259,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
-2026-10-22,2026-10-22 00:49,gate,JCT/USDT,0.004056,8.02,10420.4,21.7,,,
-2026-10-22,2026-10-22 00:49,gate,IRYS/USDT,0.01891,6.72,2507.37,6.6,Listing,159,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
+2026-10-22,2026-10-22 05:48,gate,DOOD/USDT,0.002344,3.08,33749.19,48.3,Listing,259,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
+2026-10-22,2026-10-22 05:48,gate,JCT/USDT,0.004545,21.04,7943.73,16.6,,,
+2026-10-22,2026-10-22 05:48,gate,IRYS/USDT,0.02109,19.02,4738.68,12.6,Listing,159,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
+2026-10-22,2026-10-22 05:48,gate,PTB/USDT,0.000679,4.56,1096.05,4.6,Upgrade,394,CoinMarketCal: Portal to Bitcoin (PTB) - Portal To BTC Mainnet - 13 Oct 2025
+2026-10-22,2026-10-22 05:48,gate,BTW/USDT,1.711863,5.04,144.86,40.0,,,
+2026-10-22,2026-10-22 05:48,gate,SOXS/USDT,48.76,5.09,2.03,75.2,,,
