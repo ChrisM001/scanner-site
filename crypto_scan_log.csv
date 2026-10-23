@@ -3096,10 +3096,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-22,2026-10-22 22:59,gate,Q/USDT,0.120246,7.88,76.42,9.5,,,
 2026-10-22,2026-10-22 22:59,gate,BR/USDT,0.51715,5.81,6.7,3.4,,,
 2026-10-22,2026-10-22 05:48,gate,SOXS/USDT,48.76,5.09,2.03,75.2,,,
-2026-10-23,2026-10-23 06:19,gate,PEPE/USDT,5e-06,4.81,8460778.56,13.3,,16,CryptoProwl: Most Memecoins Die Within a Year After Their Peak
-2026-10-23,2026-10-23 06:19,gate,AKE/USDT,0.036421,15.8,2402.92,24.4,,365,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-10-23,2026-10-23 06:19,gate,IRYS/USDT,0.02763,34.13,1678.04,14.2,Listing,160,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
-2026-10-23,2026-10-23 06:19,gate,BMT/USDT,0.02793,6.81,131.74,3.3,,11,Crypto Briefing: Bubblemaps estimates Ethan made $125K from 49 token callouts
+2026-10-23,2026-10-23 11:56,gate,PEPE/USDT,5e-06,14.95,15765734.62,24.8,,0,"Benzinga: Dogecoin and Bitcoin Are Stuck in a Dull Week, but This Meme Token Still Managed a 17% Surge"
+2026-10-23,2026-10-23 11:56,gate,IRYS/USDT,0.04116,99.81,3624.69,30.7,Listing,160,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
+2026-10-23,2026-10-23 11:56,gate,AKE/USDT,0.034244,8.87,2684.89,27.2,,365,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-23,2026-10-23 06:19,gate,BMT/USDT,0.02793,6.81,131.74,3.3,,11.0,Crypto Briefing: Bubblemaps estimates Ethan made $125K from 49 token callouts
+2026-10-23,2026-10-23 11:56,gate,AGT/USDT,0.07678,9.86,117.99,7.6,,,
 2026-10-23,2026-10-23 01:24,gate,BTR/USDT,0.0687,3.78,113.56,7.0,,,
-2026-10-23,2026-10-23 01:24,gate,AGT/USDT,0.072508,3.74,108.32,6.9,,,
-2026-10-23,2026-10-23 06:19,gate,CXMT/USDT,6.44,11.17,2.24,19.1,,,
+2026-10-23,2026-10-23 11:56,gate,PENGU/USDT,0.008125,4.15,64.46,3.9,,3,Coinpedia: PENGU Flashes Historically Proven Buy Signal: Is a 77% Rally Next?
+2026-10-23,2026-10-23 11:56,gate,CXMT/USDT,6.339,9.43,2.28,19.4,,,
