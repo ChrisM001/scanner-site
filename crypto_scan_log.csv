@@ -3097,14 +3097,18 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-22,2026-10-22 22:59,gate,BR/USDT,0.51715,5.81,6.7,3.4,,,
 2026-10-22,2026-10-22 05:48,gate,SOXS/USDT,48.76,5.09,2.03,75.2,,,
 2026-10-23,2026-10-23 20:06,gate,PEPE/USDT,5e-06,6.7,21919423.29,34.4,,0.0,"Benzinga: Dogecoin and Bitcoin Are Stuck in a Dull Week, but This Meme Token Still Managed a 17% Surge"
-2026-10-23,2026-10-23 23:09,gate,IRYS/USDT,0.07903,283.64,30511.81,258.2,Listing,161,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
-2026-10-23,2026-10-23 23:09,gate,AKE/USDT,0.038846,23.51,3170.9,32.2,,366,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-23,2026-10-23 23:09,gate,IRYS/USDT,0.07903,283.64,30511.81,258.2,Listing,161.0,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
+2026-10-23,2026-10-23 23:09,gate,AKE/USDT,0.038846,23.51,3170.9,32.2,,366.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-23,2026-10-23 23:09,gate,BIRB/USDT,0.0785,48.9,1095.41,8.2,,,
 2026-10-23,2026-10-23 23:09,gate,AGT/USDT,0.102887,47.21,212.26,13.6,,,
 2026-10-23,2026-10-23 16:39,gate,PENGU/USDT,0.008121,4.1,148.92,9.1,,3.0,Coinpedia: PENGU Flashes Historically Proven Buy Signal: Is a 77% Rally Next?
 2026-10-23,2026-10-23 06:19,gate,BMT/USDT,0.02793,6.81,131.74,3.3,,11.0,Crypto Briefing: Bubblemaps estimates Ethan made $125K from 49 token callouts
 2026-10-23,2026-10-23 01:24,gate,BTR/USDT,0.0687,3.78,113.56,7.0,,,
 2026-10-23,2026-10-23 23:09,gate,DOS/USDT,0.2325,9.15,38.13,4.3,,,
-2026-10-23,2026-10-23 23:09,gate,ERA/USDT,0.07685,18.87,20.59,4.3,,115,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-10-23,2026-10-23 23:09,gate,ERA/USDT,0.07685,18.87,20.59,4.3,,115.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-10-23,2026-10-23 20:06,gate,ENA/USDT,0.20754,4.73,6.75,10.3,,0.0,CoinMarketCal: Ethena: USDe launches on X Layer through Aave v3 - 23 Oct 2026
 2026-10-23,2026-10-23 11:56,gate,CXMT/USDT,6.339,9.43,2.28,19.4,,,
+2026-10-24,2026-10-24 01:35,gate,IRYS/USDT,0.10931,43.3,3137.51,274.8,Listing,161,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
+2026-10-24,2026-10-24 01:35,gate,BIRB/USDT,0.16026,110.54,463.44,15.3,,,
+2026-10-24,2026-10-24 01:35,gate,DOS/USDT,0.2605,10.38,47.51,5.8,,,
+2026-10-24,2026-10-24 01:35,gate,ERA/USDT,0.08891,16.93,28.95,6.4,,115,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
