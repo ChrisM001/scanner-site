@@ -3108,9 +3108,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-23,2026-10-23 23:09,gate,ERA/USDT,0.07685,18.87,20.59,4.3,,115.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-10-23,2026-10-23 20:06,gate,ENA/USDT,0.20754,4.73,6.75,10.3,,0.0,CoinMarketCal: Ethena: USDe launches on X Layer through Aave v3 - 23 Oct 2026
 2026-10-23,2026-10-23 11:56,gate,CXMT/USDT,6.339,9.43,2.28,19.4,,,
+2026-10-24,2026-10-24 11:29,gate,ORDER/USDT,0.06545,98.88,12431.78,13.2,,327,CoinMarketCal: Orderly (ORDER) - AMA with Wallstreetbets - 02 Dec 2025
+2026-10-24,2026-10-24 11:29,gate,JCT/USDT,0.004921,88.11,5206.3,14.1,,,
 2026-10-24,2026-10-24 06:29,gate,IN/USDT,0.05368,63.61,4471.75,6.0,,,
-2026-10-24,2026-10-24 06:29,gate,IRYS/USDT,0.08567,12.31,3369.39,295.1,Listing,161,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
-2026-10-24,2026-10-24 06:29,gate,BIRB/USDT,0.15738,106.75,784.71,26.0,,,
-2026-10-24,2026-10-24 06:29,gate,BMT/USDT,0.04211,86.41,310.55,9.7,,12,Crypto Briefing: Bubblemaps estimates Ethan made $125K from 49 token callouts
-2026-10-24,2026-10-24 06:29,gate,DOS/USDT,0.2685,13.77,51.95,6.3,,,
-2026-10-24,2026-10-24 06:29,gate,ERA/USDT,0.09398,23.59,45.81,10.2,,115,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-10-24,2026-10-24 06:29,gate,IRYS/USDT,0.08567,12.31,3369.39,295.1,Listing,161.0,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
+2026-10-24,2026-10-24 11:29,gate,BIRB/USDT,0.12808,68.26,1302.35,43.1,,,
+2026-10-24,2026-10-24 11:29,gate,BMT/USDT,0.0354,56.71,403.34,12.6,,0,CoinMarketCal: Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
+2026-10-24,2026-10-24 11:29,gate,DOS/USDT,0.2525,6.99,61.71,7.5,,,
+2026-10-24,2026-10-24 11:29,gate,ERA/USDT,0.0799,5.08,52.13,11.6,,115,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
