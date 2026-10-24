@@ -3108,12 +3108,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-23,2026-10-23 23:09,gate,ERA/USDT,0.07685,18.87,20.59,4.3,,115.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-10-23,2026-10-23 20:06,gate,ENA/USDT,0.20754,4.73,6.75,10.3,,0.0,CoinMarketCal: Ethena: USDe launches on X Layer through Aave v3 - 23 Oct 2026
 2026-10-23,2026-10-23 11:56,gate,CXMT/USDT,6.339,9.43,2.28,19.4,,,
-2026-10-24,2026-10-24 14:47,gate,ORDER/USDT,0.06833,107.63,22750.46,24.2,,327,CoinMarketCal: Orderly (ORDER) - AMA with Wallstreetbets - 02 Dec 2025
-2026-10-24,2026-10-24 14:47,gate,JCT/USDT,0.006031,130.54,7470.8,20.3,,,
+2026-10-24,2026-10-24 17:53,gate,ORDER/USDT,0.06824,107.35,28749.53,30.5,,327,CoinMarketCal: Orderly (ORDER) - AMA with Wallstreetbets - 02 Dec 2025
+2026-10-24,2026-10-24 17:53,gate,JCT/USDT,0.006718,156.8,7810.26,21.2,,,
 2026-10-24,2026-10-24 06:29,gate,IN/USDT,0.05368,63.61,4471.75,6.0,,,
 2026-10-24,2026-10-24 06:29,gate,IRYS/USDT,0.08567,12.31,3369.39,295.1,Listing,161.0,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
-2026-10-24,2026-10-24 14:47,gate,BIRB/USDT,0.1109,45.69,1434.89,47.5,,,
-2026-10-24,2026-10-24 14:47,gate,BMT/USDT,0.03804,68.39,490.08,15.4,,0,CoinMarketCal: Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
-2026-10-24,2026-10-24 14:47,gate,DOS/USDT,0.2506,6.19,67.05,8.2,,,
-2026-10-24,2026-10-24 14:47,gate,ERA/USDT,0.08676,14.1,65.45,14.5,,115,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
-2026-10-24,2026-10-24 14:47,gate,M/USDT,1.0105,8.67,54.79,3.6,,,
+2026-10-24,2026-10-24 17:53,gate,BIRB/USDT,0.09437,23.98,1382.87,45.8,,,
+2026-10-24,2026-10-24 17:53,gate,BMT/USDT,0.036,59.36,568.77,17.8,,0,CoinMarketCal: Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
+2026-10-24,2026-10-24 17:53,gate,ERA/USDT,0.08469,11.38,68.87,15.3,,115,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-10-24,2026-10-24 17:53,gate,LIGHT/USDT,0.2702,18.04,63.93,3.3,,,
+2026-10-24,2026-10-24 17:53,gate,DOS/USDT,0.2569,8.86,60.18,7.3,,,
+2026-10-24,2026-10-24 17:53,gate,M/USDT,0.9648,3.75,58.2,3.9,,,
+2026-10-24,2026-10-24 17:53,gate,LA/USDT,0.06343,3.73,44.79,3.1,,,
