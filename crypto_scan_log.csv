@@ -3108,14 +3108,23 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-23,2026-10-23 23:09,gate,ERA/USDT,0.07685,18.87,20.59,4.3,,115.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-10-23,2026-10-23 20:06,gate,ENA/USDT,0.20754,4.73,6.75,10.3,,0.0,CoinMarketCal: Ethena: USDe launches on X Layer through Aave v3 - 23 Oct 2026
 2026-10-23,2026-10-23 11:56,gate,CXMT/USDT,6.339,9.43,2.28,19.4,,,
-2026-10-24,2026-10-24 20:20,gate,ORDER/USDT,0.0609,85.05,31610.22,33.6,,327,CoinMarketCal: Orderly (ORDER) - AMA with Wallstreetbets - 02 Dec 2025
+2026-10-24,2026-10-24 20:20,gate,ORDER/USDT,0.0609,85.05,31610.22,33.6,,327.0,CoinMarketCal: Orderly (ORDER) - AMA with Wallstreetbets - 02 Dec 2025
 2026-10-24,2026-10-24 20:20,gate,JCT/USDT,0.007144,173.09,7614.73,20.7,,,
 2026-10-24,2026-10-24 06:29,gate,IN/USDT,0.05368,63.61,4471.75,6.0,,,
 2026-10-24,2026-10-24 06:29,gate,IRYS/USDT,0.08567,12.31,3369.39,295.1,Listing,161.0,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
 2026-10-24,2026-10-24 20:20,gate,BIRB/USDT,0.09284,21.97,1364.94,45.2,,,
-2026-10-24,2026-10-24 20:20,gate,BMT/USDT,0.03837,69.85,586.56,18.4,,0,CoinMarketCal: Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
+2026-10-24,2026-10-24 20:20,gate,BMT/USDT,0.03837,69.85,586.56,18.4,,0.0,CoinMarketCal: Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
 2026-10-24,2026-10-24 20:20,gate,LIGHT/USDT,0.2947,28.75,71.06,3.7,,,
-2026-10-24,2026-10-24 20:20,gate,ERA/USDT,0.08231,8.25,64.37,14.3,,115,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-10-24,2026-10-24 20:20,gate,ERA/USDT,0.08231,8.25,64.37,14.3,,115.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
 2026-10-24,2026-10-24 17:53,gate,M/USDT,0.9648,3.75,58.2,3.9,,,
 2026-10-24,2026-10-24 20:20,gate,DOS/USDT,0.254,7.63,50.24,6.1,,,
 2026-10-24,2026-10-24 17:53,gate,LA/USDT,0.06343,3.73,44.79,3.1,,,
+2026-10-25,2026-10-25 00:32,mexc,PEPE/USDT,5e-06,5.27,10610227.47,98.4,,1,Binance News: Altcoin News | Pepe Jumps 14% to Lead an Altcoin Rebound as Ether Options Show the Strongest Put Demand Since Early October
+2026-10-25,2026-10-25 00:32,mexc,1000BONK/USDT,0.003152,6.63,9673.06,3.1,,,
+2026-10-25,2026-10-25 00:32,mexc,AKE/USDT,0.031796,8.77,1521.77,9.4,,367,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-10-25,2026-10-25 00:32,mexc,AGT/USDT,0.07684,14.8,182.39,6.3,,,
+2026-10-25,2026-10-25 00:32,mexc,PUMPFUN/USDT,0.004327,3.76,39.88,14.1,,,
+2026-10-25,2026-10-25 00:32,mexc,ENA/USDT,0.19487,4.32,10.23,51.7,,0,"Beincrypto: Arthur Hayes Dumps $22 Million in Crypto, Warns of More Pain"
+2026-10-25,2026-10-25 00:32,mexc,FARTCOIN/USDT,0.12799,4.92,8.09,9.1,,45,"Beincrypto: Your Nvidia Trade Could Route Through Fartcoin, Solana Co-Founder Suggests"
+2026-10-25,2026-10-25 00:32,mexc,JUP/USDT,0.2887,3.07,4.24,3.8,Delisting,4,Bloomingbit: Binance to Delist 4 Spot Trading Pairs Including BONK/FDUSD
+2026-10-25,2026-10-25 00:32,mexc,FET/USDT,0.1788,3.77,3.79,5.7,,,
