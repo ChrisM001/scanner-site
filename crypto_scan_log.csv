@@ -3120,19 +3120,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-24,2026-10-24 20:20,gate,DOS/USDT,0.254,7.63,50.24,6.1,,,
 2026-10-24,2026-10-24 17:53,gate,LA/USDT,0.06343,3.73,44.79,3.1,,,
 2026-10-25,2026-10-25 00:32,mexc,PEPE/USDT,5e-06,5.27,10610227.47,98.4,,1.0,Binance News: Altcoin News | Pepe Jumps 14% to Lead an Altcoin Rebound as Ether Options Show the Strongest Put Demand Since Early October
-2026-10-25,2026-10-25 17:45,gate,T/USDT,0.005512,18.84,23809.93,9.7,Partner,1,CoinMarketCal: Derive: Partners with Origami Tech to bring its markets to automated trading - 23 Oct 2026
+2026-10-25,2026-10-25 17:45,gate,T/USDT,0.005512,18.84,23809.93,9.7,Partner,1.0,CoinMarketCal: Derive: Partners with Origami Tech to bring its markets to automated trading - 23 Oct 2026
 2026-10-25,2026-10-25 10:00,gate,JCT/USDT,0.007702,9.87,10120.18,37.9,,,
 2026-10-25,2026-10-25 00:32,mexc,1000BONK/USDT,0.003152,6.63,9673.06,3.1,,,
 2026-10-25,2026-10-25 00:32,mexc,AKE/USDT,0.031796,8.77,1521.77,9.4,,367.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-25,2026-10-25 14:17,gate,HOOKED/USDT,0.001965,25.48,1084.2,3.1,,,
 2026-10-25,2026-10-25 17:45,gate,CAP/USDT,0.10736,34.13,576.41,13.3,,,
-2026-10-25,2026-10-25 17:45,gate,APR/USDT,0.04302,54.92,247.63,25.7,Listing,144,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
+2026-10-25,2026-10-25 17:45,gate,APR/USDT,0.04302,54.92,247.63,25.7,Listing,144.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-10-25,2026-10-25 00:32,mexc,AGT/USDT,0.07684,14.8,182.39,6.3,,,
 2026-10-25,2026-10-25 00:32,mexc,PUMPFUN/USDT,0.004327,3.76,39.88,14.1,,,
 2026-10-25,2026-10-25 14:17,gate,Q/USDT,0.081855,5.74,33.07,4.4,,,
 2026-10-25,2026-10-25 17:45,gate,DOS/USDT,0.2634,5.57,28.93,4.1,,,
 2026-10-25,2026-10-25 00:32,mexc,ENA/USDT,0.19487,4.32,10.23,51.7,,0.0,"Beincrypto: Arthur Hayes Dumps $22 Million in Crypto, Warns of More Pain"
 2026-10-25,2026-10-25 00:32,mexc,FARTCOIN/USDT,0.12799,4.92,8.09,9.1,,45.0,"Beincrypto: Your Nvidia Trade Could Route Through Fartcoin, Solana Co-Founder Suggests"
-2026-10-25,2026-10-25 17:45,gate,ENA/USDT,0.20605,5.52,6.1,9.0,,0,"Bloomingbit: Arthur Hayes Transfers Another 14 Million ENA, Extending Token Sales"
+2026-10-25,2026-10-25 17:45,gate,ENA/USDT,0.20605,5.52,6.1,9.0,,0.0,"Bloomingbit: Arthur Hayes Transfers Another 14 Million ENA, Extending Token Sales"
 2026-10-25,2026-10-25 00:32,mexc,JUP/USDT,0.2887,3.07,4.24,3.8,Delisting,4.0,Bloomingbit: Binance to Delist 4 Spot Trading Pairs Including BONK/FDUSD
 2026-10-25,2026-10-25 00:32,mexc,FET/USDT,0.1788,3.77,3.79,5.7,,,
+2026-10-26,2026-10-26 00:45,gate,ERA/USDT,0.08478,8.03,12.18,3.3,,117.0,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
