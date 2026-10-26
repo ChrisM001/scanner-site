@@ -3136,9 +3136,17 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-25,2026-10-25 17:45,gate,ENA/USDT,0.20605,5.52,6.1,9.0,,0.0,"Bloomingbit: Arthur Hayes Transfers Another 14 Million ENA, Extending Token Sales"
 2026-10-25,2026-10-25 00:32,mexc,JUP/USDT,0.2887,3.07,4.24,3.8,Delisting,4.0,Bloomingbit: Binance to Delist 4 Spot Trading Pairs Including BONK/FDUSD
 2026-10-25,2026-10-25 00:32,mexc,FET/USDT,0.1788,3.77,3.79,5.7,,,
-2026-10-26,2026-10-26 11:25,gate,DOOD/USDT,0.002226,58.77,4840.94,8.2,Listing,263,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
+2026-10-26,2026-10-26 17:33,gate,DOOD/USDT,0.002052,46.36,8690.18,14.7,Listing,263,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
+2026-10-26,2026-10-26 17:33,gate,JCT/USDT,0.007036,14.93,4949.56,22.6,,,
+2026-10-26,2026-10-26 17:33,gate,HUMA/USDT,0.02485,7.25,763.22,4.1,,,
+2026-10-26,2026-10-26 17:33,gate,ARIA/USDT,0.09118,11.63,683.61,3.3,,,
+2026-10-26,2026-10-26 17:33,gate,BANK/USDT,0.02591,9.79,531.39,3.9,,469,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-10-26,2026-10-26 17:33,gate,KIMCHI/USDT,0.009621,7.02,407.9,3.3,,,
+2026-10-26,2026-10-26 17:33,gate,BULLA/USDT,0.154854,69.25,151.44,6.2,,,
+2026-10-26,2026-10-26 17:33,gate,Q/USDT,0.085131,48.64,64.59,8.8,,,
 2026-10-26,2026-10-26 05:26,gate,LIGHT/USDT,0.2432,4.51,47.95,3.8,,,
-2026-10-26,2026-10-26 11:25,gate,ERA/USDT,0.08632,9.99,38.62,10.5,,117,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-10-26,2026-10-26 17:33,gate,BEAT/USDT,0.078,18.18,44.87,7.9,,,
+2026-10-26,2026-10-26 17:33,gate,ERA/USDT,0.08533,8.73,43.67,11.8,,,
 2026-10-26,2026-10-26 05:26,gate,BMT/USDT,0.03337,3.22,32.43,3.5,,1.0,CoinMarketCal: Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
 2026-10-26,2026-10-26 05:26,gate,DOS/USDT,0.2901,10.22,21.21,3.3,,,
-2026-10-26,2026-10-26 11:25,gate,SOON/USDT,0.317,13.7,8.26,3.8,,,
+2026-10-26,2026-10-26 17:33,gate,SOON/USDT,0.3026,8.54,11.08,5.1,,,
