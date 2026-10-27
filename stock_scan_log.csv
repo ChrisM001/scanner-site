@@ -593,3 +593,6 @@ date,ts,symbol,close,change,rvol,float_m,vol_m,news_age_d,news_tag,news_headline
 2026-10-23,2026-10-23 11:56,NASDAQ:XLAB,4.937,17.65,2.5,14.45,0.82,8.0,DEAL,TradingView: Exascale Labs Holdings Lands $8.21M GPU Server and Services Contract With Sunon,premarket
 2026-10-23,2026-10-23 11:56,NASDAQ:NCPL,2.21,30.57,1.2,2.09,0.12,2.0,DEAL,"TradingView: Netcapital Secures Up to $642K Convertible Financing, Pledges 3.21M KingsCrowd Shares",premarket
 2026-10-26,2026-10-26 11:24,NASDAQ:YMAT,2.42,32.29,2.2,1.58,2.62,2.0,,"TradingView: J-Star Holding Co., Ltd. (YMAT) Turns Equity Positive on H1 Filing",premarket
+2026-10-27,2026-10-27 12:34,NASDAQ:CLRO,6.13,33.23,22.0,0.71,8.55,8.0,,"TradingView: Weekly Recap: Nasdaq delisting notice and $200,000 non-interest loan",premarket
+2026-10-27,2026-10-27 12:34,NASDAQ:SPRC,0.83,46.33,9.1,0.56,0.35,4.0,FDA/CLIN,"TradingView: SciSparc Ltd. (SPRC) Clears QP Release, Readies Sites for FDA-Approved TS Phase IIb",premarket
+2026-10-27,2026-10-27 12:34,NASDAQ:SAIQ,7.26,13.07,0.9,8.28,0.44,0.0,,TradingView: WISeSat.Space Holdings Corp. (SAIQ) Expands Pact on Post-Quantum Security for Indian Satellites,premarket

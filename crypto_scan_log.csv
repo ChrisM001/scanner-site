@@ -3151,13 +3151,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-26,2026-10-26 05:26,gate,BMT/USDT,0.03337,3.22,32.43,3.5,,1.0,CoinMarketCal: Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
 2026-10-26,2026-10-26 05:26,gate,DOS/USDT,0.2901,10.22,21.21,3.3,,,
 2026-10-26,2026-10-26 21:53,gate,SOON/USDT,0.304,9.04,11.18,5.2,,,
-2026-10-27,2026-10-27 06:20,gate,DOOD/USDT,0.002221,14.54,8985.55,19.5,Listing,264,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
+2026-10-27,2026-10-27 12:34,gate,TAG/USDT,0.000822,14.91,195693.14,4.8,,,
+2026-10-27,2026-10-27 12:34,gate,DOOD/USDT,0.002015,3.92,6070.07,13.2,Listing,264,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
 2026-10-27,2026-10-27 06:20,gate,JCT/USDT,0.007501,4.11,2995.7,16.4,,,
-2026-10-27,2026-10-27 06:20,gate,HUMA/USDT,0.02526,11.18,648.03,4.3,,,
-2026-10-27,2026-10-27 06:20,gate,BANK/USDT,0.02809,8.67,579.87,4.9,,469,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
-2026-10-27,2026-10-27 06:20,gate,AIN/USDT,0.11612,63.69,470.8,8.2,,,
+2026-10-27,2026-10-27 12:34,gate,AIN/USDT,0.14244,100.79,936.42,16.2,,,
+2026-10-27,2026-10-27 12:34,gate,HUMA/USDT,0.02737,20.47,662.88,4.4,,,
+2026-10-27,2026-10-27 12:34,gate,BANK/USDT,0.02844,10.02,567.6,4.8,,470,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-10-27,2026-10-27 06:20,gate,Q/USDT,0.206396,3.6,369.85,57.3,,,
+2026-10-27,2026-10-27 12:34,gate,CHIP/USDT,0.05326,4.19,366.5,3.2,,1,"Stocktwits: AI Tokens Post A Mixed Bag As Grayscale Spotlights Three Projects Beyond TAO, NEAR And WLD"
 2026-10-27,2026-10-27 01:12,gate,IRYS/USDT,0.03085,9.83,158.57,19.9,Listing,164.0,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
-2026-10-27,2026-10-27 06:20,gate,BTW/USDT,1.376964,14.55,136.17,40.1,,,
-2026-10-27,2026-10-27 06:20,gate,BEAT/USDT,0.0812,8.7,55.42,10.1,,140,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-10-27,2026-10-27 12:34,gate,BTW/USDT,1.459116,21.38,136.25,40.2,,,
+2026-10-27,2026-10-27 12:34,gate,BEAT/USDT,0.0897,20.08,62.88,11.5,,141,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-10-27,2026-10-27 06:20,gate,ERA/USDT,0.08724,3.36,22.38,6.9,,,
+2026-10-27,2026-10-27 12:34,gate,NIL/USDT,0.09445,4.7,3.97,7.6,,,
