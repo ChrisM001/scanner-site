@@ -3136,11 +3136,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-25,2026-10-25 17:45,gate,ENA/USDT,0.20605,5.52,6.1,9.0,,0.0,"Bloomingbit: Arthur Hayes Transfers Another 14 Million ENA, Extending Token Sales"
 2026-10-25,2026-10-25 00:32,mexc,JUP/USDT,0.2887,3.07,4.24,3.8,Delisting,4.0,Bloomingbit: Binance to Delist 4 Spot Trading Pairs Including BONK/FDUSD
 2026-10-25,2026-10-25 00:32,mexc,FET/USDT,0.1788,3.77,3.79,5.7,,,
-2026-10-26,2026-10-26 21:53,gate,DOOD/USDT,0.002007,43.15,9098.16,15.4,Listing,263,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
+2026-10-26,2026-10-26 21:53,gate,DOOD/USDT,0.002007,43.15,9098.16,15.4,Listing,263.0,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
 2026-10-26,2026-10-26 21:53,gate,JCT/USDT,0.006912,12.9,5017.2,22.9,,,
 2026-10-26,2026-10-26 21:53,gate,HUMA/USDT,0.02447,5.61,791.34,4.3,,,
 2026-10-26,2026-10-26 21:53,gate,ARIA/USDT,0.08848,8.33,742.16,3.6,,,
-2026-10-26,2026-10-26 21:53,gate,BANK/USDT,0.02565,8.69,557.97,4.1,,469,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
+2026-10-26,2026-10-26 21:53,gate,BANK/USDT,0.02565,8.69,557.97,4.1,,469.0,"CoinMarketCal: BNB, BUILDon and 6 others - USD1 Builders AMA - 14 Jul 2025"
 2026-10-26,2026-10-26 17:33,gate,KIMCHI/USDT,0.009621,7.02,407.9,3.3,,,
 2026-10-26,2026-10-26 21:53,gate,AIN/USDT,0.06905,82.24,236.19,3.7,,,
 2026-10-26,2026-10-26 21:53,gate,BULLA/USDT,0.151157,65.21,209.56,8.6,,,
@@ -3151,3 +3151,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-26,2026-10-26 05:26,gate,BMT/USDT,0.03337,3.22,32.43,3.5,,1.0,CoinMarketCal: Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
 2026-10-26,2026-10-26 05:26,gate,DOS/USDT,0.2901,10.22,21.21,3.3,,,
 2026-10-26,2026-10-26 21:53,gate,SOON/USDT,0.304,9.04,11.18,5.2,,,
+2026-10-27,2026-10-27 01:12,gate,DOOD/USDT,0.002289,18.05,7543.99,16.3,Listing,264,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
+2026-10-27,2026-10-27 01:12,gate,Q/USDT,0.206754,3.78,272.04,42.1,,,
+2026-10-27,2026-10-27 01:12,gate,IRYS/USDT,0.03085,9.83,158.57,19.9,Listing,164,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
