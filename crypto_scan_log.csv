@@ -3167,15 +3167,20 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-27,2026-10-27 06:20,gate,ERA/USDT,0.08724,3.36,22.38,6.9,,,
 2026-10-27,2026-10-27 22:30,gate,EVAA/USDT,0.9403,84.23,9.46,4.9,,,
 2026-10-27,2026-10-27 18:19,gate,NIL/USDT,0.09441,4.66,4.23,8.1,,,
-2026-10-28,2026-10-28 07:28,gate,PEPE/USDT,5e-06,4.25,14457878.95,23.0,,2,"Benzinga: Novogratz Sees Bitcoin Upside, Pepe Surges and More: This Week in Crypto"
+2026-10-28,2026-10-28 14:22,gate,PEPE/USDT,5e-06,4.99,19980252.57,31.7,,3,"Benzinga: Novogratz Sees Bitcoin Upside, Pepe Surges and More: This Week in Crypto"
 2026-10-28,2026-10-28 07:28,gate,TAG/USDT,0.000726,5.28,103011.08,4.1,,,
+2026-10-28,2026-10-28 14:22,gate,XAN/USDT,0.01103,8.78,9587.36,3.5,,,
 2026-10-28,2026-10-28 01:37,gate,DOOD/USDT,0.002228,8.37,3219.59,7.8,Listing,265.0,CoinMarketCal: Doodles (DOOD) - Coinbase Listing - 05 February 2026
 2026-10-28,2026-10-28 07:28,gate,JCT/USDT,0.00825,4.67,2075.44,12.3,,,
+2026-10-28,2026-10-28 14:22,gate,BLESS/USDT,0.010629,20.24,1837.87,10.6,Listing,400,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-10-28,2026-10-28 01:37,gate,AKE/USDT,0.023406,8.26,1509.46,13.9,,370.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
 2026-10-28,2026-10-28 07:28,gate,HUMA/USDT,0.02701,4.29,581.26,4.5,,,
-2026-10-28,2026-10-28 07:28,gate,Q/USDT,0.058873,10.96,255.26,40.9,,,
+2026-10-28,2026-10-28 14:22,gate,HAEDAL/USDT,0.0309,4.04,298.38,3.3,Listing,476,CoinMarketCal: Haedal Protocol (HAEDAL) - Indodax Listing - 10 Jul 2025
 2026-10-28,2026-10-28 01:37,gate,CAP/USDT,0.09836,4.02,140.71,5.7,,,
 2026-10-28,2026-10-28 01:37,gate,BULLA/USDT,0.075748,5.97,133.26,15.8,,,
-2026-10-28,2026-10-28 07:28,gate,BEAT/USDT,0.1067,18.82,63.02,13.1,,142,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
+2026-10-28,2026-10-28 14:22,gate,Q/USDT,0.055646,4.88,129.81,20.8,,,
+2026-10-28,2026-10-28 07:28,gate,BEAT/USDT,0.1067,18.82,63.02,13.1,,142.0,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-10-28,2026-10-28 07:28,gate,BTW/USDT,1.826394,4.58,62.22,18.6,,,
-2026-10-28,2026-10-28 07:28,gate,PONS/USDT,0.2931,9.65,9.41,3.7,,,
+2026-10-28,2026-10-28 14:22,gate,EVAA/USDT,1.3453,19.65,38.11,30.1,,,
+2026-10-28,2026-10-28 14:22,gate,DOS/USDT,0.3234,18.81,26.47,4.6,,,
+2026-10-28,2026-10-28 14:22,gate,PONS/USDT,0.2803,4.86,10.55,4.1,,,
