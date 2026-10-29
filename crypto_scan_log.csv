@@ -3187,11 +3187,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-28,2026-10-28 23:54,gate,APR/USDT,0.05139,5.83,38.01,8.9,,,
 2026-10-28,2026-10-28 14:22,gate,DOS/USDT,0.3234,18.81,26.47,4.6,,,
 2026-10-28,2026-10-28 23:54,gate,PONS/USDT,0.2891,8.16,10.48,4.1,,,
-2026-10-29,2026-10-29 17:26,gate,PEPE/USDT,5e-06,7.01,34821116.91,59.2,,0,Bloomingbit: Altcoins Stay Weak Despite Less-Hawkish FOMC as U.S. Midterms and High Oil Prices Cloud Outlook [Kang Min-seungs Altcoin Now]
-2026-10-29,2026-10-29 17:26,gate,BLESS/USDT,0.012626,14.82,897.17,9.1,Listing,402,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
+2026-10-29,2026-10-29 17:26,gate,PEPE/USDT,5e-06,7.01,34821116.91,59.2,,0.0,Bloomingbit: Altcoins Stay Weak Despite Less-Hawkish FOMC as U.S. Midterms and High Oil Prices Cloud Outlook [Kang Min-seungs Altcoin Now]
+2026-10-29,2026-10-29 21:56,gate,BLESS/USDT,0.012964,17.9,1081.2,10.9,Listing,402,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
+2026-10-29,2026-10-29 21:56,gate,TRX/USDT,0.35791,8.59,758.26,17.3,,0,"Bloomingbit: KiiChain Launches US Virtual Accounts With Dollar Transfers, Stablecoin Conversion"
+2026-10-29,2026-10-29 21:56,gate,PARTI/USDT,0.0566,45.91,366.66,9.0,,313,CoinMarketCal: Particl - Hardfork - 01 February 2026
 2026-10-29,2026-10-29 11:07,gate,INIT/USDT,0.23268,4.43,191.53,5.8,,,
-2026-10-29,2026-10-29 17:26,gate,CAP/USDT,0.07522,3.82,79.96,3.4,,,
-2026-10-29,2026-10-29 17:26,gate,BEAT/USDT,0.1026,20.0,69.41,16.0,,143,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
-2026-10-29,2026-10-29 04:40,gate,BULLA/USDT,0.0765,7.06,41.04,5.8,,,
+2026-10-29,2026-10-29 21:56,gate,CAP/USDT,0.07711,6.43,81.25,3.4,,,
+2026-10-29,2026-10-29 21:56,gate,BEAT/USDT,0.0992,16.02,73.25,16.8,,143,Coinpedia: Why Is Audiera (BEAT) Price Rising Today? Golden Cup-and-Handle Breakout Puts $5 Target in Focus
 2026-10-29,2026-10-29 11:07,gate,BTW/USDT,1.794064,3.52,40.76,11.9,,,
-2026-10-29,2026-10-29 17:26,gate,APR/USDT,0.0585,13.46,23.36,6.2,Listing,148,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
+2026-10-29,2026-10-29 21:56,gate,BULLA/USDT,0.074306,3.99,29.61,4.2,,,
+2026-10-29,2026-10-29 21:56,gate,APR/USDT,0.05593,8.48,23.78,6.3,Listing,148,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
+2026-10-29,2026-10-29 21:56,gate,LSK/USDT,0.1965,17.95,5.4,3.2,,5,CoinMarketCal: Lisk: Bridge initiation window closes for transfers to Ethereum - 24 Oct 2026
