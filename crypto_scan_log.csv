@@ -3229,3 +3229,8 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-30,2026-10-30 14:34,gate,LIT/USDT,2.847,5.17,2.08,7.2,,,
 2026-10-30,2026-10-30 19:44,gate,UNI/USDT,6.916,7.03,2.06,42.5,,,
 2026-10-30,2026-10-30 19:44,gate,ARB/USDT,0.16242,5.33,2.05,14.2,,,
+2026-10-31,2026-10-31 02:39,gate,BEAMX/USDT,0.004783,3.28,1212.23,6.3,,26,Binance News: Beam Rises 35.12% as It Briefly Hits 0.00288 USDT
+2026-10-31,2026-10-31 02:39,gate,AIN/USDT,0.2398,32.9,222.5,8.1,,,
+2026-10-31,2026-10-31 02:39,gate,BTW/USDT,1.20786,5.49,49.11,14.0,,,
+2026-10-31,2026-10-31 02:39,gate,LSK/USDT,0.2292,12.13,6.61,5.0,Hack,0,Bloomingbit: Onchain Foundation Temporarily Suspends Lisk Token Buyback After Binance Hack
+2026-10-31,2026-10-31 02:39,gate,EVAA/USDT,1.1887,4.12,3.36,10.9,,,
