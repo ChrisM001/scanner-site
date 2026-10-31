@@ -3229,10 +3229,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-30,2026-10-30 14:34,gate,LIT/USDT,2.847,5.17,2.08,7.2,,,
 2026-10-30,2026-10-30 19:44,gate,UNI/USDT,6.916,7.03,2.06,42.5,,,
 2026-10-30,2026-10-30 19:44,gate,ARB/USDT,0.16242,5.33,2.05,14.2,,,
-2026-10-31,2026-10-31 08:54,gate,BEAMX/USDT,0.00504,8.83,1514.18,7.8,,27,Binance News: Beam Rises 35.12% as It Briefly Hits 0.00288 USDT
-2026-10-31,2026-10-31 08:54,gate,BLESS/USDT,0.010105,4.62,490.03,8.0,Listing,403,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
-2026-10-31,2026-10-31 08:54,gate,AIN/USDT,0.26964,49.43,402.65,14.7,,,
+2026-10-31,2026-10-31 15:06,gate,BEAMX/USDT,0.004958,7.06,1075.18,5.6,,27,Binance News: Beam Rises 35.12% as It Briefly Hits 0.00288 USDT
+2026-10-31,2026-10-31 15:06,gate,AIN/USDT,0.22735,26.0,592.32,21.7,,,
+2026-10-31,2026-10-31 15:06,gate,BLESS/USDT,0.010598,9.72,301.98,4.9,Listing,403,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-10-31,2026-10-31 02:39,gate,BTW/USDT,1.20786,5.49,49.11,14.0,,,
+2026-10-31,2026-10-31 15:06,gate,LSK/USDT,0.2975,45.55,18.61,14.1,Hack,1,Bloomingbit: Onchain Foundation Temporarily Suspends Lisk Token Buyback After Binance Hack
 2026-10-31,2026-10-31 08:54,gate,MAGMA/USDT,0.41358,12.81,11.38,3.1,,,
-2026-10-31,2026-10-31 08:54,gate,LSK/USDT,0.2231,9.15,9.24,7.0,Hack,1,Bloomingbit: Onchain Foundation Temporarily Suspends Lisk Token Buyback After Binance Hack
 2026-10-31,2026-10-31 08:54,gate,EVAA/USDT,1.2187,6.74,2.95,9.6,,,
