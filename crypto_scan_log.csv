@@ -3229,11 +3229,13 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-30,2026-10-30 14:34,gate,LIT/USDT,2.847,5.17,2.08,7.2,,,
 2026-10-30,2026-10-30 19:44,gate,UNI/USDT,6.916,7.03,2.06,42.5,,,
 2026-10-30,2026-10-30 19:44,gate,ARB/USDT,0.16242,5.33,2.05,14.2,,,
-2026-10-31,2026-10-31 22:42,gate,BEAMX/USDT,0.005241,13.17,973.94,5.0,,27,Binance News: Beam Rises 35.12% as It Briefly Hits 0.00288 USDT
-2026-10-31,2026-10-31 22:42,gate,ESPORTS/USDT,0.00868,22.43,617.34,3.2,,332,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-10-31,2026-10-31 22:42,gate,BEAMX/USDT,0.005241,13.17,973.94,5.0,,27.0,Binance News: Beam Rises 35.12% as It Briefly Hits 0.00288 USDT
+2026-10-31,2026-10-31 22:42,gate,ESPORTS/USDT,0.00868,22.43,617.34,3.2,,332.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-10-31,2026-10-31 22:42,gate,AIN/USDT,0.22888,26.85,591.37,21.6,,,
 2026-10-31,2026-10-31 15:06,gate,BLESS/USDT,0.010598,9.72,301.98,4.9,Listing,403.0,CoinMarketCal: Bless (BLESS) - Bitget Listing - 23 Sep 2025
 2026-10-31,2026-10-31 02:39,gate,BTW/USDT,1.20786,5.49,49.11,14.0,,,
-2026-10-31,2026-10-31 22:42,gate,LSK/USDT,0.2422,18.49,26.74,20.3,Hack,1,Bloomingbit: Onchain Foundation Temporarily Suspends Lisk Token Buyback After Binance Hack
+2026-10-31,2026-10-31 22:42,gate,LSK/USDT,0.2422,18.49,26.74,20.3,Hack,1.0,Bloomingbit: Onchain Foundation Temporarily Suspends Lisk Token Buyback After Binance Hack
 2026-10-31,2026-10-31 08:54,gate,MAGMA/USDT,0.41358,12.81,11.38,3.1,,,
 2026-10-31,2026-10-31 08:54,gate,EVAA/USDT,1.2187,6.74,2.95,9.6,,,
+2026-11-01,2026-11-01 01:30,gate,AKE/USDT,0.011344,3.86,1833.29,17.2,,374,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-11-01,2026-11-01 01:30,gate,IDOL/USDT,0.018355,4.29,550.88,9.5,,,
