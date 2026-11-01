@@ -3237,5 +3237,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-31,2026-10-31 22:42,gate,LSK/USDT,0.2422,18.49,26.74,20.3,Hack,1.0,Bloomingbit: Onchain Foundation Temporarily Suspends Lisk Token Buyback After Binance Hack
 2026-10-31,2026-10-31 08:54,gate,MAGMA/USDT,0.41358,12.81,11.38,3.1,,,
 2026-10-31,2026-10-31 08:54,gate,EVAA/USDT,1.2187,6.74,2.95,9.6,,,
-2026-11-01,2026-11-01 01:30,gate,AKE/USDT,0.011344,3.86,1833.29,17.2,,374,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-11-01,2026-11-01 01:30,gate,IDOL/USDT,0.018355,4.29,550.88,9.5,,,
+2026-11-01,2026-11-01 01:30,gate,AKE/USDT,0.011344,3.86,1833.29,17.2,,374.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-11-01,2026-11-01 08:02,gate,ESPORTS/USDT,0.01311,47.64,1455.25,8.8,,332,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-11-01,2026-11-01 08:02,gate,BEAMX/USDT,0.00584,13.13,762.69,5.3,,27,Binance News: Beam Rises 35.12% as It Briefly Hits 0.00288 USDT
+2026-11-01,2026-11-01 08:02,gate,JCT/USDT,0.00624,28.87,565.15,3.9,,,
+2026-11-01,2026-11-01 08:02,gate,IDOL/USDT,0.019,7.95,400.08,6.9,,,
+2026-11-01,2026-11-01 08:02,gate,AIN/USDT,0.25999,11.24,358.75,15.6,,,
+2026-11-01,2026-11-01 08:02,gate,BTW/USDT,1.120721,3.79,29.74,8.4,,,
+2026-11-01,2026-11-01 08:02,gate,EVAA/USDT,1.5005,5.03,3.09,10.7,,,
