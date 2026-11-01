@@ -3237,11 +3237,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-31,2026-10-31 22:42,gate,LSK/USDT,0.2422,18.49,26.74,20.3,Hack,1.0,Bloomingbit: Onchain Foundation Temporarily Suspends Lisk Token Buyback After Binance Hack
 2026-10-31,2026-10-31 08:54,gate,MAGMA/USDT,0.41358,12.81,11.38,3.1,,,
 2026-10-31,2026-10-31 08:54,gate,EVAA/USDT,1.2187,6.74,2.95,9.6,,,
+2026-11-01,2026-11-01 15:09,gate,G/USDT,0.003736,12.19,6095.29,4.9,Upgrade,8,CoinMarketCal: Gravity (by Galxe): Native bridge ends outbound G transfers from Alpha Mainnet - 25 Oct 2026
+2026-11-01,2026-11-01 15:09,gate,ESPORTS/USDT,0.01702,91.67,2916.14,17.6,,333,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-11-01,2026-11-01 01:30,gate,AKE/USDT,0.011344,3.86,1833.29,17.2,,374.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-11-01,2026-11-01 08:02,gate,ESPORTS/USDT,0.01311,47.64,1455.25,8.8,,332,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-11-01,2026-11-01 08:02,gate,BEAMX/USDT,0.00584,13.13,762.69,5.3,,27,Binance News: Beam Rises 35.12% as It Briefly Hits 0.00288 USDT
-2026-11-01,2026-11-01 08:02,gate,JCT/USDT,0.00624,28.87,565.15,3.9,,,
-2026-11-01,2026-11-01 08:02,gate,IDOL/USDT,0.019,7.95,400.08,6.9,,,
-2026-11-01,2026-11-01 08:02,gate,AIN/USDT,0.25999,11.24,358.75,15.6,,,
+2026-11-01,2026-11-01 08:02,gate,BEAMX/USDT,0.00584,13.13,762.69,5.3,,27.0,Binance News: Beam Rises 35.12% as It Briefly Hits 0.00288 USDT
+2026-11-01,2026-11-01 15:09,gate,JCT/USDT,0.005119,5.72,577.85,4.0,,,
+2026-11-01,2026-11-01 15:09,gate,IDOL/USDT,0.020852,18.48,352.13,6.1,,,
+2026-11-01,2026-11-01 15:09,gate,牛来/USDT,0.0684,12.83,275.38,3.4,,,
+2026-11-01,2026-11-01 15:09,gate,AIN/USDT,0.2732,16.89,191.83,8.4,,,
 2026-11-01,2026-11-01 08:02,gate,BTW/USDT,1.120721,3.79,29.74,8.4,,,
+2026-11-01,2026-11-01 15:09,gate,APR/USDT,0.06184,11.71,26.33,7.7,Listing,151,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-11-01,2026-11-01 08:02,gate,EVAA/USDT,1.5005,5.03,3.09,10.7,,,
