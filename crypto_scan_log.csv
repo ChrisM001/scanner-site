@@ -3237,10 +3237,10 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-10-31,2026-10-31 22:42,gate,LSK/USDT,0.2422,18.49,26.74,20.3,Hack,1.0,Bloomingbit: Onchain Foundation Temporarily Suspends Lisk Token Buyback After Binance Hack
 2026-10-31,2026-10-31 08:54,gate,MAGMA/USDT,0.41358,12.81,11.38,3.1,,,
 2026-10-31,2026-10-31 08:54,gate,EVAA/USDT,1.2187,6.74,2.95,9.6,,,
-2026-11-01,2026-11-01 23:07,gate,G/USDT,0.00371,11.41,6905.1,5.6,Upgrade,8,CoinMarketCal: Gravity (by Galxe): Native bridge ends outbound G transfers from Alpha Mainnet - 25 Oct 2026
-2026-11-01,2026-11-01 23:07,gate,ESPORTS/USDT,0.01887,112.5,5632.23,34.1,,333,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-11-01,2026-11-01 23:07,gate,G/USDT,0.00371,11.41,6905.1,5.6,Upgrade,8.0,CoinMarketCal: Gravity (by Galxe): Native bridge ends outbound G transfers from Alpha Mainnet - 25 Oct 2026
+2026-11-01,2026-11-01 23:07,gate,ESPORTS/USDT,0.01887,112.5,5632.23,34.1,,333.0,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
 2026-11-01,2026-11-01 01:30,gate,AKE/USDT,0.011344,3.86,1833.29,17.2,,374.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-11-01,2026-11-01 23:07,gate,BEAMX/USDT,0.005584,8.18,1073.71,7.4,,28,Binance News: Beam Rises 35.12% as It Briefly Hits 0.00288 USDT
+2026-11-01,2026-11-01 23:07,gate,BEAMX/USDT,0.005584,8.18,1073.71,7.4,,28.0,Binance News: Beam Rises 35.12% as It Briefly Hits 0.00288 USDT
 2026-11-01,2026-11-01 15:09,gate,JCT/USDT,0.005119,5.72,577.85,4.0,,,
 2026-11-01,2026-11-01 23:07,gate,IDOL/USDT,0.024627,39.93,444.36,7.7,,,
 2026-11-01,2026-11-01 23:07,gate,牛来/USDT,0.06928,14.29,281.52,3.4,,,
@@ -3249,3 +3249,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-11-01,2026-11-01 08:02,gate,BTW/USDT,1.120721,3.79,29.74,8.4,,,
 2026-11-01,2026-11-01 19:40,gate,APR/USDT,0.0588,6.21,29.27,8.6,Listing,151.0,CoinMarketCal: aPriori - AscendEX Listing - 02 June 2026
 2026-11-01,2026-11-01 08:02,gate,EVAA/USDT,1.5005,5.03,3.09,10.7,,,
+2026-11-02,2026-11-02 02:31,gate,UAI/USDT,0.17171,5.4,62.14,8.5,,,
+2026-11-02,2026-11-02 02:31,gate,Q/USDT,0.030713,3.86,29.48,5.6,,,
