@@ -3255,10 +3255,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-11-02,2026-11-02 02:31,gate,UAI/USDT,0.17171,5.4,62.14,8.5,,,
 2026-11-02,2026-11-02 02:31,gate,Q/USDT,0.030713,3.86,29.48,5.6,,,
 2026-11-03,2026-11-03 02:24,gate,AKE/USDT,0.005971,17.81,2810.04,28.6,,376.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-11-03,2026-11-03 09:52,gate,ARIA/USDT,0.12238,5.55,951.64,8.8,,,
-2026-11-03,2026-11-03 02:24,gate,IDOL/USDT,0.01806,6.84,556.76,13.8,,,
-2026-11-03,2026-11-03 09:52,gate,AGT/USDT,0.035722,9.7,76.35,5.5,,,
+2026-11-03,2026-11-03 17:35,gate,PUMP/USDT,0.004229,6.44,513.9,4.9,,6,Bloomingbit: Pump.fun Launches Hyperliquid-Based Perpetual Futures Trading Service
+2026-11-03,2026-11-03 17:35,gate,ARIA/USDT,0.12037,3.82,500.44,4.6,,,
+2026-11-03,2026-11-03 17:35,gate,IDOL/USDT,0.019891,17.68,353.52,8.7,,,
+2026-11-03,2026-11-03 17:35,gate,AGT/USDT,0.050955,56.48,144.3,10.5,,,
+2026-11-03,2026-11-03 17:35,gate,IRYS/USDT,0.021,5.26,61.0,8.4,Listing,172,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
 2026-11-03,2026-11-03 09:52,gate,UAI/USDT,0.16516,42.76,55.74,8.5,,,
-2026-11-03,2026-11-03 09:52,gate,PIEVERSE/USDT,1.1813,9.83,35.72,3.4,Listing,196,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
-2026-11-03,2026-11-03 09:52,gate,IRYS/USDT,0.02256,13.08,31.29,4.3,Listing,171,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
-2026-11-03,2026-11-03 09:52,gate,ERA/USDT,0.06642,6.73,9.6,3.5,,125,Reuters: Caldera Launches Primecenter 5.0 To Streamline Workflows For Print Providers
+2026-11-03,2026-11-03 17:35,gate,PIEVERSE/USDT,1.1578,7.64,48.37,4.6,Listing,197,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
+2026-11-03,2026-11-03 17:35,gate,BTW/USDT,1.034578,7.8,43.46,12.0,,,
+2026-11-03,2026-11-03 17:35,gate,ICNT/USDT,0.2245,16.99,29.91,3.1,,,
+2026-11-03,2026-11-03 17:35,gate,Q/USDT,0.031126,9.21,28.79,5.5,,,
+2026-11-03,2026-11-03 17:35,gate,ERA/USDT,0.0652,4.77,9.84,3.6,,,
