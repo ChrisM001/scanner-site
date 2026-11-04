@@ -3268,9 +3268,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-11-03,2026-11-03 17:35,gate,Q/USDT,0.031126,9.21,28.79,5.5,,,
 2026-11-03,2026-11-03 22:32,gate,ERA/USDT,0.06504,4.52,9.58,3.5,,,
 2026-11-03,2026-11-03 22:32,gate,ENA/USDT,0.17585,3.07,5.68,7.6,,,
-2026-11-04,2026-11-04 09:56,gate,PEPE/USDT,5e-06,4.58,14266403.09,32.6,,1,Binance News: 3 Altcoins to Watch in the First Week of November 2026
-2026-11-04,2026-11-04 09:56,gate,IDOL/USDT,0.021807,7.85,194.01,5.3,,,
-2026-11-04,2026-11-04 09:56,gate,BMT/USDT,0.02899,12.02,50.59,7.4,,0,"Binance News: Bubblemaps Denies Former Employee's Allegations, Says Contract Was AI-Fabricated"
-2026-11-04,2026-11-04 09:56,gate,BTW/USDT,1.063439,9.79,39.97,10.7,,,
-2026-11-04,2026-11-04 09:56,gate,ENA/USDT,0.18283,4.61,8.46,11.4,Hack,4,"Bloomingbit: 128.6 Million Ethena Tokens Sent to Binance, Possibly to Help Cover Hack Losses"
-2026-11-04,2026-11-04 09:56,gate,UNI/USDT,7.473,3.5,2.4,51.4,,0,Binance News: Robinhood Chain Becomes Fastest to Reach $100 Billion in Uniswap Trading Volume
+2026-11-04,2026-11-04 17:51,gate,PEPE/USDT,5e-06,3.51,17338689.73,39.6,,1,Binance News: 3 Altcoins to Watch in the First Week of November 2026
+2026-11-04,2026-11-04 17:51,gate,JCT/USDT,0.00529,24.79,1125.76,8.2,,,
+2026-11-04,2026-11-04 17:51,gate,IDOL/USDT,0.023361,15.53,146.94,4.0,,,
+2026-11-04,2026-11-04 17:51,gate,CAP/USDT,0.08862,20.75,103.32,4.3,,,
+2026-11-04,2026-11-04 17:51,gate,BMT/USDT,0.02798,8.11,63.03,9.3,,0,"Binance News: Bubblemaps Denies Former Employee's Allegations, Says Contract Was AI-Fabricated"
+2026-11-04,2026-11-04 17:51,gate,BTW/USDT,1.05658,9.08,42.5,11.4,,,
+2026-11-04,2026-11-04 17:51,gate,CLANKER/USDT,19.65,27.76,23.16,13.0,,,
+2026-11-04,2026-11-04 17:51,gate,ADA/USDT,0.1964,3.37,12.01,32.4,,0,Beincrypto: Is Altseason Starting? What the Charts and Market Data Show
+2026-11-04,2026-11-04 17:51,gate,ENA/USDT,0.1832,4.82,11.89,16.0,,,
+2026-11-04,2026-11-04 17:51,gate,SOXS/USDT,58.19,11.65,2.71,117.9,,,
+2026-11-04,2026-11-04 17:51,gate,UNI/USDT,7.663,6.14,2.51,53.6,,,
+2026-11-04,2026-11-04 17:51,gate,LINK/USDT,11.555,4.81,2.23,12.3,,,
+2026-11-04,2026-11-04 17:51,gate,SOL/USDT,95.77,3.2,2.06,822.6,,,
