@@ -3255,12 +3255,12 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-11-02,2026-11-02 02:31,gate,UAI/USDT,0.17171,5.4,62.14,8.5,,,
 2026-11-02,2026-11-02 02:31,gate,Q/USDT,0.030713,3.86,29.48,5.6,,,
 2026-11-03,2026-11-03 02:24,gate,AKE/USDT,0.005971,17.81,2810.04,28.6,,376.0,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-11-03,2026-11-03 22:32,gate,PUMP/USDT,0.004352,9.54,613.15,5.9,,6,Bloomingbit: Pump.fun Launches Hyperliquid-Based Perpetual Futures Trading Service
+2026-11-03,2026-11-03 22:32,gate,PUMP/USDT,0.004352,9.54,613.15,5.9,,6.0,Bloomingbit: Pump.fun Launches Hyperliquid-Based Perpetual Futures Trading Service
 2026-11-03,2026-11-03 17:35,gate,ARIA/USDT,0.12037,3.82,500.44,4.6,,,
 2026-11-03,2026-11-03 22:32,gate,IDOL/USDT,0.020446,20.96,280.11,6.9,,,
 2026-11-03,2026-11-03 22:32,gate,AGT/USDT,0.042154,29.45,159.27,11.5,,,
 2026-11-03,2026-11-03 22:32,gate,LYN/USDT,0.02208,4.5,66.67,5.3,,,
-2026-11-03,2026-11-03 22:32,gate,IRYS/USDT,0.02156,8.07,61.15,8.4,Listing,172,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
+2026-11-03,2026-11-03 22:32,gate,IRYS/USDT,0.02156,8.07,61.15,8.4,Listing,172.0,CoinMarketCal: Irys - Upbit Listing - 15 May 2026
 2026-11-03,2026-11-03 09:52,gate,UAI/USDT,0.16516,42.76,55.74,8.5,,,
 2026-11-03,2026-11-03 22:32,gate,PIEVERSE/USDT,1.1596,7.81,49.23,4.7,,,
 2026-11-03,2026-11-03 17:35,gate,BTW/USDT,1.034578,7.8,43.46,12.0,,,
@@ -3268,3 +3268,5 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-11-03,2026-11-03 17:35,gate,Q/USDT,0.031126,9.21,28.79,5.5,,,
 2026-11-03,2026-11-03 22:32,gate,ERA/USDT,0.06504,4.52,9.58,3.5,,,
 2026-11-03,2026-11-03 22:32,gate,ENA/USDT,0.17585,3.07,5.68,7.6,,,
+2026-11-04,2026-11-04 02:43,gate,BTW/USDT,0.999045,3.14,42.66,11.4,,,
+2026-11-04,2026-11-04 02:43,gate,BMT/USDT,0.02942,13.68,26.73,3.9,,10,CoinMarketCal: Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
