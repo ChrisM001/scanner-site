@@ -3268,5 +3268,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-11-03,2026-11-03 17:35,gate,Q/USDT,0.031126,9.21,28.79,5.5,,,
 2026-11-03,2026-11-03 22:32,gate,ERA/USDT,0.06504,4.52,9.58,3.5,,,
 2026-11-03,2026-11-03 22:32,gate,ENA/USDT,0.17585,3.07,5.68,7.6,,,
-2026-11-04,2026-11-04 02:43,gate,BTW/USDT,0.999045,3.14,42.66,11.4,,,
-2026-11-04,2026-11-04 02:43,gate,BMT/USDT,0.02942,13.68,26.73,3.9,,10,CoinMarketCal: Bubblemaps: BMT opens spot trading on Upbit's KRW market - 24 Oct 2026
+2026-11-04,2026-11-04 09:56,gate,PEPE/USDT,5e-06,4.58,14266403.09,32.6,,1,Binance News: 3 Altcoins to Watch in the First Week of November 2026
+2026-11-04,2026-11-04 09:56,gate,IDOL/USDT,0.021807,7.85,194.01,5.3,,,
+2026-11-04,2026-11-04 09:56,gate,BMT/USDT,0.02899,12.02,50.59,7.4,,0,"Binance News: Bubblemaps Denies Former Employee's Allegations, Says Contract Was AI-Fabricated"
+2026-11-04,2026-11-04 09:56,gate,BTW/USDT,1.063439,9.79,39.97,10.7,,,
+2026-11-04,2026-11-04 09:56,gate,ENA/USDT,0.18283,4.61,8.46,11.4,Hack,4,"Bloomingbit: 128.6 Million Ethena Tokens Sent to Binance, Possibly to Help Cover Hack Losses"
+2026-11-04,2026-11-04 09:56,gate,UNI/USDT,7.473,3.5,2.4,51.4,,0,Binance News: Robinhood Chain Becomes Fastest to Reach $100 Billion in Uniswap Trading Volume
