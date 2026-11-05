@@ -3268,17 +3268,22 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-11-03,2026-11-03 17:35,gate,Q/USDT,0.031126,9.21,28.79,5.5,,,
 2026-11-03,2026-11-03 22:32,gate,ERA/USDT,0.06504,4.52,9.58,3.5,,,
 2026-11-03,2026-11-03 22:32,gate,ENA/USDT,0.17585,3.07,5.68,7.6,,,
-2026-11-04,2026-11-04 23:17,gate,PEPE/USDT,5e-06,3.6,17397248.85,39.7,,1,Binance News: 3 Altcoins to Watch in the First Week of November 2026
+2026-11-04,2026-11-04 23:17,gate,PEPE/USDT,5e-06,3.6,17397248.85,39.7,,1.0,Binance News: 3 Altcoins to Watch in the First Week of November 2026
 2026-11-04,2026-11-04 23:17,gate,JCT/USDT,0.005387,27.08,1138.14,8.3,,,
 2026-11-04,2026-11-04 23:17,gate,IDOL/USDT,0.021463,6.15,149.26,4.0,,,
 2026-11-04,2026-11-04 23:17,gate,CAP/USDT,0.09635,31.28,123.75,5.1,,,
-2026-11-04,2026-11-04 23:17,gate,BMT/USDT,0.02821,9.0,62.74,9.2,,0,"Binance News: Bubblemaps Denies Former Employee's Allegations, Says Contract Was AI-Fabricated"
+2026-11-04,2026-11-04 23:17,gate,BMT/USDT,0.02821,9.0,62.74,9.2,,0.0,"Binance News: Bubblemaps Denies Former Employee's Allegations, Says Contract Was AI-Fabricated"
 2026-11-04,2026-11-04 23:17,gate,BTW/USDT,1.031964,6.54,41.32,11.1,,,
 2026-11-04,2026-11-04 23:17,gate,CLANKER/USDT,17.63,14.63,35.78,20.2,,,
-2026-11-04,2026-11-04 23:17,gate,XLM/USDT,0.16769,3.31,35.24,14.1,Upgrade,1,Binance News: Stellar's Bell Upgrade Goes Live on Testnet Ahead of Mainnet Vote
+2026-11-04,2026-11-04 23:17,gate,XLM/USDT,0.16769,3.31,35.24,14.1,Upgrade,1.0,Binance News: Stellar's Bell Upgrade Goes Live on Testnet Ahead of Mainnet Vote
 2026-11-04,2026-11-04 23:17,gate,ADA/USDT,0.1984,4.42,12.89,34.8,,,
 2026-11-04,2026-11-04 23:17,gate,ENA/USDT,0.18314,4.78,11.84,15.9,,,
 2026-11-04,2026-11-04 23:17,gate,SOXS/USDT,59.08,13.35,2.54,110.4,,,
 2026-11-04,2026-11-04 23:17,gate,LINK/USDT,11.489,4.21,2.42,13.4,,,
 2026-11-04,2026-11-04 23:17,gate,UNI/USDT,7.726,7.01,2.39,51.0,,,
 2026-11-04,2026-11-04 17:51,gate,SOL/USDT,95.77,3.2,2.06,822.6,,,
+2026-11-05,2026-11-05 03:37,gate,JCT/USDT,0.005752,5.62,1109.31,8.4,,,
+2026-11-05,2026-11-05 03:37,gate,AIN/USDT,0.31822,13.74,85.13,3.5,,,
+2026-11-05,2026-11-05 03:37,gate,UAI/USDT,0.10271,30.69,41.05,7.9,,,
+2026-11-05,2026-11-05 03:37,gate,LYN/USDT,0.0222,12.12,35.41,3.6,,,
+2026-11-05,2026-11-05 03:37,gate,SOXS/USDT,61.67,3.33,2.26,105.4,,,
