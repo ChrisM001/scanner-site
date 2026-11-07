@@ -3311,10 +3311,11 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-11-06,2026-11-06 14:49,gate,ENA/USDT,0.17137,6.92,10.23,13.9,,,
 2026-11-06,2026-11-06 20:43,gate,CYBER/USDT,0.3588,12.94,2.92,7.7,,,
 2026-11-06,2026-11-06 20:43,gate,NG/USDT,3.085,3.52,2.78,4.8,,,
-2026-11-07,2026-11-07 18:11,gate,AKE/USDT,0.005506,40.48,4464.05,64.4,,380,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
-2026-11-07,2026-11-07 18:11,gate,IDOL/USDT,0.036564,47.06,442.46,13.6,,,
-2026-11-07,2026-11-07 18:11,gate,ONE/USDT,0.002217,23.72,373.96,18.9,Upgrade,61,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
-2026-11-07,2026-11-07 18:11,gate,ESPORTS/USDT,0.01093,3.02,130.64,3.4,,339,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
-2026-11-07,2026-11-07 18:11,gate,AIN/USDT,0.14252,36.87,112.67,5.1,,,
+2026-11-07,2026-11-07 21:52,gate,AKE/USDT,0.005464,39.42,4438.82,64.0,,380,CoinMarketCal: Akedo (AKE) - Asset Transfer Deadline - 21 Nov 2025
+2026-11-07,2026-11-07 21:52,gate,CLAUDIA/USDT,0.0059,168.18,3024.06,3.7,,,
+2026-11-07,2026-11-07 21:52,gate,IDOL/USDT,0.033338,34.08,517.12,15.9,,,
+2026-11-07,2026-11-07 21:52,gate,ONE/USDT,0.002279,27.18,396.39,20.0,Upgrade,61,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-11-07,2026-11-07 21:52,gate,ESPORTS/USDT,0.01101,3.77,133.01,3.5,,339,Coinpedia: Why Is Yooldo Games (ESPORTS) Token Falling Today?
+2026-11-07,2026-11-07 21:52,gate,AIN/USDT,0.14517,39.41,113.36,5.1,,,
 2026-11-07,2026-11-07 00:23,gate,BIRB/USDT,0.10269,3.61,32.28,7.4,,,
 2026-11-07,2026-11-07 13:25,gate,LYN/USDT,0.02791,13.55,28.41,3.4,,,
