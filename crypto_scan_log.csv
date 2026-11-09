@@ -3327,5 +3327,6 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-11-08,2026-11-08 22:45,gate,AIN/USDT,0.15374,6.21,84.46,3.9,,,
 2026-11-08,2026-11-08 22:45,gate,SKYAI/USDT,0.03459,11.8,81.06,4.5,,,
 2026-11-08,2026-11-08 18:58,gate,Q/USDT,0.02868,3.57,25.01,4.8,,,
-2026-11-08,2026-11-08 22:45,gate,ICNT/USDT,0.3758,17.73,22.54,3.1,Listing,186,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
+2026-11-08,2026-11-08 22:45,gate,ICNT/USDT,0.3758,17.73,22.54,3.1,Listing,186.0,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
 2026-11-08,2026-11-08 01:07,gate,UAI/USDT,0.1304,5.07,17.36,5.5,,,
+2026-11-09,2026-11-09 02:03,gate,PEPE/USDT,5e-06,3.78,8853542.04,21.0,,0.0,99Bitcoins: Pewdiepie Odysseus AI Predicts a Parabolic PEPE Memecoin Rally
