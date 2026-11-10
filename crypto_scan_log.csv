@@ -3339,4 +3339,9 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-11-09,2026-11-09 20:29,gate,NG/USDT,3.391,8.06,4.68,6.6,,,
 2026-11-09,2026-11-09 20:29,gate,AVAX/USDT,8.732,10.1,3.53,26.7,,0.0,"Finance Magnates: Schwab Crypto Adds Solana, Avalanche and Chainlink, Expanding Offering to Five Assets"
 2026-11-09,2026-11-09 20:29,gate,ONDO/USDT,0.3762,7.12,2.52,19.7,,,
-2026-11-10,2026-11-10 02:52,gate,GRAM/USDT,1.0968,5.66,2.13,4.8,Delisting,98.0,"InvestingLive: Telegram delisting from App Store hits crypto traders, GRAM slides"
+2026-11-10,2026-11-10 10:49,gate,PEPE/USDT,5e-06,3.0,11466703.03,28.0,,0,"Benzinga: Dogecoin, Shiba Inu Slide as Pepe Surges 33%: Are Meme Coins 'Over'?"
+2026-11-10,2026-11-10 10:49,gate,INIT/USDT,0.19595,5.72,256.86,17.5,,0,"Binance News: Initia Coordinates Temporary Rollup Pause, Reports No User Funds Affected"
+2026-11-10,2026-11-10 10:49,gate,ONE/USDT,0.001989,36.8,29.67,4.5,Upgrade,63,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-11-10,2026-11-10 10:49,gate,UAI/USDT,0.0407,5.33,28.78,11.3,,,
+2026-11-10,2026-11-10 10:49,gate,GRAM/USDT,1.0793,3.98,2.23,5.1,,0,"U.Today: 'Crypto Revolution Is Going Strong': Durov Reports 700,000 New Wallets for Telegram"
+2026-11-10,2026-11-10 10:49,gate,SOXS/USDT,56.69,4.44,2.02,116.6,,,
