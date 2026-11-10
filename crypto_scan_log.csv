@@ -3329,13 +3329,14 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-11-08,2026-11-08 18:58,gate,Q/USDT,0.02868,3.57,25.01,4.8,,,
 2026-11-08,2026-11-08 22:45,gate,ICNT/USDT,0.3758,17.73,22.54,3.1,Listing,186.0,CoinMarketCal: Impossible Cloud Network Token (ICNT) - INDODAX Listing - 07 May 2026
 2026-11-08,2026-11-08 01:07,gate,UAI/USDT,0.1304,5.07,17.36,5.5,,,
-2026-11-09,2026-11-09 20:29,gate,PEPE/USDT,5e-06,4.12,13429433.91,31.8,,0,Binance News: Top 3 Altcoins to Watch in the Second Week of November 2026
+2026-11-09,2026-11-09 20:29,gate,PEPE/USDT,5e-06,4.12,13429433.91,31.8,,0.0,Binance News: Top 3 Altcoins to Watch in the Second Week of November 2026
 2026-11-09,2026-11-09 20:29,gate,HANA/USDT,0.01707,16.28,897.08,5.5,,,
-2026-11-09,2026-11-09 20:29,gate,PUMP/USDT,0.003633,3.06,884.22,6.9,,0,"Bloomingbit: Crypto Market This Week Eyes US October CPI, PPI and Earnings From Major Firms"
-2026-11-09,2026-11-09 20:29,gate,PIEVERSE/USDT,1.993,38.35,108.52,14.8,Listing,203,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
-2026-11-09,2026-11-09 20:29,gate,PENGU/USDT,0.006371,4.05,107.13,3.5,,6,99Bitcoins: Microsoft Copilot AI Predicts a Pudgy Penguins (PENGU) Explosion
+2026-11-09,2026-11-09 20:29,gate,PUMP/USDT,0.003633,3.06,884.22,6.9,,0.0,"Bloomingbit: Crypto Market This Week Eyes US October CPI, PPI and Earnings From Major Firms"
+2026-11-09,2026-11-09 20:29,gate,PIEVERSE/USDT,1.993,38.35,108.52,14.8,Listing,203.0,CoinMarketCal: Pieverse (PIEVERSE) - Upbit Listing - 20 April 2026
+2026-11-09,2026-11-09 20:29,gate,PENGU/USDT,0.006371,4.05,107.13,3.5,,6.0,99Bitcoins: Microsoft Copilot AI Predicts a Pudgy Penguins (PENGU) Explosion
 2026-11-09,2026-11-09 09:48,gate,IDOL/USDT,0.033918,12.97,102.13,3.8,,,
 2026-11-09,2026-11-09 20:29,gate,ENA/USDT,0.15586,4.86,9.38,12.1,,,
 2026-11-09,2026-11-09 20:29,gate,NG/USDT,3.391,8.06,4.68,6.6,,,
-2026-11-09,2026-11-09 20:29,gate,AVAX/USDT,8.732,10.1,3.53,26.7,,0,"Finance Magnates: Schwab Crypto Adds Solana, Avalanche and Chainlink, Expanding Offering to Five Assets"
+2026-11-09,2026-11-09 20:29,gate,AVAX/USDT,8.732,10.1,3.53,26.7,,0.0,"Finance Magnates: Schwab Crypto Adds Solana, Avalanche and Chainlink, Expanding Offering to Five Assets"
 2026-11-09,2026-11-09 20:29,gate,ONDO/USDT,0.3762,7.12,2.52,19.7,,,
+2026-11-10,2026-11-10 02:52,gate,GRAM/USDT,1.0968,5.66,2.13,4.8,Delisting,98.0,"InvestingLive: Telegram delisting from App Store hits crypto traders, GRAM slides"
