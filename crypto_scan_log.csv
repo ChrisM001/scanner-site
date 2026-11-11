@@ -3339,14 +3339,16 @@ date,ts,exchange,coin,last,pct24h,rvol,vol_musd,news_tag,news_age_d,news_headlin
 2026-11-09,2026-11-09 20:29,gate,NG/USDT,3.391,8.06,4.68,6.6,,,
 2026-11-09,2026-11-09 20:29,gate,AVAX/USDT,8.732,10.1,3.53,26.7,,0.0,"Finance Magnates: Schwab Crypto Adds Solana, Avalanche and Chainlink, Expanding Offering to Five Assets"
 2026-11-09,2026-11-09 20:29,gate,ONDO/USDT,0.3762,7.12,2.52,19.7,,,
-2026-11-10,2026-11-10 23:40,gate,PEPE/USDT,5e-06,3.82,16110199.35,39.3,,1,"Benzinga: Dogecoin, Shiba Inu Slide as Pepe Surges 33%: Are Meme Coins 'Over'?"
-2026-11-10,2026-11-10 23:40,gate,INIT/USDT,0.19377,4.54,799.85,54.5,,1,"Binance News: Initia Coordinates Temporary Rollup Pause, Reports No User Funds Affected"
+2026-11-10,2026-11-10 23:40,gate,PEPE/USDT,5e-06,3.82,16110199.35,39.3,,1.0,"Benzinga: Dogecoin, Shiba Inu Slide as Pepe Surges 33%: Are Meme Coins 'Over'?"
+2026-11-10,2026-11-10 23:40,gate,INIT/USDT,0.19377,4.54,799.85,54.5,,1.0,"Binance News: Initia Coordinates Temporary Rollup Pause, Reports No User Funds Affected"
 2026-11-10,2026-11-10 23:40,gate,ARIA/USDT,0.21975,22.64,314.94,4.4,,,
 2026-11-10,2026-11-10 18:30,gate,CAP/USDT,0.10345,4.34,174.29,7.1,,,
 2026-11-10,2026-11-10 18:30,gate,AIN/USDT,0.11724,8.98,106.01,5.3,,,
 2026-11-10,2026-11-10 23:40,gate,BTW/USDT,1.157842,16.0,63.43,15.8,,,
-2026-11-10,2026-11-10 23:40,gate,ONE/USDT,0.001824,25.45,43.63,6.7,Upgrade,64,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
+2026-11-10,2026-11-10 23:40,gate,ONE/USDT,0.001824,25.45,43.63,6.7,Upgrade,64.0,Binance News: Harmony Proposes Mainnet Shutdown and ONE Token Migration to Ethereum
 2026-11-10,2026-11-10 23:40,gate,UAI/USDT,0.04195,8.57,20.89,8.2,,,
-2026-11-10,2026-11-10 23:40,gate,GRAM/USDT,1.1428,10.1,2.88,6.5,,0,The Block: TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet
+2026-11-10,2026-11-10 23:40,gate,GRAM/USDT,1.1428,10.1,2.88,6.5,,0.0,The Block: TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet
 2026-11-10,2026-11-10 23:40,gate,NG/USDT,3.524,4.08,2.44,3.9,,,
 2026-11-10,2026-11-10 10:49,gate,SOXS/USDT,56.69,4.44,2.02,116.6,,,
+2026-11-11,2026-11-11 03:03,gate,JCT/USDT,0.00565,8.51,2585.23,47.3,,,
+2026-11-11,2026-11-11 03:03,gate,INIT/USDT,0.21882,12.97,246.7,57.3,,,
